@@ -1,0 +1,770 @@
+[16-May-2024 13:00:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/BeforeTestClassMethodErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/BeforeTestClassMethodErroredSubscriber.php on line 18
+[16-May-2024 13:00:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestConsideredRiskySubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestConsideredRiskySubscriber.php on line 18
+[16-May-2024 13:00:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestErroredSubscriber.php on line 18
+[16-May-2024 13:00:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFailedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFailedSubscriber.php on line 18
+[16-May-2024 13:00:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFinishedSubscriber.php on line 18
+[16-May-2024 13:00:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestMarkedIncompleteSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestMarkedIncompleteSubscriber.php on line 18
+[16-May-2024 13:00:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestPreparedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestPreparedSubscriber.php on line 18
+[16-May-2024 13:00:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestRunnerExecutionStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestRunnerExecutionStartedSubscriber.php on line 18
+[16-May-2024 13:00:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php on line 18
+[16-May-2024 13:00:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredDeprecationSubscriber.php on line 18
+[16-May-2024 13:00:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredErrorSubscriber.php on line 18
+[16-May-2024 13:00:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredNoticeSubscriber.php on line 18
+[16-May-2024 13:00:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpDeprecationSubscriber.php on line 18
+[16-May-2024 13:00:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpNoticeSubscriber.php on line 18
+[16-May-2024 13:00:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpWarningSubscriber.php on line 18
+[16-May-2024 13:00:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:00:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:00:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php on line 18
+[16-May-2024 13:01:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:01:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:01:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitWarningSubscriber.php on line 18
+[16-May-2024 13:01:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 13:01:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 13:01:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[20-May-2024 20:40:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:40:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:40:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/BeforeTestClassMethodErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/BeforeTestClassMethodErroredSubscriber.php on line 18
+[20-May-2024 20:40:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:40:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:40:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:40:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:40:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestConsideredRiskySubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestConsideredRiskySubscriber.php on line 18
+[20-May-2024 20:40:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:40:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:40:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestErroredSubscriber.php on line 18
+[20-May-2024 20:40:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:40:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:40:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFailedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFailedSubscriber.php on line 18
+[20-May-2024 20:41:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:41:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:41:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFinishedSubscriber.php on line 18
+[20-May-2024 20:41:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:41:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:41:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestMarkedIncompleteSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestMarkedIncompleteSubscriber.php on line 18
+[20-May-2024 20:41:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:41:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:41:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestPreparedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestPreparedSubscriber.php on line 18
+[20-May-2024 20:41:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:41:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:41:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestRunnerExecutionStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestRunnerExecutionStartedSubscriber.php on line 18
+[20-May-2024 20:41:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:41:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:41:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php on line 18
+[20-May-2024 20:42:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:42:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:42:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredDeprecationSubscriber.php on line 18
+[20-May-2024 20:42:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:42:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:42:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredErrorSubscriber.php on line 18
+[20-May-2024 20:42:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:42:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:42:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredNoticeSubscriber.php on line 18
+[20-May-2024 20:42:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:42:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:42:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpDeprecationSubscriber.php on line 18
+[20-May-2024 20:56:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:56:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:56:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpNoticeSubscriber.php on line 18
+[20-May-2024 20:56:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:56:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:56:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpWarningSubscriber.php on line 18
+[20-May-2024 20:57:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:57:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:57:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php on line 18
+[20-May-2024 20:57:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:57:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:57:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitWarningSubscriber.php on line 18
+[20-May-2024 20:57:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 20:57:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 20:57:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[04-Jun-2024 17:51:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:51:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:51:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[04-Jun-2024 17:51:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:51:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:51:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitWarningSubscriber.php on line 18
+[04-Jun-2024 17:51:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:51:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:51:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php on line 18
+[04-Jun-2024 17:51:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:51:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:51:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpWarningSubscriber.php on line 18
+[04-Jun-2024 17:51:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:51:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:51:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpNoticeSubscriber.php on line 18
+[04-Jun-2024 17:51:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:51:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:51:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpDeprecationSubscriber.php on line 18
+[04-Jun-2024 17:51:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:51:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:51:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredNoticeSubscriber.php on line 18
+[04-Jun-2024 17:52:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredErrorSubscriber.php on line 18
+[04-Jun-2024 17:52:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredDeprecationSubscriber.php on line 18
+[04-Jun-2024 17:52:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php on line 18
+[04-Jun-2024 17:52:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestRunnerExecutionStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestRunnerExecutionStartedSubscriber.php on line 18
+[04-Jun-2024 17:52:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestPreparedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestPreparedSubscriber.php on line 18
+[04-Jun-2024 17:52:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestMarkedIncompleteSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestMarkedIncompleteSubscriber.php on line 18
+[04-Jun-2024 17:52:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFinishedSubscriber.php on line 18
+[04-Jun-2024 17:52:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFailedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFailedSubscriber.php on line 18
+[04-Jun-2024 17:52:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestErroredSubscriber.php on line 18
+[04-Jun-2024 17:52:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestConsideredRiskySubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestConsideredRiskySubscriber.php on line 18
+[04-Jun-2024 17:52:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:52:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/BeforeTestClassMethodErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/BeforeTestClassMethodErroredSubscriber.php on line 18
+[07-Jun-2024 12:27:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestConsideredRiskySubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestConsideredRiskySubscriber.php on line 18
+[07-Jun-2024 12:27:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestErroredSubscriber.php on line 18
+[07-Jun-2024 12:27:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFailedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFailedSubscriber.php on line 18
+[07-Jun-2024 12:27:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFinishedSubscriber.php on line 18
+[07-Jun-2024 12:27:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestMarkedIncompleteSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestMarkedIncompleteSubscriber.php on line 18
+[07-Jun-2024 12:27:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestPreparedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestPreparedSubscriber.php on line 18
+[07-Jun-2024 12:27:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestRunnerExecutionStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestRunnerExecutionStartedSubscriber.php on line 18
+[07-Jun-2024 12:27:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php on line 18
+[07-Jun-2024 12:27:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredDeprecationSubscriber.php on line 18
+[07-Jun-2024 12:27:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredErrorSubscriber.php on line 18
+[07-Jun-2024 12:27:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredNoticeSubscriber.php on line 18
+[07-Jun-2024 12:27:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpDeprecationSubscriber.php on line 18
+[07-Jun-2024 12:27:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpNoticeSubscriber.php on line 18
+[07-Jun-2024 12:27:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpWarningSubscriber.php on line 18
+[07-Jun-2024 12:27:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php on line 18
+[07-Jun-2024 12:27:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitWarningSubscriber.php on line 18
+[07-Jun-2024 12:27:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:27:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[08-Jun-2024 11:31:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 11:31:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 11:31:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/BeforeTestClassMethodErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/BeforeTestClassMethodErroredSubscriber.php on line 18
+[08-Jun-2024 11:31:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 11:31:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:11:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:11:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:11:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/BeforeTestClassMethodErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/BeforeTestClassMethodErroredSubscriber.php on line 18
+[13-Jun-2024 05:11:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:11:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestConsideredRiskySubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestConsideredRiskySubscriber.php on line 18
+[13-Jun-2024 05:12:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestErroredSubscriber.php on line 18
+[13-Jun-2024 05:12:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFailedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFailedSubscriber.php on line 18
+[13-Jun-2024 05:12:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFinishedSubscriber.php on line 18
+[13-Jun-2024 05:12:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestMarkedIncompleteSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestMarkedIncompleteSubscriber.php on line 18
+[13-Jun-2024 05:12:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestPreparedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestPreparedSubscriber.php on line 18
+[13-Jun-2024 05:12:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestRunnerExecutionStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestRunnerExecutionStartedSubscriber.php on line 18
+[13-Jun-2024 05:12:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php on line 18
+[13-Jun-2024 05:12:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredDeprecationSubscriber.php on line 18
+[13-Jun-2024 05:12:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredErrorSubscriber.php on line 18
+[13-Jun-2024 05:12:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredNoticeSubscriber.php on line 18
+[13-Jun-2024 05:12:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpDeprecationSubscriber.php on line 18
+[13-Jun-2024 05:12:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpNoticeSubscriber.php on line 18
+[13-Jun-2024 05:12:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpWarningSubscriber.php on line 18
+[13-Jun-2024 05:12:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitWarningSubscriber.php on line 18
+[13-Jun-2024 05:12:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[13-Jun-2024 05:12:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:12:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php on line 18
+[08-Jul-2024 06:27:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:27:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:27:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/BeforeTestClassMethodErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/BeforeTestClassMethodErroredSubscriber.php on line 18
+[08-Jul-2024 06:28:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:28:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:28:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:28:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:28:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestConsideredRiskySubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestConsideredRiskySubscriber.php on line 18
+[08-Jul-2024 06:29:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:29:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:29:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestErroredSubscriber.php on line 18
+[08-Jul-2024 06:30:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:30:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:30:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFailedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFailedSubscriber.php on line 18
+[08-Jul-2024 06:30:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:30:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:30:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFinishedSubscriber.php on line 18
+[08-Jul-2024 06:31:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:31:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:31:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestMarkedIncompleteSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestMarkedIncompleteSubscriber.php on line 18
+[08-Jul-2024 06:32:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:32:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:32:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestPreparedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestPreparedSubscriber.php on line 18
+[08-Jul-2024 06:32:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:32:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:32:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestRunnerExecutionStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestRunnerExecutionStartedSubscriber.php on line 18
+[08-Jul-2024 06:33:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:33:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:33:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php on line 18
+[08-Jul-2024 06:34:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:34:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:34:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredDeprecationSubscriber.php on line 18
+[08-Jul-2024 06:34:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:34:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:34:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredErrorSubscriber.php on line 18
+[08-Jul-2024 06:35:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:35:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:35:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredNoticeSubscriber.php on line 18
+[08-Jul-2024 06:35:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:35:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:35:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpDeprecationSubscriber.php on line 18
+[08-Jul-2024 06:36:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:36:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:36:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpNoticeSubscriber.php on line 18
+[08-Jul-2024 06:37:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:37:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:37:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpWarningSubscriber.php on line 18
+[08-Jul-2024 06:38:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:38:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:38:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php on line 18
+[08-Jul-2024 06:38:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:38:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:38:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitWarningSubscriber.php on line 18
+[08-Jul-2024 06:39:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:39:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:39:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[11-Jul-2024 05:41:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[11-Jul-2024 05:41:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitWarningSubscriber.php on line 18
+[11-Jul-2024 05:41:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php on line 18
+[11-Jul-2024 05:41:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpWarningSubscriber.php on line 18
+[11-Jul-2024 05:41:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpNoticeSubscriber.php on line 18
+[11-Jul-2024 05:41:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredPhpDeprecationSubscriber.php on line 18
+[11-Jul-2024 05:41:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredNoticeSubscriber.php on line 18
+[11-Jul-2024 05:41:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredErrorSubscriber.php on line 18
+[11-Jul-2024 05:41:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestTriggeredDeprecationSubscriber.php on line 18
+[11-Jul-2024 05:41:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php on line 18
+[11-Jul-2024 05:41:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestRunnerExecutionStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestRunnerExecutionStartedSubscriber.php on line 18
+[11-Jul-2024 05:41:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestPreparedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestPreparedSubscriber.php on line 18
+[11-Jul-2024 05:41:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestMarkedIncompleteSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestMarkedIncompleteSubscriber.php on line 18
+[11-Jul-2024 05:41:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:41:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFinishedSubscriber.php on line 18
+[11-Jul-2024 05:42:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:42:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:42:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFailedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestFailedSubscriber.php on line 18
+[11-Jul-2024 05:42:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:42:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:42:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestErroredSubscriber.php on line 18
+[11-Jul-2024 05:42:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:42:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:42:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestConsideredRiskySubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/TestConsideredRiskySubscriber.php on line 18
+[11-Jul-2024 05:42:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:42:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:42:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:42:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:42:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TextUI\Output\Default\ProgressPrinter\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/BeforeTestClassMethodErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Output/Default/ProgressPrinter/Subscriber/BeforeTestClassMethodErroredSubscriber.php on line 18

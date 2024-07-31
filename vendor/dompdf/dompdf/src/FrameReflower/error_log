@@ -1,0 +1,680 @@
+[12-May-2024 01:59:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 01:59:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 01:59:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 01:59:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 01:59:09 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php on line 22
+[12-May-2024 01:59:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 01:59:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 01:59:10 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php on line 18
+[12-May-2024 01:59:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 01:59:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 01:59:12 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php on line 18
+[12-May-2024 01:59:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 01:59:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 01:59:14 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php on line 17
+[12-May-2024 01:59:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 01:59:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 01:59:15 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php on line 17
+[12-May-2024 01:59:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 01:59:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 01:59:17 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php on line 18
+[12-May-2024 01:59:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 01:59:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 01:59:19 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php on line 18
+[12-May-2024 01:59:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 01:59:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 01:59:20 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\Block" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 18
+[12-May-2024 01:59:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 01:59:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 01:59:22 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php on line 19
+[12-May-2024 01:59:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 01:59:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 01:59:24 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php on line 18
+[12-May-2024 01:59:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 01:59:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 01:59:25 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php on line 20
+[24-May-2024 04:12:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:12:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:12:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:12:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php on line 22
+[24-May-2024 04:13:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:13:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:13:03 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php on line 18
+[24-May-2024 04:13:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:13:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:13:06 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php on line 18
+[24-May-2024 04:13:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:13:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:13:07 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php on line 17
+[24-May-2024 04:13:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:13:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:13:07 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php on line 17
+[24-May-2024 04:13:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:13:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:13:08 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php on line 18
+[24-May-2024 04:13:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:13:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:13:09 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php on line 18
+[24-May-2024 04:13:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:13:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:13:09 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\Block" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 18
+[24-May-2024 04:13:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:13:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:13:10 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php on line 19
+[24-May-2024 04:13:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:13:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:13:10 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php on line 18
+[24-May-2024 08:06:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 08:06:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 08:06:56 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php on line 20
+[04-Jun-2024 09:24:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:12 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php on line 20
+[04-Jun-2024 09:24:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:18 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php on line 18
+[04-Jun-2024 09:24:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:20 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php on line 19
+[04-Jun-2024 09:24:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:24 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\Block" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 18
+[04-Jun-2024 09:24:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:28 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php on line 18
+[04-Jun-2024 09:24:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:32 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php on line 18
+[04-Jun-2024 09:24:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:36 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php on line 17
+[04-Jun-2024 09:24:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:40 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php on line 17
+[04-Jun-2024 09:24:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:44 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php on line 18
+[04-Jun-2024 09:24:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:48 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php on line 18
+[04-Jun-2024 09:24:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:52 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php on line 22
+[04-Jun-2024 09:24:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:42:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:42:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:42:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:42:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:42:56 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php on line 22
+[07-Jun-2024 22:42:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:42:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:42:58 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php on line 18
+[07-Jun-2024 22:43:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:00 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php on line 18
+[07-Jun-2024 22:43:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:02 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php on line 17
+[07-Jun-2024 22:43:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:05 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php on line 17
+[07-Jun-2024 22:43:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:07 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php on line 18
+[07-Jun-2024 22:43:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:09 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php on line 18
+[07-Jun-2024 22:43:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:11 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\Block" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 18
+[07-Jun-2024 22:43:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:13 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php on line 19
+[07-Jun-2024 22:43:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:15 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php on line 18
+[07-Jun-2024 22:43:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:43:17 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php on line 20
+[10-Jun-2024 20:43:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:43:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:43:41 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php on line 18
+[10-Jun-2024 20:44:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:44:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:44:56 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\Block" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 18
+[10-Jun-2024 20:45:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:45:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:45:27 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php on line 19
+[10-Jun-2024 20:49:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:49:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:49:22 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php on line 17
+[10-Jun-2024 20:52:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:52:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:52:24 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php on line 20
+[10-Jun-2024 20:54:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:54:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:54:11 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php on line 18
+[10-Jun-2024 20:56:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:56:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:57:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:57:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:57:55 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php on line 18
+[10-Jun-2024 20:58:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:58:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:58:39 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php on line 18
+[10-Jun-2024 20:58:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:58:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:58:58 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php on line 22
+[10-Jun-2024 21:00:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:00:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:00:20 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php on line 18
+[10-Jun-2024 21:01:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:01:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:01:04 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php on line 17
+[14-Jun-2024 09:00:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 09:00:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 09:01:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 09:01:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 09:01:00 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php on line 22
+[14-Jun-2024 09:01:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 09:01:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 09:01:25 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php on line 18
+[14-Jun-2024 09:02:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 09:02:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 09:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php on line 18
+[14-Jun-2024 09:02:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 09:02:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 09:02:23 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php on line 17
+[14-Jun-2024 09:02:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 09:02:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 09:02:49 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php on line 17
+[14-Jun-2024 09:03:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 09:03:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 09:03:11 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php on line 18
+[14-Jun-2024 09:03:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 09:03:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 09:03:35 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php on line 18
+[14-Jun-2024 09:03:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 09:03:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 09:03:59 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\Block" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 18
+[14-Jun-2024 09:04:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 09:04:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 09:04:25 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php on line 19
+[14-Jun-2024 09:04:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 09:04:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 09:04:50 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php on line 18
+[14-Jun-2024 14:45:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 14:45:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 14:45:07 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php on line 20
+[26-Jun-2024 21:18:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:30 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php on line 22
+[26-Jun-2024 21:18:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:35 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php on line 18
+[26-Jun-2024 21:18:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:39 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php on line 18
+[26-Jun-2024 21:18:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:40 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php on line 17
+[26-Jun-2024 21:18:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:45 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php on line 17
+[26-Jun-2024 21:18:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:48 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php on line 18
+[26-Jun-2024 21:18:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:50 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php on line 18
+[26-Jun-2024 21:18:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:52 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\Block" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 18
+[26-Jun-2024 21:18:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:56 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php on line 19
+[26-Jun-2024 21:18:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:18:58 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php on line 18
+[26-Jun-2024 21:19:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:19:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:19:00 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php on line 20
+[02-Jul-2024 12:07:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:07:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 12:07:56 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php on line 18
+[02-Jul-2024 12:10:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:10:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 12:10:55 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php on line 22
+[02-Jul-2024 12:33:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:33:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 12:33:51 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php on line 20
+[02-Jul-2024 20:08:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 20:08:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 20:08:10 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php on line 18
+[02-Jul-2024 22:59:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 22:59:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 22:59:15 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\Block" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 18
+[03-Jul-2024 05:18:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 05:18:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 05:18:13 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php on line 17
+[03-Jul-2024 05:33:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 05:33:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 05:33:49 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php on line 18
+[03-Jul-2024 06:25:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 06:25:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 08:35:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 08:35:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 08:35:34 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php on line 18
+[03-Jul-2024 08:50:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 08:50:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 08:50:07 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php on line 19
+[03-Jul-2024 10:09:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 10:09:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 10:09:23 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php on line 18
+[03-Jul-2024 10:44:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 10:44:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 10:44:14 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php on line 17
+[05-Jul-2024 09:46:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:46:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:47:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:47:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:47:52 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php on line 22
+[05-Jul-2024 09:50:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:50:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:50:01 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php on line 18
+[05-Jul-2024 09:50:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:50:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:50:59 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php on line 18
+[05-Jul-2024 09:52:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:52:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:52:12 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php on line 17
+[05-Jul-2024 09:53:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:53:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:53:46 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php on line 17
+[05-Jul-2024 09:55:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:55:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:55:18 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php on line 18
+[05-Jul-2024 09:57:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:57:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:57:15 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php on line 18
+[05-Jul-2024 09:58:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:58:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:58:23 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\Block" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 18
+[05-Jul-2024 10:01:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:01:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:01:19 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php on line 19
+[05-Jul-2024 10:05:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:28 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php on line 18
+[05-Jul-2024 15:05:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 15:05:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 15:05:36 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php on line 20
+[10-Jul-2024 21:06:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:03 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Text.php on line 20
+[10-Jul-2024 21:06:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:07 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRowGroup.php on line 18
+[10-Jul-2024 21:06:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:11 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableRow.php on line 19
+[10-Jul-2024 21:06:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:15 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\Block" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/TableCell.php on line 18
+[10-Jul-2024 21:06:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:19 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Table.php on line 18
+[10-Jul-2024 21:06:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:23 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Page.php on line 18
+[10-Jul-2024 21:06:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:27 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/NullFrameReflower.php on line 17
+[10-Jul-2024 21:06:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:31 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/ListBullet.php on line 17
+[10-Jul-2024 21:06:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:35 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Inline.php on line 18
+[10-Jul-2024 21:06:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:39 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Image.php on line 18
+[10-Jul-2024 21:06:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:43 UTC] PHP Fatal error:  Uncaught Error: Class "Dompdf\FrameReflower\AbstractFrameReflower" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dompdf/dompdf/src/FrameReflower/Block.php on line 22
+[10-Jul-2024 21:06:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:06:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

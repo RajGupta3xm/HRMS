@@ -1,0 +1,764 @@
+[11-May-2024 21:54:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:54:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:54:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php on line 22
+[11-May-2024 21:54:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:54:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:54:53 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php on line 22
+[11-May-2024 21:54:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:54:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:54:56 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticsearchFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticsearchFormatter.php on line 22
+[11-May-2024 21:54:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:54:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:54:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php on line 22
+[11-May-2024 21:55:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:55:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:55:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php on line 38
+[11-May-2024 21:55:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:55:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:55:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:55:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:55:05 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php on line 25
+[11-May-2024 21:55:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:55:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:55:07 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GoogleCloudLoggingFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GoogleCloudLoggingFormatter.php on line 25
+[11-May-2024 21:55:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:55:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:55:09 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php on line 25
+[11-May-2024 21:55:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:55:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:55:11 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php on line 25
+[11-May-2024 21:55:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:55:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:55:13 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php on line 26
+[11-May-2024 21:55:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:55:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:55:15 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php on line 21
+[11-May-2024 21:55:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:55:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:55:18 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php on line 21
+[11-May-2024 21:55:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:55:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:55:21 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php on line 24
+[11-May-2024 21:55:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:55:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:55:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php on line 24
+[11-May-2024 21:55:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:55:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:55:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php on line 24
+[11-May-2024 21:55:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:55:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:55:27 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php on line 22
+[11-May-2024 21:55:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:55:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:55:29 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\LineFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/SyslogFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/SyslogFormatter.php on line 23
+[11-May-2024 21:55:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:55:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:55:31 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php on line 24
+[04-Jun-2024 07:48:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:16 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php on line 24
+[04-Jun-2024 07:48:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:20 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\LineFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/SyslogFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/SyslogFormatter.php on line 23
+[04-Jun-2024 07:48:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:24 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php on line 22
+[04-Jun-2024 07:48:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php on line 24
+[04-Jun-2024 07:48:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php on line 24
+[04-Jun-2024 07:48:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:36 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php on line 24
+[04-Jun-2024 07:48:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:40 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php on line 21
+[04-Jun-2024 07:48:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:44 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php on line 21
+[04-Jun-2024 07:48:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php on line 26
+[04-Jun-2024 07:48:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:52 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php on line 25
+[04-Jun-2024 07:48:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:48:56 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php on line 25
+[04-Jun-2024 07:49:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GoogleCloudLoggingFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GoogleCloudLoggingFormatter.php on line 25
+[04-Jun-2024 07:49:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php on line 25
+[04-Jun-2024 07:49:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php on line 22
+[04-Jun-2024 07:49:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:20 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticsearchFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticsearchFormatter.php on line 22
+[04-Jun-2024 07:49:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:24 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php on line 22
+[04-Jun-2024 07:49:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php on line 22
+[10-Jun-2024 14:42:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 14:42:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 14:42:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php on line 22
+[10-Jun-2024 14:44:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 14:44:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 14:44:12 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php on line 22
+[10-Jun-2024 14:45:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 14:45:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 14:45:56 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticsearchFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticsearchFormatter.php on line 22
+[10-Jun-2024 16:25:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:25:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:25:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php on line 22
+[10-Jun-2024 16:27:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:27:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:27:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php on line 38
+[10-Jun-2024 16:27:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:27:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:28:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:28:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:28:07 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php on line 25
+[10-Jun-2024 16:28:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:28:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:28:37 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GoogleCloudLoggingFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GoogleCloudLoggingFormatter.php on line 25
+[10-Jun-2024 16:29:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:29:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:29:03 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php on line 25
+[10-Jun-2024 16:30:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:30:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:30:25 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php on line 25
+[10-Jun-2024 16:31:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:31:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:31:17 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php on line 26
+[10-Jun-2024 16:32:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:32:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:32:26 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php on line 21
+[10-Jun-2024 16:33:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:33:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:33:40 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php on line 21
+[10-Jun-2024 16:34:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:34:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:34:19 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php on line 24
+[10-Jun-2024 16:34:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:34:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:34:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php on line 24
+[10-Jun-2024 16:35:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:35:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:35:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php on line 24
+[10-Jun-2024 16:36:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:36:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:36:21 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php on line 22
+[10-Jun-2024 16:37:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:37:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:37:22 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\LineFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/SyslogFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/SyslogFormatter.php on line 23
+[10-Jun-2024 16:38:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 16:38:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 16:38:10 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php on line 24
+[11-Jun-2024 01:52:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:52:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:52:41 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php on line 24
+[11-Jun-2024 01:53:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:53:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:53:01 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php on line 26
+[11-Jun-2024 01:53:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:53:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:53:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php on line 22
+[11-Jun-2024 01:53:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:53:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:53:44 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php on line 25
+[11-Jun-2024 01:54:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:54:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:54:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php on line 22
+[11-Jun-2024 01:55:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:55:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:55:26 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php on line 25
+[11-Jun-2024 01:58:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:58:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:58:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php on line 24
+[11-Jun-2024 01:58:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:58:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:58:59 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php on line 22
+[11-Jun-2024 02:02:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:02:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:02:38 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php on line 21
+[11-Jun-2024 02:05:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:05:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:05:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php on line 38
+[11-Jun-2024 02:06:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:06:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:06:40 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php on line 21
+[11-Jun-2024 02:07:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:07:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:07:15 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\LineFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/SyslogFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/SyslogFormatter.php on line 23
+[11-Jun-2024 02:08:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:08:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:08:12 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticsearchFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticsearchFormatter.php on line 22
+[11-Jun-2024 02:08:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:08:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:08:44 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php on line 22
+[11-Jun-2024 02:10:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:10:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:10:55 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GoogleCloudLoggingFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GoogleCloudLoggingFormatter.php on line 25
+[11-Jun-2024 02:11:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:11:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:11:02 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php on line 24
+[11-Jun-2024 02:12:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:12:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:12:53 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php on line 25
+[11-Jun-2024 02:13:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:13:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:15:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:15:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:15:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php on line 24
+[04-Jul-2024 09:14:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 09:14:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 09:14:23 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php on line 22
+[04-Jul-2024 12:34:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 12:34:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 12:34:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php on line 38
+[04-Jul-2024 12:50:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 12:50:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 12:50:54 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php on line 21
+[04-Jul-2024 13:08:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 13:08:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 13:08:27 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php on line 25
+[04-Jul-2024 14:25:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 14:25:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 14:25:53 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php on line 25
+[04-Jul-2024 14:58:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 14:58:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 14:58:14 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php on line 24
+[04-Jul-2024 15:05:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:05:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:05:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php on line 22
+[04-Jul-2024 15:49:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:49:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:49:17 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php on line 25
+[04-Jul-2024 16:04:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 16:04:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 16:04:05 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php on line 22
+[04-Jul-2024 16:38:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 16:38:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 16:38:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php on line 24
+[04-Jul-2024 17:54:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 17:54:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 17:54:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php on line 24
+[04-Jul-2024 17:58:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 17:58:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 17:58:22 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\LineFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/SyslogFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/SyslogFormatter.php on line 23
+[04-Jul-2024 18:15:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 18:15:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 18:15:22 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GoogleCloudLoggingFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GoogleCloudLoggingFormatter.php on line 25
+[04-Jul-2024 18:58:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 18:58:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 18:58:11 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php on line 24
+[04-Jul-2024 19:14:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 19:14:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 19:14:06 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php on line 21
+[04-Jul-2024 19:57:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 19:57:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 19:57:11 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php on line 26
+[04-Jul-2024 22:44:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 22:44:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 22:44:01 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticsearchFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticsearchFormatter.php on line 22
+[05-Jul-2024 00:42:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 00:42:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:23:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:23:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:23:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php on line 22
+[07-Jul-2024 18:26:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:26:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:26:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php on line 22
+[07-Jul-2024 18:27:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:01 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php on line 22
+[07-Jul-2024 18:27:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:09 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticsearchFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticsearchFormatter.php on line 22
+[07-Jul-2024 18:27:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php on line 22
+[07-Jul-2024 18:27:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php on line 38
+[07-Jul-2024 18:27:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:31 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php on line 25
+[07-Jul-2024 18:27:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:38 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GoogleCloudLoggingFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GoogleCloudLoggingFormatter.php on line 25
+[07-Jul-2024 18:27:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:43 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php on line 25
+[07-Jul-2024 18:27:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:49 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php on line 25
+[07-Jul-2024 18:27:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:55 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php on line 26
+[07-Jul-2024 18:27:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:27:59 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php on line 21
+[07-Jul-2024 18:28:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:28:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:28:04 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php on line 21
+[07-Jul-2024 18:28:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:28:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:28:12 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php on line 24
+[07-Jul-2024 18:28:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:28:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:28:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php on line 24
+[07-Jul-2024 18:28:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:28:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:28:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php on line 24
+[07-Jul-2024 18:28:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:28:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:28:28 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php on line 22
+[07-Jul-2024 18:28:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:28:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:28:32 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\LineFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/SyslogFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/SyslogFormatter.php on line 23
+[07-Jul-2024 18:28:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:28:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:28:37 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php on line 24
+[10-Jul-2024 19:30:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:15 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php on line 24
+[10-Jul-2024 19:30:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:19 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\LineFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/SyslogFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/SyslogFormatter.php on line 23
+[10-Jul-2024 19:30:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:23 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php on line 22
+[10-Jul-2024 19:30:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php on line 24
+[10-Jul-2024 19:30:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php on line 24
+[10-Jul-2024 19:30:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:35 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php on line 24
+[10-Jul-2024 19:30:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:39 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php on line 21
+[10-Jul-2024 19:30:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:43 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php on line 21
+[10-Jul-2024 19:30:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:48 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php on line 26
+[10-Jul-2024 19:30:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:51 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php on line 25
+[10-Jul-2024 19:30:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:55 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php on line 25
+[10-Jul-2024 19:30:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:30:59 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\JsonFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GoogleCloudLoggingFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GoogleCloudLoggingFormatter.php on line 25
+[10-Jul-2024 19:31:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:31:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:31:03 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php on line 25
+[10-Jul-2024 19:31:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:31:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:31:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:31:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:31:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php on line 38
+[10-Jul-2024 19:31:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:31:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:31:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php on line 22
+[10-Jul-2024 19:31:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:31:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:31:19 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticsearchFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticsearchFormatter.php on line 22
+[10-Jul-2024 19:31:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:31:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:31:23 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Formatter\NormalizerFormatter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php on line 22
+[10-Jul-2024 19:31:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:31:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:31:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Formatter\FormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php on line 22

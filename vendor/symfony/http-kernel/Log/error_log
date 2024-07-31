@@ -1,0 +1,114 @@
+[11-May-2024 16:14:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:14:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:14:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:14:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:14:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:14:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:14:10 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php on line 25
+[19-May-2024 10:09:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 10:09:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 10:09:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 10:09:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 10:09:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 10:09:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 10:09:55 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php on line 25
+[28-May-2024 02:45:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:45:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:45:00 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php on line 25
+[28-May-2024 03:08:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 03:08:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 03:35:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 03:35:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 06:27:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 06:27:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 06:27:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 06:27:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 06:27:53 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php on line 25
+[28-May-2024 10:27:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 10:27:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:24:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:24:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:24:15 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php on line 25
+[04-Jun-2024 04:24:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:24:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:24:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:24:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:59 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php on line 25
+[10-Jun-2024 20:41:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:41:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:47:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:47:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:01:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:01:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:01:42 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php on line 25
+[15-Jun-2024 11:31:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 11:31:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 11:31:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 11:31:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 11:31:30 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php on line 25
+[15-Jun-2024 14:22:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 14:22:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 13:10:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 13:10:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 13:10:33 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php on line 25
+[23-Jun-2024 19:34:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 19:34:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 05:17:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 05:17:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 16:31:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 16:31:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 16:31:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 16:31:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 16:31:37 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php on line 25
+[03-Jul-2024 18:58:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 18:58:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 03:11:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 03:11:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 12:10:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 12:10:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:58:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:58:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:58:39 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Log/Logger.php on line 25
+[10-Jul-2024 15:58:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:58:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:58:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:58:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

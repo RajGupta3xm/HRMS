@@ -1,0 +1,144 @@
+[11-May-2024 09:12:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:12:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:12:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php on line 22
+[11-May-2024 09:12:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:12:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:12:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php on line 26
+[19-May-2024 09:47:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 09:47:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 09:47:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php on line 22
+[19-May-2024 09:47:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 09:47:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 09:47:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php on line 26
+[20-May-2024 19:21:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:21:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:21:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php on line 22
+[20-May-2024 19:21:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:21:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:21:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php on line 26
+[28-May-2024 02:20:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:20:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:20:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php on line 22
+[28-May-2024 06:34:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 06:34:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 06:34:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php on line 26
+[01-Jun-2024 09:06:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:06:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:06:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php on line 26
+[01-Jun-2024 12:13:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 12:13:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 12:13:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php on line 22
+[04-Jun-2024 03:52:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:52:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:52:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php on line 26
+[04-Jun-2024 03:52:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:52:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:52:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php on line 22
+[04-Jun-2024 14:11:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:11:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:11:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php on line 22
+[04-Jun-2024 14:12:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:12:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:12:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php on line 26
+[07-Jun-2024 22:41:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:41:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:41:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php on line 22
+[07-Jun-2024 22:42:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:42:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:42:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php on line 26
+[23-Jun-2024 22:18:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 22:18:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 22:18:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php on line 22
+[24-Jun-2024 01:15:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 01:15:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 01:15:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php on line 26
+[25-Jun-2024 18:14:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 18:14:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 18:14:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php on line 22
+[25-Jun-2024 18:15:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 18:15:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 18:15:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php on line 26
+[29-Jun-2024 20:34:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:34:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:34:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php on line 26
+[30-Jun-2024 08:30:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:30:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:30:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php on line 22
+[10-Jul-2024 15:26:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:26:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:26:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php on line 26
+[10-Jul-2024 15:26:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:26:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:26:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher/DependencyInjection/AddEventAliasesPass.php on line 22

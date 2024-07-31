@@ -1,0 +1,117 @@
+[12-May-2024 10:20:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:20:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:20:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:20:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:20:58 UTC] PHP Fatal error:  Trait "Illuminate\Auth\Access\HandlesAuthorization" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 18
+[12-May-2024 10:21:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:21:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:21:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:21:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:21:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php on line 7
+[04-Jun-2024 10:29:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 10:29:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 10:29:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php on line 7
+[04-Jun-2024 10:29:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 10:29:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 10:29:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 10:29:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 10:29:24 UTC] PHP Fatal error:  Trait "Illuminate\Auth\Access\HandlesAuthorization" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 18
+[04-Jun-2024 10:30:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 10:30:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 17:30:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 17:30:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 01:04:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 01:04:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 01:04:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php on line 7
+[07-Jun-2024 01:31:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 01:31:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 07:39:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 07:39:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 07:39:34 UTC] PHP Fatal error:  Trait "Illuminate\Auth\Access\HandlesAuthorization" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 18
+[09-Jun-2024 08:16:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:16:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:16:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:16:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:16:18 UTC] PHP Fatal error:  Trait "Illuminate\Auth\Access\HandlesAuthorization" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 18
+[09-Jun-2024 08:16:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:16:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:16:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:16:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:16:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php on line 7
+[13-Jun-2024 13:18:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 13:18:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 13:18:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 13:18:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 13:18:39 UTC] PHP Fatal error:  Trait "Illuminate\Auth\Access\HandlesAuthorization" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 18
+[13-Jun-2024 13:18:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 13:18:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 13:18:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 13:18:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 13:18:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php on line 7
+[02-Jul-2024 10:29:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 10:29:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 10:29:38 UTC] PHP Fatal error:  Trait "Illuminate\Auth\Access\HandlesAuthorization" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 18
+[02-Jul-2024 19:13:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 19:13:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 20:17:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 20:17:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 20:17:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php on line 7
+[02-Jul-2024 23:45:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 23:45:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 17:54:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 17:54:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 17:55:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 17:55:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 17:55:27 UTC] PHP Fatal error:  Trait "Illuminate\Auth\Access\HandlesAuthorization" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 18
+[03-Jul-2024 17:56:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 17:56:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 17:57:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 17:57:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 17:57:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php on line 7
+[04-Jul-2024 08:24:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 08:24:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 08:24:00 UTC] PHP Fatal error:  Trait "Illuminate\Auth\Access\HandlesAuthorization" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 18
+[04-Jul-2024 15:30:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:30:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:30:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php on line 7
+[04-Jul-2024 19:49:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 19:49:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 23:46:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 23:46:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 22:11:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:11:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 22:11:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php on line 7
+[10-Jul-2024 22:11:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:11:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 22:11:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:11:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 22:11:11 UTC] PHP Fatal error:  Trait "Illuminate\Auth\Access\HandlesAuthorization" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 18
+[10-Jul-2024 22:11:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:11:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

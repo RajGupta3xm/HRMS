@@ -1,0 +1,144 @@
+[10-May-2024 22:12:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 22:12:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 22:12:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php on line 10
+[10-May-2024 22:12:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 22:12:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 22:12:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\ConfigManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php on line 8
+[15-May-2024 10:36:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:36:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:36:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\ConfigManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php on line 8
+[15-May-2024 10:36:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:36:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:36:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php on line 10
+[29-May-2024 15:35:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-May-2024 15:35:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-May-2024 15:35:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\ConfigManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php on line 8
+[29-May-2024 15:36:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-May-2024 15:36:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-May-2024 15:36:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php on line 10
+[30-May-2024 23:48:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:48:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:48:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php on line 10
+[31-May-2024 01:33:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 01:33:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 01:33:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\ConfigManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php on line 8
+[04-Jun-2024 05:23:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:23:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:23:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php on line 10
+[04-Jun-2024 05:23:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:23:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:23:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\ConfigManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php on line 8
+[10-Jun-2024 07:30:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 07:30:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 07:30:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php on line 10
+[10-Jun-2024 07:41:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 07:41:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 07:41:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\ConfigManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php on line 8
+[17-Jun-2024 08:14:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 08:14:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 08:14:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\ConfigManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php on line 8
+[17-Jun-2024 08:14:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 08:14:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 08:14:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php on line 10
+[26-Jun-2024 19:18:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 19:18:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 19:18:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\ConfigManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php on line 8
+[26-Jun-2024 23:43:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 23:43:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 23:43:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php on line 10
+[02-Jul-2024 06:26:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:26:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:26:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\ConfigManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php on line 8
+[02-Jul-2024 10:21:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 10:21:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 10:21:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php on line 10
+[05-Jul-2024 13:04:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 13:04:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 13:04:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\ConfigManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php on line 8
+[05-Jul-2024 13:04:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 13:04:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 13:04:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php on line 10
+[05-Jul-2024 16:36:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 16:36:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 16:36:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\ConfigManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php on line 8
+[05-Jul-2024 16:37:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 16:37:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 16:37:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php on line 10
+[10-Jul-2024 16:59:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:59:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:59:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/IgnitionConfig.php on line 10
+[10-Jul-2024 16:59:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:59:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:59:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\ConfigManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Config/FileConfigManager.php on line 8

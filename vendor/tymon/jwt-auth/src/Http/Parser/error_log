@@ -1,0 +1,228 @@
+[20-May-2024 13:21:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:21:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:21:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Tymon\JWTAuth\Contracts\Http\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php on line 17
+[20-May-2024 13:22:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:22:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:22:52 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/Cookies.php on line 18
+[20-May-2024 13:23:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:23:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:23:51 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/InputSource.php on line 17
+[20-May-2024 13:24:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:24:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:25:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:25:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:25:57 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Http\Parser\RouteParams" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php on line 17
+[20-May-2024 13:27:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:27:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:28:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:28:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:28:10 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/QueryString.php on line 17
+[20-May-2024 13:29:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:29:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:29:24 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/RouteParams.php on line 17
+[03-Jun-2024 17:10:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 17:10:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 17:10:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Tymon\JWTAuth\Contracts\Http\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php on line 17
+[03-Jun-2024 19:28:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 19:28:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 19:28:27 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/Cookies.php on line 18
+[04-Jun-2024 00:53:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 00:53:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:15 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/RouteParams.php on line 17
+[04-Jun-2024 03:35:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:19 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/QueryString.php on line 17
+[04-Jun-2024 03:35:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:27 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Http\Parser\RouteParams" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php on line 17
+[04-Jun-2024 03:35:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:35 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/InputSource.php on line 17
+[04-Jun-2024 03:35:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:39 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/Cookies.php on line 18
+[04-Jun-2024 03:35:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:35:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Tymon\JWTAuth\Contracts\Http\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php on line 17
+[04-Jun-2024 03:43:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:43:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:43:10 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/RouteParams.php on line 17
+[04-Jun-2024 04:24:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:24:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:55:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:55:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:55:01 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/QueryString.php on line 17
+[04-Jun-2024 08:49:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:49:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:49:14 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Http\Parser\RouteParams" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php on line 17
+[04-Jun-2024 10:58:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 10:58:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 10:58:33 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/InputSource.php on line 17
+[10-Jun-2024 23:14:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:14:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:30:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:30:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:30:22 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/RouteParams.php on line 17
+[10-Jun-2024 23:32:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:32:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:32:12 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Http\Parser\RouteParams" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php on line 17
+[10-Jun-2024 23:39:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:39:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:39:25 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/Cookies.php on line 18
+[10-Jun-2024 23:42:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:42:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:42:30 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/InputSource.php on line 17
+[10-Jun-2024 23:43:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:43:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:43:08 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/QueryString.php on line 17
+[10-Jun-2024 23:44:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:44:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:44:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:44:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:44:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Tymon\JWTAuth\Contracts\Http\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php on line 17
+[11-Jun-2024 19:41:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 19:41:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 19:41:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Tymon\JWTAuth\Contracts\Http\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php on line 17
+[11-Jun-2024 19:42:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 19:42:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 19:42:46 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/Cookies.php on line 18
+[11-Jun-2024 19:43:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 19:43:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 19:43:55 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/InputSource.php on line 17
+[11-Jun-2024 19:45:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 19:45:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 19:46:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 19:46:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 19:46:24 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Http\Parser\RouteParams" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php on line 17
+[11-Jun-2024 19:47:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 19:47:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 19:48:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 19:48:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 19:48:46 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/QueryString.php on line 17
+[11-Jun-2024 19:50:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 19:50:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 19:50:12 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/RouteParams.php on line 17
+[29-Jun-2024 13:32:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:32:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:32:06 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/InputSource.php on line 17
+[29-Jun-2024 13:43:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:43:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:43:04 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/Cookies.php on line 18
+[29-Jun-2024 15:26:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 15:26:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 15:26:29 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/RouteParams.php on line 17
+[29-Jun-2024 17:31:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:31:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:52:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:52:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:52:15 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Http\Parser\RouteParams" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php on line 17
+[29-Jun-2024 22:43:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 22:43:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 22:43:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Tymon\JWTAuth\Contracts\Http\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php on line 17
+[29-Jun-2024 23:18:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 23:18:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 05:20:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 05:20:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 05:20:34 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/QueryString.php on line 17
+[02-Jul-2024 07:28:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:28:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:28:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Tymon\JWTAuth\Contracts\Http\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php on line 17
+[02-Jul-2024 07:29:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:29:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:29:52 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/Cookies.php on line 18
+[02-Jul-2024 07:31:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:31:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:31:48 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/InputSource.php on line 17
+[02-Jul-2024 07:32:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:32:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:33:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:33:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:33:40 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Http\Parser\RouteParams" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php on line 17
+[02-Jul-2024 07:34:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:34:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:35:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:35:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:35:28 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/QueryString.php on line 17
+[02-Jul-2024 07:36:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:36:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:36:29 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/RouteParams.php on line 17
+[10-Jul-2024 10:37:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 10:37:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:47:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:47:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:11:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:11:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:11:51 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/RouteParams.php on line 17
+[10-Jul-2024 15:11:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:11:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:11:55 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/QueryString.php on line 17
+[10-Jul-2024 15:11:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:11:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:03 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Http\Parser\RouteParams" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/LumenRouteParams.php on line 17
+[10-Jul-2024 15:12:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:11 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/InputSource.php on line 17
+[10-Jul-2024 15:12:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:15 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Http\Parser\KeyTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/Cookies.php on line 18
+[10-Jul-2024 15:12:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Tymon\JWTAuth\Contracts\Http\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Http/Parser/AuthHeaders.php on line 17

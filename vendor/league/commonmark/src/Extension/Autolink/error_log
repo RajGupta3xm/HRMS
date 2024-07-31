@@ -1,0 +1,198 @@
+[12-May-2024 11:54:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:54:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:54:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php on line 19
+[12-May-2024 11:54:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:54:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:54:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php on line 21
+[12-May-2024 11:54:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:54:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:54:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php on line 21
+[19-May-2024 20:42:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 20:42:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 20:42:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php on line 19
+[19-May-2024 20:42:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 20:42:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 20:42:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php on line 21
+[19-May-2024 20:42:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 20:42:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 20:42:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php on line 21
+[25-May-2024 09:16:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 09:16:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 09:16:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php on line 19
+[25-May-2024 09:16:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 09:16:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 09:16:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php on line 21
+[25-May-2024 09:17:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 09:17:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 09:17:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php on line 21
+[03-Jun-2024 18:52:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 18:52:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 18:52:44 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php on line 19
+[03-Jun-2024 22:03:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 22:03:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 22:03:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php on line 21
+[04-Jun-2024 08:18:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:18:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:18:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php on line 21
+[04-Jun-2024 08:18:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:18:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:18:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php on line 21
+[04-Jun-2024 08:18:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:18:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:18:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php on line 19
+[04-Jun-2024 09:26:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:26:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:26:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php on line 21
+[14-Jun-2024 03:20:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 03:20:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 03:20:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php on line 19
+[14-Jun-2024 03:21:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 03:21:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 03:21:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php on line 21
+[14-Jun-2024 03:21:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 03:21:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 03:21:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php on line 21
+[29-Jun-2024 13:11:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:11:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:11:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php on line 21
+[29-Jun-2024 15:47:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 15:47:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 15:47:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php on line 21
+[29-Jun-2024 20:44:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:44:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:44:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php on line 19
+[03-Jul-2024 13:26:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:26:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:26:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php on line 19
+[03-Jul-2024 13:27:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:27:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:27:03 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php on line 21
+[03-Jul-2024 13:27:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:27:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:27:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php on line 21
+[04-Jul-2024 09:19:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 09:19:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 09:19:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php on line 19
+[04-Jul-2024 17:59:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 17:59:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 17:59:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php on line 21
+[05-Jul-2024 01:21:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 01:21:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 01:21:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php on line 21
+[07-Jul-2024 18:14:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:14:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:14:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php on line 19
+[07-Jul-2024 18:14:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:14:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:14:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php on line 21
+[07-Jul-2024 18:14:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:14:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:14:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php on line 21
+[10-Jul-2024 19:59:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:59:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:59:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/UrlAutolinkParser.php on line 21
+[10-Jul-2024 19:59:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:59:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:59:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/EmailAutolinkParser.php on line 21
+[10-Jul-2024 20:00:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:00:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:00:03 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Autolink/AutolinkExtension.php on line 19

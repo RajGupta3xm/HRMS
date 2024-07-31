@@ -1,0 +1,810 @@
+[16-May-2024 02:33:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[16-May-2024 02:33:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[16-May-2024 02:33:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[16-May-2024 02:33:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[16-May-2024 02:33:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[16-May-2024 02:33:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[16-May-2024 02:33:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[16-May-2024 02:33:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[16-May-2024 02:33:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[16-May-2024 02:33:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[16-May-2024 02:33:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[16-May-2024 02:33:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[16-May-2024 02:33:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[16-May-2024 02:33:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[16-May-2024 02:33:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:49 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[16-May-2024 02:33:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[16-May-2024 02:33:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[16-May-2024 02:33:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[16-May-2024 02:33:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[16-May-2024 02:33:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[16-May-2024 02:33:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:33:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:33:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[16-May-2024 02:34:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:34:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:34:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[16-May-2024 02:34:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:34:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:34:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[16-May-2024 02:34:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:34:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:34:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[16-May-2024 02:34:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:34:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:34:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[16-May-2024 02:34:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:34:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:34:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[16-May-2024 02:34:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:34:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:34:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[04-Jun-2024 15:45:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:45:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:45:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[04-Jun-2024 15:45:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:45:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:45:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[04-Jun-2024 15:45:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:45:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:45:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[04-Jun-2024 15:45:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:45:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:45:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[04-Jun-2024 15:45:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:45:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:45:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[04-Jun-2024 15:45:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:45:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:45:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[04-Jun-2024 15:45:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:45:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:45:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[04-Jun-2024 15:46:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[04-Jun-2024 15:46:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[04-Jun-2024 15:46:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[04-Jun-2024 15:46:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[04-Jun-2024 15:46:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[04-Jun-2024 15:46:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[04-Jun-2024 15:46:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[04-Jun-2024 15:46:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[04-Jun-2024 15:46:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[04-Jun-2024 15:46:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[04-Jun-2024 15:46:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[04-Jun-2024 15:46:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[04-Jun-2024 15:46:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[04-Jun-2024 15:46:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[04-Jun-2024 15:46:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:46:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[04-Jun-2024 15:47:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:47:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:47:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[04-Jun-2024 15:47:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:47:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:47:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[04-Jun-2024 15:47:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:47:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:47:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[04-Jun-2024 15:47:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:47:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:47:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[04-Jun-2024 15:47:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:47:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:47:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[11-Jun-2024 02:45:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:45:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:45:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[11-Jun-2024 02:46:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:46:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:46:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[11-Jun-2024 02:46:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:46:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:46:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[11-Jun-2024 02:46:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:46:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:46:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[11-Jun-2024 02:46:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:46:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:46:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[11-Jun-2024 02:47:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:47:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:47:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[11-Jun-2024 02:47:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:47:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:47:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[11-Jun-2024 02:47:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:47:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:47:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[11-Jun-2024 02:48:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:48:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:48:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[11-Jun-2024 02:48:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:48:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:48:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[11-Jun-2024 02:48:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:48:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:48:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[11-Jun-2024 02:48:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:48:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[11-Jun-2024 02:49:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:49:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[11-Jun-2024 02:49:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:49:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:49:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[11-Jun-2024 02:49:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:49:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:49:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[11-Jun-2024 02:49:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:49:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:49:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[11-Jun-2024 02:49:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:49:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:49:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[11-Jun-2024 02:49:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:49:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:49:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[11-Jun-2024 02:50:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:50:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:50:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[11-Jun-2024 02:50:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:50:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:50:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[11-Jun-2024 02:50:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:50:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:50:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[11-Jun-2024 02:50:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:50:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:50:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[11-Jun-2024 02:50:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:50:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:50:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[11-Jun-2024 02:51:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:51:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:51:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[11-Jun-2024 02:51:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:51:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:51:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[11-Jun-2024 02:51:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:51:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:51:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[11-Jun-2024 02:51:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:51:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:51:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[17-Jun-2024 07:43:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:43:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:43:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7
+[17-Jun-2024 07:44:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:44:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:44:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[17-Jun-2024 07:45:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:45:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:45:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[17-Jun-2024 07:46:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:46:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[17-Jun-2024 07:47:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:47:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:47:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[17-Jun-2024 07:48:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:48:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:48:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[17-Jun-2024 07:49:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:49:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:49:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[17-Jun-2024 07:50:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:50:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:50:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[17-Jun-2024 07:50:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:50:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:50:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[17-Jun-2024 07:51:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:51:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:51:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[17-Jun-2024 07:51:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:51:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:51:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[17-Jun-2024 07:51:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:51:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:51:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[17-Jun-2024 07:52:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:52:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:52:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[17-Jun-2024 07:52:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:52:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:52:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[17-Jun-2024 07:53:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:53:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:53:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[17-Jun-2024 07:53:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:53:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:53:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[17-Jun-2024 07:54:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:54:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:54:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[17-Jun-2024 07:54:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:54:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:54:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[17-Jun-2024 07:55:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:55:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:55:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[17-Jun-2024 07:55:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:55:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:55:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[17-Jun-2024 07:56:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:56:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:56:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[17-Jun-2024 07:57:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:57:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:57:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[17-Jun-2024 07:57:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:57:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:57:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[17-Jun-2024 07:58:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:58:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:58:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[17-Jun-2024 07:58:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:58:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:58:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[17-Jun-2024 07:59:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:59:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:59:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[17-Jun-2024 07:59:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 07:59:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 07:59:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[11-Jul-2024 03:34:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:34:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:34:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Spaceship.php on line 7
+[11-Jul-2024 03:35:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/SmallerOrEqual.php on line 7
+[11-Jul-2024 03:35:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Smaller.php on line 7
+[11-Jul-2024 03:35:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftRight.php on line 7
+[11-Jul-2024 03:35:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/ShiftLeft.php on line 7
+[11-Jul-2024 03:35:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Pow.php on line 7
+[11-Jul-2024 03:35:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Plus.php on line 7
+[11-Jul-2024 03:35:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotIdentical.php on line 7
+[11-Jul-2024 03:35:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/NotEqual.php on line 7
+[11-Jul-2024 03:35:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mul.php on line 7
+[11-Jul-2024 03:35:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Mod.php on line 7
+[11-Jul-2024 03:35:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Minus.php on line 7
+[11-Jul-2024 03:35:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalXor.php on line 7
+[11-Jul-2024 03:35:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalOr.php on line 7
+[11-Jul-2024 03:35:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/LogicalAnd.php on line 7
+[11-Jul-2024 03:35:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Identical.php on line 7
+[11-Jul-2024 03:36:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/GreaterOrEqual.php on line 7
+[11-Jul-2024 03:36:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Greater.php on line 7
+[11-Jul-2024 03:36:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Equal.php on line 7
+[11-Jul-2024 03:36:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Div.php on line 7
+[11-Jul-2024 03:36:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Concat.php on line 7
+[11-Jul-2024 03:36:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/Coalesce.php on line 7
+[11-Jul-2024 03:36:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanOr.php on line 7
+[11-Jul-2024 03:36:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BooleanAnd.php on line 7
+[11-Jul-2024 03:36:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseXor.php on line 7
+[11-Jul-2024 03:36:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseOr.php on line 7
+[11-Jul-2024 03:36:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:36:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\BinaryOp" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BinaryOp/BitwiseAnd.php on line 7

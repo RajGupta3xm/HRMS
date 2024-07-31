@@ -1,0 +1,230 @@
+[16-May-2024 00:58:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 00:58:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 00:58:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 00:58:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-May-2024 08:46:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-May-2024 08:46:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-May-2024 08:46:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[17-May-2024 09:19:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-May-2024 09:19:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-May-2024 09:51:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-May-2024 09:51:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-May-2024 10:19:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-May-2024 10:19:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-May-2024 11:00:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-May-2024 11:00:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-May-2024 11:00:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[19-May-2024 18:46:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:46:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:46:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[19-May-2024 18:46:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:46:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:47:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:47:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:47:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:47:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:47:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:47:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:47:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:47:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:47:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:47:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:47:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[28-May-2024 01:34:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 01:34:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 01:47:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 01:47:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:32:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:32:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 13:39:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 13:39:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 14:53:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 14:53:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 14:53:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[28-May-2024 17:58:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 17:58:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 17:58:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[28-May-2024 18:25:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 18:25:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:17:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:17:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:17:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:17:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:17:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[04-Jun-2024 04:17:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:17:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:17:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:17:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:17:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:17:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:17:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:17:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:17:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:17:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:17:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[04-Jun-2024 18:58:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 18:58:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 19:00:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 19:00:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 00:07:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 00:07:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 00:07:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[06-Jun-2024 00:22:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 00:22:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 00:26:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 00:26:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 07:50:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 07:50:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 07:57:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 07:57:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 07:57:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[10-Jun-2024 18:15:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:15:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:16:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:16:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:16:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[10-Jun-2024 18:17:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:17:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:18:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:18:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:18:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:18:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:18:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[10-Jun-2024 18:22:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:22:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:23:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:23:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 15:48:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 15:48:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 18:50:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 18:50:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 18:51:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 18:51:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 21:03:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 21:03:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 23:15:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 23:15:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 02:21:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 02:21:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 03:04:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 03:04:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 03:39:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 03:39:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 03:39:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[24-Jun-2024 04:12:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 04:12:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 04:12:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[24-Jun-2024 23:19:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 23:19:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 23:19:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[24-Jun-2024 23:31:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 23:31:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 23:35:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 23:35:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 06:28:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 06:28:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 07:59:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 07:59:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 07:59:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[29-Jun-2024 13:24:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:24:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:24:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[29-Jun-2024 14:51:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:51:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:11:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:11:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:43:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:43:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:57:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:57:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:33:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:33:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:37:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:37:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:37:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[05-Jul-2024 00:35:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 00:35:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 04:48:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 04:48:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:20:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:20:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 14:19:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 14:19:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 14:22:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 14:22:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[10-Jul-2024 15:51:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22

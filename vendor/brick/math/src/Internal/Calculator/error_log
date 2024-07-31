@@ -1,0 +1,216 @@
+[11-May-2024 18:52:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 18:52:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 18:52:56 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 16
+[11-May-2024 18:52:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 18:52:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 18:52:57 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 16
+[11-May-2024 18:52:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 18:52:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 18:52:58 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 16
+[12-May-2024 09:40:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:40:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:40:26 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 16
+[12-May-2024 09:40:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:40:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:40:47 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 16
+[12-May-2024 09:41:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:41:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:41:04 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 16
+[31-May-2024 19:17:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 19:17:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 19:17:14 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 16
+[31-May-2024 19:19:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 19:19:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 19:19:12 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 16
+[31-May-2024 19:21:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 19:21:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 19:21:47 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 16
+[03-Jun-2024 18:54:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 18:54:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 18:54:39 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 16
+[03-Jun-2024 21:10:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 21:10:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 21:10:18 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 16
+[03-Jun-2024 23:43:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 23:43:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 23:43:55 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 16
+[04-Jun-2024 09:33:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:33:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:33:28 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 16
+[04-Jun-2024 09:33:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:33:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:33:36 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 16
+[04-Jun-2024 09:33:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:33:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:33:38 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 16
+[08-Jun-2024 03:27:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 03:27:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 03:27:35 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 16
+[08-Jun-2024 03:28:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 03:28:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 03:28:01 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 16
+[08-Jun-2024 03:28:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 03:28:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 03:28:26 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 16
+[10-Jun-2024 10:03:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 10:03:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 10:03:12 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 16
+[10-Jun-2024 10:06:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 10:06:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 10:06:18 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 16
+[10-Jun-2024 10:06:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 10:06:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 10:06:55 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 16
+[20-Jun-2024 15:28:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 15:28:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 15:28:53 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 16
+[20-Jun-2024 15:32:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 15:32:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 15:32:07 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 16
+[20-Jun-2024 15:33:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 15:33:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 15:33:14 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 16
+[29-Jun-2024 17:00:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:00:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:00:46 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 16
+[30-Jun-2024 02:23:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 02:23:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 02:23:46 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 16
+[30-Jun-2024 06:21:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 06:21:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 06:21:57 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 16
+[02-Jul-2024 20:35:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 20:35:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 20:35:34 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 16
+[03-Jul-2024 07:58:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 07:58:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 07:58:51 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 16
+[03-Jul-2024 10:04:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 10:04:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 10:04:17 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 16
+[10-Jul-2024 01:50:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:50:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:50:06 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 16
+[10-Jul-2024 01:50:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:50:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:50:36 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 16
+[10-Jul-2024 01:51:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:51:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:51:05 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 16
+[10-Jul-2024 21:15:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:15:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:15:19 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 16
+[10-Jul-2024 21:15:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:15:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:15:23 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 16
+[10-Jul-2024 21:15:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:15:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:15:27 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 16

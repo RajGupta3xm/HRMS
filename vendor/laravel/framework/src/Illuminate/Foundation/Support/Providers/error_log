@@ -1,0 +1,108 @@
+[12-May-2024 21:06:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:06:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:06:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php on line 8
+[12-May-2024 21:06:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:06:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:06:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php on line 9
+[12-May-2024 21:06:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:06:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:06:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 14
+[04-Jun-2024 11:59:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:59:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:59:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 14
+[04-Jun-2024 11:59:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:59:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:59:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php on line 9
+[04-Jun-2024 11:59:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:59:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:59:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php on line 8
+[10-Jun-2024 20:12:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:12:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:12:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php on line 8
+[10-Jun-2024 20:12:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:12:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php on line 9
+[10-Jun-2024 20:12:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:12:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:12:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 14
+[14-Jun-2024 07:25:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 07:25:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 07:25:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 14
+[14-Jun-2024 09:39:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 09:39:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 09:39:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php on line 8
+[14-Jun-2024 09:55:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 09:55:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 09:55:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php on line 9
+[04-Jul-2024 10:51:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 10:51:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 10:51:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 14
+[04-Jul-2024 10:58:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 10:58:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 10:58:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php on line 8
+[04-Jul-2024 11:00:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 11:00:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 11:00:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php on line 9
+[10-Jul-2024 23:40:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:40:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:40:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/RouteServiceProvider.php on line 14
+[10-Jul-2024 23:40:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:40:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:40:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/EventServiceProvider.php on line 9
+[10-Jul-2024 23:41:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:41:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:41:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Foundation/Support/Providers/AuthServiceProvider.php on line 8

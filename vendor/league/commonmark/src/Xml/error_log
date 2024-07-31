@@ -1,0 +1,242 @@
+[11-May-2024 15:12:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:12:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:12:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Xml\XmlNodeRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php on line 23
+[11-May-2024 15:12:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:12:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:12:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\ConverterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php on line 24
+[11-May-2024 15:13:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:13:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:13:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:13:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:13:03 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\DocumentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php on line 18
+[19-May-2024 20:33:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 20:33:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 20:33:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Xml\XmlNodeRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php on line 23
+[19-May-2024 20:34:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 20:34:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 20:34:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\ConverterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php on line 24
+[19-May-2024 20:34:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 20:34:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 20:34:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 20:34:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 20:34:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\DocumentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php on line 18
+[22-May-2024 08:36:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:36:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:36:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Xml\XmlNodeRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php on line 23
+[22-May-2024 08:36:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:36:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:36:44 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\ConverterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php on line 24
+[22-May-2024 08:36:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:36:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:36:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:36:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:36:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\DocumentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php on line 18
+[30-May-2024 23:06:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:06:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:06:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\ConverterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php on line 24
+[31-May-2024 01:27:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 01:27:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 01:27:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\DocumentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php on line 18
+[31-May-2024 08:43:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 08:43:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 08:43:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Xml\XmlNodeRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php on line 23
+[31-May-2024 16:28:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 16:28:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:56:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:56:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 15:04:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 15:04:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 15:04:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\ConverterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php on line 24
+[01-Jun-2024 15:06:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 15:06:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 15:06:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Xml\XmlNodeRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php on line 23
+[01-Jun-2024 15:10:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 15:10:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 15:10:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\DocumentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php on line 18
+[04-Jun-2024 08:18:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:18:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:18:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\DocumentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php on line 18
+[04-Jun-2024 08:18:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:18:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:18:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:18:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:18:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\ConverterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php on line 24
+[04-Jun-2024 08:19:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:19:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:19:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Xml\XmlNodeRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php on line 23
+[10-Jun-2024 20:36:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:36:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:36:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Xml\XmlNodeRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php on line 23
+[10-Jun-2024 22:27:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 22:27:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 22:27:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\ConverterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php on line 24
+[10-Jun-2024 23:04:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:04:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:23:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:23:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:23:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\DocumentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php on line 18
+[27-Jun-2024 01:02:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:02:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:02:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\ConverterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php on line 24
+[27-Jun-2024 01:37:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:37:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 02:43:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 02:43:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 02:43:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Xml\XmlNodeRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php on line 23
+[27-Jun-2024 08:50:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:50:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:50:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\DocumentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php on line 18
+[30-Jun-2024 03:33:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 03:33:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 03:33:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Xml\XmlNodeRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php on line 23
+[30-Jun-2024 04:16:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 04:16:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 04:16:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\ConverterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php on line 24
+[30-Jun-2024 04:25:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 04:25:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 04:30:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 04:30:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 04:30:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\DocumentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php on line 18
+[01-Jul-2024 06:05:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:05:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:05:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Xml\XmlNodeRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php on line 23
+[02-Jul-2024 09:21:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:21:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:14:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:14:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:14:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\DocumentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php on line 18
+[02-Jul-2024 23:27:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 23:27:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 23:27:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\ConverterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php on line 24
+[05-Jul-2024 08:45:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:45:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:45:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Xml\XmlNodeRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php on line 23
+[05-Jul-2024 08:45:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:45:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:45:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\ConverterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php on line 24
+[05-Jul-2024 08:46:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:46:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:46:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:46:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:46:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\DocumentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php on line 18
+[10-Jul-2024 08:43:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 08:43:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:00:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:00:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:00:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\DocumentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/XmlRenderer.php on line 18
+[10-Jul-2024 20:00:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:00:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:00:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:00:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:00:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\ConverterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/MarkdownToXmlConverter.php on line 24
+[10-Jul-2024 20:00:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:00:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:00:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Xml\XmlNodeRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Xml/FallbackNodeXmlRenderer.php on line 23

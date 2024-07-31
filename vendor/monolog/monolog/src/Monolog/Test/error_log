@@ -1,0 +1,42 @@
+[11-May-2024 21:58:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:58:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:58:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 28
+[01-Jun-2024 09:25:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:25:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:25:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 28
+[04-Jun-2024 07:42:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:42:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:42:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 28
+[10-Jun-2024 21:27:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:27:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:27:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 28
+[05-Jul-2024 00:35:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 00:35:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 00:35:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 28
+[07-Jul-2024 18:38:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:38:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:38:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 28
+[10-Jul-2024 19:24:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:24:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:24:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Test/TestCase.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Test/TestCase.php on line 28

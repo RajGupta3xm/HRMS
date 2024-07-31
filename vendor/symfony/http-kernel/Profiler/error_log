@@ -1,0 +1,180 @@
+[11-May-2024 16:14:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:14:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:14:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[11-May-2024 16:14:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:14:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:14:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:14:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:14:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[11-May-2024 16:14:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:14:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:51:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:51:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:52:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:52:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:52:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[20-May-2024 00:14:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:14:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:14:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[20-May-2024 00:15:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:15:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:19:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:19:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:19:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[27-May-2024 08:19:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:19:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:19:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:19:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:19:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[27-May-2024 08:19:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:19:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:18:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:18:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:18:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[28-May-2024 05:50:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 05:50:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 05:50:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[28-May-2024 08:07:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 08:07:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 08:16:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 08:16:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:01:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:01:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:01:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:01:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:01:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[04-Jun-2024 04:01:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:01:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:01:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:01:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:01:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[04-Jun-2024 13:11:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:11:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:11:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[04-Jun-2024 13:11:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:11:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:11:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:11:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:11:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[04-Jun-2024 13:11:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:11:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:07:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:07:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:07:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[10-Jun-2024 23:25:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:25:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:25:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[10-Jun-2024 23:28:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:28:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:43:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:43:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 00:23:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 00:23:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 00:23:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[15-Jun-2024 00:23:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 00:23:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 00:24:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 00:24:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 00:24:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[15-Jun-2024 00:25:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 00:25:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 16:14:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 16:14:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 18:23:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 18:23:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 18:23:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[24-Jun-2024 07:04:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 07:04:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 07:04:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[24-Jun-2024 07:45:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 07:45:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 08:22:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 08:22:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 08:22:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[03-Jul-2024 08:22:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 08:22:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 08:23:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 08:23:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 08:23:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[03-Jul-2024 08:24:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 08:24:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 04:48:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 04:48:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 14:56:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 14:56:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:35:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:35:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:35:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:35:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:35:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[10-Jul-2024 15:35:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:35:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:35:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:35:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:35:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19

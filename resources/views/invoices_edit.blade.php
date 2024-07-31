@@ -15,10 +15,17 @@
                         </div>
                     </div>
                 </div>
+                {{-- @php
+                echo("<pre>");
+                    // print_r($projectData);
+                    print_r($invoice);
+
+                    die();
+                @endphp --}}
                 <div id="flLoginForm" class="col-lg-12 layout-spacing">
                     <div class="statbox widget box box-shadow">
                         <div class="widget-content widget-content-area">
-                            <form method="POST" action="{{ url('submit-invoice') }}">
+                            <form method="POST" action="{{ url('invoiceUpdate') }}">
                                 @csrf
                                 <div class="row g-3">
                                     <div class="col-md-12">
@@ -147,8 +154,8 @@
                                             name="Total">
                                     </div>
                                 </div>
-                                <input type="hidden" name="project_id"
-                                    value=" {{ isset($projectData['id']) ? $projectData['id'] : '' }}">
+                                <input type="hidden" name="project_id" value=" {{ $projectData['id'] }}">
+                                <input type="hidden" name="invoiceId" value="{{ $invoice['id'] }}">
                                 <div class="form-group mb-4 col-md-12">
                                     <label for="exampleFormControlTextarea1">Comments</label>
                                     <textarea class="form-control" name="Comments" id="exampleFormControlTextarea1" rows="3">
@@ -268,17 +275,11 @@
                                                 </button>
                                             </div>
                                             <div class="col-6 text-end">
-                                                <a href="invoices.html">
-                                                    <div
-                                                        class="btn btn-success  _effect--ripple waves-effect waves-light common_btn1 ">
-                                                        Send
-                                                        Invoice
-                                                    </div>
-                                                </a>
-                                                <button type="submit"
-                                                    class="btn btn-secondary  _effect--ripple waves-effect waves-light common_btn1 btn_one">Cancel
-                                                    Invoice
-                                                </button>
+                                                <a href="{{ url()->previous() }}"
+                                                    class="btn btn-secondary  _effect--ripple waves-effect waves-light common_btn1 btn_one">Go
+                                                    Back</a>
+
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -315,4 +316,9 @@
         <script src="../src/plugins/src/apex/apexcharts.min.js"></script>
         <script src="../src/assets/js/dashboard/dash_1.js"></script>
     </div>
+    <script>
+        function route(destination) {
+            window.location.href = destination;
+        }
+    </script>
 @endsection

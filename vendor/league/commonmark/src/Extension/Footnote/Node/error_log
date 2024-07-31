@@ -1,0 +1,240 @@
+[13-May-2024 02:39:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 02:39:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 02:39:23 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[13-May-2024 02:39:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 02:39:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 02:39:25 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[13-May-2024 02:39:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 02:39:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 02:39:27 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[13-May-2024 02:39:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 02:39:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 02:39:29 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[20-May-2024 07:55:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:55:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:55:28 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[20-May-2024 07:55:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:55:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:55:39 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[20-May-2024 07:55:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:55:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:55:50 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[20-May-2024 07:56:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:56:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:56:02 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[25-May-2024 19:08:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 19:08:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 19:08:56 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[26-May-2024 01:09:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 01:09:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 01:09:03 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[26-May-2024 01:09:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 01:09:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 01:09:03 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[26-May-2024 01:09:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 01:09:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 01:09:05 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[04-Jun-2024 14:24:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:24:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:24:17 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[04-Jun-2024 14:24:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:24:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:24:19 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[04-Jun-2024 14:24:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:24:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:24:23 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[04-Jun-2024 14:24:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:24:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:24:27 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[06-Jun-2024 14:19:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 14:19:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 14:19:04 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[06-Jun-2024 17:05:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 17:05:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 17:05:52 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[06-Jun-2024 19:07:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 19:07:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 19:07:30 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[06-Jun-2024 19:07:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 19:07:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 19:07:48 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[15-Jun-2024 11:29:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 11:29:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 11:29:36 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[15-Jun-2024 11:36:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 11:36:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 11:36:20 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[15-Jun-2024 11:36:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 11:36:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 11:36:42 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[15-Jun-2024 11:37:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 11:37:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 11:37:04 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[02-Jul-2024 13:17:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 13:17:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 13:17:05 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[02-Jul-2024 16:06:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 16:06:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 16:06:20 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[02-Jul-2024 18:13:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 18:13:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 18:13:03 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[02-Jul-2024 19:12:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 19:12:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 19:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[04-Jul-2024 14:31:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 14:31:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 14:31:39 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[04-Jul-2024 16:02:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 16:02:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 16:02:57 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[04-Jul-2024 21:54:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 21:54:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 21:54:15 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[04-Jul-2024 23:10:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 23:10:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 23:10:54 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[05-Jul-2024 15:35:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 15:35:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 15:35:16 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[05-Jul-2024 15:41:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 15:41:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 15:41:02 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[05-Jul-2024 15:43:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 15:43:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 15:43:15 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[05-Jul-2024 15:44:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 15:44:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 15:44:53 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[11-Jul-2024 02:12:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:12:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[11-Jul-2024 02:13:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:13:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:13:03 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[11-Jul-2024 02:13:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:13:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:13:07 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[11-Jul-2024 02:13:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:13:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:13:11 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21

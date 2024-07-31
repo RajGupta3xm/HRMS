@@ -1,0 +1,290 @@
+[12-May-2024 10:18:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:18:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:18:06 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/Connection.php on line 12
+[12-May-2024 10:18:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:18:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:18:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:18:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:18:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PhpRedisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php on line 5
+[12-May-2024 10:18:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:18:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:18:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php on line 13
+[12-May-2024 10:18:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:18:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:18:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PredisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php on line 8
+[12-May-2024 10:18:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:18:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:18:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php on line 12
+[26-May-2024 01:11:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 01:11:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 01:11:33 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/Connection.php on line 12
+[26-May-2024 01:11:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 01:11:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 01:11:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 01:11:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 01:11:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PhpRedisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php on line 5
+[26-May-2024 01:11:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 01:11:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 01:11:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php on line 13
+[26-May-2024 01:11:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 01:11:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 01:11:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PredisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php on line 8
+[26-May-2024 01:11:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 01:11:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 01:11:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php on line 12
+[04-Jun-2024 12:55:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:55:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:55:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php on line 12
+[04-Jun-2024 12:55:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:55:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:55:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PredisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php on line 8
+[04-Jun-2024 12:55:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:55:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:55:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php on line 13
+[04-Jun-2024 12:55:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:55:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:55:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PhpRedisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php on line 5
+[04-Jun-2024 12:55:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:55:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:55:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:55:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:55:52 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/Connection.php on line 12
+[06-Jun-2024 12:38:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 12:38:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 12:38:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php on line 12
+[06-Jun-2024 13:19:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 13:19:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 18:47:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 18:47:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 18:47:22 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/Connection.php on line 12
+[06-Jun-2024 18:57:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 18:57:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 18:57:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php on line 13
+[06-Jun-2024 20:02:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 20:02:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 20:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PredisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php on line 8
+[07-Jun-2024 00:20:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:20:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:20:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PhpRedisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php on line 5
+[09-Jun-2024 04:08:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:08:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:08:51 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/Connection.php on line 12
+[09-Jun-2024 04:08:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:08:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:08:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:08:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:08:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PhpRedisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php on line 5
+[09-Jun-2024 04:08:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:08:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:08:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php on line 13
+[09-Jun-2024 04:09:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:09:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:09:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PredisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php on line 8
+[09-Jun-2024 04:09:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:09:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:09:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php on line 12
+[16-Jun-2024 04:46:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 04:46:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 04:46:50 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/Connection.php on line 12
+[16-Jun-2024 04:47:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 04:47:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 04:47:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 04:47:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 04:47:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PhpRedisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php on line 5
+[16-Jun-2024 04:48:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 04:48:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 04:48:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php on line 13
+[16-Jun-2024 04:49:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 04:49:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 04:49:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PredisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php on line 8
+[16-Jun-2024 04:49:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 04:49:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 04:49:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php on line 12
+[02-Jul-2024 07:47:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:47:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:47:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PhpRedisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php on line 5
+[02-Jul-2024 09:56:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:56:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 09:56:50 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/Connection.php on line 12
+[02-Jul-2024 13:47:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 13:47:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 13:47:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php on line 13
+[02-Jul-2024 14:55:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:55:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:55:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php on line 12
+[02-Jul-2024 15:19:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:19:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 19:35:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 19:35:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 19:35:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PredisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php on line 8
+[07-Jul-2024 01:00:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 01:00:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 01:00:18 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/Connection.php on line 12
+[07-Jul-2024 01:00:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 01:00:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 01:01:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 01:01:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 01:01:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PhpRedisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php on line 5
+[07-Jul-2024 01:01:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 01:01:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 01:01:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php on line 13
+[07-Jul-2024 01:01:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 01:01:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 01:01:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PredisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php on line 8
+[07-Jul-2024 01:02:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 01:02:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 01:02:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php on line 12
+[07-Jul-2024 02:56:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 02:56:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 02:56:20 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/Connection.php on line 12
+[07-Jul-2024 06:13:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 06:13:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 06:13:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PredisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php on line 8
+[07-Jul-2024 15:06:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 15:06:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 15:06:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php on line 12
+[07-Jul-2024 20:18:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 20:18:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 20:18:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PhpRedisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php on line 5
+[08-Jul-2024 00:38:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 00:38:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 00:38:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php on line 13
+[08-Jul-2024 08:02:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 08:02:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:44:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:44:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:44:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisConnection.php on line 12
+[11-Jul-2024 00:44:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:44:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:44:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PredisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PredisClusterConnection.php on line 8
+[11-Jul-2024 00:44:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:44:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:44:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\Connection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisConnection.php on line 13
+[11-Jul-2024 00:44:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:44:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:44:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Redis\Connections\PhpRedisConnection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/PhpRedisClusterConnection.php on line 5
+[11-Jul-2024 00:44:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:44:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:44:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:44:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:44:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connections/Connection.php on line 12

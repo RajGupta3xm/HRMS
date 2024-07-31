@@ -1,0 +1,360 @@
+[19-May-2024 18:36:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:36:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:36:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[19-May-2024 18:37:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:37:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:37:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[19-May-2024 18:37:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:37:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:37:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[19-May-2024 18:37:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:37:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:37:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[19-May-2024 18:37:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:37:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:37:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[20-May-2024 00:57:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:57:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:57:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[27-May-2024 08:29:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:29:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:29:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[27-May-2024 08:29:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:29:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:29:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[27-May-2024 08:29:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:29:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:29:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[27-May-2024 08:29:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:29:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:29:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[27-May-2024 08:29:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:29:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:29:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[27-May-2024 19:09:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 19:09:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 19:09:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[28-May-2024 01:26:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 01:26:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 01:26:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[28-May-2024 04:37:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 04:37:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 04:37:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[28-May-2024 12:12:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 12:12:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 12:12:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[28-May-2024 13:58:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 13:58:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 13:58:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[28-May-2024 18:26:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 18:26:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 18:26:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[28-May-2024 20:10:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 20:10:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 20:10:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[04-Jun-2024 03:58:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:58:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:58:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[04-Jun-2024 03:58:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:58:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:58:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[04-Jun-2024 03:58:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:58:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:58:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[04-Jun-2024 03:58:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:58:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:58:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[04-Jun-2024 03:59:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:59:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:59:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[04-Jun-2024 03:59:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:59:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:59:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[11-Jun-2024 01:50:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:50:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:50:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[11-Jun-2024 01:55:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:55:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:55:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[11-Jun-2024 01:57:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:57:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:57:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[11-Jun-2024 02:01:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:01:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:01:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[11-Jun-2024 02:08:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:08:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:08:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[11-Jun-2024 02:10:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:10:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:10:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[15-Jun-2024 16:47:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 16:47:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 16:47:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[15-Jun-2024 16:47:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 16:47:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 16:47:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[15-Jun-2024 16:48:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 16:48:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 16:48:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[15-Jun-2024 16:48:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 16:48:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 16:48:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[15-Jun-2024 16:49:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 16:49:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 16:49:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[16-Jun-2024 04:07:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 04:07:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 04:07:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[23-Jun-2024 14:00:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 14:00:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 14:00:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[23-Jun-2024 15:58:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 15:58:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 15:58:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[23-Jun-2024 20:23:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 20:23:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 20:23:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[24-Jun-2024 04:00:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 04:00:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 04:00:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[24-Jun-2024 06:00:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 06:00:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 06:00:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[24-Jun-2024 06:44:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 06:44:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 06:44:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[29-Jun-2024 12:02:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 12:02:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 12:02:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[29-Jun-2024 12:21:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 12:21:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 12:21:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[29-Jun-2024 16:59:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:59:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:59:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[29-Jun-2024 19:36:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:36:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:36:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[29-Jun-2024 20:02:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:02:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:02:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[29-Jun-2024 22:11:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 22:11:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 22:11:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[04-Jul-2024 20:40:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 20:40:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 20:40:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[04-Jul-2024 20:40:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 20:40:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 20:40:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[04-Jul-2024 20:41:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 20:41:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 20:41:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[04-Jul-2024 20:42:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 20:42:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 20:42:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[04-Jul-2024 20:42:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 20:42:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 20:42:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[05-Jul-2024 05:55:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 05:55:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 05:55:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[10-Jul-2024 15:33:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:33:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:33:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[10-Jul-2024 15:33:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:33:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:33:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[10-Jul-2024 15:33:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:33:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:33:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[10-Jul-2024 15:33:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:33:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:33:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[10-Jul-2024 15:33:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:33:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:33:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[10-Jul-2024 15:33:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:33:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:33:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21

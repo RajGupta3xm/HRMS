@@ -1,0 +1,354 @@
+[13-May-2024 03:44:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 03:44:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 03:44:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/AutolinkParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/AutolinkParser.php on line 25
+[13-May-2024 03:44:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 03:44:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 03:44:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BacktickParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BacktickParser.php on line 25
+[13-May-2024 03:44:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 03:44:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 03:44:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php on line 25
+[13-May-2024 03:45:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 03:45:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 03:45:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/CloseBracketParser.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/CloseBracketParser.php on line 36
+[13-May-2024 03:45:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 03:45:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 03:45:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php on line 26
+[13-May-2024 03:45:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 03:45:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 03:45:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EscapableParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EscapableParser.php on line 26
+[13-May-2024 03:45:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 03:45:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 03:45:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/HtmlInlineParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/HtmlInlineParser.php on line 25
+[13-May-2024 03:45:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 03:45:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 03:45:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php on line 25
+[20-May-2024 07:37:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:37:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:37:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/AutolinkParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/AutolinkParser.php on line 25
+[20-May-2024 07:37:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:37:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:37:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BacktickParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BacktickParser.php on line 25
+[20-May-2024 07:37:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:37:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:37:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php on line 25
+[20-May-2024 07:38:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:38:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:38:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/CloseBracketParser.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/CloseBracketParser.php on line 36
+[20-May-2024 07:38:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:38:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:38:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php on line 26
+[20-May-2024 07:38:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:38:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:38:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EscapableParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EscapableParser.php on line 26
+[20-May-2024 07:38:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:38:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:38:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/HtmlInlineParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/HtmlInlineParser.php on line 25
+[20-May-2024 07:38:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:38:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:38:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php on line 25
+[26-May-2024 19:04:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 19:04:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 19:04:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php on line 26
+[26-May-2024 19:04:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 19:04:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 19:04:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EscapableParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EscapableParser.php on line 26
+[26-May-2024 19:04:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 19:04:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 19:04:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/HtmlInlineParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/HtmlInlineParser.php on line 25
+[26-May-2024 19:04:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 19:04:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 19:04:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php on line 25
+[26-May-2024 22:07:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 22:07:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 22:07:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/AutolinkParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/AutolinkParser.php on line 25
+[26-May-2024 22:07:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 22:07:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 22:07:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BacktickParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BacktickParser.php on line 25
+[26-May-2024 22:07:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 22:07:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 22:07:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php on line 25
+[26-May-2024 22:07:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 22:07:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 22:07:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/CloseBracketParser.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/CloseBracketParser.php on line 36
+[04-Jun-2024 14:08:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php on line 25
+[04-Jun-2024 14:08:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/HtmlInlineParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/HtmlInlineParser.php on line 25
+[04-Jun-2024 14:08:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EscapableParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EscapableParser.php on line 26
+[04-Jun-2024 14:08:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php on line 26
+[04-Jun-2024 14:08:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/CloseBracketParser.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/CloseBracketParser.php on line 36
+[04-Jun-2024 14:08:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php on line 25
+[04-Jun-2024 14:08:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BacktickParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BacktickParser.php on line 25
+[04-Jun-2024 14:08:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:08:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/AutolinkParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/AutolinkParser.php on line 25
+[18-Jun-2024 07:09:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 07:09:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 07:09:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php on line 26
+[18-Jun-2024 07:10:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 07:10:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 07:10:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EscapableParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EscapableParser.php on line 26
+[18-Jun-2024 07:10:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 07:10:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 07:10:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/HtmlInlineParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/HtmlInlineParser.php on line 25
+[18-Jun-2024 07:11:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 07:11:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 07:11:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php on line 25
+[18-Jun-2024 10:16:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 10:16:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 10:16:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/AutolinkParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/AutolinkParser.php on line 25
+[18-Jun-2024 10:16:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 10:16:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 10:16:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BacktickParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BacktickParser.php on line 25
+[18-Jun-2024 10:16:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 10:16:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 10:16:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php on line 25
+[18-Jun-2024 10:17:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 10:17:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 10:17:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/CloseBracketParser.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/CloseBracketParser.php on line 36
+[10-Jul-2024 09:19:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 09:19:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 09:19:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php on line 26
+[10-Jul-2024 09:19:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 09:19:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 09:19:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EscapableParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EscapableParser.php on line 26
+[10-Jul-2024 09:20:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 09:20:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 09:20:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/HtmlInlineParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/HtmlInlineParser.php on line 25
+[10-Jul-2024 09:21:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 09:21:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 09:21:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php on line 25
+[10-Jul-2024 14:50:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:50:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:50:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/AutolinkParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/AutolinkParser.php on line 25
+[10-Jul-2024 14:53:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:53:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:53:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BacktickParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BacktickParser.php on line 25
+[10-Jul-2024 14:55:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:55:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:55:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php on line 25
+[10-Jul-2024 19:51:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:51:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:51:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/CloseBracketParser.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/CloseBracketParser.php on line 36
+[11-Jul-2024 00:50:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:50:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:50:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php on line 26
+[11-Jul-2024 00:55:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:55:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:55:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php on line 25
+[11-Jul-2024 00:57:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php on line 25
+[11-Jul-2024 01:52:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 01:52:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 01:52:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/OpenBracketParser.php on line 25
+[11-Jul-2024 01:52:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 01:52:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 01:52:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/HtmlInlineParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/HtmlInlineParser.php on line 25
+[11-Jul-2024 01:52:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 01:52:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 01:52:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EscapableParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EscapableParser.php on line 26
+[11-Jul-2024 01:53:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 01:53:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 01:53:03 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/EntityParser.php on line 26
+[11-Jul-2024 01:53:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 01:53:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 01:53:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/CloseBracketParser.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/CloseBracketParser.php on line 36
+[11-Jul-2024 01:53:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 01:53:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 01:53:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BangParser.php on line 25
+[11-Jul-2024 01:53:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 01:53:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 01:53:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BacktickParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/BacktickParser.php on line 25
+[11-Jul-2024 01:53:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 01:53:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 01:53:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/AutolinkParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/CommonMark/Parser/Inline/AutolinkParser.php on line 25

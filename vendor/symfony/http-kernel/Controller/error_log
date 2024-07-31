@@ -1,0 +1,472 @@
+[11-May-2024 09:14:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:14:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:14:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[11-May-2024 09:14:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:14:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:14:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:14:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:15:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:15:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:15:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[11-May-2024 09:15:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:15:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:15:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:15:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:15:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[11-May-2024 09:15:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:15:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:15:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:15:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:15:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:15:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:15:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[11-May-2024 09:15:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:15:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:15:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[11-May-2024 09:15:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:15:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:27:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:27:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:27:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:27:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:27:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[19-May-2024 17:27:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:27:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:27:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[19-May-2024 17:28:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:28:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:28:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:28:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:28:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[19-May-2024 17:28:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:28:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:29:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:29:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:29:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[19-May-2024 17:29:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:29:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:29:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:29:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:29:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:29:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:29:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[28-May-2024 02:01:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:01:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:01:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:01:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:01:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:01:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:01:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[28-May-2024 02:01:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:01:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:01:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:01:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:01:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:01:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:01:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[28-May-2024 02:01:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:01:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:01:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[28-May-2024 02:01:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:01:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:01:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:01:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 05:50:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 05:50:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 06:58:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 06:58:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:10:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:10:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:10:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[28-May-2024 07:12:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:12:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:12:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:12:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:12:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[28-May-2024 08:53:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 08:53:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 09:18:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 09:18:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 09:38:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 09:38:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 09:38:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[28-May-2024 11:46:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 11:46:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 11:46:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[28-May-2024 14:40:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 14:40:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 14:40:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[28-May-2024 16:28:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 16:28:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 17:21:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 17:21:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 17:21:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[28-May-2024 17:33:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 17:33:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 17:33:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[04-Jun-2024 04:07:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[04-Jun-2024 04:07:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[04-Jun-2024 04:07:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[04-Jun-2024 04:08:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[04-Jun-2024 04:08:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[04-Jun-2024 15:12:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:12:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:12:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[04-Jun-2024 15:13:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:13:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:14:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:14:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:14:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:14:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:14:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[04-Jun-2024 15:15:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:15:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:16:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:16:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:16:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[04-Jun-2024 15:16:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:16:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:17:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:17:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:17:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:17:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:17:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[04-Jun-2024 15:18:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:18:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:18:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[04-Jun-2024 15:19:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:19:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 20:20:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 20:20:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 20:20:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[11-Jun-2024 20:36:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 20:36:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 20:38:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 20:38:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 20:38:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[11-Jun-2024 20:41:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 20:41:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 20:44:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 20:44:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 20:44:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[11-Jun-2024 20:49:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 20:49:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 20:49:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[11-Jun-2024 20:51:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 20:51:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 20:51:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[11-Jun-2024 20:51:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 20:51:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 20:51:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 20:51:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 20:52:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 20:52:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 20:53:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 20:53:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 12:25:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 12:25:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 12:25:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 12:25:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 12:26:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 12:26:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 12:26:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[17-Jun-2024 12:27:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 12:27:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 12:27:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 12:27:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 12:28:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 12:28:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 12:28:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[17-Jun-2024 12:28:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 12:28:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 12:28:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[17-Jun-2024 12:29:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 12:29:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 16:12:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 16:12:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 16:12:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[17-Jun-2024 16:12:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 16:12:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 16:12:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 16:12:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 16:12:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[23-Jun-2024 13:44:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 13:44:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 13:44:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[23-Jun-2024 15:16:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 15:16:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 15:16:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[23-Jun-2024 16:20:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 16:20:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 18:34:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 18:34:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 18:34:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[23-Jun-2024 18:54:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 18:54:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 00:53:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 00:53:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 02:16:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 02:16:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 02:16:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[24-Jun-2024 03:16:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 03:16:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 03:49:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 03:49:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 03:49:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[24-Jun-2024 07:14:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 07:14:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 08:26:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 08:26:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 04:45:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 04:45:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 06:42:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 06:42:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 06:52:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 06:52:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:40:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:40:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 14:46:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 14:46:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 15:46:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 15:46:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 15:06:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 15:06:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 15:07:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 15:07:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 15:08:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 15:08:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 15:08:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[07-Jul-2024 15:09:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 15:09:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 15:11:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 15:11:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 15:11:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[07-Jul-2024 15:13:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 15:13:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 15:13:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[07-Jul-2024 15:15:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 15:15:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:09:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 17:09:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:09:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[07-Jul-2024 17:09:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 17:09:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:10:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 17:10:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[07-Jul-2024 19:48:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 19:48:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[10-Jul-2024 15:42:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[10-Jul-2024 15:42:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[10-Jul-2024 15:42:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[10-Jul-2024 15:42:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:42:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33

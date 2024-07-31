@@ -1,0 +1,474 @@
+[18-May-2024 14:47:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 14:47:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 14:48:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 14:48:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 14:55:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 14:55:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 14:56:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 14:56:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 14:59:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 14:59:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 15:00:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 15:00:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 15:00:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 15:00:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 15:00:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php on line 20
+[18-May-2024 15:01:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 15:01:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 15:01:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 15:01:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 15:01:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php on line 38
+[18-May-2024 15:02:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 15:02:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 15:02:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php on line 24
+[20-May-2024 14:47:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:47:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:47:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:47:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:48:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:48:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:48:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:48:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:49:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:49:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:49:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:49:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:49:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:49:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:49:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php on line 20
+[20-May-2024 14:49:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:49:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:49:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:49:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:49:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php on line 38
+[20-May-2024 14:49:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:49:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:49:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php on line 24
+[25-May-2024 11:50:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 11:50:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 11:50:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php on line 20
+[25-May-2024 12:21:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 12:21:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 15:39:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 15:39:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 16:03:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 16:03:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 16:21:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 16:21:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 16:21:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php on line 24
+[25-May-2024 17:17:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 17:17:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 00:06:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 00:06:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 00:20:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 00:20:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 00:20:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php on line 38
+[26-May-2024 01:48:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 01:48:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 01:49:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 01:49:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:01:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:01:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:02:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:02:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:02:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:02:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:03:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:03:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:03:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:03:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:03:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:03:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:03:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:03:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:03:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php on line 20
+[31-May-2024 15:03:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:03:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:03:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:03:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:03:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php on line 38
+[31-May-2024 15:03:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:03:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:03:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php on line 24
+[01-Jun-2024 06:23:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:23:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:23:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php on line 24
+[01-Jun-2024 06:30:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:30:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:31:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:31:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:31:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php on line 38
+[01-Jun-2024 06:36:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:36:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:44:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:44:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:47:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:47:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:57:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:57:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:57:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:57:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:59:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:59:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:59:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php on line 20
+[04-Jun-2024 04:14:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:14:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:14:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:14:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:14:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:14:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:14:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:14:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:15:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:15:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:15:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:15:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:15:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:15:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:15:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php on line 20
+[04-Jun-2024 04:15:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:15:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:15:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:15:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:15:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php on line 38
+[04-Jun-2024 04:15:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:15:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:15:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php on line 24
+[04-Jun-2024 04:33:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:33:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:33:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php on line 24
+[04-Jun-2024 04:33:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:33:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:33:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php on line 20
+[04-Jun-2024 04:33:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:33:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:33:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:33:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:33:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:33:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:33:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:33:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:33:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:33:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:34:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:34:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:34:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php on line 38
+[04-Jun-2024 04:34:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:34:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:34:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:34:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:31:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:31:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:32:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:32:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:33:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:33:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:33:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:33:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:33:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:33:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:33:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:33:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:33:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:33:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:33:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php on line 20
+[07-Jun-2024 04:33:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:33:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:33:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:33:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:33:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php on line 38
+[07-Jun-2024 04:34:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:34:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:34:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php on line 24
+[10-Jun-2024 10:10:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 10:10:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 11:57:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 11:57:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 11:59:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 11:59:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 12:02:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 12:02:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 12:03:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 12:03:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 12:04:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 12:04:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 12:05:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 12:05:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 12:07:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 12:07:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 12:07:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php on line 20
+[10-Jun-2024 12:08:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 12:08:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 12:09:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 12:09:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 12:09:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php on line 38
+[10-Jun-2024 12:10:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 12:10:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 12:10:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php on line 24
+[20-Jun-2024 02:22:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 02:22:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 02:22:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php on line 20
+[20-Jun-2024 05:46:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 05:46:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 05:46:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php on line 38
+[20-Jun-2024 06:53:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 06:53:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 07:56:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 07:56:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 08:10:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 08:10:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 08:10:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php on line 24
+[20-Jun-2024 08:24:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 08:24:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 09:28:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 09:28:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 18:23:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 18:23:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 19:02:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 19:02:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 19:47:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 19:47:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 14:15:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 14:15:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 14:44:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 14:44:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 19:46:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 19:46:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 19:46:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php on line 20
+[25-Jun-2024 20:14:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 20:14:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 20:28:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 20:28:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 21:33:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 21:33:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 21:33:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php on line 24
+[25-Jun-2024 22:48:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 22:48:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 22:48:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php on line 38
+[25-Jun-2024 23:28:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 23:28:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 23:41:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 23:41:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 01:17:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 01:17:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:12:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:12:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:25:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:25:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:57:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:57:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 22:33:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 22:33:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 23:52:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 23:52:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 02:58:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 02:58:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 07:01:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 07:01:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 01:03:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 01:03:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 01:04:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 01:04:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 01:07:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 01:07:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 01:08:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 01:08:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 01:11:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 01:11:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 01:15:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 01:15:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 01:19:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 01:19:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 01:19:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php on line 20
+[01-Jul-2024 01:24:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 01:24:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 01:25:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 01:25:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 01:25:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php on line 38
+[01-Jul-2024 01:27:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 01:27:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 01:27:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php on line 24
+[09-Jul-2024 23:30:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 23:30:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 04:15:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 04:15:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 09:00:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 09:00:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 09:00:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php on line 24
+[10-Jul-2024 16:08:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:08:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:08:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php on line 24
+[10-Jul-2024 16:08:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:08:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:08:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php on line 20
+[10-Jul-2024 16:08:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:08:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:08:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:08:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:08:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:08:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:08:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:08:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:09:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:09:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:09:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:09:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:09:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php on line 38
+[10-Jul-2024 16:09:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:09:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:09:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:09:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:09:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:09:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouterInterface.php on line 24
+[12-Jul-2024 03:37:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/RouteCompiler.php on line 20
+[12-Jul-2024 03:37:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Router.php on line 38
+[12-Jul-2024 03:37:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:37:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

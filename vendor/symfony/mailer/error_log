@@ -1,0 +1,310 @@
+[11-May-2024 02:44:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:44:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:44:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[11-May-2024 02:44:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:44:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:44:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:44:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:44:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php on line 26
+[11-May-2024 02:44:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:44:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:44:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:44:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:45:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:45:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:30:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:30:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:30:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[18-May-2024 12:31:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:31:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:32:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:32:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:32:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php on line 26
+[18-May-2024 12:33:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:33:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:34:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:34:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:34:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:34:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:08:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:08:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:08:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[20-May-2024 14:10:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:10:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:17:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:17:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:17:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php on line 26
+[20-May-2024 14:19:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:19:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:21:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:21:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:24:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:24:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 08:53:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 08:53:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 09:14:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 09:14:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 09:42:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 09:42:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 09:42:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php on line 26
+[25-May-2024 12:38:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 12:38:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 20:06:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 20:06:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 20:06:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[25-May-2024 20:23:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 20:23:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:48:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:48:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:48:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[31-May-2024 14:48:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:48:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:49:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:49:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:49:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php on line 26
+[31-May-2024 14:49:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:49:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:49:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:49:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:49:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:49:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 03:41:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 03:41:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 03:41:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php on line 26
+[01-Jun-2024 03:43:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 03:43:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 03:46:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 03:46:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 03:50:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 03:50:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 04:13:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 04:13:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 04:30:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 04:30:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 04:30:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[04-Jun-2024 04:40:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:40:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:40:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:40:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:40:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[04-Jun-2024 04:40:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:40:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:40:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:40:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:40:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:40:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:41:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:41:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:41:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php on line 26
+[04-Jun-2024 05:10:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:10:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:10:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[04-Jun-2024 05:10:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:10:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:12:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:12:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:12:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php on line 26
+[04-Jun-2024 05:12:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:12:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:13:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:13:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:14:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:14:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 11:33:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 11:33:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 11:33:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[10-Jun-2024 11:35:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 11:35:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 11:36:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 11:36:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 11:36:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php on line 26
+[10-Jun-2024 11:38:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 11:38:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 11:40:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 11:40:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 11:41:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 11:41:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 04:22:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 04:22:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 04:59:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 04:59:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 05:01:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 05:01:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 05:01:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[20-Jun-2024 06:46:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 06:46:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 06:46:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php on line 26
+[20-Jun-2024 11:41:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 11:41:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 17:08:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 17:08:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 05:21:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 05:21:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 06:17:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 06:17:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 12:19:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 12:19:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 12:19:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php on line 26
+[26-Jun-2024 13:05:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 13:05:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 13:05:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[26-Jun-2024 15:05:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 15:05:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 15:29:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 15:29:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:15:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:15:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:31:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:31:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 03:03:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 03:03:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 05:13:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 05:13:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 00:48:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 00:48:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 00:48:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[01-Jul-2024 00:48:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 00:48:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 00:50:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 00:50:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 00:50:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php on line 26
+[01-Jul-2024 00:51:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 00:51:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 00:52:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 00:52:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 00:53:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 00:53:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 23:55:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 23:55:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 02:52:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 02:52:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 04:24:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 04:24:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 04:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[08-Jul-2024 14:20:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 14:20:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 14:20:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php on line 26
+[09-Jul-2024 03:12:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 03:12:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 03:47:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 03:47:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 12:17:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 12:17:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:15:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:15:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:15:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:15:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:15:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[10-Jul-2024 16:15:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:15:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:15:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:15:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:16:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:16:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:16:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:16:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:16:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php on line 26
+[12-Jul-2024 03:42:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:42:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:42:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Mailer.php on line 26
+[12-Jul-2024 03:42:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:42:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:42:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[12-Jul-2024 03:42:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:42:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:42:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:42:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:42:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:42:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:42:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:42:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

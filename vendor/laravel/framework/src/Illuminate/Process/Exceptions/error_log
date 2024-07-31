@@ -1,0 +1,74 @@
+[12-May-2024 10:00:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:00:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:01:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:01:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:01:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php on line 9
+[26-May-2024 05:13:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 05:13:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 12:42:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 12:42:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 12:42:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php on line 9
+[04-Jun-2024 12:41:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:41:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:41:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php on line 9
+[04-Jun-2024 12:41:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:41:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:38:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:38:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:38:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php on line 9
+[07-Jun-2024 05:14:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 05:14:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:04:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:04:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:04:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:04:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:04:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php on line 9
+[14-Jun-2024 20:51:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 20:51:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 04:06:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 04:06:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 04:06:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php on line 9
+[02-Jul-2024 07:59:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:59:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 19:45:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 19:45:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 19:45:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php on line 9
+[04-Jul-2024 11:14:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 11:14:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 17:04:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 17:04:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 17:04:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php on line 9
+[07-Jul-2024 16:27:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 16:27:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:30:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:30:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:30:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Process/Exceptions/ProcessTimedOutException.php on line 9
+[11-Jul-2024 00:30:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:30:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

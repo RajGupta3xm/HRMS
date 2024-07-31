@@ -1,0 +1,366 @@
+[12-May-2024 00:14:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:14:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:14:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php on line 7
+[12-May-2024 00:14:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:14:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:14:08 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php on line 11
+[12-May-2024 00:14:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:14:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:14:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:14:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:14:15 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php on line 6
+[12-May-2024 00:14:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:14:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:14:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php on line 5
+[13-May-2024 06:06:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 06:06:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 06:06:09 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php on line 11
+[13-May-2024 06:06:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 06:06:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 06:06:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 06:06:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 06:06:19 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php on line 6
+[13-May-2024 06:06:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 06:06:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 06:06:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php on line 5
+[13-May-2024 09:43:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 09:43:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 09:43:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php on line 7
+[19-May-2024 12:05:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:05:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:05:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php on line 7
+[19-May-2024 12:05:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:05:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:05:34 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php on line 11
+[19-May-2024 12:05:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:05:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:06:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:06:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:06:13 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php on line 6
+[19-May-2024 12:06:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:06:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:06:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php on line 5
+[31-May-2024 01:36:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 01:36:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 01:36:19 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php on line 6
+[31-May-2024 05:15:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 05:15:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:15:45 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php on line 11
+[31-May-2024 08:13:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 08:13:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 13:05:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 13:05:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 13:05:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php on line 5
+[31-May-2024 14:31:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:31:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:31:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php on line 7
+[01-Jun-2024 06:24:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:24:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:24:56 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php on line 6
+[01-Jun-2024 06:33:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:33:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:33:13 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php on line 11
+[01-Jun-2024 06:37:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:37:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:37:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php on line 5
+[01-Jun-2024 06:44:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:44:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 07:00:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 07:00:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 07:00:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php on line 7
+[02-Jun-2024 03:39:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 03:39:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 03:39:07 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php on line 11
+[02-Jun-2024 03:41:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 03:41:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 03:44:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 03:44:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 03:44:24 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php on line 6
+[02-Jun-2024 03:47:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 03:47:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 03:47:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php on line 5
+[02-Jun-2024 06:56:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 06:56:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 06:56:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php on line 7
+[04-Jun-2024 09:18:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:18:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:18:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php on line 5
+[04-Jun-2024 09:18:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:18:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:18:32 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php on line 6
+[04-Jun-2024 09:18:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:18:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:18:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:18:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:18:40 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php on line 11
+[04-Jun-2024 09:18:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:18:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:18:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php on line 7
+[07-Jun-2024 22:45:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:45:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:45:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php on line 7
+[07-Jun-2024 22:45:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:45:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:45:47 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php on line 11
+[07-Jun-2024 22:45:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:45:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:45:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:45:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:45:53 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php on line 6
+[07-Jun-2024 22:45:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:45:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:45:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php on line 5
+[21-Jun-2024 17:18:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-Jun-2024 17:18:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-Jun-2024 17:18:54 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php on line 11
+[21-Jun-2024 17:20:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-Jun-2024 17:20:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-Jun-2024 17:22:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-Jun-2024 17:22:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-Jun-2024 17:22:01 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php on line 6
+[21-Jun-2024 17:22:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-Jun-2024 17:22:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-Jun-2024 17:22:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php on line 5
+[21-Jun-2024 21:06:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-Jun-2024 21:06:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-Jun-2024 21:06:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php on line 7
+[26-Jun-2024 21:09:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:09:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:09:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php on line 5
+[27-Jun-2024 00:42:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 00:42:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 00:42:11 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php on line 11
+[27-Jun-2024 07:01:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 07:01:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 07:01:44 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php on line 6
+[27-Jun-2024 11:02:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 11:02:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 11:02:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php on line 7
+[27-Jun-2024 13:26:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 13:26:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:31:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:31:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:18:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:18:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:18:48 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php on line 11
+[02-Jul-2024 06:54:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:54:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:54:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php on line 7
+[02-Jul-2024 08:47:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:47:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:47:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php on line 5
+[02-Jul-2024 12:34:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:34:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 12:34:10 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php on line 6
+[03-Jul-2024 23:41:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 23:41:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 23:41:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php on line 7
+[03-Jul-2024 23:41:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 23:41:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 23:41:48 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php on line 11
+[03-Jul-2024 23:42:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 23:42:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 23:42:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 23:42:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 23:42:38 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php on line 6
+[03-Jul-2024 23:42:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 23:42:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 23:42:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php on line 5
+[05-Jul-2024 13:39:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 13:39:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:00:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:00:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:00:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php on line 5
+[10-Jul-2024 21:00:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:00:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:00:23 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php on line 6
+[10-Jul-2024 21:00:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:00:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:00:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:00:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:00:31 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php on line 11
+[10-Jul-2024 21:00:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:00:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:00:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php on line 7
+[10-Jul-2024 22:34:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:34:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 22:34:19 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/MultipleErrors.php on line 11
+[10-Jul-2024 22:35:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:35:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 22:35:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:35:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 22:35:47 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Result\InvalidEmail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/SpoofEmail.php on line 6
+[10-Jul-2024 22:36:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:36:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 22:36:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/ValidEmail.php on line 5
+[11-Jul-2024 03:07:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:07:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:07:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Result\Result" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/Result/InvalidEmail.php on line 7

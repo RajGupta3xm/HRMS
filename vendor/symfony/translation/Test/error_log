@@ -1,0 +1,120 @@
+[20-May-2024 01:11:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:11:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 01:11:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 32
+[20-May-2024 01:11:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:11:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 01:11:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php on line 29
+[27-May-2024 08:14:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:14:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:14:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 32
+[27-May-2024 08:15:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:15:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:15:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php on line 29
+[27-May-2024 23:34:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 23:34:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 23:34:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 32
+[28-May-2024 12:52:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 12:52:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 12:52:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php on line 29
+[01-Jun-2024 14:30:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:30:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:30:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 32
+[01-Jun-2024 14:53:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:53:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:53:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php on line 29
+[04-Jun-2024 04:25:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:25:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:25:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php on line 29
+[04-Jun-2024 04:25:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:25:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:25:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 32
+[14-Jun-2024 07:15:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 07:15:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 07:15:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 32
+[14-Jun-2024 07:15:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 07:15:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 07:15:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php on line 29
+[23-Jun-2024 23:57:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 23:57:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 23:57:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 32
+[24-Jun-2024 04:48:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 04:48:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 04:48:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php on line 29
+[29-Jun-2024 17:49:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:49:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:49:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php on line 29
+[29-Jun-2024 18:32:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:32:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:32:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 32
+[02-Jul-2024 02:33:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 02:33:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 02:33:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 32
+[02-Jul-2024 02:33:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 02:33:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 02:33:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php on line 29
+[10-Jul-2024 15:59:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:59:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderTestCase.php on line 29
+[10-Jul-2024 15:59:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:59:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 32

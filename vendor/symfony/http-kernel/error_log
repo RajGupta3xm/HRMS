@@ -1,0 +1,600 @@
+[11-May-2024 02:43:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:43:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:43:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[11-May-2024 02:43:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:43:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:43:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[11-May-2024 02:43:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:43:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:43:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\BrowserKit\AbstractBrowser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[11-May-2024 02:43:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:43:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:43:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:43:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:43:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\KernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php on line 56
+[11-May-2024 02:43:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:43:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:43:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:43:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:43:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[11-May-2024 02:43:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:43:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:43:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:43:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:43:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:43:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:43:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php on line 16
+[18-May-2024 12:23:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:23:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:23:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[18-May-2024 12:23:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:23:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:23:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[18-May-2024 12:24:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:24:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:24:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\BrowserKit\AbstractBrowser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[18-May-2024 12:24:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:24:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:24:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:24:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:24:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\KernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php on line 56
+[18-May-2024 12:25:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:25:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:25:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:25:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:25:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[18-May-2024 12:26:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:26:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:27:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:27:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:27:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 12:27:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 12:27:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php on line 16
+[25-May-2024 09:25:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 09:25:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 10:28:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 10:28:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 13:20:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 13:20:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 13:20:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[25-May-2024 19:30:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 19:30:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 19:30:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php on line 16
+[25-May-2024 23:10:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 23:10:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 23:10:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[26-May-2024 00:37:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 00:37:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 00:37:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 00:37:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 00:37:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\BrowserKit\AbstractBrowser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[26-May-2024 01:15:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 01:15:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 01:15:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\KernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php on line 56
+[26-May-2024 02:35:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 02:35:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 04:33:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 04:33:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 04:33:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[27-May-2024 01:35:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 01:35:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 01:35:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[27-May-2024 01:35:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 01:35:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 01:35:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\BrowserKit\AbstractBrowser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[27-May-2024 01:35:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 01:35:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 01:35:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\KernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php on line 56
+[27-May-2024 01:35:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 01:35:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 01:35:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 01:35:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 01:35:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[27-May-2024 01:35:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 01:35:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:01:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:01:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:01:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[28-May-2024 02:01:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:01:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:01:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:01:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:01:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php on line 16
+[28-May-2024 06:56:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 06:56:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:46:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:46:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:46:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[31-May-2024 14:46:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:46:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:46:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[31-May-2024 14:46:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:46:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:46:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\BrowserKit\AbstractBrowser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[31-May-2024 14:47:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:47:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:47:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:47:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:47:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\KernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php on line 56
+[31-May-2024 14:47:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:47:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:47:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:47:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:47:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[31-May-2024 14:47:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:47:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:48:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:48:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:48:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:48:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:48:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php on line 16
+[01-Jun-2024 06:27:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:27:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:27:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\BrowserKit\AbstractBrowser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[01-Jun-2024 06:43:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:43:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:45:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:45:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:59:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:59:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:59:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\KernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php on line 56
+[01-Jun-2024 09:28:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:28:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:28:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[01-Jun-2024 09:29:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:29:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:29:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[01-Jun-2024 09:33:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:33:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:33:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:33:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:33:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php on line 16
+[01-Jun-2024 09:36:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:36:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:36:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[01-Jun-2024 12:14:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 12:14:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php on line 16
+[04-Jun-2024 04:00:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[04-Jun-2024 04:00:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[04-Jun-2024 04:00:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\KernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php on line 56
+[04-Jun-2024 04:00:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\BrowserKit\AbstractBrowser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[04-Jun-2024 04:00:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[04-Jun-2024 04:00:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:00:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:05:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:05:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:05:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[04-Jun-2024 05:05:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:05:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:05:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[04-Jun-2024 05:05:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:05:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:05:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\BrowserKit\AbstractBrowser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[04-Jun-2024 05:06:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:06:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:06:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:06:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:06:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\KernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php on line 56
+[04-Jun-2024 05:06:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:06:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:06:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:06:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:06:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[04-Jun-2024 05:07:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:08:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:08:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:08:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:08:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:08:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php on line 16
+[18-Jun-2024 06:54:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 06:54:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 06:54:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[18-Jun-2024 06:55:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 06:55:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 06:55:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\BrowserKit\AbstractBrowser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[18-Jun-2024 06:56:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 06:56:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 06:56:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\KernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php on line 56
+[18-Jun-2024 06:57:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 06:57:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 06:57:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 06:57:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 06:57:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[18-Jun-2024 06:58:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 06:58:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 07:47:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 07:47:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 07:47:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[19-Jun-2024 07:48:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 07:48:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 07:49:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 07:49:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 07:49:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php on line 16
+[19-Jun-2024 11:20:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 11:20:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 08:59:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 08:59:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 09:46:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 09:46:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 09:46:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\KernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php on line 56
+[20-Jun-2024 10:48:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 10:48:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 10:48:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[20-Jun-2024 14:36:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 14:36:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 14:41:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 14:41:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 14:41:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[20-Jun-2024 18:06:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 18:06:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 19:11:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 19:11:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 19:11:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php on line 16
+[20-Jun-2024 19:49:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 19:49:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 19:49:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[20-Jun-2024 21:02:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 21:02:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 21:02:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\BrowserKit\AbstractBrowser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[20-Jun-2024 21:32:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 21:32:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 21:40:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 21:40:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 22:42:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 22:42:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 05:18:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 05:18:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 05:56:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 05:56:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:39:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:39:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:39:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[10-Jul-2024 01:40:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:40:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:40:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\BrowserKit\AbstractBrowser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[10-Jul-2024 01:40:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:40:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:40:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\KernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php on line 56
+[10-Jul-2024 01:41:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:41:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:41:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:41:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:41:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[10-Jul-2024 01:42:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:42:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:19:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:19:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:19:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[10-Jul-2024 15:34:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php on line 16
+[10-Jul-2024 15:34:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[10-Jul-2024 15:34:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[10-Jul-2024 15:34:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\KernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php on line 56
+[10-Jul-2024 15:34:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\BrowserKit\AbstractBrowser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[10-Jul-2024 15:34:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[10-Jul-2024 15:34:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:35:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:35:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:35:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:35:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:40:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:40:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:40:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[11-Jul-2024 03:11:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:11:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:11:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[11-Jul-2024 03:12:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:12:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:13:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:13:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php on line 16
+[11-Jul-2024 03:14:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:14:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:26:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:26:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:26:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[12-Jul-2024 03:40:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpClientKernel.php on line 32
+[12-Jul-2024 03:40:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernel.php on line 52
+[12-Jul-2024 03:40:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\HttpKernel\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/UriSigner.php on line 16
+[12-Jul-2024 03:40:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\BrowserKit\AbstractBrowser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/HttpKernelBrowser.php on line 31
+[12-Jul-2024 03:40:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\KernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Kernel.php on line 56
+[12-Jul-2024 03:40:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/KernelInterface.php on line 25
+[12-Jul-2024 03:40:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:40:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 09:00:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 09:00:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

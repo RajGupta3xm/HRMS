@@ -1,0 +1,300 @@
+[11-May-2024 16:15:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:15:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:15:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php on line 24
+[11-May-2024 16:15:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:15:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:15:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php on line 28
+[11-May-2024 16:15:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:15:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:15:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php on line 24
+[11-May-2024 16:15:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:15:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:15:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php on line 24
+[20-May-2024 00:18:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:18:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:18:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php on line 24
+[20-May-2024 00:18:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:18:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:18:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php on line 28
+[20-May-2024 00:18:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:18:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:18:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php on line 24
+[20-May-2024 00:18:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:18:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:18:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php on line 24
+[20-May-2024 23:09:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 23:09:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 23:09:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php on line 24
+[20-May-2024 23:09:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 23:09:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 23:09:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php on line 28
+[20-May-2024 23:09:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 23:09:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 23:09:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php on line 24
+[21-May-2024 04:46:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 04:46:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 04:46:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php on line 24
+[28-May-2024 02:45:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:45:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:45:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php on line 28
+[28-May-2024 04:19:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 04:19:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 04:19:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php on line 24
+[28-May-2024 09:15:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 09:15:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 09:15:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php on line 24
+[28-May-2024 18:55:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 18:55:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 18:55:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php on line 24
+[01-Jun-2024 14:51:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:51:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:51:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php on line 28
+[01-Jun-2024 14:55:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:55:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:55:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php on line 24
+[01-Jun-2024 14:57:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:57:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:57:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php on line 24
+[01-Jun-2024 15:00:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 15:00:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 15:00:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php on line 24
+[04-Jun-2024 04:41:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:41:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:41:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php on line 24
+[04-Jun-2024 04:41:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:41:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:41:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php on line 24
+[04-Jun-2024 04:41:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:41:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:41:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php on line 28
+[04-Jun-2024 04:41:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:41:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:41:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php on line 24
+[04-Jun-2024 13:12:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:12:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:12:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php on line 24
+[04-Jun-2024 13:12:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:12:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:12:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php on line 28
+[04-Jun-2024 13:12:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:12:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:12:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php on line 24
+[04-Jun-2024 13:12:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:12:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:12:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php on line 24
+[08-Jun-2024 17:39:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 17:39:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 17:39:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php on line 24
+[08-Jun-2024 17:41:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 17:41:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 17:41:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php on line 28
+[08-Jun-2024 17:42:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 17:42:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 17:42:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php on line 24
+[08-Jun-2024 21:34:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 21:34:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 21:34:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php on line 24
+[23-Jun-2024 13:53:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 13:53:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 13:53:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php on line 24
+[23-Jun-2024 21:30:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 21:30:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 21:30:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php on line 24
+[24-Jun-2024 04:12:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 04:12:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 04:12:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php on line 28
+[24-Jun-2024 04:15:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 04:15:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 04:15:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php on line 24
+[27-Jun-2024 01:19:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:19:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:19:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php on line 24
+[27-Jun-2024 01:20:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:20:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:20:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php on line 28
+[27-Jun-2024 01:21:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:21:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:21:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php on line 24
+[27-Jun-2024 04:44:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 04:44:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 04:44:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php on line 24
+[29-Jun-2024 12:52:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 12:52:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 12:52:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php on line 24
+[29-Jun-2024 14:03:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:03:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:03:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php on line 24
+[29-Jun-2024 20:42:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:42:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:42:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php on line 24
+[30-Jun-2024 07:36:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 07:36:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 07:36:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php on line 28
+[10-Jul-2024 13:22:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:22:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:22:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php on line 24
+[10-Jul-2024 16:16:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:16:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:16:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessengerTransportListener.php on line 24
+[10-Jul-2024 16:16:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:16:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:16:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageLoggerListener.php on line 24
+[10-Jul-2024 16:16:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:16:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:16:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php on line 28
+[10-Jul-2024 16:16:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:16:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:16:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/EnvelopeListener.php on line 24
+[10-Jul-2024 21:32:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:32:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:32:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventSubscriberInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/EventListener/MessageListener.php on line 28

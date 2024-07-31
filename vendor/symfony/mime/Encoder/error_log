@@ -1,0 +1,798 @@
+[11-May-2024 16:17:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:17:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:17:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:17:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:17:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php on line 19
+[11-May-2024 16:17:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:17:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:17:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php on line 17
+[11-May-2024 16:17:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:17:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:17:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php on line 17
+[11-May-2024 16:17:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:17:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:17:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php on line 17
+[11-May-2024 16:17:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:17:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:17:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php on line 17
+[11-May-2024 16:17:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:17:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:17:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:17:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:17:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\AddressEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php on line 25
+[11-May-2024 16:17:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:17:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:17:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:17:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:17:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php on line 17
+[11-May-2024 16:17:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:17:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:17:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php on line 19
+[11-May-2024 16:17:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:17:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:17:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\QpEncoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php on line 17
+[11-May-2024 16:17:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:17:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:17:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php on line 19
+[20-May-2024 00:27:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:27:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:28:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:28:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:28:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php on line 19
+[20-May-2024 00:28:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:28:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:28:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php on line 17
+[20-May-2024 00:28:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:28:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:28:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php on line 17
+[20-May-2024 00:28:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:28:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:28:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php on line 17
+[20-May-2024 00:28:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:28:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:28:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php on line 17
+[20-May-2024 00:29:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:29:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:29:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:29:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:29:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\AddressEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php on line 25
+[20-May-2024 00:29:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:29:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:29:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:29:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:29:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php on line 17
+[20-May-2024 00:29:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:29:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:29:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php on line 19
+[20-May-2024 00:30:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:30:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:30:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\QpEncoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php on line 17
+[20-May-2024 00:30:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:30:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:30:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php on line 19
+[22-May-2024 23:22:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:22:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:22:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:22:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:22:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php on line 19
+[22-May-2024 23:22:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:22:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:22:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php on line 17
+[22-May-2024 23:22:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:22:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:22:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php on line 17
+[22-May-2024 23:22:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:22:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:22:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php on line 17
+[22-May-2024 23:22:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:22:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:22:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php on line 17
+[22-May-2024 23:22:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:22:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:22:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:22:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:22:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\AddressEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php on line 25
+[22-May-2024 23:22:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:22:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:22:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:22:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:22:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php on line 17
+[22-May-2024 23:22:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:22:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:22:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php on line 19
+[22-May-2024 23:22:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:22:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:22:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\QpEncoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php on line 17
+[22-May-2024 23:22:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:22:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:22:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php on line 19
+[28-May-2024 01:56:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 01:56:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 04:04:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 04:04:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 04:04:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php on line 17
+[28-May-2024 04:11:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 04:11:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 04:11:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php on line 17
+[28-May-2024 04:46:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 04:46:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 04:46:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php on line 17
+[28-May-2024 06:32:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 06:32:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 06:32:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php on line 19
+[28-May-2024 07:10:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:10:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:10:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\QpEncoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php on line 17
+[28-May-2024 07:22:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:22:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:22:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php on line 17
+[28-May-2024 09:40:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 09:40:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 11:15:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 11:15:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 11:15:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\AddressEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php on line 25
+[28-May-2024 11:39:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 11:39:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 15:46:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 15:46:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 15:46:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php on line 19
+[28-May-2024 16:04:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 16:04:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 16:04:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php on line 17
+[28-May-2024 19:16:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 19:16:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 19:16:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php on line 19
+[04-Jun-2024 05:07:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php on line 19
+[04-Jun-2024 05:07:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\QpEncoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php on line 17
+[04-Jun-2024 05:07:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php on line 19
+[04-Jun-2024 05:07:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php on line 17
+[04-Jun-2024 05:07:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\AddressEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php on line 25
+[04-Jun-2024 05:07:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php on line 17
+[04-Jun-2024 05:07:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:07:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php on line 17
+[04-Jun-2024 05:08:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:08:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:08:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php on line 17
+[04-Jun-2024 05:08:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:08:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:08:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php on line 17
+[04-Jun-2024 05:08:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:08:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:08:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php on line 19
+[04-Jun-2024 05:08:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:08:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php on line 19
+[04-Jun-2024 13:15:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php on line 17
+[04-Jun-2024 13:15:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php on line 17
+[04-Jun-2024 13:15:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php on line 17
+[04-Jun-2024 13:15:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php on line 17
+[04-Jun-2024 13:15:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\AddressEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php on line 25
+[04-Jun-2024 13:15:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:15:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php on line 17
+[04-Jun-2024 13:16:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:16:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:16:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php on line 19
+[04-Jun-2024 13:16:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:16:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:16:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\QpEncoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php on line 17
+[04-Jun-2024 13:16:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:16:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:16:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php on line 19
+[11-Jun-2024 17:48:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 17:48:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 17:48:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php on line 17
+[11-Jun-2024 17:51:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 17:51:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 17:54:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 17:54:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 17:54:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\AddressEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php on line 25
+[11-Jun-2024 17:56:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 17:56:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 17:56:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\QpEncoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php on line 17
+[11-Jun-2024 17:57:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 17:57:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 17:57:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php on line 17
+[11-Jun-2024 17:57:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 17:57:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 17:57:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php on line 19
+[11-Jun-2024 17:59:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 17:59:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 17:59:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php on line 17
+[11-Jun-2024 17:59:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 17:59:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 17:59:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php on line 17
+[11-Jun-2024 17:59:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 17:59:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 17:59:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php on line 17
+[11-Jun-2024 18:01:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 18:01:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 18:01:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php on line 19
+[11-Jun-2024 18:03:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 18:03:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 18:03:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php on line 19
+[11-Jun-2024 18:06:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 18:06:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 18:06:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 18:06:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 20:51:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 20:51:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 20:51:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 20:51:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 20:51:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php on line 19
+[12-Jun-2024 20:51:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 20:51:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 20:51:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php on line 17
+[12-Jun-2024 20:52:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 20:52:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 20:52:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php on line 17
+[12-Jun-2024 20:52:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 20:52:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 20:52:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php on line 17
+[12-Jun-2024 20:53:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 20:53:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 20:53:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php on line 17
+[12-Jun-2024 20:53:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 20:53:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 20:53:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 20:53:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 20:53:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\AddressEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php on line 25
+[12-Jun-2024 20:54:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 20:54:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 20:54:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 20:54:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 20:54:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php on line 17
+[12-Jun-2024 20:54:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 20:54:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 20:54:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php on line 19
+[12-Jun-2024 20:55:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 20:55:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 20:55:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\QpEncoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php on line 17
+[12-Jun-2024 20:55:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 20:55:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 20:55:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php on line 19
+[23-Jun-2024 16:07:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 16:07:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 16:07:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php on line 19
+[23-Jun-2024 19:36:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 19:36:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 19:36:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php on line 17
+[23-Jun-2024 21:24:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 21:24:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 21:24:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\QpEncoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php on line 17
+[23-Jun-2024 22:08:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 22:08:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 22:08:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\AddressEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php on line 25
+[23-Jun-2024 23:36:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 23:36:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 00:17:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 00:17:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 00:17:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php on line 17
+[24-Jun-2024 02:22:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 02:22:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 02:22:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php on line 17
+[24-Jun-2024 03:34:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 03:34:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 03:34:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php on line 17
+[24-Jun-2024 06:37:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 06:37:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 06:37:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php on line 17
+[24-Jun-2024 06:44:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 06:44:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 06:44:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php on line 19
+[24-Jun-2024 07:36:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 07:36:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 07:49:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 07:49:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 08:17:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 08:17:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 08:17:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php on line 19
+[29-Jun-2024 11:46:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 11:46:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 11:46:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\AddressEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php on line 25
+[29-Jun-2024 13:36:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:36:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:38:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:38:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:53:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:53:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:53:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php on line 19
+[29-Jun-2024 13:55:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:55:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:55:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php on line 17
+[29-Jun-2024 17:07:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:07:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:07:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php on line 19
+[29-Jun-2024 18:01:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:01:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:01:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php on line 17
+[29-Jun-2024 19:01:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:01:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:01:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php on line 17
+[29-Jun-2024 19:43:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:43:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:52:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:52:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:52:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php on line 19
+[29-Jun-2024 21:27:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 21:27:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 21:27:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php on line 17
+[29-Jun-2024 21:27:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 21:27:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 21:27:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\QpEncoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php on line 17
+[30-Jun-2024 08:02:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:02:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:02:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php on line 17
+[03-Jul-2024 11:24:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 11:24:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 11:26:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 11:26:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 11:26:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php on line 17
+[03-Jul-2024 11:27:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 11:27:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 11:27:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php on line 17
+[03-Jul-2024 11:28:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 11:28:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 11:28:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php on line 17
+[03-Jul-2024 11:29:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 11:29:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 11:29:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php on line 17
+[03-Jul-2024 11:30:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 11:30:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 11:31:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 11:31:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 11:31:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\AddressEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php on line 25
+[03-Jul-2024 11:32:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 11:32:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 11:34:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 11:34:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 11:34:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php on line 17
+[03-Jul-2024 11:35:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 11:35:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 11:35:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php on line 19
+[03-Jul-2024 11:36:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 11:36:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 11:36:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\QpEncoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php on line 17
+[03-Jul-2024 11:37:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 11:37:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 11:37:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php on line 19
+[03-Jul-2024 16:32:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 16:32:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 16:32:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php on line 19
+[05-Jul-2024 03:36:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 03:36:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 05:09:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 05:09:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 12:08:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 12:08:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Rfc2231Encoder.php on line 19
+[10-Jul-2024 16:43:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\QpEncoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpMimeHeaderEncoder.php on line 17
+[10-Jul-2024 16:43:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpEncoder.php on line 19
+[10-Jul-2024 16:43:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/QpContentEncoder.php on line 17
+[10-Jul-2024 16:43:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\AddressEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/IdnAddressEncoder.php on line 25
+[10-Jul-2024 16:43:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\ContentEncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/EightBitContentEncoder.php on line 17
+[10-Jul-2024 16:43:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/ContentEncoderInterface.php on line 17
+[10-Jul-2024 16:43:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64MimeHeaderEncoder.php on line 17
+[10-Jul-2024 16:43:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Encoder\EncoderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64Encoder.php on line 17
+[10-Jul-2024 16:43:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Encoder\Base64Encoder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mime/Encoder/Base64ContentEncoder.php on line 19
+[10-Jul-2024 16:43:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:43:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

@@ -1,0 +1,262 @@
+[15-May-2024 10:10:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:10:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:10:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[15-May-2024 10:10:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:10:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:10:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:10:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:10:47 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[15-May-2024 10:10:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:10:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:10:49 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 23
+[19-May-2024 15:24:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 15:24:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 15:24:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[19-May-2024 22:27:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:27:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:27:41 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 23
+[19-May-2024 22:27:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:27:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:27:54 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[19-May-2024 22:28:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:28:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 21:25:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 21:25:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 21:25:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[23-May-2024 23:20:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 23:20:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 23:21:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 23:21:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 23:21:16 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[23-May-2024 23:21:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 23:21:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 23:21:57 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 23
+[30-May-2024 21:43:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 21:43:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 22:07:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 22:07:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 22:07:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[31-May-2024 04:02:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 04:02:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:02:52 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 23
+[31-May-2024 16:26:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 16:26:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 16:26:33 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[05-Jun-2024 01:18:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:18:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:18:45 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 23
+[05-Jun-2024 01:18:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:18:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:18:49 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[05-Jun-2024 01:18:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:18:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:18:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[05-Jun-2024 01:19:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:19:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[07-Jun-2024 18:09:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:07 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[07-Jun-2024 18:09:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:09 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 23
+[10-Jun-2024 12:30:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 12:30:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 12:52:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 12:52:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 12:52:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[10-Jun-2024 12:56:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 12:56:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 12:56:20 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[10-Jun-2024 13:02:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 13:02:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 13:02:55 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 23
+[12-Jun-2024 13:26:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 13:26:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 13:26:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[12-Jun-2024 17:42:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 17:42:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 17:43:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 17:43:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 17:43:16 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[12-Jun-2024 17:43:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 17:43:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 17:43:37 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 23
+[27-Jun-2024 06:31:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 06:31:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 06:31:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[27-Jun-2024 10:50:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 10:50:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:50:41 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 23
+[27-Jun-2024 13:37:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 13:37:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 13:45:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 13:45:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 13:45:46 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[29-Jun-2024 12:02:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 12:02:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:39:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:39:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:39:10 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[29-Jun-2024 19:55:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:55:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:55:47 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 23
+[30-Jun-2024 07:38:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 07:38:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 07:38:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[01-Jul-2024 13:18:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 13:18:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 13:18:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[01-Jul-2024 15:59:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 15:59:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 15:59:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 15:59:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 15:59:55 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[01-Jul-2024 16:00:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 16:00:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 16:00:22 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 23
+[05-Jul-2024 10:48:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:48:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:48:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[05-Jul-2024 10:48:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:48:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:49:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:49:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[05-Jul-2024 10:49:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:49:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:49:05 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 23
+[10-Jul-2024 07:42:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:42:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:09:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:09:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:09:04 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 23
+[11-Jul-2024 13:09:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:09:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:09:07 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[11-Jul-2024 13:09:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:09:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:09:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:09:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:09:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19

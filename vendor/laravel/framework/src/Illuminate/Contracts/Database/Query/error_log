@@ -1,0 +1,60 @@
+[15-May-2024 21:51:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 21:51:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 21:51:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 21:51:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 21:51:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Database\Query\Expression" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Contracts/Database/Query/ConditionExpression.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Contracts/Database/Query/ConditionExpression.php on line 5
+[15-May-2024 21:51:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 21:51:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:10:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:10:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:10:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:10:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:10:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Database\Query\Expression" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Contracts/Database/Query/ConditionExpression.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Contracts/Database/Query/ConditionExpression.php on line 5
+[04-Jun-2024 11:10:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:10:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 06:38:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 06:38:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 06:38:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 06:38:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 06:38:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Database\Query\Expression" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Contracts/Database/Query/ConditionExpression.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Contracts/Database/Query/ConditionExpression.php on line 5
+[11-Jun-2024 06:38:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 06:38:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 07:25:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 07:25:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 07:25:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Database\Query\Expression" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Contracts/Database/Query/ConditionExpression.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Contracts/Database/Query/ConditionExpression.php on line 5
+[14-Jun-2024 07:25:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 07:25:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 11:14:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 11:14:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 06:38:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 06:38:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 06:38:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Database\Query\Expression" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Contracts/Database/Query/ConditionExpression.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Contracts/Database/Query/ConditionExpression.php on line 5
+[04-Jul-2024 06:39:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 06:39:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 07:52:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 07:52:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 22:51:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:51:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 22:51:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:51:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 22:51:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Database\Query\Expression" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Contracts/Database/Query/ConditionExpression.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Contracts/Database/Query/ConditionExpression.php on line 5
+[10-Jul-2024 22:51:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:51:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

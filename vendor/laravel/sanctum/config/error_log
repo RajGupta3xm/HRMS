@@ -1,0 +1,90 @@
+[10-May-2024 23:28:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 23:28:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 23:28:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php on line 18
+[12-May-2024 00:45:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:45:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php on line 18
+[28-May-2024 00:24:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 00:24:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 00:24:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php on line 18
+[30-May-2024 01:11:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 01:11:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 01:11:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php on line 18
+[01-Jun-2024 01:29:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:29:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 01:29:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php on line 18
+[04-Jun-2024 08:28:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:28:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:28:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php on line 18
+[09-Jun-2024 18:18:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 18:18:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 18:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php on line 18
+[16-Jun-2024 11:59:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 11:59:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 11:59:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php on line 18
+[24-Jun-2024 01:50:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 01:50:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 01:50:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php on line 18
+[26-Jun-2024 18:40:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:40:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:40:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php on line 18
+[29-Jun-2024 11:49:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 11:49:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 11:49:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php on line 18
+[30-Jun-2024 08:21:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:21:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:21:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php on line 18
+[03-Jul-2024 19:28:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 19:28:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 19:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php on line 18
+[10-Jul-2024 20:10:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:10:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:10:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php on line 18
+[11-Jul-2024 02:48:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:48:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/config/sanctum.php on line 18

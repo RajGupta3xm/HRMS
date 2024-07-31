@@ -1,0 +1,284 @@
+[27-May-2024 10:16:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 10:16:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 10:16:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 10:16:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 10:16:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[27-May-2024 10:16:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 10:16:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 10:16:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 10:16:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 10:16:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[27-May-2024 10:16:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 10:16:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 10:16:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[27-May-2024 10:16:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 10:16:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 10:16:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[28-May-2024 06:39:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 06:39:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 06:39:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[28-May-2024 07:13:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:13:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 08:37:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 08:37:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 08:37:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[28-May-2024 11:25:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 11:25:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 11:25:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[28-May-2024 15:07:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 15:07:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 16:58:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 16:58:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 16:58:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[04-Jun-2024 03:57:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[04-Jun-2024 03:57:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[04-Jun-2024 03:57:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[04-Jun-2024 03:57:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[04-Jun-2024 03:57:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 04:28:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 04:28:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 04:29:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 04:29:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 04:29:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[11-Jun-2024 04:30:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 04:30:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 04:30:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[11-Jun-2024 04:32:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 04:32:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 04:33:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 04:33:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 04:33:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[11-Jun-2024 04:33:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 04:33:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 04:33:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[11-Jun-2024 07:08:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 07:08:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 07:08:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 07:08:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 07:08:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[11-Jun-2024 07:09:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 07:09:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 07:09:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[11-Jun-2024 07:10:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 07:10:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 07:10:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 07:10:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 07:10:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[11-Jun-2024 07:11:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 07:11:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 07:11:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[15-Jun-2024 09:23:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 09:23:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 09:23:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 09:23:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 09:23:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[15-Jun-2024 09:24:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 09:24:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 09:24:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 09:24:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 09:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[15-Jun-2024 09:24:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 09:24:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 09:24:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[15-Jun-2024 09:24:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 09:24:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 09:24:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[23-Jun-2024 15:00:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 15:00:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 15:00:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[23-Jun-2024 16:07:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 16:07:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 16:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[23-Jun-2024 20:54:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 20:54:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 20:54:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[23-Jun-2024 23:22:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 23:22:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 06:24:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 06:24:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 08:05:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 08:05:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 08:05:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[29-Jun-2024 15:53:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 15:53:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 15:53:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[29-Jun-2024 16:07:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:07:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:07:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[29-Jun-2024 17:23:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:23:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:48:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:48:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[30-Jun-2024 07:50:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 07:50:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 07:50:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[30-Jun-2024 08:29:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:29:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 01:47:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 01:47:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 01:48:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 01:48:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 01:48:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[04-Jul-2024 01:48:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 01:48:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 01:48:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 01:48:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 01:48:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[04-Jul-2024 01:48:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 01:48:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 01:48:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[04-Jul-2024 01:49:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 01:49:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 01:49:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[05-Jul-2024 12:36:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 12:36:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 14:03:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 14:03:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpStringTokenParser.php on line 14
+[10-Jul-2024 15:31:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\Translation\Extractor\trigger_deprecation() in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpExtractor.php on line 14
+[10-Jul-2024 15:32:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:32:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:32:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[10-Jul-2024 15:32:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:32:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:32:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:32:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:32:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[10-Jul-2024 15:32:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:32:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

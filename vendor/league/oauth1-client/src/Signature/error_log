@@ -1,0 +1,394 @@
+[11-May-2024 21:56:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:56:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:56:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:56:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:56:58 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php on line 5
+[11-May-2024 21:57:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:57:00 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php on line 5
+[11-May-2024 21:57:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:57:02 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php on line 7
+[11-May-2024 21:57:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:57:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\OAuth1\Client\Signature\SignatureInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php on line 8
+[11-May-2024 21:57:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 01:43:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 01:43:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 01:43:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 01:43:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 01:43:24 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php on line 5
+[14-May-2024 01:43:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 01:43:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 01:43:25 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php on line 5
+[14-May-2024 01:43:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 01:43:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 01:43:25 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php on line 7
+[14-May-2024 01:43:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 01:43:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 05:46:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 05:46:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 05:46:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\OAuth1\Client\Signature\SignatureInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php on line 8
+[20-May-2024 03:32:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 03:32:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 03:32:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 03:32:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 03:32:50 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php on line 5
+[20-May-2024 03:33:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 03:33:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 03:33:01 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php on line 5
+[20-May-2024 03:33:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 03:33:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 03:33:12 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php on line 7
+[20-May-2024 03:33:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 03:33:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 03:33:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\OAuth1\Client\Signature\SignatureInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php on line 8
+[20-May-2024 03:33:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 03:33:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 00:04:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 00:04:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 00:04:29 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php on line 5
+[31-May-2024 01:31:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 01:31:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 01:31:42 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php on line 7
+[31-May-2024 05:45:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 05:45:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:45:25 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php on line 5
+[31-May-2024 07:05:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 07:05:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 13:24:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 13:24:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 13:24:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\OAuth1\Client\Signature\SignatureInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php on line 8
+[31-May-2024 16:39:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 16:39:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:34:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:34:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:34:00 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php on line 7
+[01-Jun-2024 14:42:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:42:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 15:09:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 15:09:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 15:09:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\OAuth1\Client\Signature\SignatureInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php on line 8
+[01-Jun-2024 15:11:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 15:11:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 15:11:02 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php on line 5
+[01-Jun-2024 15:11:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 15:11:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 06:42:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 06:42:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 06:45:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 06:45:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 06:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php on line 5
+[03-Jun-2024 06:49:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 06:49:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 06:49:43 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php on line 7
+[03-Jun-2024 06:52:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 06:52:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 08:06:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 08:06:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 08:06:28 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php on line 5
+[03-Jun-2024 08:19:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 08:19:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 08:19:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\OAuth1\Client\Signature\SignatureInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php on line 8
+[04-Jun-2024 08:06:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:06:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:06:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:06:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:06:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\OAuth1\Client\Signature\SignatureInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php on line 8
+[04-Jun-2024 08:06:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:06:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:06:40 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php on line 7
+[04-Jun-2024 08:06:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:06:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:06:44 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php on line 5
+[04-Jun-2024 08:06:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:06:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:06:48 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php on line 5
+[04-Jun-2024 08:06:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:06:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:27:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:27:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:27:22 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php on line 5
+[22-Jun-2024 23:14:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 23:14:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 23:15:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 23:15:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 23:15:16 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php on line 5
+[22-Jun-2024 23:16:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 23:16:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 23:16:08 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php on line 7
+[22-Jun-2024 23:17:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 23:17:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 23:18:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 23:18:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 23:18:36 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php on line 5
+[22-Jun-2024 23:21:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 23:21:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 23:21:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\OAuth1\Client\Signature\SignatureInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php on line 8
+[26-Jun-2024 22:13:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 22:13:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 22:13:40 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php on line 5
+[27-Jun-2024 04:58:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 04:58:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 09:52:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 09:52:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:01:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 10:01:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:01:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\OAuth1\Client\Signature\SignatureInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php on line 8
+[27-Jun-2024 11:24:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 11:24:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 11:24:11 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php on line 7
+[27-Jun-2024 12:27:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 12:27:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 12:27:36 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php on line 5
+[01-Jul-2024 05:33:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:33:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:33:04 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php on line 5
+[01-Jul-2024 07:15:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:15:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:15:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\OAuth1\Client\Signature\SignatureInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php on line 8
+[02-Jul-2024 07:48:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:48:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:48:58 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php on line 5
+[02-Jul-2024 08:30:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:30:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:30:22 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php on line 7
+[02-Jul-2024 09:15:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:15:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 10:58:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 10:58:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:58:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:58:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:58:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:58:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:58:23 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php on line 5
+[05-Jul-2024 08:58:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:58:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:58:30 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php on line 5
+[05-Jul-2024 08:58:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:58:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:58:40 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php on line 7
+[05-Jul-2024 08:58:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:58:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:58:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\OAuth1\Client\Signature\SignatureInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php on line 8
+[05-Jul-2024 08:59:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:59:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:06:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:06:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:06:59 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php on line 5
+[10-Jul-2024 07:31:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:31:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 08:21:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 08:21:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:15:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:15:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:48:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:48:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:48:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:48:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:48:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\OAuth1\Client\Signature\SignatureInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php on line 8
+[10-Jul-2024 19:48:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:48:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:48:39 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php on line 7
+[10-Jul-2024 19:48:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:48:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:48:43 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php on line 5
+[10-Jul-2024 19:48:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:48:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:48:47 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php on line 5
+[10-Jul-2024 19:48:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:48:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 18:46:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 18:46:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 18:46:56 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php on line 5
+[11-Jul-2024 19:17:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 19:17:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 19:17:28 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php on line 5
+[12-Jul-2024 02:38:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 02:38:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 02:40:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 02:40:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 02:40:06 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/HmacSha1Signature.php on line 5
+[12-Jul-2024 02:41:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 02:41:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 02:41:26 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php on line 7
+[12-Jul-2024 02:42:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 02:42:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 02:43:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 02:43:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 02:43:23 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/RsaSha1Signature.php on line 7
+[12-Jul-2024 02:43:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 02:43:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 02:43:56 UTC] PHP Fatal error:  Uncaught Error: Class "League\OAuth1\Client\Signature\Signature" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/PlainTextSignature.php on line 5
+[12-Jul-2024 04:20:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 04:20:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 04:20:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\OAuth1\Client\Signature\SignatureInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/oauth1-client/src/Signature/Signature.php on line 8

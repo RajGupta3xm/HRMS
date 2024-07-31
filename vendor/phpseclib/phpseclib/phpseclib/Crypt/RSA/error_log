@@ -1,0 +1,84 @@
+[11-May-2024 09:24:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:24:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:24:35 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php on line 26
+[11-May-2024 09:24:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:24:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:24:40 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php on line 31
+[20-May-2024 04:27:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:27:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:27:21 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php on line 26
+[20-May-2024 04:27:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:27:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:27:34 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php on line 31
+[04-Jun-2024 03:09:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:09:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:09:39 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php on line 31
+[04-Jun-2024 03:09:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:09:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:09:43 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php on line 26
+[08-Jun-2024 12:17:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 12:17:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 12:17:51 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php on line 26
+[08-Jun-2024 12:17:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 12:17:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 12:17:53 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php on line 31
+[11-Jun-2024 17:53:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 17:53:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 17:53:25 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php on line 31
+[11-Jun-2024 18:05:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 18:05:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 18:05:34 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php on line 26
+[02-Jul-2024 15:09:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:09:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:09:44 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php on line 26
+[02-Jul-2024 21:58:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 21:58:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 21:58:43 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php on line 31
+[10-Jul-2024 14:43:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:43:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:43:51 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PublicKey.php on line 31
+[10-Jul-2024 14:43:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:43:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:43:55 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\RSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA/PrivateKey.php on line 26

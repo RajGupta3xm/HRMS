@@ -1,0 +1,318 @@
+[12-May-2024 21:09:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:09:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:09:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Bus\Batch" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchFake.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchFake.php on line 11
+[12-May-2024 21:09:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:09:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:09:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Bus\BatchRepository" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchRepositoryFake.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchRepositoryFake.php on line 12
+[12-May-2024 21:09:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:09:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:09:33 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ReflectsClosures" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BusFake.php on line 16
+[12-May-2024 21:09:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:09:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:09:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:09:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:09:36 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/EventFake.php on line 16
+[12-May-2024 21:09:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:09:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:09:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:09:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:09:40 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/MailFake.php on line 16
+[12-May-2024 21:09:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:09:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:09:42 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/NotificationFake.php on line 18
+[12-May-2024 21:09:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:09:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:09:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Bus\PendingBatch" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingBatchFake.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingBatchFake.php on line 8
+[12-May-2024 21:09:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:09:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:09:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingChain" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingChainFake.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingChainFake.php on line 9
+[12-May-2024 21:09:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:09:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:09:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\PendingMail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingMailFake.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingMailFake.php on line 8
+[12-May-2024 21:09:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:09:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:09:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\QueueManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php on line 14
+[04-Jun-2024 13:08:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\QueueManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php on line 14
+[04-Jun-2024 13:08:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\PendingMail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingMailFake.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingMailFake.php on line 8
+[04-Jun-2024 13:08:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingChain" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingChainFake.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingChainFake.php on line 9
+[04-Jun-2024 13:08:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Bus\PendingBatch" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingBatchFake.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingBatchFake.php on line 8
+[04-Jun-2024 13:08:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:35 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/NotificationFake.php on line 18
+[04-Jun-2024 13:08:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:39 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/MailFake.php on line 16
+[04-Jun-2024 13:08:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:48 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/EventFake.php on line 16
+[04-Jun-2024 13:08:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:56 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ReflectsClosures" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BusFake.php on line 16
+[04-Jun-2024 13:08:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:08:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Bus\BatchRepository" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchRepositoryFake.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchRepositoryFake.php on line 12
+[04-Jun-2024 13:09:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:09:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:09:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Bus\Batch" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchFake.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchFake.php on line 11
+[09-Jun-2024 08:13:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Bus\Batch" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchFake.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchFake.php on line 11
+[09-Jun-2024 08:13:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Bus\BatchRepository" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchRepositoryFake.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchRepositoryFake.php on line 12
+[09-Jun-2024 08:13:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ReflectsClosures" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BusFake.php on line 16
+[09-Jun-2024 08:13:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:31 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/EventFake.php on line 16
+[09-Jun-2024 08:13:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:36 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/MailFake.php on line 16
+[09-Jun-2024 08:13:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:38 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/NotificationFake.php on line 18
+[09-Jun-2024 08:13:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Bus\PendingBatch" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingBatchFake.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingBatchFake.php on line 8
+[09-Jun-2024 08:13:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingChain" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingChainFake.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingChainFake.php on line 9
+[09-Jun-2024 08:13:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\PendingMail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingMailFake.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingMailFake.php on line 8
+[09-Jun-2024 08:13:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 08:13:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\QueueManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php on line 14
+[16-Jun-2024 08:09:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Bus\Batch" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchFake.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchFake.php on line 11
+[16-Jun-2024 08:09:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:10 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/EventFake.php on line 16
+[16-Jun-2024 08:09:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:12 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/MailFake.php on line 16
+[16-Jun-2024 08:09:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:13 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/NotificationFake.php on line 18
+[16-Jun-2024 08:09:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Bus\PendingBatch" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingBatchFake.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingBatchFake.php on line 8
+[16-Jun-2024 08:09:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingChain" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingChainFake.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingChainFake.php on line 9
+[16-Jun-2024 08:09:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\PendingMail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingMailFake.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingMailFake.php on line 8
+[16-Jun-2024 08:09:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\QueueManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php on line 14
+[16-Jun-2024 11:15:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 11:15:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 11:15:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Bus\BatchRepository" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchRepositoryFake.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchRepositoryFake.php on line 12
+[16-Jun-2024 11:15:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 11:15:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 11:15:41 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ReflectsClosures" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BusFake.php on line 16
+[09-Jul-2024 03:56:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 03:56:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 03:56:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Bus\Batch" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchFake.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchFake.php on line 11
+[09-Jul-2024 03:57:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 03:57:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 03:57:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 03:57:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 03:57:49 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/EventFake.php on line 16
+[09-Jul-2024 03:58:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 03:58:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 03:58:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 03:58:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 03:58:59 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/MailFake.php on line 16
+[09-Jul-2024 03:59:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 03:59:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 03:59:35 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/NotificationFake.php on line 18
+[09-Jul-2024 04:00:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 04:00:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 04:00:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Bus\PendingBatch" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingBatchFake.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingBatchFake.php on line 8
+[09-Jul-2024 04:00:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 04:00:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 04:00:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingChain" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingChainFake.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingChainFake.php on line 9
+[09-Jul-2024 04:01:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 04:01:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 04:01:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\PendingMail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingMailFake.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingMailFake.php on line 8
+[09-Jul-2024 04:01:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 04:01:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 04:01:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\QueueManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php on line 14
+[09-Jul-2024 09:46:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 09:46:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 09:46:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Bus\BatchRepository" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchRepositoryFake.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchRepositoryFake.php on line 12
+[09-Jul-2024 09:47:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 09:47:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 09:47:18 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ReflectsClosures" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BusFake.php on line 16
+[11-Jul-2024 00:56:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:56:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:56:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\QueueManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php on line 14
+[11-Jul-2024 00:57:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Mail\PendingMail" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingMailFake.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingMailFake.php on line 8
+[11-Jul-2024 00:57:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Bus\PendingChain" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingChainFake.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingChainFake.php on line 9
+[11-Jul-2024 00:57:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Bus\PendingBatch" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingBatchFake.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/PendingBatchFake.php on line 8
+[11-Jul-2024 00:57:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:15 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/NotificationFake.php on line 18
+[11-Jul-2024 00:57:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:19 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/MailFake.php on line 16
+[11-Jul-2024 00:57:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/EventFake.php on line 16
+[11-Jul-2024 00:57:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:35 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ReflectsClosures" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BusFake.php on line 16
+[11-Jul-2024 00:57:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Bus\BatchRepository" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchRepositoryFake.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchRepositoryFake.php on line 12
+[11-Jul-2024 00:57:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:57:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Bus\Batch" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchFake.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/BatchFake.php on line 11
+[11-Jul-2024 01:00:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 01:00:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 01:00:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\QueueManager" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Support/Testing/Fakes/QueueFake.php on line 14

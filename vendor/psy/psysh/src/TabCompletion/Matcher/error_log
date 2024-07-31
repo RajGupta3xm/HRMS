@@ -1,0 +1,1354 @@
+[15-May-2024 23:39:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:39:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:39:40 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php on line 25
+[15-May-2024 23:39:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:39:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:39:42 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php on line 14
+[15-May-2024 23:39:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:39:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:39:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:39:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:39:45 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php on line 22
+[15-May-2024 23:39:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:39:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:39:47 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php on line 14
+[15-May-2024 23:39:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:39:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:39:48 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php on line 22
+[15-May-2024 23:39:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:39:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:39:50 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php on line 21
+[15-May-2024 23:39:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:39:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:39:52 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php on line 24
+[15-May-2024 23:39:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:39:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:39:53 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php on line 21
+[15-May-2024 23:39:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:39:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:39:55 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php on line 14
+[15-May-2024 23:39:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:39:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:39:57 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php on line 21
+[15-May-2024 23:39:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:39:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:39:58 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php on line 21
+[15-May-2024 23:40:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:40:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:40:00 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php on line 21
+[15-May-2024 23:40:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:40:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:40:02 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php on line 21
+[15-May-2024 23:40:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:40:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:40:04 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php on line 24
+[15-May-2024 23:40:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:40:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:40:06 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php on line 14
+[15-May-2024 23:40:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:40:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:40:08 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php on line 24
+[15-May-2024 23:40:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:40:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:40:10 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php on line 21
+[20-May-2024 05:52:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:52:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:52:05 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php on line 25
+[20-May-2024 05:52:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:52:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:52:17 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php on line 14
+[20-May-2024 05:52:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:52:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:52:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:52:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:52:39 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php on line 22
+[20-May-2024 05:52:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:52:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:52:50 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php on line 14
+[20-May-2024 05:53:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:53:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:53:01 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php on line 22
+[20-May-2024 05:53:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:53:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:53:12 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php on line 21
+[20-May-2024 05:53:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:53:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:53:23 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php on line 24
+[20-May-2024 05:53:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:53:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:53:35 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php on line 21
+[20-May-2024 14:18:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:18:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:18:45 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php on line 21
+[20-May-2024 14:18:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:18:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:18:56 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php on line 24
+[20-May-2024 14:19:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:19:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:19:06 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php on line 14
+[20-May-2024 14:19:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:19:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:19:17 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php on line 24
+[20-May-2024 14:19:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:19:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:19:28 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php on line 21
+[20-May-2024 14:19:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:19:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:19:39 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php on line 21
+[20-May-2024 14:19:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:19:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:19:50 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php on line 21
+[20-May-2024 14:20:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:20:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:20:01 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php on line 21
+[20-May-2024 14:20:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:20:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:20:12 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php on line 14
+[27-May-2024 04:13:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:28 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php on line 25
+[27-May-2024 04:13:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:33 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php on line 14
+[27-May-2024 04:13:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:39 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php on line 22
+[27-May-2024 04:13:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:41 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php on line 14
+[27-May-2024 04:13:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:42 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php on line 22
+[27-May-2024 04:13:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:43 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php on line 21
+[27-May-2024 04:13:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:44 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php on line 24
+[27-May-2024 04:13:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:44 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php on line 21
+[27-May-2024 04:13:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:45 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php on line 14
+[27-May-2024 04:13:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:45 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php on line 21
+[27-May-2024 04:13:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:46 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php on line 21
+[27-May-2024 04:13:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:46 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php on line 21
+[27-May-2024 04:13:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:47 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php on line 24
+[27-May-2024 04:13:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:47 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php on line 14
+[27-May-2024 04:13:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:48 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php on line 24
+[27-May-2024 04:13:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 04:13:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 04:13:48 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php on line 21
+[27-May-2024 08:18:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:18:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:18:49 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php on line 21
+[03-Jun-2024 14:55:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 14:55:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 14:55:24 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php on line 21
+[03-Jun-2024 16:18:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 16:18:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 16:18:49 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php on line 22
+[03-Jun-2024 17:16:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 17:16:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 17:16:25 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php on line 21
+[03-Jun-2024 17:22:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 17:22:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 17:22:28 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php on line 24
+[03-Jun-2024 21:23:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 21:23:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 21:23:05 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php on line 24
+[03-Jun-2024 21:24:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 21:24:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 21:24:32 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php on line 21
+[03-Jun-2024 22:21:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 22:21:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 22:21:29 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php on line 14
+[03-Jun-2024 22:41:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 22:41:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 22:50:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 22:50:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 22:50:59 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php on line 21
+[04-Jun-2024 00:19:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 00:19:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 00:19:28 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php on line 24
+[04-Jun-2024 02:33:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:33:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:33:23 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php on line 14
+[04-Jun-2024 04:03:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:03:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:03:42 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php on line 14
+[04-Jun-2024 04:58:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:58:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:58:19 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php on line 21
+[04-Jun-2024 04:59:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:22 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php on line 14
+[04-Jun-2024 05:54:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:54:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:54:06 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php on line 21
+[04-Jun-2024 07:38:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:38:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:38:02 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php on line 25
+[04-Jun-2024 09:13:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:13:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:13:11 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php on line 22
+[04-Jun-2024 11:08:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:08:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:08:19 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php on line 21
+[05-Jun-2024 01:12:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:12:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:12:36 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php on line 21
+[05-Jun-2024 01:12:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:12:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:12:41 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php on line 24
+[05-Jun-2024 01:12:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:12:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:12:44 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php on line 14
+[05-Jun-2024 01:12:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:12:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:12:49 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php on line 24
+[05-Jun-2024 01:12:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:12:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:12:52 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php on line 21
+[05-Jun-2024 01:12:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:12:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:12:56 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php on line 21
+[05-Jun-2024 01:13:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:00 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php on line 21
+[05-Jun-2024 01:13:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:08 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php on line 14
+[05-Jun-2024 01:13:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:10 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php on line 21
+[05-Jun-2024 01:13:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:12 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php on line 21
+[05-Jun-2024 01:13:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:16 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php on line 24
+[05-Jun-2024 01:13:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php on line 21
+[05-Jun-2024 01:13:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:24 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php on line 22
+[05-Jun-2024 01:13:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:28 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php on line 14
+[05-Jun-2024 01:13:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:33 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php on line 22
+[05-Jun-2024 01:13:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:40 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php on line 14
+[05-Jun-2024 01:13:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:13:44 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php on line 25
+[08-Jun-2024 02:21:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:21:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:21:20 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php on line 25
+[08-Jun-2024 02:22:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:22:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:22:00 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php on line 14
+[08-Jun-2024 02:22:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:22:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:23:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:23:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:23:43 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php on line 22
+[08-Jun-2024 02:25:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:25:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:25:02 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php on line 14
+[08-Jun-2024 02:25:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:25:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:25:45 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php on line 22
+[08-Jun-2024 02:26:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:26:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:26:11 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php on line 21
+[08-Jun-2024 02:26:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:26:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:26:46 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php on line 24
+[08-Jun-2024 02:28:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:28:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:28:12 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php on line 21
+[08-Jun-2024 02:29:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:29:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:29:01 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php on line 14
+[08-Jun-2024 02:30:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:30:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:30:30 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php on line 21
+[08-Jun-2024 02:31:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:31:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:31:08 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php on line 21
+[08-Jun-2024 02:32:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:32:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:32:13 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php on line 21
+[08-Jun-2024 02:33:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:33:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:33:54 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php on line 21
+[08-Jun-2024 02:34:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:34:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:34:38 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php on line 24
+[08-Jun-2024 02:36:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:36:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:36:02 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php on line 14
+[08-Jun-2024 02:36:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:36:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:36:54 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php on line 24
+[08-Jun-2024 02:38:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:38:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:38:02 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php on line 21
+[11-Jun-2024 03:07:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:07:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:07:41 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php on line 25
+[11-Jun-2024 03:07:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:07:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:07:48 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php on line 14
+[11-Jun-2024 03:07:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:07:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:08:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:08:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:08:08 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php on line 22
+[11-Jun-2024 03:08:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:08:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:08:15 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php on line 14
+[11-Jun-2024 03:08:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:08:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:08:32 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php on line 22
+[11-Jun-2024 03:08:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:08:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:08:43 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php on line 21
+[11-Jun-2024 03:08:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:08:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:08:59 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php on line 24
+[11-Jun-2024 03:09:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:09:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:09:06 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php on line 21
+[11-Jun-2024 03:09:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:09:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:09:18 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php on line 14
+[11-Jun-2024 03:09:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:09:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:09:31 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php on line 21
+[11-Jun-2024 03:09:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:09:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:09:39 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php on line 21
+[11-Jun-2024 03:09:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:09:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:09:47 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php on line 21
+[11-Jun-2024 03:09:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:09:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:09:58 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php on line 21
+[11-Jun-2024 03:10:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:10:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:10:09 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php on line 24
+[11-Jun-2024 03:10:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:10:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:10:17 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php on line 14
+[11-Jun-2024 03:10:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:10:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:10:31 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php on line 24
+[11-Jun-2024 03:10:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 03:10:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 03:10:41 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php on line 21
+[12-Jun-2024 04:12:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:12:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:12:44 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php on line 21
+[12-Jun-2024 04:14:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:14:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:14:22 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php on line 14
+[12-Jun-2024 04:15:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:15:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:15:12 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php on line 24
+[12-Jun-2024 04:15:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:15:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:15:37 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php on line 21
+[12-Jun-2024 04:16:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:16:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:16:02 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php on line 21
+[12-Jun-2024 04:16:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:16:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:16:15 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php on line 24
+[12-Jun-2024 04:16:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:16:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:16:21 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php on line 22
+[12-Jun-2024 04:17:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:17:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:17:17 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php on line 21
+[12-Jun-2024 04:17:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:17:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:17:30 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php on line 14
+[12-Jun-2024 04:18:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:18:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:18:39 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php on line 21
+[12-Jun-2024 04:18:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:18:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:18:52 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php on line 22
+[12-Jun-2024 04:19:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:19:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:19:04 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php on line 24
+[12-Jun-2024 04:19:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:19:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:19:23 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php on line 21
+[12-Jun-2024 04:20:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:20:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:20:11 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php on line 21
+[12-Jun-2024 04:21:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:21:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:21:24 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php on line 14
+[12-Jun-2024 04:22:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:22:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:24:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:24:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:24:32 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php on line 14
+[12-Jun-2024 04:24:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:24:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:24:38 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php on line 25
+[19-Jun-2024 23:39:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:39:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:39:24 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php on line 25
+[19-Jun-2024 23:39:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:39:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:39:53 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php on line 14
+[19-Jun-2024 23:40:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:40:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:40:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:40:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:40:46 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php on line 22
+[19-Jun-2024 23:41:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:41:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:41:14 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php on line 14
+[19-Jun-2024 23:41:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:41:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:41:41 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php on line 22
+[19-Jun-2024 23:42:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:42:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:42:12 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php on line 21
+[19-Jun-2024 23:42:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:42:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:42:39 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php on line 24
+[19-Jun-2024 23:43:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:43:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:43:07 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php on line 21
+[19-Jun-2024 23:43:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:43:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:43:35 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php on line 14
+[19-Jun-2024 23:44:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:44:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:44:03 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php on line 21
+[19-Jun-2024 23:44:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:44:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:44:30 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php on line 21
+[19-Jun-2024 23:44:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:44:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:44:59 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php on line 21
+[19-Jun-2024 23:45:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:45:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:45:27 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php on line 24
+[19-Jun-2024 23:45:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:45:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:45:54 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php on line 14
+[19-Jun-2024 23:46:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:46:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:46:21 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php on line 24
+[19-Jun-2024 23:46:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 23:46:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 23:46:49 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php on line 21
+[20-Jun-2024 01:56:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 01:56:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 01:56:28 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php on line 21
+[29-Jun-2024 15:48:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 15:48:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 15:48:03 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php on line 21
+[29-Jun-2024 16:33:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:33:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:33:17 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php on line 21
+[29-Jun-2024 16:37:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:37:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:37:07 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php on line 21
+[29-Jun-2024 16:51:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:51:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:51:30 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php on line 21
+[29-Jun-2024 17:44:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:44:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:44:03 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php on line 14
+[29-Jun-2024 18:18:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:18:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:18:05 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php on line 22
+[29-Jun-2024 19:40:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:40:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:40:20 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php on line 21
+[29-Jun-2024 20:28:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:28:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:28:59 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php on line 25
+[29-Jun-2024 21:34:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 21:34:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 21:34:56 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php on line 24
+[29-Jun-2024 22:19:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 22:19:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 22:19:23 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php on line 21
+[29-Jun-2024 23:18:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 23:18:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 23:21:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 23:21:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 23:21:39 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php on line 14
+[30-Jun-2024 00:47:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 00:47:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 00:47:54 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php on line 22
+[30-Jun-2024 03:06:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 03:06:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 03:06:32 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php on line 24
+[30-Jun-2024 03:44:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 03:44:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 03:44:27 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php on line 14
+[30-Jun-2024 04:47:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 04:47:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 04:47:29 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php on line 21
+[30-Jun-2024 06:30:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 06:30:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 06:30:48 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php on line 24
+[30-Jun-2024 07:07:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 07:07:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 07:07:45 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php on line 14
+[01-Jul-2024 05:46:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:46:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:46:01 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php on line 21
+[01-Jul-2024 06:06:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:06:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:06:56 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php on line 25
+[01-Jul-2024 06:23:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:23:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:23:43 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php on line 21
+[01-Jul-2024 06:46:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:46:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:46:52 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php on line 24
+[01-Jul-2024 06:58:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:58:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:58:34 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php on line 14
+[01-Jul-2024 07:03:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:03:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:03:28 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php on line 24
+[01-Jul-2024 07:11:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:11:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:11:29 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php on line 14
+[01-Jul-2024 07:19:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:19:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:19:35 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php on line 24
+[01-Jul-2024 07:27:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:27:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:27:25 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php on line 21
+[02-Jul-2024 06:33:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:33:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:19:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:19:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:19:07 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php on line 21
+[02-Jul-2024 08:19:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:19:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:19:40 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php on line 14
+[02-Jul-2024 09:08:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:08:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 09:08:11 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php on line 21
+[02-Jul-2024 09:56:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:56:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 09:56:19 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php on line 14
+[02-Jul-2024 10:22:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 10:22:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 10:22:01 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php on line 21
+[02-Jul-2024 10:27:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 10:27:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 10:27:03 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php on line 22
+[02-Jul-2024 11:07:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 11:07:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 11:07:26 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php on line 21
+[02-Jul-2024 12:09:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:09:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 12:09:37 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php on line 22
+[08-Jul-2024 06:14:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:14:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:14:09 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php on line 25
+[08-Jul-2024 06:14:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:14:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:14:24 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php on line 14
+[08-Jul-2024 06:14:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:14:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:14:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:14:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:14:51 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php on line 22
+[08-Jul-2024 06:14:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:14:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:14:55 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php on line 14
+[08-Jul-2024 06:15:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:15:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:15:11 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php on line 22
+[08-Jul-2024 06:15:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:15:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:15:21 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php on line 21
+[08-Jul-2024 06:15:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:15:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:15:32 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php on line 24
+[08-Jul-2024 06:15:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:15:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:15:40 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php on line 21
+[08-Jul-2024 06:15:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:15:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:15:49 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php on line 14
+[08-Jul-2024 06:15:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:15:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:15:54 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php on line 21
+[08-Jul-2024 06:16:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:16:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:16:04 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php on line 21
+[08-Jul-2024 06:16:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:16:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:16:13 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php on line 21
+[08-Jul-2024 06:16:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:16:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:16:18 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php on line 21
+[08-Jul-2024 06:16:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:16:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:16:22 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php on line 24
+[08-Jul-2024 06:16:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:16:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:16:32 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php on line 14
+[08-Jul-2024 06:16:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:16:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:16:44 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php on line 24
+[08-Jul-2024 06:17:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:17:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:17:02 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php on line 21
+[10-Jul-2024 07:57:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:57:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:02:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:02:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:02:55 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/VariablesMatcher.php on line 21
+[11-Jul-2024 13:02:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:02:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:02:59 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodsMatcher.php on line 24
+[11-Jul-2024 13:03:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:03 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectMethodDefaultParametersMatcher.php on line 14
+[11-Jul-2024 13:03:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:07 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ObjectAttributesMatcher.php on line 24
+[11-Jul-2024 13:03:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:11 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoDatabaseMatcher.php on line 21
+[11-Jul-2024 13:03:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:15 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/MongoClientMatcher.php on line 21
+[11-Jul-2024 13:03:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:19 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/KeywordsMatcher.php on line 21
+[11-Jul-2024 13:03:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:23 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionsMatcher.php on line 21
+[11-Jul-2024 13:03:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:27 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/FunctionDefaultParametersMatcher.php on line 14
+[11-Jul-2024 13:03:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:32 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ConstantsMatcher.php on line 21
+[11-Jul-2024 13:03:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:35 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/CommandsMatcher.php on line 24
+[11-Jul-2024 13:03:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:39 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php on line 21
+[11-Jul-2024 13:03:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:43 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php on line 22
+[11-Jul-2024 13:03:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:47 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractDefaultParametersMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodDefaultParametersMatcher.php on line 14
+[11-Jul-2024 13:03:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:51 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php on line 22
+[11-Jul-2024 13:03:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:03:59 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractContextAwareMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractDefaultParametersMatcher.php on line 14
+[11-Jul-2024 13:04:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:04:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:04:03 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\TabCompletion\Matcher\AbstractMatcher" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractContextAwareMatcher.php on line 25

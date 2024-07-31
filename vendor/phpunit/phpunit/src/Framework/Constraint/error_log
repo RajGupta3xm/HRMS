@@ -1,0 +1,300 @@
+[12-May-2024 07:50:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 07:50:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 07:50:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php on line 17
+[12-May-2024 07:50:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 07:50:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 07:50:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php on line 24
+[12-May-2024 07:50:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 07:50:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 07:50:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php on line 17
+[12-May-2024 07:50:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 07:50:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 07:50:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php on line 26
+[12-May-2024 07:50:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 07:50:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 07:50:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php on line 22
+[20-May-2024 13:40:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:40:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:40:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php on line 17
+[20-May-2024 13:40:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:40:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:40:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php on line 24
+[20-May-2024 13:41:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:41:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:41:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php on line 17
+[20-May-2024 13:41:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:41:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:41:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php on line 26
+[20-May-2024 13:41:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:41:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:41:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php on line 22
+[24-May-2024 07:15:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 07:15:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 07:15:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php on line 17
+[24-May-2024 07:15:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 07:15:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 07:15:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php on line 17
+[24-May-2024 07:15:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 07:15:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 07:15:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php on line 26
+[24-May-2024 07:15:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 07:15:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 07:15:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php on line 22
+[25-May-2024 05:13:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 05:13:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 05:13:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php on line 24
+[04-Jun-2024 06:04:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:04:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:04:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php on line 22
+[04-Jun-2024 06:04:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:04:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:04:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php on line 26
+[04-Jun-2024 06:04:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:04:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:04:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php on line 17
+[04-Jun-2024 06:04:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:04:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:04:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php on line 24
+[04-Jun-2024 06:04:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:04:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:04:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php on line 17
+[06-Jun-2024 23:41:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 23:41:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 23:41:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php on line 17
+[06-Jun-2024 23:41:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 23:41:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 23:41:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php on line 24
+[06-Jun-2024 23:41:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 23:41:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 23:41:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php on line 17
+[06-Jun-2024 23:41:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 23:41:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 23:41:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php on line 26
+[06-Jun-2024 23:41:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 23:41:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 23:41:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php on line 22
+[16-Jun-2024 01:25:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 01:25:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 01:25:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php on line 17
+[16-Jun-2024 01:25:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 01:25:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 01:25:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php on line 17
+[16-Jun-2024 01:26:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 01:26:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 01:26:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php on line 26
+[16-Jun-2024 01:26:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 01:26:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 01:26:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php on line 22
+[17-Jun-2024 01:33:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 01:33:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 01:33:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php on line 24
+[02-Jul-2024 12:14:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:14:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 12:14:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php on line 26
+[02-Jul-2024 17:18:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 17:18:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 17:18:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php on line 17
+[02-Jul-2024 19:09:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 19:09:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 19:09:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php on line 22
+[03-Jul-2024 07:19:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 07:19:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 07:19:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php on line 17
+[03-Jul-2024 09:46:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 09:46:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 09:46:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php on line 24
+[07-Jul-2024 22:36:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 22:36:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 22:36:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php on line 17
+[07-Jul-2024 22:37:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 22:37:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 22:37:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php on line 17
+[07-Jul-2024 22:38:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 22:38:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 22:38:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php on line 26
+[07-Jul-2024 22:38:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 22:38:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 22:38:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php on line 22
+[08-Jul-2024 05:02:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:02:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:02:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php on line 17
+[08-Jul-2024 05:02:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:02:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:02:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php on line 24
+[08-Jul-2024 05:03:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:03:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:03:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php on line 17
+[08-Jul-2024 05:03:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:03:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:03:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php on line 26
+[08-Jul-2024 05:03:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:03:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:03:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php on line 22
+[08-Jul-2024 21:41:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 21:41:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 21:41:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php on line 24
+[10-Jul-2024 17:46:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:46:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:46:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/JsonMatches.php on line 22
+[10-Jul-2024 17:46:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:46:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:46:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsIdentical.php on line 26
+[10-Jul-2024 17:46:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:46:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:46:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/IsAnything.php on line 17
+[10-Jul-2024 17:46:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:46:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:46:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Constraint.php on line 24
+[10-Jul-2024 17:46:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:46:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Callback.php on line 17

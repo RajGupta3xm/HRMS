@@ -1,0 +1,242 @@
+[11-May-2024 15:09:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:09:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:09:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php on line 47
+[11-May-2024 15:09:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:09:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:09:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:09:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:09:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 28
+[11-May-2024 15:09:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:09:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:09:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[19-May-2024 20:36:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 20:36:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 20:36:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php on line 47
+[19-May-2024 20:36:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 20:36:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 20:36:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 20:36:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 20:36:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 28
+[19-May-2024 20:36:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 20:36:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 20:36:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[22-May-2024 08:37:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:37:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:37:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php on line 47
+[22-May-2024 08:37:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:37:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:37:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 28
+[22-May-2024 08:37:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:37:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:37:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:37:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:37:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[30-May-2024 23:02:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:02:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:02:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[31-May-2024 01:49:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 01:49:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:06:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 05:06:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:06:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php on line 47
+[31-May-2024 10:51:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 10:51:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 10:51:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 28
+[01-Jun-2024 14:34:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:34:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:34:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:34:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:34:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 28
+[01-Jun-2024 14:57:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:57:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:57:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php on line 47
+[04-Jun-2024 08:05:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[04-Jun-2024 08:05:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 28
+[04-Jun-2024 08:05:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php on line 47
+[10-Jun-2024 18:28:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:28:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:28:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[11-Jun-2024 08:34:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 08:34:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 08:34:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php on line 47
+[11-Jun-2024 08:36:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 08:36:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 08:38:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 08:38:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 08:38:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 28
+[11-Jun-2024 08:39:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 08:39:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 08:39:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[27-Jun-2024 01:14:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:14:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:14:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[27-Jun-2024 04:09:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 04:09:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 12:02:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 12:02:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 12:02:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 28
+[27-Jun-2024 12:27:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 12:27:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 12:27:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php on line 47
+[30-Jun-2024 09:12:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 09:12:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 09:12:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php on line 47
+[30-Jun-2024 09:15:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 09:15:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 09:17:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 09:17:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 09:17:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 28
+[30-Jun-2024 09:20:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 09:20:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 09:20:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[01-Jul-2024 05:23:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:23:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:23:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 28
+[01-Jul-2024 06:23:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:23:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:23:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[01-Jul-2024 06:47:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:47:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:47:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php on line 47
+[02-Jul-2024 06:22:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:22:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:53:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:53:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:53:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php on line 47
+[05-Jul-2024 08:53:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:53:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:53:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:53:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:53:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 28
+[05-Jul-2024 08:53:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:53:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:53:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[10-Jul-2024 13:08:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:08:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[10-Jul-2024 19:47:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 28
+[10-Jul-2024 19:47:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Environment/Environment.php on line 47

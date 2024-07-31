@@ -1,0 +1,108 @@
+[16-May-2024 03:43:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:43:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:43:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php on line 18
+[16-May-2024 03:43:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:43:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:43:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php on line 19
+[18-May-2024 08:29:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 08:29:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 08:29:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php on line 18
+[18-May-2024 08:29:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 08:29:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 08:29:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php on line 19
+[20-May-2024 19:24:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:24:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:24:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php on line 18
+[20-May-2024 19:24:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:24:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:24:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php on line 19
+[04-Jun-2024 17:22:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:22:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:22:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php on line 19
+[04-Jun-2024 17:22:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:22:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:22:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php on line 18
+[06-Jun-2024 23:45:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 23:45:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 23:45:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php on line 18
+[06-Jun-2024 23:45:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 23:45:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 23:45:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php on line 19
+[07-Jun-2024 19:22:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 19:22:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 19:22:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php on line 18
+[07-Jun-2024 19:23:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 19:23:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 19:23:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php on line 19
+[27-Jun-2024 18:16:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 18:16:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 18:16:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php on line 18
+[27-Jun-2024 18:17:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 18:17:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 18:17:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php on line 19
+[04-Jul-2024 19:11:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 19:11:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 19:11:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php on line 19
+[04-Jul-2024 22:17:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 22:17:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 22:17:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php on line 18
+[11-Jul-2024 05:11:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:11:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:11:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/FileDoesNotHaveLineException.php on line 19
+[11-Jul-2024 05:11:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:11:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:11:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Baseline/Exception/CannotLoadBaselineException.php on line 18

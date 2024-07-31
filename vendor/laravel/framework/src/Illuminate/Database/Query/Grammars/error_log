@@ -1,0 +1,186 @@
+[13-May-2024 04:12:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 04:12:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 04:12:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 14
+[13-May-2024 04:13:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 04:13:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 04:13:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php on line 9
+[13-May-2024 04:13:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 04:13:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 04:13:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php on line 10
+[13-May-2024 04:13:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 04:13:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 04:13:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php on line 9
+[13-May-2024 04:13:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 04:13:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 04:13:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php on line 10
+[04-Jun-2024 11:27:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:27:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:27:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php on line 10
+[04-Jun-2024 11:27:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:27:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:27:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php on line 9
+[04-Jun-2024 11:27:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:27:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:27:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php on line 10
+[04-Jun-2024 11:27:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:27:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:27:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php on line 9
+[04-Jun-2024 11:27:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:27:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:27:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 14
+[11-Jun-2024 06:43:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 06:43:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 06:43:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 14
+[11-Jun-2024 06:43:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 06:43:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 06:43:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php on line 9
+[11-Jun-2024 06:43:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 06:43:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 06:43:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php on line 10
+[11-Jun-2024 06:43:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 06:43:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 06:43:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php on line 9
+[11-Jun-2024 06:43:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 06:43:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 06:43:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php on line 10
+[16-Jun-2024 11:18:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 11:18:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 11:18:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 14
+[16-Jun-2024 11:18:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 11:18:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 11:18:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php on line 10
+[16-Jun-2024 11:18:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 11:18:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 11:18:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php on line 10
+[16-Jun-2024 15:57:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:57:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:57:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php on line 9
+[16-Jun-2024 15:59:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:59:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:59:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php on line 9
+[07-Jul-2024 08:06:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 08:06:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 08:06:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 14
+[07-Jul-2024 08:07:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 08:07:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 08:07:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php on line 10
+[07-Jul-2024 08:07:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 08:07:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 08:07:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php on line 10
+[07-Jul-2024 13:15:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 13:15:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 13:15:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php on line 9
+[07-Jul-2024 13:16:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 13:16:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 13:16:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php on line 9
+[10-Jul-2024 23:08:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:08:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:08:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php on line 10
+[10-Jul-2024 23:08:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:08:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:08:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php on line 9
+[10-Jul-2024 23:08:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:08:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:08:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php on line 10
+[10-Jul-2024 23:08:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:08:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:08:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php on line 9
+[10-Jul-2024 23:08:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:08:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:08:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 14
+[11-Jul-2024 00:59:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:59:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:59:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php on line 9

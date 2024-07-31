@@ -1,0 +1,72 @@
+[11-May-2024 14:26:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 14:26:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 14:26:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14
+[12-May-2024 07:15:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 07:15:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 07:15:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14
+[30-May-2024 23:45:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:45:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:45:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14
+[31-May-2024 00:56:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 00:56:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 00:56:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14
+[01-Jun-2024 08:56:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 08:56:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 08:56:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14
+[04-Jun-2024 08:35:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:35:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:35:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14
+[10-Jun-2024 04:14:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 04:14:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 04:14:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14
+[18-Jun-2024 06:39:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 06:39:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 06:39:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14
+[27-Jun-2024 01:02:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:02:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:02:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14
+[02-Jul-2024 09:59:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:59:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 09:59:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14
+[06-Jul-2024 04:08:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 04:08:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 04:08:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14
+[10-Jul-2024 20:17:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:17:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:17:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14

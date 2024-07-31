@@ -2,18 +2,20 @@
 @section('title', 'All Employees')
 @section('content')
     <div class="container-fluid">
-
-       
-
         <div class="row mt-4 mb-3">
             <div class="col-md-6">
                 <h3>Employees</h3>
             </div>
             @if (Session::has('success'))
-            <div class="alert alert-success mt-3" role="alert">
-                {{ Session::get('success') }}
-            </div>
-        @endif
+                <div class="alert alert-success mt-3" role="alert">
+                    {{ Session::get('success') }}
+                </div>
+            @endif
+            @if (session('status'))
+                <div class="alert alert-success">
+                    {{ session('status') }}
+                </div>
+            @endif
             <div class="col-md-6 text-end">
                 <form action="{{ route('employeeSearch') }}" method="GET" class="d-inline">
                     @csrf
@@ -39,8 +41,8 @@
                                     <a href="{{ route('employeeExportCSV') }}" class="btn btn-light mr-2">Export CSV</a>
                                 @endif
                                 @if (isset($modules[3]['employeeView.import']) && $modules[3]['employeeView.import'] == 1)
-                                    <button type="button" class="btn btn-light mr-2" data-toggle="modal"
-                                        data-target="#importCSVModal">Import CSV</button>
+                                    <button type="button" class="btn btn-light mr-2" data-bs-toggle="modal"
+                                        data-bs-target="#importCSVModal">Import CSV</button>
                                 @endif
                                 @if (isset($modules[3]['employeeView.create']) && $modules[3]['employeeView.create'] == 1)
                                     <a href="{{ route('employeeManagement') }}" class="btn btn-light mr-2">Add Employee</a>
@@ -74,7 +76,7 @@
                                             <td>{{ $loop->iteration }}</td>
                                             <td>{{ $data['empId'] }}</td>
                                             <td>{{ $data['name'] }}</td>
-                                            <td>{{ \App\Models\employees::getDepartmentName($data->department) }}</td>
+                                            <td>{{ $data->getDepartmentName() }}</td>
                                             <td>{{ $data['designation'] }}</td>
                                             <td>{{ $data['reportingmanager'] }}</td>
                                             <td>{{ $data['officialemail'] }}</td>
@@ -94,16 +96,18 @@
                 </div>
             </div>
         </div>
+        
+        <form id="deleteForm" action="{{ route('employee.deleteSelected') }}" method="POST" style="display: none;">
+            @csrf
+            <input type="hidden" name="selectedEmployeeIds" id="selectedEmployeeIds">
+        </form>
 
-        <div class="modal fade" id="importCSVModal" tabindex="-1" role="dialog" aria-labelledby="importCSVModalLabel"
-            aria-hidden="true">
-            <div class="modal-dialog" role="document">
+        <div class="modal fade" id="importCSVModal" tabindex="-1" aria-labelledby="importCSVModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-header">
                         <h5 class="modal-title" id="importCSVModalLabel">Import CSV</h5>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">&times;</span>
-                        </button>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
                     <div class="modal-body">
                         <form action="{{ route('employeeimportCSV') }}" method="POST" enctype="multipart/form-data">
@@ -145,7 +149,6 @@
             }
         }
 
-        // Select all checkboxes
         document.getElementById('selectAllCheckbox').addEventListener('change', function() {
             var checkboxes = document.querySelectorAll('.checkbox_id');
             checkboxes.forEach(function(checkbox) {
@@ -154,5 +157,9 @@
         });
 
     </script>
+    <!-- Include jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Include Bootstrap JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
 
 @endsection

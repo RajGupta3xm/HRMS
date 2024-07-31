@@ -1,0 +1,180 @@
+[14-May-2024 18:04:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 18:04:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 18:04:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php on line 17
+[14-May-2024 18:04:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 18:04:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 18:04:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 18:04:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 18:04:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php on line 17
+[14-May-2024 18:04:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 18:04:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 18:04:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 18:04:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 18:04:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 18:04:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:35:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:35:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:35:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php on line 17
+[15-May-2024 13:35:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:35:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:35:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:35:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:35:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:35:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:35:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php on line 17
+[15-May-2024 13:35:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:35:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:35:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:35:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:32:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:32:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:32:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php on line 17
+[20-May-2024 17:32:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:32:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:32:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:32:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:33:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:33:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:33:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php on line 17
+[20-May-2024 17:33:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:33:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:33:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:33:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:20:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:20:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:20:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php on line 17
+[04-Jun-2024 17:22:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:22:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:23:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:23:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:23:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php on line 17
+[04-Jun-2024 17:25:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:25:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:26:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:26:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 11:15:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:15:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 11:15:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php on line 17
+[06-Jun-2024 11:15:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:15:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 11:15:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:15:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 11:15:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:15:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 11:15:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php on line 17
+[06-Jun-2024 11:15:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:15:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 11:16:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:16:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 04:31:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 04:31:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 04:31:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php on line 17
+[25-Jun-2024 04:33:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 04:33:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 04:34:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 04:34:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 04:34:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php on line 17
+[25-Jun-2024 04:37:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 04:37:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 04:38:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 04:38:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 04:39:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 04:39:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:13:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:13:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:13:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php on line 17
+[01-Jul-2024 05:25:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:25:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:31:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:31:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:31:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php on line 17
+[01-Jul-2024 07:00:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:00:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:45:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:45:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 09:26:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:26:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:35:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:35:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:35:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php on line 17
+[08-Jul-2024 05:35:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:35:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:35:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:35:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:35:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:35:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:35:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php on line 17
+[08-Jul-2024 05:36:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:36:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:36:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:36:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:34:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:34:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:34:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:34:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:35:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:35:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:35:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/IncludeGroupFilterIterator.php on line 17
+[10-Jul-2024 17:35:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:35:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:35:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:35:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:35:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:35:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:35:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Runner\Filter\GroupFilterIterator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/Filter/ExcludeGroupFilterIterator.php on line 17

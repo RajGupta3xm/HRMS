@@ -1,0 +1,258 @@
+[19-May-2024 12:26:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:26:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:26:52 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[19-May-2024 12:27:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:27:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:27:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:27:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:27:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:27:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:27:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:27:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:28:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:28:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:28:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:28:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:28:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:28:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:29:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:29:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:49:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:49:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:49:20 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[23-May-2024 03:49:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:49:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:49:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:49:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:49:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:49:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:49:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:49:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:49:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:49:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:49:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:49:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:49:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:49:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:49:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:49:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 20:12:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 20:12:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:54:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 05:54:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 06:30:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 06:30:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 09:14:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 09:14:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 10:52:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 10:52:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 13:25:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 13:25:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:05:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:05:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:57:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:57:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:00:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:00:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:00:54 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[04-Jun-2024 03:24:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:24:59 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[08-Jun-2024 07:59:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 07:59:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 07:59:34 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[08-Jun-2024 07:59:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 07:59:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 07:59:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 07:59:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 07:59:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 07:59:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 07:59:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 07:59:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 08:00:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 08:00:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 08:00:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 08:00:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 08:00:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 08:00:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 08:00:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 08:00:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:53:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:53:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:54:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:54:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:55:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:55:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:55:07 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[11-Jun-2024 01:55:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:55:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:55:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:55:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:58:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:58:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:58:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:58:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:06:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:06:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:12:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:12:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 01:28:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 01:28:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 01:28:56 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[13-Jun-2024 01:30:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 01:30:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 01:31:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 01:31:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 01:31:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 01:31:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 01:32:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 01:32:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 01:32:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 01:32:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 01:33:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 01:33:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 01:34:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 01:34:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:51:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:51:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 17:50:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 17:50:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:03:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:03:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:03:36 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[26-Jun-2024 19:35:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 19:35:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 20:13:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 20:13:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 23:12:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 23:12:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 04:00:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 04:00:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 05:56:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 05:56:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:59:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:59:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 09:17:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 09:17:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:44:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:44:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:23:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:23:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:43:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:43:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:58:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:58:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:51:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:51:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:04:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:04:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:04:18 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[02-Jul-2024 07:08:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:08:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 09:04:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:04:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:03:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:03:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:39:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:39:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:39:25 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[03-Jul-2024 13:40:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:40:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:40:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:40:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:40:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:40:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:41:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:41:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:42:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:42:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:44:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:44:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 16:43:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 16:43:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 18:29:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 18:29:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 07:40:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:40:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 07:52:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:52:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 09:00:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 09:00:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:01:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:01:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:58:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:58:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:58:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:58:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:58:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:58:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:58:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:58:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:58:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:58:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:58:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:58:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:58:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:58:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:59:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:59:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:59:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:59:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:59:07 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Handler\CurlFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php on line 20
+[10-Jul-2024 17:08:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:08:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:44:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:44:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:52:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:52:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 01:32:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 01:32:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

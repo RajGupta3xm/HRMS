@@ -1,0 +1,184 @@
+[11-May-2024 06:13:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 06:13:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 06:13:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 06:13:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 06:13:32 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php on line 21
+[11-May-2024 10:31:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 10:31:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 10:31:30 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php on line 19
+[12-May-2024 01:55:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 01:55:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 01:55:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 01:55:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 01:55:19 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php on line 19
+[12-May-2024 01:55:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 01:55:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 01:55:21 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php on line 21
+[19-May-2024 11:54:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 11:54:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 11:54:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 11:54:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 11:54:37 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php on line 19
+[19-May-2024 11:54:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 11:54:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 11:54:48 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php on line 21
+[31-May-2024 01:29:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 01:29:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 01:32:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 01:32:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 01:32:57 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php on line 21
+[31-May-2024 04:50:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 04:50:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:50:38 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php on line 19
+[31-May-2024 09:00:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 09:00:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 13:02:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 13:02:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 13:02:12 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php on line 19
+[31-May-2024 16:05:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 16:05:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 16:05:05 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php on line 21
+[01-Jun-2024 03:54:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 03:54:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 03:54:33 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php on line 19
+[01-Jun-2024 04:08:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 04:08:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 04:08:57 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php on line 21
+[01-Jun-2024 04:17:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 04:17:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:31:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:31:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:31:52 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php on line 21
+[04-Jun-2024 09:31:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:31:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:31:56 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php on line 19
+[04-Jun-2024 09:32:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:32:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:37:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:37:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:37:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:37:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:37:40 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php on line 19
+[07-Jun-2024 22:37:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 22:37:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 22:37:42 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php on line 21
+[19-Jun-2024 00:02:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 00:02:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 00:02:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 00:02:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 00:02:48 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php on line 21
+[19-Jun-2024 06:56:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 06:56:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 06:56:05 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php on line 19
+[26-Jun-2024 23:42:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 23:42:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 23:42:33 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php on line 21
+[27-Jun-2024 12:22:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 12:22:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 12:22:56 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php on line 19
+[27-Jun-2024 12:32:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 12:32:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:59:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:59:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:33:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:33:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:33:56 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php on line 19
+[02-Jul-2024 08:57:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:57:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:57:46 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php on line 21
+[07-Jul-2024 07:35:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 07:35:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 07:37:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 07:37:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 07:37:16 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php on line 21
+[07-Jul-2024 14:18:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 14:18:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 14:18:17 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php on line 19
+[10-Jul-2024 20:20:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:20:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:13:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:13:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:13:47 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/MissingPathException.php on line 21
+[10-Jul-2024 21:13:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:13:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:13:51 UTC] PHP Fatal error:  Uncaught Error: Class "Dflydev\DotAccessData\Exception\DataException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/dflydev/dot-access-data/src/Exception/InvalidPathException.php on line 19
+[10-Jul-2024 21:13:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:13:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

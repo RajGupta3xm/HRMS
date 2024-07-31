@@ -1,0 +1,600 @@
+[16-May-2024 03:46:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:46:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:46:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 18
+[16-May-2024 03:46:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:46:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:46:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 22
+[16-May-2024 03:46:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:46:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:46:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 21
+[16-May-2024 03:46:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:46:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:46:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 19
+[16-May-2024 03:46:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:46:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:46:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 23
+[16-May-2024 03:46:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:46:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:46:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 26
+[16-May-2024 03:46:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:46:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:46:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 21
+[16-May-2024 03:46:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:46:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:46:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 17
+[16-May-2024 03:46:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:46:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:46:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 15
+[16-May-2024 03:46:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:46:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:46:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 22
+[16-May-2024 03:46:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:46:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:46:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 24
+[20-May-2024 19:47:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:47:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:47:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 18
+[20-May-2024 19:48:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:48:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:48:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 22
+[20-May-2024 19:48:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:48:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:48:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 21
+[20-May-2024 19:48:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:48:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:48:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 19
+[20-May-2024 19:48:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:48:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:48:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 23
+[20-May-2024 19:48:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:48:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:48:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 26
+[20-May-2024 19:48:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:48:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:48:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 21
+[20-May-2024 19:48:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:48:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:48:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 17
+[20-May-2024 19:49:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:49:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:49:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 15
+[20-May-2024 19:49:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:49:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:49:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 22
+[20-May-2024 19:49:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:49:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:49:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 24
+[23-May-2024 11:50:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:50:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:50:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 18
+[23-May-2024 11:50:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:50:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:50:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 22
+[23-May-2024 11:50:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:50:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:50:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 21
+[23-May-2024 11:50:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:50:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:50:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 19
+[23-May-2024 11:50:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:50:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:50:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 23
+[23-May-2024 11:50:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:50:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:50:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 26
+[23-May-2024 11:50:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:50:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:50:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 21
+[23-May-2024 11:50:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:50:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:50:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 15
+[23-May-2024 11:50:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:50:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:50:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 22
+[23-May-2024 11:50:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:50:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:50:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 24
+[23-May-2024 14:57:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 14:57:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 14:57:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 17
+[04-Jun-2024 17:31:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 24
+[04-Jun-2024 17:31:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 22
+[04-Jun-2024 17:31:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 15
+[04-Jun-2024 17:31:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 17
+[04-Jun-2024 17:31:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 21
+[04-Jun-2024 17:31:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 26
+[04-Jun-2024 17:31:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 23
+[04-Jun-2024 17:31:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:31:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 19
+[04-Jun-2024 17:32:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:32:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:32:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 21
+[04-Jun-2024 17:32:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:32:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:32:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 22
+[04-Jun-2024 17:32:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:32:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:32:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 18
+[07-Jun-2024 00:15:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 18
+[07-Jun-2024 00:15:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 22
+[07-Jun-2024 00:15:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 21
+[07-Jun-2024 00:16:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 19
+[07-Jun-2024 00:16:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 23
+[07-Jun-2024 00:16:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 26
+[07-Jun-2024 00:16:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 21
+[07-Jun-2024 00:16:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 17
+[07-Jun-2024 00:16:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 15
+[07-Jun-2024 00:16:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 22
+[07-Jun-2024 00:16:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:16:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 24
+[15-Jun-2024 01:05:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 01:05:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 01:05:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 18
+[15-Jun-2024 01:05:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 01:05:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 01:05:51 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 22
+[15-Jun-2024 01:06:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 01:06:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 01:06:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 21
+[15-Jun-2024 01:07:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 01:07:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 01:07:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 19
+[15-Jun-2024 01:08:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 01:08:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 01:08:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 23
+[15-Jun-2024 01:09:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 01:09:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 01:09:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 26
+[15-Jun-2024 01:10:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 01:10:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 01:10:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 15
+[15-Jun-2024 01:11:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 01:11:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 01:11:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 22
+[15-Jun-2024 01:11:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 01:11:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 01:11:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 24
+[15-Jun-2024 03:29:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 03:29:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 03:29:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 21
+[15-Jun-2024 03:56:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 03:56:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 03:56:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 17
+[04-Jul-2024 08:39:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 08:39:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 08:39:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 21
+[04-Jul-2024 08:43:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 08:43:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 08:43:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 15
+[04-Jul-2024 13:56:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 13:56:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 13:56:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 23
+[04-Jul-2024 14:39:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 14:39:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 14:39:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 17
+[04-Jul-2024 14:39:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 14:39:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 14:39:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 22
+[04-Jul-2024 15:10:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:10:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:10:51 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 26
+[04-Jul-2024 16:06:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 16:06:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 16:06:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 22
+[04-Jul-2024 18:11:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 18:11:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 18:11:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 19
+[04-Jul-2024 20:30:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 20:30:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 20:30:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 19
+[05-Jul-2024 00:44:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 00:44:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 00:44:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 18
+[05-Jul-2024 03:08:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 03:08:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 03:08:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 24
+[05-Jul-2024 07:17:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 07:17:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 07:17:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 21
+[07-Jul-2024 18:02:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:02:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:02:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 18
+[07-Jul-2024 18:02:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:02:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:02:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 22
+[07-Jul-2024 18:03:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:03:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:03:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 21
+[07-Jul-2024 18:04:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:04:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:04:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 19
+[07-Jul-2024 18:05:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:05:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:05:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 23
+[07-Jul-2024 18:07:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:07:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:07:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 26
+[07-Jul-2024 18:08:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:08:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:08:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 15
+[07-Jul-2024 18:08:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:08:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:08:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 22
+[07-Jul-2024 18:08:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:08:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:08:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 24
+[07-Jul-2024 21:03:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 21:03:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 21:03:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 21
+[07-Jul-2024 21:23:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 21:23:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 21:23:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 17
+[11-Jul-2024 05:20:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:20:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:20:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 24
+[11-Jul-2024 05:20:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:20:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:20:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/VersionCheckCommand.php on line 22
+[11-Jul-2024 05:21:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowVersionCommand.php on line 15
+[11-Jul-2024 05:21:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ShowHelpCommand.php on line 17
+[11-Jul-2024 05:21:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/MigrateConfigurationCommand.php on line 21
+[11-Jul-2024 05:21:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsXmlCommand.php on line 26
+[11-Jul-2024 05:21:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestsAsTextCommand.php on line 23
+[11-Jul-2024 05:21:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListTestSuitesCommand.php on line 19
+[11-Jul-2024 05:21:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/ListGroupsCommand.php on line 21
+[11-Jul-2024 05:21:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/GenerateConfigurationCommand.php on line 22
+[11-Jul-2024 05:21:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:21:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/TextUI/Command/Commands/AtLeastVersionCommand.php on line 18

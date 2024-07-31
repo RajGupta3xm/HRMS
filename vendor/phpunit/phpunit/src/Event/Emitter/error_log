@@ -1,0 +1,96 @@
+[15-May-2024 05:32:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 05:32:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 05:32:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Emitter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php on line 31
+[15-May-2024 07:25:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 07:25:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:31:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:31:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:31:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Emitter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php on line 31
+[15-May-2024 13:31:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:31:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:14:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:14:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:14:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Emitter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php on line 31
+[19-May-2024 22:14:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:14:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 07:04:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 07:04:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 07:04:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Emitter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php on line 31
+[03-Jun-2024 08:48:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 08:48:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:10:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:10:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:10:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:10:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:10:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Emitter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php on line 31
+[06-Jun-2024 23:37:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 23:37:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 23:37:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Emitter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php on line 31
+[06-Jun-2024 23:37:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 23:37:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 09:28:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 09:28:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 09:31:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 09:31:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 09:31:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Emitter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php on line 31
+[22-Jun-2024 00:56:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 00:56:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 00:56:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Emitter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php on line 31
+[22-Jun-2024 02:20:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 02:20:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:13:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:13:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:13:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Emitter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php on line 31
+[01-Jul-2024 05:33:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:33:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 02:29:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 02:29:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 02:29:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Emitter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php on line 31
+[08-Jul-2024 02:29:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 02:29:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:52:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:52:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:52:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:52:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:52:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Emitter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php on line 31
+[10-Jul-2024 21:00:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:00:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:00:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Emitter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Emitter/DispatchingEmitter.php on line 31
+[10-Jul-2024 21:38:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:38:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

@@ -1,0 +1,54 @@
+[12-May-2024 10:24:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:24:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:24:07 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\Type" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php on line 23
+[04-Jun-2024 11:43:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:43:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:43:24 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\Type" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php on line 23
+[06-Jun-2024 16:14:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 16:14:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 16:14:11 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\Type" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php on line 23
+[09-Jun-2024 04:00:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:00:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:00:20 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\Type" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php on line 23
+[16-Jun-2024 08:06:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:06:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:06:59 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\Type" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php on line 23
+[02-Jul-2024 18:25:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 18:25:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 18:25:44 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\Type" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php on line 23
+[05-Jul-2024 11:42:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:42:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:42:35 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\Type" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php on line 23
+[07-Jul-2024 04:14:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 04:14:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 04:14:39 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\Type" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php on line 23
+[10-Jul-2024 23:24:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:24:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:24:39 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\Type" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/DBAL/TimestampType.php on line 23

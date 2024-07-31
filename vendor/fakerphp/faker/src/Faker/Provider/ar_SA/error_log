@@ -1,0 +1,372 @@
+[12-May-2024 19:33:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 19:33:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 19:33:50 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php on line 5
+[12-May-2024 19:33:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 19:33:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 19:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Color" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php on line 5
+[12-May-2024 19:34:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 19:34:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 19:34:04 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php on line 7
+[12-May-2024 19:34:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 19:34:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 19:34:10 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php on line 5
+[12-May-2024 19:34:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 19:34:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 19:34:16 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php on line 5
+[12-May-2024 19:34:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 19:34:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 19:34:23 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php on line 7
+[12-May-2024 19:34:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 19:34:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 19:34:29 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php on line 5
+[04-Jun-2024 23:52:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 23:52:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 23:52:29 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php on line 5
+[04-Jun-2024 23:52:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 23:52:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 23:52:33 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php on line 7
+[04-Jun-2024 23:52:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 23:52:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 23:52:36 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php on line 5
+[04-Jun-2024 23:52:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 23:52:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 23:52:41 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php on line 5
+[04-Jun-2024 23:52:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 23:52:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 23:52:44 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php on line 7
+[04-Jun-2024 23:52:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 23:52:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 23:52:48 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Color" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php on line 5
+[04-Jun-2024 23:52:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 23:52:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 23:52:52 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php on line 5
+[09-Jun-2024 11:20:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 11:20:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 11:20:48 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php on line 5
+[09-Jun-2024 11:20:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 11:20:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 11:20:58 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Color" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php on line 5
+[09-Jun-2024 11:21:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 11:21:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 11:21:00 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php on line 7
+[09-Jun-2024 11:21:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 11:21:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 11:21:02 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php on line 5
+[09-Jun-2024 11:21:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 11:21:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 11:21:04 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php on line 5
+[09-Jun-2024 11:21:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 11:21:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 11:21:06 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php on line 7
+[09-Jun-2024 11:21:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 11:21:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 11:21:08 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php on line 5
+[15-Jun-2024 10:38:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 10:38:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 10:38:15 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Color" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php on line 5
+[15-Jun-2024 12:39:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 12:39:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 12:39:44 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php on line 5
+[15-Jun-2024 12:40:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 12:40:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 12:40:15 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php on line 7
+[15-Jun-2024 12:40:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 12:40:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 12:40:36 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php on line 5
+[15-Jun-2024 12:41:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 12:41:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 12:41:01 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php on line 7
+[15-Jun-2024 12:41:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 12:41:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 12:41:31 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php on line 5
+[15-Jun-2024 14:39:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 14:39:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 14:39:16 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php on line 5
+[02-Jul-2024 10:39:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 10:39:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 10:39:23 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Color" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php on line 5
+[02-Jul-2024 11:07:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 11:07:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 11:07:58 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php on line 5
+[02-Jul-2024 15:15:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:15:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:15:10 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php on line 7
+[02-Jul-2024 16:26:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 16:26:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 16:26:33 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php on line 5
+[02-Jul-2024 17:37:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 17:37:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 17:37:08 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php on line 7
+[02-Jul-2024 22:38:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 22:38:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 22:38:07 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php on line 5
+[03-Jul-2024 02:10:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 02:10:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 02:10:42 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php on line 5
+[04-Jul-2024 14:24:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 14:24:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 14:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php on line 5
+[04-Jul-2024 18:47:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 18:47:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 18:47:39 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php on line 5
+[04-Jul-2024 20:16:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 20:16:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 20:16:40 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php on line 7
+[04-Jul-2024 23:35:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 23:35:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 23:35:56 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php on line 5
+[05-Jul-2024 01:04:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 01:04:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 01:04:20 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Color" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php on line 5
+[05-Jul-2024 04:16:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 04:16:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 04:16:57 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php on line 7
+[05-Jul-2024 13:29:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 13:29:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 13:29:26 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php on line 5
+[06-Jul-2024 22:38:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 22:38:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 22:38:33 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Color" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php on line 5
+[06-Jul-2024 23:33:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 23:33:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 23:33:12 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php on line 5
+[06-Jul-2024 23:34:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 23:34:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 23:34:06 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php on line 7
+[06-Jul-2024 23:35:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 23:35:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 23:35:10 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php on line 5
+[06-Jul-2024 23:36:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 23:36:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 23:36:10 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php on line 7
+[06-Jul-2024 23:37:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 23:37:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 23:37:11 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php on line 5
+[07-Jul-2024 00:49:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 00:49:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 00:49:21 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php on line 5
+[08-Jul-2024 08:06:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 08:06:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 08:06:25 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php on line 5
+[08-Jul-2024 08:06:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 08:06:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 08:06:48 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php on line 7
+[08-Jul-2024 08:07:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 08:07:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 08:07:08 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php on line 5
+[08-Jul-2024 08:07:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 08:07:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 08:07:14 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php on line 5
+[08-Jul-2024 08:07:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 08:07:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 08:07:25 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php on line 7
+[08-Jul-2024 08:07:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 08:07:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 08:07:40 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php on line 5
+[11-Jul-2024 11:42:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 11:42:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 11:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Text.php on line 5
+[11-Jul-2024 11:42:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 11:42:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 11:42:51 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Person.php on line 7
+[11-Jul-2024 11:42:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 11:42:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 11:42:55 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Payment.php on line 5
+[11-Jul-2024 11:43:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 11:43:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 11:43:00 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Internet.php on line 5
+[11-Jul-2024 11:43:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 11:43:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 11:43:03 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Company.php on line 7
+[11-Jul-2024 11:43:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 11:43:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 11:43:07 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Color" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Color.php on line 5
+[11-Jul-2024 11:43:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 11:43:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 11:43:11 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/fakerphp/faker/src/Faker/Provider/ar_SA/Address.php on line 5

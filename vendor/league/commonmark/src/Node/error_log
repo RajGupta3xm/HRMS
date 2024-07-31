@@ -1,0 +1,274 @@
+[11-May-2024 15:10:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:10:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:10:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:10:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:10:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:10:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:10:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:10:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:10:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:10:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:10:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:10:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:10:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\StringContainerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php on line 19
+[11-May-2024 15:10:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:10:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:10:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:10:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 13:15:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 13:15:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 13:15:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 13:15:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 13:15:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 13:15:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 13:15:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 13:15:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 13:16:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 13:16:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 13:16:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 13:16:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 13:16:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\StringContainerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php on line 19
+[19-May-2024 13:16:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 13:16:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 13:16:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 13:16:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 11:34:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 11:34:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 11:34:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 11:34:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 11:34:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 11:34:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 11:34:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 11:34:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 11:34:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 11:34:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 11:34:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\StringContainerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php on line 19
+[22-May-2024 11:34:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 11:34:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 11:34:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 11:34:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 16:57:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 16:57:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 02:15:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 02:15:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 07:29:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 07:29:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 12:08:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 12:08:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 12:34:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 12:34:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 13:11:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 13:11:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 13:11:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 13:11:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:06:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:06:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:06:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\StringContainerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php on line 19
+[31-May-2024 15:52:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:52:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:21:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:21:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:21:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:21:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:21:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:21:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:21:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\StringContainerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php on line 19
+[04-Jun-2024 08:21:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:21:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:22:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:22:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:22:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:22:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:22:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:22:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:22:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:22:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 04:23:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 04:23:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 04:25:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 04:25:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 04:25:03 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\StringContainerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php on line 19
+[11-Jun-2024 04:27:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 04:27:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 04:30:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 04:30:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 04:30:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 04:30:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 04:31:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 04:31:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 04:31:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 04:31:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 04:32:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 04:32:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 09:44:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 09:44:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 09:45:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 09:45:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 09:45:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\StringContainerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php on line 19
+[11-Jun-2024 09:48:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 09:48:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 09:50:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 09:50:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 09:50:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 09:50:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 09:52:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 09:52:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 09:52:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 09:52:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 09:53:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 09:53:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 18:30:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 18:30:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 18:31:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 18:31:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 18:31:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 18:31:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 18:31:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 18:31:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 18:32:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 18:32:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 18:32:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\StringContainerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php on line 19
+[12-Jun-2024 18:32:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 18:32:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 18:32:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 18:32:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:31:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:31:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 20:15:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 20:15:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 00:55:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 00:55:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 03:21:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 03:21:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 07:22:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 07:22:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:14:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:14:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:46:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:46:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:04:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 10:04:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:04:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\StringContainerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php on line 19
+[27-Jun-2024 12:46:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 12:46:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:42:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:42:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:42:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\StringContainerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php on line 19
+[01-Jul-2024 05:47:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:47:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:39:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:39:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:34:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:34:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:48:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:48:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 10:26:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 10:26:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 12:05:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:05:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 13:23:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 13:23:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 00:48:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 00:48:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 00:48:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 00:48:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 00:49:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 00:49:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 00:50:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 00:50:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 00:51:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 00:51:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 00:51:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\StringContainerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php on line 19
+[03-Jul-2024 00:51:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 00:51:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 00:52:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 00:52:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 01:19:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 01:19:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 23:41:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 23:41:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 00:02:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 00:02:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 02:36:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 02:36:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 06:13:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 06:13:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 07:44:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 07:44:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:02:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:02:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:02:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:02:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:02:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:02:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:02:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:02:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:02:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:02:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:02:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:02:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:02:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\StringContainerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php on line 19
+[05-Jul-2024 09:03:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:03:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:03:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:03:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 14:22:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 14:22:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 15:01:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 15:01:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:03:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:03:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:03:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:03:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:03:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:03:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:03:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\StringContainerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/RawMarkupContainerInterface.php on line 19
+[10-Jul-2024 20:03:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:03:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:03:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:03:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:04:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:04:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:04:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:04:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:04:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:04:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

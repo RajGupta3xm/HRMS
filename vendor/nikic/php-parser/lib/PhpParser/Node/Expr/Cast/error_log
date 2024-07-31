@@ -1,0 +1,252 @@
+[16-May-2024 02:34:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:34:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:34:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php on line 7
+[16-May-2024 02:34:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:34:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:34:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php on line 7
+[16-May-2024 02:34:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:34:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:34:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php on line 7
+[16-May-2024 02:34:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:34:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:34:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php on line 7
+[16-May-2024 02:34:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:34:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:34:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php on line 7
+[16-May-2024 02:34:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:34:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:34:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php on line 7
+[16-May-2024 02:34:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:34:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:34:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php on line 7
+[04-Jun-2024 15:44:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:44:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:44:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php on line 7
+[04-Jun-2024 15:44:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:44:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:44:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php on line 7
+[04-Jun-2024 15:44:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:44:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:44:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php on line 7
+[04-Jun-2024 15:44:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:44:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:44:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php on line 7
+[04-Jun-2024 15:44:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:44:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:44:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php on line 7
+[04-Jun-2024 15:44:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:44:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:44:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php on line 7
+[04-Jun-2024 15:44:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:44:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:44:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php on line 7
+[11-Jun-2024 02:52:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:52:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:52:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php on line 7
+[11-Jun-2024 02:52:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:52:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:52:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php on line 7
+[11-Jun-2024 02:53:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:53:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:53:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php on line 7
+[11-Jun-2024 02:53:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:53:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:53:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php on line 7
+[11-Jun-2024 02:53:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:53:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:53:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php on line 7
+[11-Jun-2024 02:53:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:53:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:53:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php on line 7
+[11-Jun-2024 02:54:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:54:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:54:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php on line 7
+[17-Jun-2024 13:32:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 13:32:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 13:32:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php on line 7
+[17-Jun-2024 13:33:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 13:33:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 13:33:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php on line 7
+[17-Jun-2024 13:35:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 13:35:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 13:35:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php on line 7
+[17-Jun-2024 13:36:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 13:36:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 13:36:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php on line 7
+[17-Jun-2024 13:38:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 13:38:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 13:38:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php on line 7
+[17-Jun-2024 13:39:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 13:39:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 13:39:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php on line 7
+[17-Jun-2024 13:41:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 13:41:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 13:41:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php on line 7
+[09-Jul-2024 02:29:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 02:29:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 02:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php on line 7
+[09-Jul-2024 02:30:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 02:30:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 02:30:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php on line 7
+[09-Jul-2024 02:32:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 02:32:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 02:32:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php on line 7
+[09-Jul-2024 02:33:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 02:33:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 02:33:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php on line 7
+[09-Jul-2024 02:35:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 02:35:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 02:35:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php on line 7
+[09-Jul-2024 02:36:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 02:36:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 02:36:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php on line 7
+[09-Jul-2024 02:38:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 02:38:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 02:38:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php on line 7
+[11-Jul-2024 03:33:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:33:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:33:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php on line 7
+[11-Jul-2024 03:33:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:33:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:33:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php on line 7
+[11-Jul-2024 03:33:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:33:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:33:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php on line 7
+[11-Jul-2024 03:33:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:33:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:33:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php on line 7
+[11-Jul-2024 03:33:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:33:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:33:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php on line 7
+[11-Jul-2024 03:33:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:33:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:33:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php on line 7
+[11-Jul-2024 03:34:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:34:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:34:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php on line 7

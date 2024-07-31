@@ -1,0 +1,165 @@
+[12-May-2024 02:56:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 02:56:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 02:56:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[12-May-2024 02:56:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 02:56:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 02:56:58 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 12
+[12-May-2024 02:57:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 02:57:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 02:57:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[14-May-2024 08:06:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 08:06:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 08:06:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[14-May-2024 08:06:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 08:06:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 08:06:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[14-May-2024 09:24:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 09:24:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 09:24:29 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 12
+[03-Jun-2024 15:30:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 15:30:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 15:30:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[03-Jun-2024 15:33:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 15:33:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 15:33:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[03-Jun-2024 15:35:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 15:35:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 15:35:31 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 12
+[03-Jun-2024 19:08:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 19:08:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 19:08:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[03-Jun-2024 22:18:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 22:18:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 22:18:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[04-Jun-2024 00:10:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 00:10:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 00:10:49 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 12
+[04-Jun-2024 08:49:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:49:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:49:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[04-Jun-2024 08:49:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:49:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:49:36 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 12
+[04-Jun-2024 08:49:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:49:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:49:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[08-Jun-2024 13:07:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 13:07:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 13:07:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[08-Jun-2024 13:07:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 13:07:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 13:07:19 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 12
+[08-Jun-2024 13:07:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 13:07:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 13:07:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[12-Jun-2024 14:57:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 14:57:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 14:57:45 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 12
+[12-Jun-2024 14:59:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 14:59:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 14:59:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[12-Jun-2024 15:01:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 15:01:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 15:01:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[23-Jun-2024 18:39:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 18:39:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 18:39:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[23-Jun-2024 18:40:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 18:40:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 18:40:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[23-Jun-2024 18:41:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 18:41:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 18:41:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 12
+[29-Jun-2024 15:03:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 15:03:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 15:03:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[29-Jun-2024 17:12:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:12:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:12:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[29-Jun-2024 19:55:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:55:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:55:25 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 12
+[03-Jul-2024 15:38:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 15:38:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 15:38:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[04-Jul-2024 00:32:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 00:32:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 00:32:04 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 12
+[04-Jul-2024 03:31:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 03:31:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 03:31:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[10-Jul-2024 20:31:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:31:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:31:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[10-Jul-2024 20:31:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:31:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:31:35 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 12
+[10-Jul-2024 20:31:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:31:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:31:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9

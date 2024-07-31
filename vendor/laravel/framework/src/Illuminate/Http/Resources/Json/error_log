@@ -1,0 +1,189 @@
+[12-May-2024 21:07:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:07:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:07:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceCollection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php on line 5
+[12-May-2024 21:07:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:07:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:07:37 UTC] PHP Fatal error:  Trait "Illuminate\Http\Resources\ConditionallyLoadsAttributes" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php on line 17
+[12-May-2024 21:07:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:07:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:07:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceResponse" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php on line 7
+[12-May-2024 21:07:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:07:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:07:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php on line 12
+[12-May-2024 21:07:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:07:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:07:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Responsable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php on line 9
+[26-May-2024 22:08:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 22:08:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 22:08:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceCollection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php on line 5
+[26-May-2024 22:08:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 22:08:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 22:08:13 UTC] PHP Fatal error:  Trait "Illuminate\Http\Resources\ConditionallyLoadsAttributes" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php on line 17
+[26-May-2024 22:08:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 22:08:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 22:08:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceResponse" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php on line 7
+[26-May-2024 22:08:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 22:08:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 22:08:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php on line 12
+[26-May-2024 22:08:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 22:08:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 22:08:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Responsable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php on line 9
+[04-Jun-2024 12:21:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:21:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:21:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Responsable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php on line 9
+[04-Jun-2024 12:21:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:21:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:21:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php on line 12
+[04-Jun-2024 12:22:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:22:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:22:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceResponse" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php on line 7
+[04-Jun-2024 12:22:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:22:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:22:04 UTC] PHP Fatal error:  Trait "Illuminate\Http\Resources\ConditionallyLoadsAttributes" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php on line 17
+[04-Jun-2024 12:22:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:22:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:22:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceCollection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php on line 5
+[10-Jun-2024 20:14:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:14:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:14:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceCollection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php on line 5
+[10-Jun-2024 20:14:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:14:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:14:18 UTC] PHP Fatal error:  Trait "Illuminate\Http\Resources\ConditionallyLoadsAttributes" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php on line 17
+[10-Jun-2024 20:14:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:14:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:14:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceResponse" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php on line 7
+[10-Jun-2024 20:14:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:14:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:14:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php on line 12
+[10-Jun-2024 20:14:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:14:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:14:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Responsable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php on line 9
+[17-Jun-2024 08:12:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 08:12:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 08:12:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceCollection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php on line 5
+[17-Jun-2024 08:12:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 08:12:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 08:12:53 UTC] PHP Fatal error:  Trait "Illuminate\Http\Resources\ConditionallyLoadsAttributes" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php on line 17
+[17-Jun-2024 08:13:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 08:13:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 08:13:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceResponse" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php on line 7
+[17-Jun-2024 08:13:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 08:13:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 08:13:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php on line 12
+[17-Jun-2024 08:13:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 08:13:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 08:13:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Responsable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php on line 9
+[08-Jul-2024 12:32:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 12:32:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 12:32:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceCollection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php on line 5
+[08-Jul-2024 12:33:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 12:33:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 12:33:40 UTC] PHP Fatal error:  Trait "Illuminate\Http\Resources\ConditionallyLoadsAttributes" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php on line 17
+[08-Jul-2024 12:34:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 12:34:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 12:34:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceResponse" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php on line 7
+[08-Jul-2024 12:36:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 12:36:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 12:36:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php on line 12
+[08-Jul-2024 12:38:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 12:38:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 12:38:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Responsable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php on line 9
+[11-Jul-2024 00:04:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:04:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:04:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Responsable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceResponse.php on line 9
+[11-Jul-2024 00:04:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:04:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:04:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/ResourceCollection.php on line 12
+[11-Jul-2024 00:04:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:04:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:04:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceResponse" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/PaginatedResourceResponse.php on line 7
+[11-Jul-2024 00:04:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:04:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:04:43 UTC] PHP Fatal error:  Trait "Illuminate\Http\Resources\ConditionallyLoadsAttributes" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/JsonResource.php on line 17
+[11-Jul-2024 00:04:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:04:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:04:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\ResourceCollection" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Http/Resources/Json/AnonymousResourceCollection.php on line 5

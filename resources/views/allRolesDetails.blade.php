@@ -1,5 +1,5 @@
 @extends('header')
-@section('title', 'User Role')
+@section('title', 'Edit Role')
 @section('content')
     <div class="main-content-inner">
         <div class="row">

@@ -1,0 +1,160 @@
+[14-May-2024 08:05:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 08:05:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 08:05:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php on line 31
+[14-May-2024 08:05:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 08:05:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 08:05:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php on line 17
+[14-May-2024 08:05:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 08:05:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 11:01:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 11:01:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:36:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:36:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:36:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php on line 31
+[15-May-2024 13:36:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:36:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:36:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php on line 17
+[15-May-2024 13:36:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:36:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:36:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:36:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:27:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:27:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:27:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php on line 31
+[20-May-2024 17:27:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:27:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:27:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php on line 17
+[20-May-2024 17:27:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:27:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:27:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:27:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 15:12:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 15:12:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 15:12:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php on line 31
+[03-Jun-2024 15:14:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 15:14:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 15:14:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php on line 17
+[03-Jun-2024 15:16:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 15:16:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 15:37:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 15:37:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:52:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:52:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:52:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:52:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:52:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:52:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:52:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php on line 17
+[04-Jun-2024 05:53:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:53:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:53:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php on line 31
+[06-Jun-2024 11:17:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:17:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 11:17:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php on line 31
+[06-Jun-2024 11:17:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:17:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 11:17:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php on line 17
+[06-Jun-2024 11:17:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:17:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 11:17:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:17:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 13:14:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 13:14:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 13:14:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php on line 31
+[23-Jun-2024 13:16:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 13:16:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 13:16:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php on line 17
+[23-Jun-2024 13:18:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 13:18:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 13:29:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 13:29:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:24:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:24:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:24:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php on line 31
+[01-Jul-2024 07:32:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:32:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:32:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php on line 17
+[02-Jul-2024 09:50:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:50:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 13:05:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 13:05:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:38:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:38:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:38:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php on line 31
+[08-Jul-2024 05:38:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:38:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:38:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php on line 17
+[08-Jul-2024 05:38:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:38:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:38:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:38:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:34:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:34:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:34:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:34:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:34:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:34:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:34:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/NullResultCache.php on line 17
+[10-Jul-2024 17:34:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:34:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:34:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/ResultCache/DefaultResultCache.php on line 31

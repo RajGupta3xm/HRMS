@@ -1,0 +1,132 @@
+[15-May-2024 15:22:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 15:22:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 15:22:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[15-May-2024 15:22:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 15:22:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 15:22:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[19-May-2024 00:08:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 00:08:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 00:08:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[19-May-2024 00:08:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 00:08:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 00:08:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[19-May-2024 23:24:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 23:24:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 23:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[19-May-2024 23:24:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 23:24:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 23:24:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[04-Jun-2024 05:24:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:24:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:24:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[04-Jun-2024 05:24:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:24:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:24:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[04-Jun-2024 08:50:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:50:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:50:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[04-Jun-2024 10:14:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 10:14:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 10:14:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[06-Jun-2024 23:48:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 23:48:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 23:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[06-Jun-2024 23:49:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 23:49:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 23:49:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[10-Jun-2024 23:32:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:32:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:32:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[10-Jun-2024 23:39:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:39:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:39:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[25-Jun-2024 19:53:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 19:53:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 19:53:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[25-Jun-2024 19:54:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 19:54:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 19:54:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[29-Jun-2024 18:17:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:17:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:17:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[29-Jun-2024 23:48:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 23:48:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 23:48:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[08-Jul-2024 07:25:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 07:25:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 07:25:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10
+[08-Jul-2024 07:26:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 07:26:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 07:26:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[10-Jul-2024 17:00:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:00:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:00:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/UpdateConfigRequest.php on line 8
+[10-Jul-2024 17:00:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:00:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:00:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/laravel-ignition/src/Http/Requests/ExecuteSolutionRequest.php on line 10

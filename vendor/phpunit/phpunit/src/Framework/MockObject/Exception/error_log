@@ -1,0 +1,768 @@
+[15-May-2024 19:28:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:28:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:28:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php on line 17
+[15-May-2024 19:28:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:28:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:28:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:28:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:28:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php on line 18
+[15-May-2024 19:28:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:28:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:28:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php on line 17
+[15-May-2024 19:28:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:28:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:28:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php on line 17
+[15-May-2024 19:28:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:28:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:28:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php on line 18
+[15-May-2024 19:28:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:28:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:28:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php on line 17
+[15-May-2024 19:28:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:28:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:28:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php on line 17
+[15-May-2024 19:28:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:28:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:28:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php on line 15
+[16-May-2024 00:57:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 00:57:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 00:57:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php on line 15
+[16-May-2024 00:57:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 00:57:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 00:57:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php on line 17
+[16-May-2024 00:57:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 00:57:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 00:57:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php on line 17
+[16-May-2024 00:57:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 00:57:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 00:57:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php on line 15
+[16-May-2024 00:57:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 00:57:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 00:57:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php on line 15
+[16-May-2024 00:57:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 00:57:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 00:57:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php on line 15
+[16-May-2024 01:25:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 01:25:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 01:25:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php on line 15
+[16-May-2024 01:25:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 01:25:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 01:25:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php on line 17
+[16-May-2024 01:25:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 01:25:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 01:25:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php on line 17
+[16-May-2024 01:25:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 01:25:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 01:25:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 01:25:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 01:25:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php on line 18
+[16-May-2024 01:25:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 01:25:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 01:25:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php on line 17
+[16-May-2024 01:25:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 01:25:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 01:25:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php on line 17
+[16-May-2024 01:25:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 01:25:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 01:25:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php on line 15
+[16-May-2024 01:25:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 01:25:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 01:25:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php on line 15
+[16-May-2024 01:26:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 01:26:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 01:26:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php on line 15
+[16-May-2024 01:26:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 01:26:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 01:26:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php on line 18
+[16-May-2024 01:26:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 01:26:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 01:26:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php on line 17
+[16-May-2024 01:26:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 01:26:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 01:26:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php on line 17
+[16-May-2024 01:26:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 01:26:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 01:26:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php on line 15
+[20-May-2024 17:01:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:01:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:01:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php on line 15
+[20-May-2024 17:01:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:01:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:01:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php on line 17
+[20-May-2024 17:01:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:01:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:01:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php on line 17
+[20-May-2024 17:01:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:01:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:01:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:01:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:01:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php on line 18
+[20-May-2024 17:02:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:02:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:02:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php on line 17
+[20-May-2024 17:02:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:02:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:02:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php on line 17
+[20-May-2024 17:02:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:02:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:02:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php on line 17
+[20-May-2024 17:02:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:02:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:02:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php on line 15
+[20-May-2024 17:02:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:02:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:02:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php on line 15
+[20-May-2024 17:03:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:03:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:03:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php on line 15
+[20-May-2024 17:03:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:03:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:03:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php on line 18
+[20-May-2024 17:03:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:03:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:03:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php on line 17
+[20-May-2024 17:03:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:03:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:03:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php on line 17
+[20-May-2024 17:03:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:03:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:03:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php on line 15
+[04-Jun-2024 17:06:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:06:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:06:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php on line 15
+[04-Jun-2024 17:06:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:06:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:06:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php on line 17
+[04-Jun-2024 17:07:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php on line 17
+[04-Jun-2024 17:07:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php on line 18
+[04-Jun-2024 17:07:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php on line 15
+[04-Jun-2024 17:07:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php on line 15
+[04-Jun-2024 17:07:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php on line 15
+[04-Jun-2024 17:07:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php on line 17
+[04-Jun-2024 17:07:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php on line 17
+[04-Jun-2024 17:07:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php on line 17
+[04-Jun-2024 17:07:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php on line 18
+[04-Jun-2024 17:07:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php on line 17
+[04-Jun-2024 17:07:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php on line 17
+[04-Jun-2024 17:07:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:07:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php on line 15
+[07-Jun-2024 03:55:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:55:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:55:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php on line 15
+[07-Jun-2024 03:55:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:55:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:55:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php on line 17
+[07-Jun-2024 03:55:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:55:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:55:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php on line 17
+[07-Jun-2024 03:56:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:56:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:56:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:56:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:56:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php on line 18
+[07-Jun-2024 03:56:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:56:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:56:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php on line 17
+[07-Jun-2024 03:56:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:56:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:56:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php on line 17
+[07-Jun-2024 03:56:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:56:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:56:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php on line 17
+[07-Jun-2024 03:57:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:57:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:57:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php on line 15
+[07-Jun-2024 03:57:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:57:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:57:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php on line 15
+[07-Jun-2024 03:57:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:57:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:57:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php on line 15
+[07-Jun-2024 03:57:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:57:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:57:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php on line 18
+[07-Jun-2024 03:57:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:57:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:57:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php on line 17
+[07-Jun-2024 03:58:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:58:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:58:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php on line 17
+[07-Jun-2024 03:58:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:58:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:58:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php on line 15
+[08-Jun-2024 18:06:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 18:06:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 18:06:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php on line 17
+[08-Jun-2024 18:07:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 18:07:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 18:07:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php on line 17
+[08-Jun-2024 18:08:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 18:08:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 18:10:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 18:10:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 18:10:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php on line 18
+[08-Jun-2024 18:11:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 18:11:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 18:11:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php on line 17
+[08-Jun-2024 18:12:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 18:12:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 18:12:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php on line 18
+[08-Jun-2024 18:14:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 18:14:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 18:14:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php on line 17
+[08-Jun-2024 18:15:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 18:15:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 18:15:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php on line 17
+[08-Jun-2024 18:16:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 18:16:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 18:16:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php on line 15
+[08-Jun-2024 20:20:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 20:20:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 20:20:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php on line 15
+[08-Jun-2024 20:21:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 20:21:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 20:21:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php on line 17
+[08-Jun-2024 20:22:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 20:22:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 20:22:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php on line 17
+[08-Jun-2024 20:23:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 20:23:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 20:23:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php on line 15
+[08-Jun-2024 20:24:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 20:24:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 20:24:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php on line 15
+[08-Jun-2024 21:38:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 21:38:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 21:38:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php on line 15
+[02-Jul-2024 06:26:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:26:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:26:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php on line 17
+[02-Jul-2024 06:27:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:27:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:27:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php on line 17
+[02-Jul-2024 06:28:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:28:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:30:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:30:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:30:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php on line 18
+[02-Jul-2024 06:32:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:32:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:32:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php on line 17
+[02-Jul-2024 06:35:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:35:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:35:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php on line 18
+[02-Jul-2024 06:37:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:37:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:37:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php on line 17
+[02-Jul-2024 06:39:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:39:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:39:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php on line 17
+[02-Jul-2024 06:41:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:41:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:41:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php on line 15
+[02-Jul-2024 08:04:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:04:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:04:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php on line 15
+[02-Jul-2024 08:05:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:05:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:05:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php on line 17
+[02-Jul-2024 08:05:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:05:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:05:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php on line 17
+[02-Jul-2024 08:05:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:05:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:05:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php on line 15
+[02-Jul-2024 08:06:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:06:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:06:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php on line 15
+[02-Jul-2024 08:21:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:21:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:21:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php on line 15
+[04-Jul-2024 07:57:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 07:57:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 07:57:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php on line 17
+[04-Jul-2024 08:47:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 08:47:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 08:47:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php on line 17
+[04-Jul-2024 14:44:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 14:44:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 14:44:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php on line 18
+[04-Jul-2024 15:46:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:46:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:46:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php on line 15
+[04-Jul-2024 16:03:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 16:03:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 16:03:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php on line 17
+[04-Jul-2024 16:12:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 16:12:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 16:51:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 16:51:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 16:51:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php on line 15
+[04-Jul-2024 17:58:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 17:58:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 17:58:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php on line 17
+[04-Jul-2024 18:33:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 18:33:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 18:33:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php on line 17
+[04-Jul-2024 19:08:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 19:08:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 19:08:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php on line 17
+[04-Jul-2024 19:35:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 19:35:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 19:35:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php on line 17
+[04-Jul-2024 22:10:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 22:10:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 22:10:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php on line 15
+[04-Jul-2024 22:46:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 22:46:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 22:46:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php on line 15
+[04-Jul-2024 23:36:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 23:36:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 23:36:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php on line 18
+[05-Jul-2024 00:23:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 00:23:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 00:23:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php on line 15
+[11-Jul-2024 04:55:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:55:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:55:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/RuntimeException.php on line 15
+[11-Jul-2024 04:55:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:55:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:55:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReturnValueNotConfiguredException.php on line 17
+[11-Jul-2024 04:55:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:55:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:55:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/ReflectionException.php on line 17
+[11-Jul-2024 04:55:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:55:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:55:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/NeverReturningMethodException.php on line 18
+[11-Jul-2024 04:56:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodParametersAlreadyConfiguredException.php on line 15
+[11-Jul-2024 04:56:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameNotConfiguredException.php on line 15
+[11-Jul-2024 04:56:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodNameAlreadyConfiguredException.php on line 15
+[11-Jul-2024 04:56:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MethodCannotBeConfiguredException.php on line 17
+[11-Jul-2024 04:56:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatcherAlreadyRegisteredException.php on line 17
+[11-Jul-2024 04:56:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/MatchBuilderNotFoundException.php on line 17
+[11-Jul-2024 04:56:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/IncompatibleReturnValueException.php on line 18
+[11-Jul-2024 04:56:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseOnlyMethodsException.php on line 17
+[11-Jul-2024 04:56:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/CannotUseAddMethodsException.php on line 17
+[11-Jul-2024 04:56:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:56:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Exception/BadMethodCallException.php on line 15

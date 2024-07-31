@@ -1,0 +1,164 @@
+[20-May-2024 01:03:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:03:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 01:03:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[20-May-2024 01:03:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:03:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 01:04:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:04:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 01:04:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[20-May-2024 01:04:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:04:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 19:14:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 19:14:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 19:14:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[27-May-2024 19:14:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 19:14:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 19:14:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 19:14:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 19:14:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[27-May-2024 19:14:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 19:14:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 05:02:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 05:02:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 08:25:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 08:25:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 08:25:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[28-May-2024 12:21:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 12:21:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 14:39:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 14:39:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 14:39:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[04-Jun-2024 03:57:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[04-Jun-2024 03:57:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:57:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[10-Jun-2024 23:25:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:25:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:25:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[10-Jun-2024 23:26:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:26:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:30:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:30:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:30:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:30:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:30:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[15-Jun-2024 09:20:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 09:20:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 09:20:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[15-Jun-2024 09:21:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 09:21:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 09:21:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 09:21:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 09:21:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[15-Jun-2024 09:21:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 09:21:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 18:47:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 18:47:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 18:47:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[23-Jun-2024 20:15:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 20:15:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 21:12:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 21:12:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 21:12:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[24-Jun-2024 02:48:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 02:48:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:24:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:24:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:36:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:36:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:26:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:26:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:26:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[29-Jun-2024 20:53:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:53:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:53:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[03-Jul-2024 18:22:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 18:22:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 18:22:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21
+[03-Jul-2024 18:23:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 18:23:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 18:24:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 18:24:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 18:24:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[03-Jul-2024 18:24:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 18:24:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 03:08:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 03:08:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:49:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:49:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\MessageFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/MessageFormatter.php on line 23
+[10-Jul-2024 15:31:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Formatter\IntlFormatterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Formatter/IntlFormatter.php on line 21

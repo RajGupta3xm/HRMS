@@ -1,0 +1,126 @@
+[11-May-2024 09:21:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:21:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:21:56 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php on line 21
+[11-May-2024 09:22:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:22:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:22:03 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php on line 24
+[11-May-2024 09:22:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:22:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:22:24 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php on line 23
+[20-May-2024 12:30:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 12:30:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 12:30:12 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php on line 21
+[20-May-2024 12:30:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 12:30:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 12:30:22 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php on line 24
+[20-May-2024 12:30:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 12:30:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 12:30:33 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php on line 23
+[04-Jun-2024 03:10:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:10:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:10:07 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php on line 23
+[04-Jun-2024 03:10:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:10:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php on line 24
+[04-Jun-2024 03:10:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:10:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:10:15 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php on line 21
+[08-Jun-2024 12:17:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 12:17:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 12:17:23 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php on line 21
+[08-Jun-2024 12:17:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 12:17:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 12:17:24 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php on line 24
+[08-Jun-2024 12:17:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 12:17:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 12:17:26 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php on line 23
+[11-Jun-2024 23:05:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:05:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:05:10 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php on line 24
+[11-Jun-2024 23:06:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:06:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:06:01 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php on line 21
+[11-Jun-2024 23:08:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:08:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:08:05 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php on line 23
+[04-Jul-2024 14:30:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 14:30:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 14:30:04 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php on line 24
+[04-Jul-2024 16:09:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 16:09:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 16:09:23 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php on line 23
+[05-Jul-2024 02:31:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 02:31:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 02:31:47 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php on line 21
+[10-Jul-2024 14:44:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:44:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:44:15 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PublicKey.php on line 23
+[10-Jul-2024 14:44:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:44:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:44:19 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/PrivateKey.php on line 24
+[10-Jul-2024 14:44:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:44:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:44:23 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\DSA" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DSA/Parameters.php on line 21

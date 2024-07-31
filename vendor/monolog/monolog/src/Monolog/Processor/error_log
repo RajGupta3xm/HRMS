@@ -1,0 +1,602 @@
+[11-May-2024 21:57:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:57:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[11-May-2024 21:57:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:57:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[11-May-2024 21:57:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:57:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 19
+[11-May-2024 21:57:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:57:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php on line 30
+[11-May-2024 21:57:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:57:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php on line 21
+[11-May-2024 21:57:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:57:49 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 22
+[11-May-2024 21:57:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:57:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[11-May-2024 21:57:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:57:52 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[11-May-2024 21:57:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:57:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 24
+[11-May-2024 21:57:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:57:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 21
+[11-May-2024 21:57:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:57:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:57:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:57:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[11-May-2024 21:58:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:58:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:58:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[11-May-2024 21:58:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:58:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:58:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php on line 22
+[11-May-2024 21:58:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:58:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:58:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[04-Jun-2024 07:42:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:42:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:42:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[04-Jun-2024 07:42:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:42:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:42:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php on line 22
+[04-Jun-2024 07:42:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:42:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:42:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[04-Jun-2024 07:42:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:42:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:42:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[04-Jun-2024 07:42:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:42:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 21
+[04-Jun-2024 07:43:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 24
+[04-Jun-2024 07:43:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:08 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[04-Jun-2024 07:43:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[04-Jun-2024 07:43:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:16 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 22
+[04-Jun-2024 07:43:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php on line 21
+[04-Jun-2024 07:43:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php on line 30
+[04-Jun-2024 07:43:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 19
+[04-Jun-2024 07:43:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[04-Jun-2024 07:43:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:43:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[10-Jun-2024 21:12:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:12:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:12:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[10-Jun-2024 21:12:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:12:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:12:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[10-Jun-2024 21:13:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:13:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:13:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 19
+[10-Jun-2024 21:13:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:13:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:13:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php on line 30
+[10-Jun-2024 21:14:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:14:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:14:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php on line 21
+[10-Jun-2024 21:14:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:14:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:14:45 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 22
+[10-Jun-2024 21:15:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:15:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:15:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[10-Jun-2024 21:16:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:16:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:16:02 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[10-Jun-2024 21:16:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:16:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:16:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 24
+[10-Jun-2024 21:17:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:17:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:17:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 21
+[10-Jun-2024 21:18:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:18:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:19:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:19:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:19:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[10-Jun-2024 21:20:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:20:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:20:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[10-Jun-2024 21:21:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:21:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:21:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php on line 22
+[10-Jun-2024 21:22:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:22:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:22:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[10-Jun-2024 23:15:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:15:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:15:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 19
+[10-Jun-2024 23:16:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:16:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:16:01 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[10-Jun-2024 23:19:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:19:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:19:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php on line 22
+[10-Jun-2024 23:20:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:20:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:20:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 21
+[10-Jun-2024 23:26:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:26:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:26:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[10-Jun-2024 23:31:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:31:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:31:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[10-Jun-2024 23:32:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:32:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:35:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:35:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:35:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[10-Jun-2024 23:36:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:36:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:36:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[10-Jun-2024 23:37:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:37:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:37:04 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 22
+[10-Jun-2024 23:37:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:37:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:37:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php on line 30
+[10-Jun-2024 23:38:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:38:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:38:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[10-Jun-2024 23:39:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:39:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:39:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 24
+[10-Jun-2024 23:40:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:40:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:40:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php on line 21
+[10-Jun-2024 23:44:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:44:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:44:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[04-Jul-2024 07:06:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 07:06:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 07:06:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[04-Jul-2024 13:30:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 13:30:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 13:30:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php on line 30
+[04-Jul-2024 13:49:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 13:49:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 13:49:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[04-Jul-2024 14:25:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 14:25:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 14:25:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 19
+[04-Jul-2024 14:30:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 14:30:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 14:30:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[04-Jul-2024 15:01:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:01:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:01:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[04-Jul-2024 15:09:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:09:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:09:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 21
+[04-Jul-2024 18:09:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 18:09:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 18:09:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php on line 22
+[04-Jul-2024 19:25:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 19:25:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 19:25:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php on line 21
+[04-Jul-2024 21:36:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 21:36:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 21:36:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 24
+[04-Jul-2024 22:00:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 22:00:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 22:00:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[04-Jul-2024 22:03:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 22:03:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 22:03:11 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[04-Jul-2024 22:19:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 22:19:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 22:19:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[05-Jul-2024 07:16:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 07:16:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:14:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:14:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:14:11 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 22
+[07-Jul-2024 18:36:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:36:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:36:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27
+[07-Jul-2024 18:36:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:36:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:36:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[07-Jul-2024 18:36:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:36:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:36:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 19
+[07-Jul-2024 18:37:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php on line 30
+[07-Jul-2024 18:37:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php on line 21
+[07-Jul-2024 18:37:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:09 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 22
+[07-Jul-2024 18:37:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[07-Jul-2024 18:37:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:20 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[07-Jul-2024 18:37:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 24
+[07-Jul-2024 18:37:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 21
+[07-Jul-2024 18:37:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[07-Jul-2024 18:37:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[07-Jul-2024 18:37:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php on line 22
+[07-Jul-2024 18:37:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:37:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[10-Jul-2024 19:24:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:24:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:24:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php on line 22
+[10-Jul-2024 19:24:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:24:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:24:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/UidProcessor.php on line 22
+[10-Jul-2024 19:24:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:24:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:24:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/TagProcessor.php on line 21
+[10-Jul-2024 19:24:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:24:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:24:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/PsrLogMessageProcessor.php on line 24
+[10-Jul-2024 19:24:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:24:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:24:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:24:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:24:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ProcessIdProcessor.php on line 21
+[10-Jul-2024 19:25:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MercurialProcessor.php on line 24
+[10-Jul-2024 19:25:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:07 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryUsageProcessor.php on line 22
+[10-Jul-2024 19:25:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryProcessor.php on line 19
+[10-Jul-2024 19:25:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:15 UTC] PHP Fatal error:  Uncaught Error: Class "Monolog\Processor\MemoryProcessor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/MemoryPeakUsageProcessor.php on line 22
+[10-Jul-2024 19:25:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/LoadAverageProcessor.php on line 21
+[10-Jul-2024 19:25:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/IntrospectionProcessor.php on line 30
+[10-Jul-2024 19:25:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/HostnameProcessor.php on line 19
+[10-Jul-2024 19:25:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/GitProcessor.php on line 25
+[10-Jul-2024 19:25:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:25:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/monolog/monolog/src/Monolog/Processor/ClosureContextProcessor.php on line 27

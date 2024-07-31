@@ -1,0 +1,648 @@
+[12-May-2024 11:16:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:16:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:16:22 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[12-May-2024 11:16:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:16:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:16:24 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[12-May-2024 11:16:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:16:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:16:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[12-May-2024 11:16:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:16:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:16:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[12-May-2024 11:16:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:16:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:16:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[12-May-2024 11:16:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:16:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:16:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[12-May-2024 11:16:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:16:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:16:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[12-May-2024 11:16:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:16:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:16:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[12-May-2024 11:16:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:16:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:16:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[12-May-2024 11:16:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:16:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:16:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[12-May-2024 11:16:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:16:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:16:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[12-May-2024 11:16:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:16:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:16:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:16:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:16:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[12-May-2024 11:16:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:16:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:16:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[04-Jun-2024 11:23:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:23:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:23:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[04-Jun-2024 11:23:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:23:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:23:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[04-Jun-2024 11:23:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:23:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:23:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:23:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:23:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[04-Jun-2024 11:23:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:23:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:23:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[04-Jun-2024 11:23:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:23:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:23:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[04-Jun-2024 11:23:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:23:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:23:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[04-Jun-2024 11:24:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:24:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:24:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[04-Jun-2024 11:24:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:24:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[04-Jun-2024 11:25:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:25:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:25:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[04-Jun-2024 11:25:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:25:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:25:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[04-Jun-2024 11:25:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:25:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:25:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[04-Jun-2024 11:25:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:25:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:25:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[04-Jun-2024 11:25:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:25:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:25:31 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[06-Jun-2024 12:58:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 12:58:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 12:58:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[06-Jun-2024 13:29:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 13:29:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 13:29:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[06-Jun-2024 14:57:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 14:57:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 14:57:21 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[06-Jun-2024 15:58:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 15:58:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 15:58:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[06-Jun-2024 16:14:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 16:14:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 16:14:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[06-Jun-2024 17:09:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 17:09:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 17:09:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[06-Jun-2024 20:28:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 20:28:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 20:28:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[06-Jun-2024 20:44:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 20:44:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 20:44:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[06-Jun-2024 21:01:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 21:01:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:11:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:11:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:11:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[07-Jun-2024 05:36:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 05:36:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 05:36:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[07-Jun-2024 06:25:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 06:25:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 06:25:31 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[07-Jun-2024 07:21:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 07:21:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 07:21:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[08-Jun-2024 01:22:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:22:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:22:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[09-Jun-2024 04:06:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:06:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:06:49 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[09-Jun-2024 04:06:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:06:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:06:54 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[09-Jun-2024 04:06:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:06:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:06:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[09-Jun-2024 04:07:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[09-Jun-2024 04:07:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[09-Jun-2024 04:07:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[09-Jun-2024 04:07:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[09-Jun-2024 04:07:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[09-Jun-2024 04:07:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[09-Jun-2024 04:07:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[09-Jun-2024 04:07:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[09-Jun-2024 04:07:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[09-Jun-2024 04:07:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:07:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[16-Jun-2024 08:08:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:08:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:08:59 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[16-Jun-2024 08:09:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[16-Jun-2024 08:09:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[16-Jun-2024 08:09:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[16-Jun-2024 08:09:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:01 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[16-Jun-2024 08:09:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[16-Jun-2024 08:09:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[16-Jun-2024 08:09:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[16-Jun-2024 08:09:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[16-Jun-2024 08:09:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[16-Jun-2024 08:09:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[16-Jun-2024 08:09:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[16-Jun-2024 08:09:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 08:09:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[02-Jul-2024 07:38:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:38:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:38:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[02-Jul-2024 07:53:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:53:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:53:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[02-Jul-2024 08:20:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:20:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:20:05 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[02-Jul-2024 08:40:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:40:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:40:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[02-Jul-2024 08:55:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:55:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:55:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[02-Jul-2024 09:16:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:16:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 09:16:35 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[02-Jul-2024 09:18:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:18:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 09:18:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[02-Jul-2024 10:52:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 10:52:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 10:52:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[02-Jul-2024 15:10:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:10:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 17:58:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 17:58:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 17:58:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[02-Jul-2024 18:31:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 18:31:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 18:31:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[02-Jul-2024 21:44:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 21:44:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 21:44:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[02-Jul-2024 22:53:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 22:53:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 22:53:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[02-Jul-2024 23:39:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 23:39:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 23:39:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[07-Jul-2024 02:01:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 02:01:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 02:01:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[07-Jul-2024 04:52:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 04:52:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 04:52:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[07-Jul-2024 05:03:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 05:03:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 05:03:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[07-Jul-2024 05:51:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 05:51:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 07:43:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 07:43:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 07:43:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[07-Jul-2024 18:08:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:08:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:08:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[07-Jul-2024 20:54:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 20:54:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 20:54:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[07-Jul-2024 21:28:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 21:28:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 21:28:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[07-Jul-2024 22:07:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 22:07:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 22:07:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[08-Jul-2024 07:06:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 07:06:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 07:06:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[08-Jul-2024 18:44:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 18:44:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 18:44:14 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15
+[08-Jul-2024 18:45:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 18:45:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 18:45:17 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[08-Jul-2024 18:46:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 18:46:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 18:46:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[08-Jul-2024 18:47:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 18:47:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 18:47:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[08-Jul-2024 18:48:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 18:48:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 18:48:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[08-Jul-2024 18:49:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 18:49:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 18:49:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[08-Jul-2024 18:50:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 18:50:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 18:50:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[08-Jul-2024 18:51:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 18:51:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 18:51:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[08-Jul-2024 18:51:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 18:51:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 18:51:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[08-Jul-2024 18:52:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 18:52:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 18:52:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[08-Jul-2024 18:53:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 18:53:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 18:53:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[08-Jul-2024 18:54:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 18:54:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 18:55:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 18:55:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 18:55:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[08-Jul-2024 18:56:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 18:56:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 18:56:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[10-Jul-2024 23:04:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:04:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:04:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqliteSchemaState.php on line 7
+[10-Jul-2024 23:04:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:04:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:04:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 5
+[10-Jul-2024 23:04:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:04:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:05:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:05:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:05:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 8
+[10-Jul-2024 23:05:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:05:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:05:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 7
+[10-Jul-2024 23:05:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:05:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:05:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[10-Jul-2024 23:05:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:05:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:05:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[10-Jul-2024 23:05:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:05:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:05:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[10-Jul-2024 23:05:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:05:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:05:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 13
+[10-Jul-2024 23:06:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:06:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:06:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[10-Jul-2024 23:06:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:06:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:06:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[10-Jul-2024 23:06:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:06:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:06:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[10-Jul-2024 23:06:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:06:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:06:43 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[10-Jul-2024 23:06:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:06:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:06:47 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 15

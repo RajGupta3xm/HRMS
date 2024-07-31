@@ -1,0 +1,346 @@
+[15-May-2024 10:13:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:13:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:13:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:13:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:13:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:13:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:13:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[15-May-2024 10:13:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:13:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:13:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:13:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:13:19 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[15-May-2024 10:13:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:13:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:13:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[15-May-2024 10:13:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:13:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:43:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:43:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:43:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:43:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:43:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[19-May-2024 22:43:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:43:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:43:34 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[19-May-2024 22:43:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:43:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:43:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:43:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:43:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[19-May-2024 22:44:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:44:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:44:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:44:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 21:25:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 21:25:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 21:25:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 21:25:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 21:25:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 21:25:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 21:25:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 21:25:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 23:28:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 23:28:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 23:28:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[23-May-2024 23:34:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 23:34:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 23:34:28 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[23-May-2024 23:40:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 23:40:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 23:40:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[30-May-2024 22:41:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 22:41:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:27:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 04:27:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 09:57:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 09:57:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 09:57:42 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[31-May-2024 10:06:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 10:06:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 10:06:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[31-May-2024 11:08:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 11:08:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 11:08:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[31-May-2024 11:44:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 11:44:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 16:36:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 16:36:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:11:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:11:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:11:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:11:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:11:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[05-Jun-2024 01:11:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:11:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:11:28 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[05-Jun-2024 01:11:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:11:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:11:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:11:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:11:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[05-Jun-2024 01:11:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:11:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:11:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:11:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[07-Jun-2024 18:11:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:25 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[07-Jun-2024 18:11:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[07-Jun-2024 18:11:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:10:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:10:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:10:50 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[10-Jun-2024 18:15:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:15:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:17:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:17:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:18:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:18:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:18:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[10-Jun-2024 18:20:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:20:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:22:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:22:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 18:22:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[10-Jun-2024 18:22:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 18:22:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 00:33:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 00:33:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 00:33:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 00:33:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 00:34:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 00:34:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 00:34:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 00:34:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 00:48:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 00:48:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 00:48:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[13-Jun-2024 00:49:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 00:49:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 00:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[13-Jun-2024 00:49:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 00:49:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 00:49:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[26-Jun-2024 19:04:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 19:04:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 19:04:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[26-Jun-2024 19:21:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 19:21:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 22:29:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 22:29:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 22:29:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[27-Jun-2024 03:26:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 03:26:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 03:29:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 03:29:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:45:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 10:45:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:45:08 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[27-Jun-2024 14:52:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 14:52:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 11:51:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 11:51:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 12:59:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 12:59:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 12:59:03 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[29-Jun-2024 13:37:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:37:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:37:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[29-Jun-2024 15:26:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 15:26:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:31:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:31:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:31:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[29-Jun-2024 18:38:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:38:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:42:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:42:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 18:29:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 18:29:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 18:30:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 18:30:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 18:30:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 18:30:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 18:31:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 18:31:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 18:31:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 18:31:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 18:31:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[02-Jul-2024 18:32:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 18:32:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 18:32:30 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[02-Jul-2024 18:33:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 18:33:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 18:33:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[05-Jul-2024 03:56:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 03:56:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 04:22:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 04:22:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:57:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:57:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:57:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:57:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:57:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:57:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:57:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[05-Jul-2024 10:57:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:57:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:57:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:57:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:57:38 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[05-Jul-2024 10:57:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:57:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:57:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[05-Jul-2024 10:57:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:57:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 14:09:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 14:09:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 16:33:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 16:33:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:01:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:01:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:01:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:01:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:01:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/NoopChecker.php on line 19
+[11-Jul-2024 13:01:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:01:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:01:48 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\VersionUpdater\GitHubChecker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/IntervalChecker.php on line 14
+[11-Jul-2024 13:01:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:01:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:01:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:01:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:01:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\VersionUpdater\Checker" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/VersionUpdater/GitHubChecker.php on line 16
+[11-Jul-2024 13:01:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:01:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:02:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:02:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

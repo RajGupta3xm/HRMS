@@ -1,0 +1,652 @@
+[11-May-2024 05:43:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:43:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:43:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php on line 12
+[11-May-2024 05:43:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:43:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:43:11 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php on line 12
+[11-May-2024 05:43:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:43:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:43:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php on line 12
+[11-May-2024 05:43:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:43:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:43:15 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php on line 12
+[11-May-2024 05:43:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:43:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:43:16 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php on line 12
+[11-May-2024 05:43:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:43:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:43:18 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php on line 12
+[11-May-2024 05:43:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:43:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:43:20 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php on line 12
+[11-May-2024 05:43:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:43:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:43:21 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php on line 12
+[11-May-2024 05:43:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:43:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 22:05:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 22:05:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 22:05:19 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php on line 12
+[14-May-2024 22:05:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 22:05:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 00:18:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 00:18:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 00:18:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php on line 12
+[15-May-2024 00:19:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 00:19:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 00:19:04 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php on line 12
+[15-May-2024 05:32:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 05:32:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 05:32:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php on line 12
+[15-May-2024 05:32:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 05:32:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 05:32:17 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php on line 12
+[15-May-2024 05:32:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 05:32:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 05:32:18 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php on line 12
+[15-May-2024 05:32:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 05:32:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 05:32:19 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php on line 12
+[15-May-2024 05:32:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 05:32:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 05:32:39 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php on line 12
+[19-May-2024 14:23:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 14:23:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 14:23:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php on line 12
+[19-May-2024 14:23:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 14:23:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 14:23:59 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php on line 12
+[19-May-2024 14:24:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 14:24:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 14:24:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php on line 12
+[19-May-2024 14:24:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 14:24:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 14:24:38 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php on line 12
+[19-May-2024 14:24:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 14:24:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 14:24:53 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php on line 12
+[19-May-2024 14:25:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 14:25:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 14:25:16 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php on line 12
+[19-May-2024 14:25:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 14:25:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 14:25:37 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php on line 12
+[19-May-2024 21:32:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:32:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:32:16 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php on line 12
+[19-May-2024 21:32:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:32:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 20:53:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 20:53:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 20:53:58 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php on line 12
+[30-May-2024 21:57:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 21:57:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 21:57:01 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php on line 12
+[31-May-2024 05:06:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 05:06:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:06:19 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php on line 12
+[31-May-2024 06:36:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 06:36:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 06:36:38 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php on line 12
+[31-May-2024 08:01:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 08:01:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 08:01:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php on line 12
+[31-May-2024 11:16:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 11:16:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 11:16:51 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php on line 12
+[31-May-2024 11:31:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 11:31:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 11:31:54 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php on line 12
+[31-May-2024 15:44:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:44:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 17:10:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 17:10:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 17:10:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php on line 12
+[01-Jun-2024 11:36:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 11:36:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 11:36:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php on line 12
+[01-Jun-2024 11:40:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 11:40:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 11:40:08 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php on line 12
+[01-Jun-2024 11:42:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 11:42:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 11:42:38 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php on line 12
+[01-Jun-2024 11:51:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 11:51:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 11:53:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 11:53:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 11:53:27 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php on line 12
+[01-Jun-2024 11:54:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 11:54:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 11:54:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php on line 12
+[01-Jun-2024 12:00:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 12:00:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 12:00:22 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php on line 12
+[01-Jun-2024 12:18:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 12:18:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 12:18:51 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php on line 12
+[04-Jun-2024 06:24:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:24:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:24:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:24:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:24:59 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php on line 12
+[04-Jun-2024 06:25:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:25:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:25:03 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php on line 12
+[04-Jun-2024 06:25:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:25:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:25:07 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php on line 12
+[04-Jun-2024 06:25:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:25:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:25:11 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php on line 12
+[04-Jun-2024 06:25:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:25:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:25:15 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php on line 12
+[04-Jun-2024 06:25:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:25:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:25:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php on line 12
+[04-Jun-2024 06:25:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:25:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:25:23 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php on line 12
+[04-Jun-2024 06:25:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:25:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:25:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php on line 12
+[05-Jun-2024 02:42:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 02:42:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 02:42:13 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php on line 12
+[05-Jun-2024 02:43:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 02:43:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 07:04:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 07:04:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 07:04:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php on line 12
+[05-Jun-2024 07:05:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 07:05:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 07:05:57 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php on line 12
+[05-Jun-2024 09:49:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 09:49:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 09:49:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php on line 12
+[05-Jun-2024 09:50:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 09:50:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 09:50:46 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php on line 12
+[05-Jun-2024 09:51:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 09:51:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 09:51:49 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php on line 12
+[05-Jun-2024 09:53:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 09:53:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 09:53:06 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php on line 12
+[05-Jun-2024 09:54:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 09:54:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 09:54:29 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php on line 12
+[10-Jun-2024 04:32:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 04:32:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 04:32:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php on line 12
+[10-Jun-2024 04:33:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 04:33:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 04:33:00 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php on line 12
+[10-Jun-2024 04:33:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 04:33:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 04:33:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php on line 12
+[10-Jun-2024 04:33:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 04:33:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 04:33:08 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php on line 12
+[10-Jun-2024 04:33:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 04:33:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 04:33:12 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php on line 12
+[10-Jun-2024 04:33:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 04:33:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 04:33:16 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php on line 12
+[10-Jun-2024 04:33:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 04:33:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 04:33:22 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php on line 12
+[10-Jun-2024 04:33:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 04:33:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 04:33:26 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php on line 12
+[10-Jun-2024 04:33:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 04:33:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 13:02:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 13:02:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 13:02:34 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php on line 12
+[26-Jun-2024 05:07:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 05:07:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 05:07:05 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php on line 12
+[26-Jun-2024 05:08:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 05:08:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 10:14:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 10:14:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 10:14:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php on line 12
+[26-Jun-2024 10:15:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 10:15:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 10:15:37 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php on line 12
+[26-Jun-2024 12:06:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 12:06:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 12:06:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php on line 12
+[26-Jun-2024 12:08:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 12:08:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 12:08:08 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php on line 12
+[26-Jun-2024 12:09:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 12:09:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 12:09:30 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php on line 12
+[26-Jun-2024 12:10:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 12:10:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 12:10:53 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php on line 12
+[26-Jun-2024 12:12:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 12:12:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 12:12:13 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php on line 12
+[26-Jun-2024 18:04:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:04:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 00:21:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 00:21:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 00:21:25 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php on line 12
+[27-Jun-2024 01:17:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:17:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:17:05 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php on line 12
+[27-Jun-2024 01:36:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:36:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:36:04 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php on line 12
+[27-Jun-2024 08:01:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:01:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:01:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php on line 12
+[27-Jun-2024 08:37:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:37:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:37:38 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php on line 12
+[27-Jun-2024 10:26:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 10:26:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:26:22 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php on line 12
+[27-Jun-2024 12:27:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 12:27:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 12:27:26 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php on line 12
+[27-Jun-2024 13:19:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 13:19:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 13:19:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php on line 12
+[01-Jul-2024 06:00:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:00:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:00:59 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php on line 12
+[01-Jul-2024 06:05:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:05:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:18:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:18:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:18:50 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php on line 12
+[01-Jul-2024 06:21:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:21:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:21:57 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php on line 12
+[01-Jul-2024 06:32:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:32:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:32:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php on line 12
+[01-Jul-2024 06:47:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:47:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:47:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php on line 12
+[01-Jul-2024 06:50:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:50:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:50:12 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php on line 12
+[01-Jul-2024 07:37:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:37:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:37:36 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php on line 12
+[02-Jul-2024 08:41:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:41:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:41:08 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php on line 12
+[05-Jul-2024 09:49:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:49:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:49:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php on line 12
+[05-Jul-2024 09:49:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:49:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:49:39 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php on line 12
+[05-Jul-2024 09:49:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:49:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:49:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php on line 12
+[05-Jul-2024 09:50:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:50:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:50:03 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php on line 12
+[05-Jul-2024 09:50:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:50:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:50:09 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php on line 12
+[05-Jul-2024 09:50:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:50:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:50:16 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php on line 12
+[05-Jul-2024 09:50:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:50:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:50:26 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php on line 12
+[05-Jul-2024 09:50:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:50:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:50:28 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php on line 12
+[05-Jul-2024 09:50:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:50:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 07:24:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:24:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:06:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:06:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:06:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:06:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:06:59 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php on line 12
+[10-Jul-2024 18:07:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:07:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:07:03 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php on line 12
+[10-Jul-2024 18:07:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:07:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:07:08 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/OrVersionConstraintGroup.php on line 12
+[10-Jul-2024 18:07:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:07:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:07:11 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php on line 12
+[10-Jul-2024 18:07:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:07:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:07:15 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/ExactVersionConstraint.php on line 12
+[10-Jul-2024 18:07:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:07:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:07:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php on line 12
+[10-Jul-2024 18:07:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:07:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:07:23 UTC] PHP Fatal error:  Uncaught Error: Class "PharIo\Version\AbstractVersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php on line 12
+[10-Jul-2024 18:07:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:07:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:07:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PharIo\Version\VersionConstraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php on line 12

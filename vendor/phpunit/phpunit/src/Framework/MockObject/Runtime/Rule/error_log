@@ -1,0 +1,456 @@
+[16-May-2024 07:29:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 07:29:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 07:29:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php on line 17
+[16-May-2024 07:29:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 07:29:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 07:29:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php on line 17
+[16-May-2024 07:29:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 07:29:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 07:29:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php on line 19
+[16-May-2024 07:29:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 07:29:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 07:29:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php on line 19
+[16-May-2024 07:30:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 07:30:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 07:30:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php on line 18
+[16-May-2024 07:30:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 07:30:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 07:30:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php on line 19
+[16-May-2024 07:30:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 07:30:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 07:30:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php on line 19
+[16-May-2024 07:30:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 07:30:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 07:30:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 07:30:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 07:30:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php on line 24
+[16-May-2024 07:30:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 07:30:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:56:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:56:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:56:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php on line 17
+[20-May-2024 18:56:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:56:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:56:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php on line 17
+[20-May-2024 18:56:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:56:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:56:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php on line 19
+[20-May-2024 18:56:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:56:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:56:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php on line 19
+[20-May-2024 18:56:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:56:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:56:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php on line 18
+[20-May-2024 18:56:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:56:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:56:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php on line 19
+[20-May-2024 18:57:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:57:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:57:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php on line 19
+[20-May-2024 18:57:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:57:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:57:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:57:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:13:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:13:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:13:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php on line 17
+[24-May-2024 04:13:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:13:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:13:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php on line 18
+[24-May-2024 04:13:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:13:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:13:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php on line 19
+[24-May-2024 04:13:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:13:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:13:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:13:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:13:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php on line 24
+[24-May-2024 04:13:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:13:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 08:21:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 08:21:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 08:21:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php on line 17
+[24-May-2024 08:22:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 08:22:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 08:22:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php on line 19
+[24-May-2024 08:23:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 08:23:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 08:23:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php on line 19
+[24-May-2024 08:25:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 08:25:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 08:25:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php on line 19
+[04-Jun-2024 16:58:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php on line 24
+[04-Jun-2024 16:58:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php on line 19
+[04-Jun-2024 16:58:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php on line 19
+[04-Jun-2024 16:58:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php on line 18
+[04-Jun-2024 16:58:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php on line 19
+[04-Jun-2024 16:58:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php on line 19
+[04-Jun-2024 16:58:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php on line 17
+[04-Jun-2024 16:58:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:58:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php on line 17
+[09-Jun-2024 10:49:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 10:49:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 10:49:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php on line 17
+[09-Jun-2024 10:49:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 10:49:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 10:49:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php on line 17
+[09-Jun-2024 10:50:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 10:50:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 10:50:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php on line 19
+[09-Jun-2024 10:50:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 10:50:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 10:50:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php on line 19
+[09-Jun-2024 10:50:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 10:50:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 10:50:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php on line 18
+[09-Jun-2024 10:50:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 10:50:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 10:50:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php on line 19
+[09-Jun-2024 10:50:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 10:50:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 10:50:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php on line 19
+[09-Jun-2024 10:50:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 10:50:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 10:50:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 10:50:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 10:50:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php on line 24
+[09-Jun-2024 10:50:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 10:50:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 12:04:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 12:04:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 12:04:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php on line 17
+[16-Jun-2024 12:04:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 12:04:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 12:04:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php on line 18
+[16-Jun-2024 12:04:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 12:04:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 12:04:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php on line 19
+[16-Jun-2024 12:05:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 12:05:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 12:05:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 12:05:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:11:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:11:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:11:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php on line 24
+[16-Jun-2024 15:31:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:31:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:31:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php on line 17
+[16-Jun-2024 15:32:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:32:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:32:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php on line 19
+[16-Jun-2024 15:32:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:32:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:32:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php on line 19
+[16-Jun-2024 15:32:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:32:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:32:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php on line 19
+[07-Jul-2024 04:13:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 04:13:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 04:13:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php on line 19
+[07-Jul-2024 04:27:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 04:27:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 04:27:51 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php on line 17
+[07-Jul-2024 04:54:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 04:54:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 05:33:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 05:33:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 06:41:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 06:41:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 06:41:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php on line 24
+[07-Jul-2024 14:46:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 14:46:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 14:46:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php on line 19
+[07-Jul-2024 18:35:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:35:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:35:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php on line 19
+[08-Jul-2024 08:57:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 08:57:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 08:57:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php on line 18
+[08-Jul-2024 09:01:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 09:01:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 09:01:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php on line 17
+[10-Jul-2024 00:35:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 00:35:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 00:35:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php on line 17
+[10-Jul-2024 00:37:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 00:37:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 00:37:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php on line 18
+[10-Jul-2024 00:38:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 00:38:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 00:38:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php on line 19
+[10-Jul-2024 00:40:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 00:40:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 00:43:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 00:43:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:34:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:34:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:34:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php on line 24
+[10-Jul-2024 01:35:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:35:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:35:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php on line 17
+[10-Jul-2024 01:36:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:36:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:36:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php on line 19
+[10-Jul-2024 01:36:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:36:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:36:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php on line 19
+[10-Jul-2024 01:37:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:37:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:37:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php on line 19
+[11-Jul-2024 04:47:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/Parameters.php on line 24
+[11-Jul-2024 04:47:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedCount.php on line 19
+[11-Jul-2024 04:47:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtMostCount.php on line 19
+[11-Jul-2024 04:47:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastOnce.php on line 18
+[11-Jul-2024 04:47:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvokedAtLeastCount.php on line 19
+[11-Jul-2024 04:47:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/InvocationOrder.php on line 19
+[11-Jul-2024 04:47:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Rule\ParametersRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyParameters.php on line 17
+[11-Jul-2024 04:47:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:47:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\MockObject\Rule\InvocationOrder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/MockObject/Runtime/Rule/AnyInvokedCount.php on line 17

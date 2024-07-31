@@ -1,0 +1,216 @@
+[12-May-2024 00:48:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:48:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:48:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php on line 9
+[12-May-2024 00:48:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:48:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:48:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php on line 7
+[12-May-2024 06:17:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 06:17:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 06:17:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php on line 7
+[15-May-2024 10:38:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:38:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:38:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php on line 9
+[15-May-2024 10:38:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:38:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:38:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php on line 7
+[15-May-2024 10:38:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:38:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:38:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php on line 7
+[30-May-2024 21:16:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 21:16:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 21:16:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php on line 7
+[30-May-2024 23:50:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:50:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:50:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php on line 9
+[31-May-2024 07:06:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 07:06:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 07:06:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php on line 7
+[31-May-2024 14:26:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:26:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:26:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php on line 9
+[31-May-2024 14:29:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:29:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:29:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php on line 7
+[31-May-2024 17:58:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 17:58:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 17:58:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php on line 7
+[01-Jun-2024 06:23:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:23:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:23:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php on line 7
+[01-Jun-2024 06:49:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:49:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:49:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php on line 9
+[01-Jun-2024 06:49:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:49:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:49:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php on line 7
+[04-Jun-2024 05:22:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:22:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:22:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php on line 7
+[04-Jun-2024 05:22:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:22:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:22:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php on line 7
+[04-Jun-2024 05:22:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:22:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:22:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php on line 9
+[19-Jun-2024 09:20:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 09:20:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 09:20:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php on line 9
+[19-Jun-2024 09:21:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 09:21:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 09:21:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php on line 7
+[19-Jun-2024 12:11:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 12:11:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 12:11:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php on line 7
+[26-Jun-2024 18:57:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:57:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:57:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php on line 7
+[27-Jun-2024 01:49:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:49:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:49:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php on line 9
+[27-Jun-2024 10:29:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 10:29:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:29:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php on line 7
+[01-Jul-2024 05:42:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:42:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:42:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php on line 7
+[01-Jul-2024 07:15:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:15:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:15:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php on line 7
+[01-Jul-2024 07:32:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:32:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:32:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php on line 9
+[05-Jul-2024 13:14:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 13:14:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 13:14:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php on line 9
+[05-Jul-2024 13:14:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 13:14:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 13:14:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php on line 7
+[05-Jul-2024 13:14:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 13:14:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 13:14:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php on line 7
+[08-Jul-2024 06:52:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:52:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:52:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php on line 9
+[08-Jul-2024 06:52:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:52:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:52:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php on line 7
+[08-Jul-2024 10:58:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 10:58:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 10:58:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php on line 7
+[10-Jul-2024 16:57:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestImportSolution.php on line 7
+[10-Jul-2024 16:57:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SuggestCorrectVariableNameSolution.php on line 7
+[10-Jul-2024 16:57:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/SolutionTransformer.php on line 9

@@ -1,0 +1,168 @@
+[14-May-2024 05:35:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 05:35:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 05:35:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php on line 26
+[14-May-2024 05:36:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 05:36:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 05:36:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php on line 27
+[15-May-2024 09:56:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:56:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:56:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php on line 26
+[15-May-2024 09:56:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:56:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:56:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php on line 27
+[19-May-2024 15:51:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 15:51:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 15:51:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php on line 26
+[19-May-2024 15:51:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 15:51:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 15:51:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php on line 27
+[31-May-2024 02:11:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 02:11:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 02:11:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php on line 26
+[31-May-2024 02:24:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 02:24:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 02:24:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php on line 27
+[01-Jun-2024 11:37:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 11:37:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 11:37:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php on line 26
+[01-Jun-2024 12:09:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 12:09:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 12:09:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php on line 27
+[01-Jun-2024 15:59:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 15:59:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 15:59:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php on line 26
+[01-Jun-2024 16:02:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 16:02:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 16:02:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php on line 27
+[04-Jun-2024 02:27:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:27:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:27:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php on line 27
+[04-Jun-2024 02:27:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:27:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:27:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php on line 26
+[10-Jun-2024 08:33:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 08:33:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 08:33:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php on line 26
+[10-Jun-2024 08:33:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 08:33:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 08:33:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php on line 27
+[20-Jun-2024 01:44:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 01:44:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 01:44:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php on line 26
+[20-Jun-2024 01:45:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 01:45:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 01:45:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php on line 27
+[26-Jun-2024 20:36:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 20:36:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 20:36:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php on line 26
+[27-Jun-2024 02:37:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 02:37:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 02:37:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php on line 27
+[29-Jun-2024 13:36:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:36:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:36:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php on line 27
+[29-Jun-2024 21:27:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 21:27:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 21:27:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php on line 26
+[05-Jul-2024 11:38:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:38:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:38:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php on line 26
+[05-Jul-2024 11:38:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:38:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:38:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php on line 27
+[08-Jul-2024 06:40:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:40:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:40:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php on line 26
+[08-Jul-2024 12:44:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 12:44:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 12:44:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php on line 27
+[10-Jul-2024 14:01:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:01:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:01:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/CyclomaticComplexityCalculatingVisitor.php on line 27
+[10-Jul-2024 14:01:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:01:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:01:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/complexity/src/Visitor/ComplexityCalculatingVisitor.php on line 26

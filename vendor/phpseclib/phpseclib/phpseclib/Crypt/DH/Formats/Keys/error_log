@@ -1,0 +1,60 @@
+[16-May-2024 02:36:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:36:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:36:35 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Keys\PKCS1" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS1.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS1.php on line 34
+[16-May-2024 02:36:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 02:36:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 02:36:38 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Keys\PKCS8" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS8.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS8.php on line 32
+[20-May-2024 18:09:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:09:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:09:56 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Keys\PKCS1" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS1.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS1.php on line 34
+[20-May-2024 18:10:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:10:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:10:08 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Keys\PKCS8" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS8.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS8.php on line 32
+[04-Jun-2024 22:03:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 22:03:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 22:03:17 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Keys\PKCS8" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS8.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS8.php on line 32
+[04-Jun-2024 22:03:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 22:03:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 22:03:20 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Keys\PKCS1" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS1.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS1.php on line 34
+[09-Jun-2024 03:28:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 03:28:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 03:28:01 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Keys\PKCS1" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS1.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS1.php on line 34
+[09-Jun-2024 03:28:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 03:28:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 03:28:04 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Keys\PKCS8" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS8.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS8.php on line 32
+[11-Jul-2024 09:53:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 09:53:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 09:53:03 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Keys\PKCS8" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS8.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS8.php on line 32
+[11-Jul-2024 09:53:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 09:53:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 09:53:07 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Keys\PKCS1" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS1.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/DH/Formats/Keys/PKCS1.php on line 34

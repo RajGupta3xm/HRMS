@@ -1,0 +1,340 @@
+[14-May-2024 17:58:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 17:58:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 17:58:02 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php on line 14
+[14-May-2024 17:58:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 17:58:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 17:58:29 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php on line 24
+[14-May-2024 17:58:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 17:58:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 17:58:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 17:58:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 17:58:39 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php on line 34
+[14-May-2024 17:58:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 17:58:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 17:58:40 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\Output\AbstractChunkOutputBuilder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php on line 27
+[15-May-2024 09:56:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:56:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:56:38 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php on line 14
+[15-May-2024 09:56:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:56:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:56:41 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php on line 24
+[15-May-2024 09:56:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:56:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:56:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:56:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:56:45 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php on line 34
+[15-May-2024 09:56:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:56:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:56:47 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\Output\AbstractChunkOutputBuilder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php on line 27
+[19-May-2024 15:54:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 15:54:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 15:54:34 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php on line 14
+[19-May-2024 15:54:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 15:54:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 15:54:45 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php on line 24
+[19-May-2024 15:54:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 15:54:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 15:55:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 15:55:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 15:55:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php on line 34
+[19-May-2024 15:55:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 15:55:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 15:55:18 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\Output\AbstractChunkOutputBuilder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php on line 27
+[30-May-2024 23:03:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:03:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:03:55 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\Output\AbstractChunkOutputBuilder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php on line 27
+[31-May-2024 01:17:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 01:17:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:00:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 04:00:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:00:13 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php on line 14
+[31-May-2024 05:08:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 05:08:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:08:38 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php on line 24
+[31-May-2024 14:19:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:19:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:19:21 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php on line 34
+[03-Jun-2024 08:28:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 08:28:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 08:28:00 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php on line 14
+[03-Jun-2024 08:32:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 08:32:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 08:32:30 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php on line 24
+[03-Jun-2024 08:37:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 08:37:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 08:39:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 08:39:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 08:39:37 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php on line 34
+[03-Jun-2024 08:41:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 08:41:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 08:41:29 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\Output\AbstractChunkOutputBuilder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php on line 27
+[04-Jun-2024 03:13:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:13:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:13:39 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\Output\AbstractChunkOutputBuilder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php on line 27
+[04-Jun-2024 03:13:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:13:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:13:43 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php on line 34
+[04-Jun-2024 03:13:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:13:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:13:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:13:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:13:51 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php on line 24
+[04-Jun-2024 03:13:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:13:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:13:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php on line 14
+[11-Jun-2024 01:55:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:55:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:55:32 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\Output\AbstractChunkOutputBuilder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php on line 27
+[11-Jun-2024 02:01:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:01:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:01:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:01:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:01:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php on line 24
+[11-Jun-2024 02:01:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:01:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:01:13 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php on line 14
+[11-Jun-2024 02:15:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:15:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:15:24 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php on line 34
+[22-Jun-2024 19:49:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 19:49:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 19:49:54 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php on line 14
+[22-Jun-2024 19:52:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 19:52:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 19:52:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php on line 24
+[22-Jun-2024 19:53:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 19:53:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 19:54:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 19:54:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 19:54:11 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php on line 34
+[22-Jun-2024 19:55:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 19:55:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 19:55:13 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\Output\AbstractChunkOutputBuilder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php on line 27
+[26-Jun-2024 19:07:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 19:07:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 19:07:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php on line 34
+[26-Jun-2024 21:41:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:41:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:41:22 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php on line 14
+[26-Jun-2024 22:09:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 22:09:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 22:09:37 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\Output\AbstractChunkOutputBuilder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php on line 27
+[27-Jun-2024 01:23:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:23:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:33:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 10:33:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:33:41 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php on line 24
+[29-Jun-2024 12:03:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 12:03:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 12:03:54 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php on line 34
+[29-Jun-2024 14:00:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:00:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:00:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php on line 14
+[29-Jun-2024 14:35:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:35:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:35:31 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php on line 24
+[29-Jun-2024 15:31:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 15:31:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 15:31:43 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\Output\AbstractChunkOutputBuilder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php on line 27
+[29-Jun-2024 17:13:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:13:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:42:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:42:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:42:13 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php on line 14
+[05-Jul-2024 11:42:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:42:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:42:20 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php on line 24
+[05-Jul-2024 11:42:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:42:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:42:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:42:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:42:52 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php on line 34
+[05-Jul-2024 11:43:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:43:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:43:02 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\Output\AbstractChunkOutputBuilder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php on line 27
+[10-Jul-2024 11:53:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 11:53:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:47:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:47:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:47:47 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\Output\AbstractChunkOutputBuilder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php on line 27
+[10-Jul-2024 14:47:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:47:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:47:51 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php on line 34
+[10-Jul-2024 14:47:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:47:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:47:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:47:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:47:59 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php on line 24
+[10-Jul-2024 14:48:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:48:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:48:03 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php on line 14
+[12-Jul-2024 01:29:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 01:29:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 01:29:58 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/AbstractChunkOutputBuilder.php on line 14
+[12-Jul-2024 01:33:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 01:33:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 01:33:42 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/DiffOnlyOutputBuilder.php on line 24
+[12-Jul-2024 01:36:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 01:36:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 01:37:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 01:37:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 01:37:49 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Output\DiffOutputBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/StrictUnifiedDiffOutputBuilder.php on line 34
+[12-Jul-2024 01:39:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 01:39:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 01:39:08 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\Output\AbstractChunkOutputBuilder" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/diff/src/Output/UnifiedDiffOutputBuilder.php on line 27

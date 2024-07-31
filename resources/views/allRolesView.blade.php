@@ -50,6 +50,12 @@
                                                 </td>
 
                                                 <td class="text-center">
+                                                    @if (isset($modules[5]['role.edit']) && $modules[5]['role.edit'] == 1)
+                                                        <a href="{{ url('/roles/' . urlencode($userName) . '/edit') }}"
+                                                            class="btn btn-info btn-xs">
+                                                            Edit
+                                                        </a>
+                                                    @endif
                                                     @if (isset($modules[5]['role.delete']) && $modules[5]['role.delete'] == 1)
                                                         <form
                                                             action="{{ route('roles.delete', ['userName' => $userName]) }}"

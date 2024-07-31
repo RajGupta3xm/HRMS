@@ -1,0 +1,340 @@
+[15-May-2024 10:11:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:11:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:11:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[15-May-2024 10:11:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:11:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:11:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[15-May-2024 10:11:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:11:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:11:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[15-May-2024 10:11:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:11:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:11:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[15-May-2024 10:11:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:11:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:33:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:33:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:33:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:33:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:33:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[19-May-2024 22:33:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:33:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:33:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[19-May-2024 22:33:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:33:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:33:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[19-May-2024 22:34:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 22:34:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 22:34:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[24-May-2024 04:11:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:11:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:11:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[24-May-2024 04:11:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:11:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:11:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[24-May-2024 04:11:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:11:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:11:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[24-May-2024 04:11:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:11:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:11:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[24-May-2024 04:11:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:11:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 02:40:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 02:40:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 02:40:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[31-May-2024 06:11:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 06:11:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 06:11:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[31-May-2024 06:14:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 06:14:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 06:14:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[31-May-2024 07:56:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 07:56:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 07:56:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[31-May-2024 13:48:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 13:48:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:35:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:35:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:35:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[05-Jun-2024 01:35:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:35:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:35:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[05-Jun-2024 01:35:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:35:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:35:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[05-Jun-2024 01:35:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:35:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 01:35:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[05-Jun-2024 01:35:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 01:35:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[07-Jun-2024 18:09:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[07-Jun-2024 18:09:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[07-Jun-2024 18:09:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[07-Jun-2024 18:09:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 15:29:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 15:29:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 15:31:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 15:31:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 15:31:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[10-Jun-2024 15:33:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 15:33:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 15:33:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[10-Jun-2024 15:33:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 15:33:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 15:33:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[10-Jun-2024 15:34:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 15:34:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 15:34:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[13-Jun-2024 03:57:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 03:57:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 03:57:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[13-Jun-2024 03:58:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 03:58:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 03:58:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[13-Jun-2024 03:58:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 03:58:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 03:58:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[13-Jun-2024 03:59:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 03:59:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 03:59:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[13-Jun-2024 03:59:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 03:59:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:10:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:10:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:10:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[26-Jun-2024 20:59:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 20:59:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 20:59:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[27-Jun-2024 05:28:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 05:28:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 06:06:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 06:06:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 06:06:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[27-Jun-2024 12:55:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 12:55:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 12:55:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[29-Jun-2024 13:55:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:55:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:55:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[29-Jun-2024 13:58:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:58:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:58:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[29-Jun-2024 15:50:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 15:50:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:03:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:03:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:03:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[29-Jun-2024 18:20:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:20:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:20:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[02-Jul-2024 19:48:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 19:48:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 19:48:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[02-Jul-2024 19:49:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 19:49:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 19:49:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[02-Jul-2024 19:50:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 19:50:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 19:50:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[02-Jul-2024 19:51:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 19:51:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 00:31:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 00:31:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 00:31:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[05-Jul-2024 10:51:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:51:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:51:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[05-Jul-2024 10:51:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:51:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:51:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[05-Jul-2024 10:51:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:51:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:51:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[05-Jul-2024 10:51:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:51:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:51:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[05-Jul-2024 10:52:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:52:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:13:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:13:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:25:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:25:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:25:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[11-Jul-2024 13:25:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:25:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:25:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[11-Jul-2024 13:25:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:25:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:25:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[11-Jul-2024 13:25:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:25:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:25:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/psy/psysh/src/Output/OutputPager.php on line 20
+[11-Jul-2024 13:26:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:26:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

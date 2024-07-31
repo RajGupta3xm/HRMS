@@ -1,0 +1,222 @@
+[15-May-2024 10:42:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:42:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:42:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[15-May-2024 10:42:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:42:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:42:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:42:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:42:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[15-May-2024 10:42:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:42:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:42:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[19-May-2024 16:31:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 16:31:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 16:31:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[19-May-2024 16:31:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 16:31:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 16:31:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 16:31:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 16:31:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[19-May-2024 16:31:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 16:31:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 16:31:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[28-May-2024 02:00:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:00:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:00:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[28-May-2024 02:00:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:00:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:00:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:00:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:00:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[28-May-2024 02:00:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:00:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:00:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[31-May-2024 04:19:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 04:19:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:19:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[31-May-2024 06:42:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 06:42:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 06:42:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[31-May-2024 09:29:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 09:29:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 09:29:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[31-May-2024 16:17:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 16:17:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:50:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:50:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:50:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[04-Jun-2024 04:50:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:50:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:50:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[04-Jun-2024 04:50:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:50:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:50:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:50:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:50:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[13-Jun-2024 01:16:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 01:16:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 01:16:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[13-Jun-2024 01:30:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 01:30:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 01:30:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[13-Jun-2024 01:30:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 01:30:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 01:32:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 01:32:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 01:32:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[16-Jun-2024 04:11:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 04:11:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 04:11:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[16-Jun-2024 04:11:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 04:11:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 04:12:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 04:12:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 04:12:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[16-Jun-2024 04:12:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 04:12:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 04:12:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[26-Jun-2024 19:31:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 19:31:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 19:31:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[27-Jun-2024 06:43:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 06:43:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 06:43:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[27-Jun-2024 07:04:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 07:04:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 07:04:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[27-Jun-2024 12:26:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 12:26:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:58:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:58:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:16:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:16:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:16:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[02-Jul-2024 15:11:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:11:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:11:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[02-Jul-2024 16:05:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 16:05:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 16:05:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[05-Jul-2024 00:16:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 00:16:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 00:16:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[05-Jul-2024 00:17:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 00:17:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 00:18:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 00:18:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 00:18:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[05-Jul-2024 00:19:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 00:19:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 00:19:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[10-Jul-2024 16:25:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:25:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:25:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/ZshCompletionOutput.php on line 20
+[10-Jul-2024 16:25:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:25:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:25:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/FishCompletionOutput.php on line 20
+[10-Jul-2024 16:25:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:25:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:25:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:25:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:25:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Completion\Output\CompletionOutputInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/console/Completion/Output/BashCompletionOutput.php on line 20
+[10-Jul-2024 17:07:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:07:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

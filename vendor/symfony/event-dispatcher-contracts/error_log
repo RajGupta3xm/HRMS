@@ -1,0 +1,162 @@
+[11-May-2024 02:35:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:35:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:35:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[11-May-2024 02:35:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:35:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:35:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[18-May-2024 10:54:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 10:54:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 10:54:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[19-May-2024 21:13:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:13:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:13:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[19-May-2024 21:13:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:13:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:13:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[25-May-2024 21:15:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 21:15:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 21:15:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[25-May-2024 22:59:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 22:59:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 22:59:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[31-May-2024 14:38:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:38:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:38:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[31-May-2024 14:39:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:39:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:39:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[01-Jun-2024 01:29:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:29:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 01:29:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[01-Jun-2024 01:50:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:50:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 01:50:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[04-Jun-2024 03:43:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:43:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:43:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[04-Jun-2024 03:44:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:44:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:44:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[04-Jun-2024 04:40:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:40:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:40:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[04-Jun-2024 04:41:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:41:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:41:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[07-Jun-2024 18:35:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:35:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:35:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[07-Jun-2024 18:36:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:36:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:36:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[20-Jun-2024 09:44:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 09:44:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 09:44:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[20-Jun-2024 20:09:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 20:09:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 20:09:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[25-Jun-2024 12:06:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 12:06:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 12:06:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[25-Jun-2024 20:26:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 20:26:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 20:26:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[25-Jun-2024 20:27:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 20:27:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 20:27:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[25-Jun-2024 21:05:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 21:05:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 21:05:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[10-Jul-2024 15:17:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:17:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:17:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[10-Jul-2024 15:18:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:18:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:18:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19
+[12-Jul-2024 03:35:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:35:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:35:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/Event.php on line 31
+[12-Jul-2024 03:35:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:35:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:35:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\EventDispatcherInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/event-dispatcher-contracts/EventDispatcherInterface.php on line 19

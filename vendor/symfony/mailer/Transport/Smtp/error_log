@@ -1,0 +1,216 @@
+[15-May-2024 08:09:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 08:09:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 08:09:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\SmtpTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php on line 29
+[15-May-2024 08:09:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 08:09:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 08:09:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php on line 22
+[15-May-2024 08:09:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 08:09:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 08:09:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php on line 33
+[20-May-2024 06:43:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:43:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:43:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\SmtpTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php on line 29
+[20-May-2024 06:43:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:43:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:43:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php on line 22
+[20-May-2024 06:43:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:43:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:43:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php on line 33
+[22-May-2024 08:37:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:37:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:37:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php on line 33
+[22-May-2024 08:37:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:37:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:37:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\SmtpTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php on line 29
+[22-May-2024 12:51:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 12:51:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 12:51:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php on line 22
+[31-May-2024 00:19:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 00:19:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 00:19:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\SmtpTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php on line 29
+[31-May-2024 01:21:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 01:21:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 01:21:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php on line 33
+[31-May-2024 10:35:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 10:35:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 10:35:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php on line 22
+[04-Jun-2024 04:56:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:56:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:56:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php on line 33
+[04-Jun-2024 04:56:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:56:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:56:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php on line 22
+[04-Jun-2024 04:56:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:56:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:56:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\SmtpTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php on line 29
+[04-Jun-2024 19:23:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 19:23:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 19:23:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\SmtpTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php on line 29
+[04-Jun-2024 19:23:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 19:23:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 19:23:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php on line 22
+[04-Jun-2024 19:23:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 19:23:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 19:23:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php on line 33
+[09-Jun-2024 20:42:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 20:42:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 20:42:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\SmtpTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php on line 29
+[09-Jun-2024 20:42:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 20:42:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 20:42:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php on line 22
+[09-Jun-2024 20:42:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 20:42:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 20:42:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php on line 33
+[10-Jun-2024 14:19:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 14:19:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 14:19:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\SmtpTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php on line 29
+[10-Jun-2024 14:20:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 14:20:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 14:20:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php on line 33
+[10-Jun-2024 19:18:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 19:18:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 19:18:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php on line 22
+[27-Jun-2024 05:09:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 05:09:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 05:09:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php on line 33
+[27-Jun-2024 10:16:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 10:16:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:16:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\SmtpTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php on line 29
+[27-Jun-2024 14:50:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 14:50:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 14:50:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php on line 22
+[29-Jun-2024 02:52:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 02:52:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 02:52:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\SmtpTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php on line 29
+[29-Jun-2024 02:53:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 02:53:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 02:53:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php on line 33
+[29-Jun-2024 08:59:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 08:59:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 08:59:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php on line 22
+[02-Jul-2024 20:23:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 20:23:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 20:23:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php on line 22
+[02-Jul-2024 21:23:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 21:23:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 21:23:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\SmtpTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php on line 29
+[03-Jul-2024 06:44:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 06:44:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 06:44:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php on line 33
+[10-Jul-2024 16:31:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:31:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:31:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/SmtpTransport.php on line 33
+[10-Jul-2024 16:31:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:31:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:31:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\AbstractTransportFactory" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransportFactory.php on line 22
+[10-Jul-2024 16:31:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:31:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:31:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\SmtpTransport" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/mailer/Transport/Smtp/EsmtpTransport.php on line 29

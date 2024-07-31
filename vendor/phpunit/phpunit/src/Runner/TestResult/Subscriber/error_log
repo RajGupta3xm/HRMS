@@ -1,0 +1,1162 @@
+[15-May-2024 10:21:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:21:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:21:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[16-May-2024 03:45:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php on line 18
+[16-May-2024 03:45:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/ExecutionStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/ExecutionStartedSubscriber.php on line 18
+[16-May-2024 03:45:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php on line 18
+[16-May-2024 03:45:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php on line 18
+[16-May-2024 03:45:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php on line 18
+[16-May-2024 03:45:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php on line 18
+[16-May-2024 03:45:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php on line 18
+[16-May-2024 03:45:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php on line 18
+[16-May-2024 03:45:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php on line 18
+[16-May-2024 03:45:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php on line 18
+[16-May-2024 03:45:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php on line 18
+[16-May-2024 03:45:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php on line 18
+[16-May-2024 03:45:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php on line 18
+[16-May-2024 03:45:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php on line 18
+[16-May-2024 03:45:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php on line 18
+[16-May-2024 03:45:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php on line 18
+[16-May-2024 03:45:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredNoticeSubscriber.php on line 18
+[16-May-2024 03:45:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php on line 18
+[16-May-2024 03:45:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php on line 18
+[16-May-2024 03:45:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php on line 18
+[16-May-2024 03:45:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php on line 18
+[16-May-2024 03:45:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php on line 18
+[16-May-2024 03:45:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php on line 18
+[16-May-2024 03:45:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 03:45:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 03:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[20-May-2024 19:17:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:17:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:17:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php on line 18
+[20-May-2024 19:17:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:17:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:17:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/ExecutionStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/ExecutionStartedSubscriber.php on line 18
+[20-May-2024 19:17:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:17:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:18:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:18:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:18:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php on line 18
+[20-May-2024 19:18:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:18:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:18:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php on line 18
+[20-May-2024 19:18:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:18:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:18:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php on line 18
+[20-May-2024 19:18:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:18:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:18:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php on line 18
+[20-May-2024 19:18:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:18:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:18:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php on line 18
+[20-May-2024 19:19:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:19:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php on line 18
+[20-May-2024 19:19:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:19:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:19:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php on line 18
+[20-May-2024 19:19:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:19:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:19:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php on line 18
+[20-May-2024 19:19:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:19:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:19:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php on line 18
+[20-May-2024 19:19:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:19:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:19:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php on line 18
+[20-May-2024 19:19:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:19:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:19:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php on line 18
+[20-May-2024 19:20:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:20:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:20:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php on line 18
+[20-May-2024 19:20:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:20:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:20:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php on line 18
+[20-May-2024 19:20:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:20:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:20:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php on line 18
+[20-May-2024 19:21:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:21:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:21:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php on line 18
+[20-May-2024 19:21:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:21:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:21:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php on line 18
+[20-May-2024 19:21:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:21:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:21:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php on line 18
+[20-May-2024 19:21:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:21:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:21:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php on line 18
+[20-May-2024 19:21:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:21:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:21:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php on line 18
+[20-May-2024 19:22:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:22:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:22:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php on line 18
+[20-May-2024 19:22:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 19:22:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 19:22:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[04-Jun-2024 17:28:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[04-Jun-2024 17:28:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php on line 18
+[04-Jun-2024 17:28:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php on line 18
+[04-Jun-2024 17:28:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php on line 18
+[04-Jun-2024 17:28:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php on line 18
+[04-Jun-2024 17:28:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php on line 18
+[04-Jun-2024 17:28:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php on line 18
+[04-Jun-2024 17:28:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredNoticeSubscriber.php on line 18
+[04-Jun-2024 17:28:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php on line 18
+[04-Jun-2024 17:28:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php on line 18
+[04-Jun-2024 17:28:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php on line 18
+[04-Jun-2024 17:28:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php on line 18
+[04-Jun-2024 17:28:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:28:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php on line 18
+[04-Jun-2024 17:29:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php on line 18
+[04-Jun-2024 17:29:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php on line 18
+[04-Jun-2024 17:29:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php on line 18
+[04-Jun-2024 17:29:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php on line 18
+[04-Jun-2024 17:29:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php on line 18
+[04-Jun-2024 17:29:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php on line 18
+[04-Jun-2024 17:29:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php on line 18
+[04-Jun-2024 17:29:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php on line 18
+[04-Jun-2024 17:29:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php on line 18
+[04-Jun-2024 17:29:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 17:29:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php on line 18
+[07-Jun-2024 00:14:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php on line 18
+[07-Jun-2024 00:14:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/ExecutionStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/ExecutionStartedSubscriber.php on line 18
+[07-Jun-2024 00:14:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php on line 18
+[07-Jun-2024 00:14:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php on line 18
+[07-Jun-2024 00:14:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php on line 18
+[07-Jun-2024 00:14:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php on line 18
+[07-Jun-2024 00:14:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php on line 18
+[07-Jun-2024 00:14:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php on line 18
+[07-Jun-2024 00:14:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:14:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php on line 18
+[07-Jun-2024 00:15:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php on line 18
+[07-Jun-2024 00:15:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php on line 18
+[07-Jun-2024 00:15:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php on line 18
+[07-Jun-2024 00:15:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php on line 18
+[07-Jun-2024 00:15:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php on line 18
+[07-Jun-2024 00:15:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php on line 18
+[07-Jun-2024 00:15:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php on line 18
+[07-Jun-2024 00:15:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredNoticeSubscriber.php on line 18
+[07-Jun-2024 00:15:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php on line 18
+[07-Jun-2024 00:15:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php on line 18
+[07-Jun-2024 00:15:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php on line 18
+[07-Jun-2024 00:15:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php on line 18
+[07-Jun-2024 00:15:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php on line 18
+[07-Jun-2024 00:15:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php on line 18
+[07-Jun-2024 00:15:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:15:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[12-Jun-2024 19:15:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:15:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:15:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php on line 18
+[12-Jun-2024 19:16:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:16:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:16:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/ExecutionStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/ExecutionStartedSubscriber.php on line 18
+[12-Jun-2024 19:16:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:16:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:16:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:16:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:16:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php on line 18
+[12-Jun-2024 19:17:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:17:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:17:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php on line 18
+[12-Jun-2024 19:17:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:17:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:17:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php on line 18
+[12-Jun-2024 19:18:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:18:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:18:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php on line 18
+[12-Jun-2024 19:18:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:18:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:18:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php on line 18
+[12-Jun-2024 19:18:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:18:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:18:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php on line 18
+[12-Jun-2024 19:19:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:19:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:19:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php on line 18
+[12-Jun-2024 19:19:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:19:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:19:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php on line 18
+[12-Jun-2024 19:20:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:20:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:20:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php on line 18
+[12-Jun-2024 19:20:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:20:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:20:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php on line 18
+[12-Jun-2024 19:21:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:21:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:21:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php on line 18
+[12-Jun-2024 19:21:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:21:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:21:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php on line 18
+[12-Jun-2024 19:22:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:22:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:22:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php on line 18
+[12-Jun-2024 19:22:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:22:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:22:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php on line 18
+[12-Jun-2024 19:22:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:22:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:22:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredNoticeSubscriber.php on line 18
+[12-Jun-2024 19:23:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:23:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:23:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php on line 18
+[12-Jun-2024 19:23:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:23:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:23:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php on line 18
+[12-Jun-2024 19:24:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:24:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:24:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php on line 18
+[12-Jun-2024 19:24:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:24:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:24:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php on line 18
+[12-Jun-2024 19:25:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:25:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:25:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php on line 18
+[12-Jun-2024 19:25:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 19:25:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 19:25:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php on line 18
+[13-Jun-2024 00:25:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 00:25:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 00:25:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[02-Jul-2024 11:56:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 11:56:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 11:56:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php on line 18
+[02-Jul-2024 12:17:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:17:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 12:17:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php on line 18
+[02-Jul-2024 12:37:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:37:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 12:37:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php on line 18
+[02-Jul-2024 13:06:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 13:06:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 13:06:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php on line 18
+[02-Jul-2024 13:43:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 13:43:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 13:43:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php on line 18
+[02-Jul-2024 14:27:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:27:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:27:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php on line 18
+[02-Jul-2024 16:16:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 16:16:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 16:16:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php on line 18
+[02-Jul-2024 16:40:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 16:40:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 16:40:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php on line 18
+[02-Jul-2024 17:49:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 17:49:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 17:49:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php on line 18
+[02-Jul-2024 17:53:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 17:53:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 17:53:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php on line 18
+[02-Jul-2024 18:40:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 18:40:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 18:40:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php on line 18
+[02-Jul-2024 19:27:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 19:27:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 19:27:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[02-Jul-2024 20:05:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 20:05:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 20:05:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php on line 18
+[02-Jul-2024 20:28:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 20:28:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 20:28:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php on line 18
+[02-Jul-2024 20:58:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 20:58:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 20:58:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/ExecutionStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/ExecutionStartedSubscriber.php on line 18
+[02-Jul-2024 20:59:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 20:59:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 20:59:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php on line 18
+[02-Jul-2024 21:30:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 21:30:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 21:30:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php on line 18
+[03-Jul-2024 00:19:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 00:19:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 05:38:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 05:38:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 05:38:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredNoticeSubscriber.php on line 18
+[03-Jul-2024 06:34:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 06:34:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 06:34:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php on line 18
+[03-Jul-2024 07:00:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 07:00:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 07:00:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php on line 18
+[03-Jul-2024 07:33:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 07:33:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 07:33:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php on line 18
+[03-Jul-2024 08:04:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 08:04:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 08:04:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php on line 18
+[03-Jul-2024 10:13:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 10:13:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 10:13:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php on line 18
+[03-Jul-2024 10:51:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 10:51:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 10:51:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php on line 18
+[07-Jul-2024 18:14:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:14:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:14:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php on line 18
+[07-Jul-2024 18:15:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:15:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:15:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/ExecutionStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/ExecutionStartedSubscriber.php on line 18
+[07-Jul-2024 18:15:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:15:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:16:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:16:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:16:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php on line 18
+[07-Jul-2024 18:16:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:16:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:16:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php on line 18
+[07-Jul-2024 18:16:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:16:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:16:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php on line 18
+[07-Jul-2024 18:17:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:17:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:17:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php on line 18
+[07-Jul-2024 18:17:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:17:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:17:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php on line 18
+[07-Jul-2024 18:18:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:18:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:18:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php on line 18
+[07-Jul-2024 19:55:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 19:55:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 19:55:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php on line 18
+[07-Jul-2024 19:56:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 19:56:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 19:56:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php on line 18
+[07-Jul-2024 19:57:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 19:57:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 19:57:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php on line 18
+[07-Jul-2024 19:58:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 19:58:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 19:58:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php on line 18
+[07-Jul-2024 19:58:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 19:58:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 19:58:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php on line 18
+[07-Jul-2024 19:59:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 19:59:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 19:59:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php on line 18
+[07-Jul-2024 20:00:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 20:00:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 20:00:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php on line 18
+[07-Jul-2024 20:01:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 20:01:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 20:01:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php on line 18
+[07-Jul-2024 20:02:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 20:02:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 20:02:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredNoticeSubscriber.php on line 18
+[07-Jul-2024 20:03:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 20:03:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 20:03:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php on line 18
+[07-Jul-2024 20:04:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 20:04:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 20:04:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php on line 18
+[07-Jul-2024 20:05:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 20:05:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 20:05:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php on line 18
+[07-Jul-2024 20:06:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 20:06:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 20:06:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php on line 18
+[07-Jul-2024 20:08:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 20:08:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 20:08:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php on line 18
+[07-Jul-2024 20:09:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 20:09:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 20:09:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php on line 18
+[07-Jul-2024 20:20:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 20:20:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 20:20:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[11-Jul-2024 05:17:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:17:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:17:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredWarningSubscriber.php on line 18
+[11-Jul-2024 05:17:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:17:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:17:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitWarningSubscriber.php on line 18
+[11-Jul-2024 05:17:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:17:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:17:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitErrorSubscriber.php on line 18
+[11-Jul-2024 05:17:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:17:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:17:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpunitDeprecationSubscriber.php on line 18
+[11-Jul-2024 05:17:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:17:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:17:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpWarningSubscriber.php on line 18
+[11-Jul-2024 05:17:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:17:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:17:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpNoticeSubscriber.php on line 18
+[11-Jul-2024 05:17:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:17:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:17:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredPhpDeprecationSubscriber.php on line 18
+[11-Jul-2024 05:18:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredNoticeSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredNoticeSubscriber.php on line 18
+[11-Jul-2024 05:18:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredErrorSubscriber.php on line 18
+[11-Jul-2024 05:18:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestTriggeredDeprecationSubscriber.php on line 18
+[11-Jul-2024 05:18:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteStartedSubscriber.php on line 18
+[11-Jul-2024 05:18:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteSkippedSubscriber.php on line 18
+[11-Jul-2024 05:18:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSuiteFinishedSubscriber.php on line 18
+[11-Jul-2024 05:18:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestSkippedSubscriber.php on line 18
+[11-Jul-2024 05:18:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredWarningSubscriber.php on line 18
+[11-Jul-2024 05:18:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestRunnerTriggeredDeprecationSubscriber.php on line 18
+[11-Jul-2024 05:18:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestPreparedSubscriber.php on line 18
+[11-Jul-2024 05:18:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestMarkedIncompleteSubscriber.php on line 18
+[11-Jul-2024 05:18:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFinishedSubscriber.php on line 18
+[11-Jul-2024 05:18:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestFailedSubscriber.php on line 18
+[11-Jul-2024 05:18:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestErroredSubscriber.php on line 18
+[11-Jul-2024 05:18:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:18:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/TestConsideredRiskySubscriber.php on line 18
+[11-Jul-2024 05:19:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:19:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:19:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:19:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:19:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/ExecutionStartedSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/ExecutionStartedSubscriber.php on line 18
+[11-Jul-2024 05:19:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 05:19:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 05:19:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\TestRunner\TestResult\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Runner/TestResult/Subscriber/BeforeTestClassMethodErroredSubscriber.php on line 18

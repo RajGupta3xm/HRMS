@@ -1,0 +1,976 @@
+[15-May-2024 09:49:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:49:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:49:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[15-May-2024 09:50:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:50:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:50:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:50:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:50:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:50:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:50:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[15-May-2024 09:50:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:50:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:50:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[15-May-2024 09:50:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:50:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:50:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 28
+[15-May-2024 09:50:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:50:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:50:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[15-May-2024 09:50:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:50:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:50:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:50:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:50:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:50:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:50:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 30
+[15-May-2024 09:50:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:50:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:50:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:50:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:50:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:50:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:50:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php on line 46
+[15-May-2024 10:15:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:15:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:15:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 60
+[15-May-2024 10:16:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:16:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:16:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[15-May-2024 10:16:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:16:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:16:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:16:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:16:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[20-May-2024 06:01:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:01:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:01:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 60
+[20-May-2024 06:01:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:01:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:01:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[20-May-2024 06:01:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:01:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:01:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:01:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:01:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[20-May-2024 06:02:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:02:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:02:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[20-May-2024 06:02:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:02:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:02:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:02:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:02:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:02:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:02:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[20-May-2024 06:02:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:02:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:02:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[20-May-2024 06:03:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:03:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:03:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 28
+[20-May-2024 06:03:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:03:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:03:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[20-May-2024 06:03:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:03:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:03:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:03:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:03:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:03:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:03:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 30
+[20-May-2024 06:04:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:04:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:04:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:04:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:04:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:04:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:04:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php on line 46
+[23-May-2024 03:51:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:51:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:51:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:51:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:51:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[23-May-2024 03:51:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:51:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:51:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 28
+[23-May-2024 03:51:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:51:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:51:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:51:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:51:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[23-May-2024 03:51:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:51:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:51:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:51:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:51:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 30
+[23-May-2024 03:51:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:51:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:51:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:51:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:45:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:45:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:45:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 60
+[23-May-2024 11:45:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:45:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:45:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[23-May-2024 11:45:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:45:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:46:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:46:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:46:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[23-May-2024 11:46:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:46:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:46:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[23-May-2024 11:46:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:46:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:46:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:46:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:46:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[23-May-2024 11:46:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:46:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:46:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php on line 46
+[31-May-2024 01:33:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 01:33:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 02:20:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 02:20:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 02:35:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 02:35:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 02:35:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 60
+[31-May-2024 04:11:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 04:11:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:27:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 04:27:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:27:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 28
+[31-May-2024 04:44:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 04:44:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:44:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[31-May-2024 05:03:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 05:03:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 06:12:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 06:12:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 06:12:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php on line 46
+[31-May-2024 08:08:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 08:08:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 08:08:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[31-May-2024 08:47:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 08:47:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 08:47:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[31-May-2024 10:58:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 10:58:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 10:58:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[31-May-2024 11:16:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 11:16:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 11:34:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 11:34:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 11:34:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[31-May-2024 13:03:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 13:03:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 13:03:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 30
+[31-May-2024 15:14:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:14:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:14:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[31-May-2024 15:24:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:24:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 16:18:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 16:18:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php on line 46
+[04-Jun-2024 05:34:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 30
+[04-Jun-2024 05:35:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[04-Jun-2024 05:35:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 28
+[04-Jun-2024 05:35:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[04-Jun-2024 05:35:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[04-Jun-2024 05:35:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[04-Jun-2024 05:35:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[04-Jun-2024 05:35:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[04-Jun-2024 05:35:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:35:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 60
+[07-Jun-2024 18:05:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 60
+[07-Jun-2024 18:05:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[07-Jun-2024 18:05:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[07-Jun-2024 18:05:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[07-Jun-2024 18:05:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[07-Jun-2024 18:05:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[07-Jun-2024 18:05:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 28
+[07-Jun-2024 18:05:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[07-Jun-2024 18:05:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 30
+[07-Jun-2024 18:05:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:05:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php on line 46
+[10-Jun-2024 23:17:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:17:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:20:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:20:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:20:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:20:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:20:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[10-Jun-2024 23:24:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:24:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:24:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:24:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:24:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php on line 46
+[10-Jun-2024 23:27:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:27:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:27:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[10-Jun-2024 23:27:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:27:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:27:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 60
+[10-Jun-2024 23:29:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:29:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:29:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[10-Jun-2024 23:33:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:33:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:33:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[10-Jun-2024 23:33:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:33:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:38:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:38:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:38:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[10-Jun-2024 23:40:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:40:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:41:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:41:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:41:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 30
+[10-Jun-2024 23:42:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:42:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:42:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[10-Jun-2024 23:43:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:43:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:43:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:43:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:43:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 28
+[10-Jun-2024 23:44:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:44:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 11:45:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 11:45:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 11:45:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 11:45:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 11:45:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[14-Jun-2024 11:45:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 11:45:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 11:45:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 28
+[14-Jun-2024 11:46:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 11:46:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 11:46:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[14-Jun-2024 11:46:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 11:46:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 11:46:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 11:46:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 11:47:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 11:47:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 11:47:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 30
+[14-Jun-2024 11:47:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 11:47:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 11:48:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 11:48:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 17:16:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 17:16:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 17:16:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 60
+[14-Jun-2024 17:16:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 17:16:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 17:16:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[14-Jun-2024 17:17:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 17:17:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 17:17:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 17:17:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 17:17:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[14-Jun-2024 17:17:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 17:17:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 17:17:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[14-Jun-2024 17:18:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 17:18:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 17:18:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 17:18:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 17:18:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[14-Jun-2024 17:18:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 17:18:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 17:18:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php on line 46
+[26-Jun-2024 18:57:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:57:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:57:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[26-Jun-2024 19:41:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 19:41:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 20:39:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 20:39:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:03:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:03:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:03:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 60
+[26-Jun-2024 21:08:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:08:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:08:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 30
+[26-Jun-2024 21:44:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:44:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:44:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 28
+[26-Jun-2024 21:56:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:56:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:56:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[27-Jun-2024 01:09:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:09:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:49:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:49:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:49:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[27-Jun-2024 04:32:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 04:32:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 04:34:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 04:34:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 04:34:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php on line 46
+[27-Jun-2024 05:48:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 05:48:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 05:53:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 05:53:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 05:53:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[27-Jun-2024 07:19:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 07:19:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:32:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 10:32:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:47:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 10:47:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:47:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[27-Jun-2024 15:53:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 15:53:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 15:53:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[01-Jul-2024 05:23:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:23:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:23:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 28
+[01-Jul-2024 06:35:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:35:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:16:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:16:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:16:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[01-Jul-2024 07:28:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:28:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:18:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:18:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:18:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[02-Jul-2024 06:51:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:51:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:51:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[02-Jul-2024 06:51:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:51:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:07:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:07:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:07:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[02-Jul-2024 07:32:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:32:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:32:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 30
+[02-Jul-2024 09:39:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:39:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 11:34:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 11:34:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 11:34:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php on line 46
+[02-Jul-2024 12:08:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:08:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 12:39:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:39:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 12:39:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 60
+[02-Jul-2024 12:56:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:56:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 12:56:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[02-Jul-2024 13:34:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 13:34:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:10:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:10:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:10:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[02-Jul-2024 21:41:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 21:41:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:09:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:09:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:09:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 60
+[05-Jul-2024 11:09:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:09:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:09:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[05-Jul-2024 11:09:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:09:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:09:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:09:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:09:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[05-Jul-2024 11:10:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:10:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:10:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:10:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:10:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:10:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:10:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[05-Jul-2024 11:10:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:10:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:10:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[05-Jul-2024 11:10:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:10:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:10:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 28
+[05-Jul-2024 11:10:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:10:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:10:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[05-Jul-2024 11:11:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:11:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:11:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:11:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:11:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:11:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:11:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 30
+[05-Jul-2024 11:11:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:11:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:11:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:11:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:11:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:11:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:11:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php on line 46
+[06-Jul-2024 11:51:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 11:51:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 11:52:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 11:52:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 11:52:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[06-Jul-2024 11:52:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 11:52:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 11:52:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 28
+[06-Jul-2024 11:52:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 11:52:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 11:52:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[06-Jul-2024 11:53:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 11:53:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 11:53:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 11:53:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 11:53:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 11:53:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 11:53:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 30
+[06-Jul-2024 11:54:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 11:54:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 11:54:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 11:54:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 17:20:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 17:20:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 17:20:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 60
+[06-Jul-2024 17:20:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 17:20:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 17:20:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[06-Jul-2024 17:21:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 17:21:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 17:21:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 17:21:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 17:21:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[06-Jul-2024 17:22:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 17:22:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 17:22:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[06-Jul-2024 17:22:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 17:22:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 17:23:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 17:23:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 17:23:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[06-Jul-2024 17:24:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 17:24:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 17:24:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php on line 46
+[08-Jul-2024 06:28:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:28:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:28:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[10-Jul-2024 07:38:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:38:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 10:21:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 10:21:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:28:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:28:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php on line 46
+[10-Jul-2024 17:16:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 30
+[10-Jul-2024 17:16:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 26
+[10-Jul-2024 17:16:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 28
+[10-Jul-2024 17:16:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[10-Jul-2024 17:16:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 31
+[10-Jul-2024 17:17:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:17:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:17:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:17:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:17:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:17:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:17:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 41
+[10-Jul-2024 17:17:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:17:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:17:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 27
+[10-Jul-2024 17:17:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:17:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:17:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:17:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:17:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[10-Jul-2024 17:17:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:17:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:17:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 60
+[10-Jul-2024 18:11:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:11:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:32:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:32:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:17:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:17:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:45:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:45:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

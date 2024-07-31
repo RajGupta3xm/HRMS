@@ -1,0 +1,216 @@
+[09-May-2024 23:48:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-May-2024 23:48:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-May-2024 23:48:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[09-May-2024 23:48:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-May-2024 23:48:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-May-2024 23:48:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[10-May-2024 18:15:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 18:15:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 18:15:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[10-May-2024 18:15:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 18:15:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 18:15:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[18-May-2024 01:34:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 01:34:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 01:34:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[18-May-2024 01:37:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 01:37:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 01:37:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[25-May-2024 13:06:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 13:06:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 13:06:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[25-May-2024 16:39:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 16:39:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 16:39:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[28-May-2024 04:06:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 04:06:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 04:06:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[28-May-2024 04:06:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 04:06:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 04:06:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[31-May-2024 13:54:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 13:54:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 13:54:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[31-May-2024 13:54:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 13:54:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 13:54:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[31-May-2024 21:23:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 21:23:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 21:23:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[31-May-2024 21:43:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 21:43:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 21:43:44 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[04-Jun-2024 08:00:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:00:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:00:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[04-Jun-2024 21:27:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 21:27:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 21:27:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[04-Jun-2024 21:27:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 21:27:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 21:27:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[15-Jun-2024 03:27:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 03:27:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 03:27:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[15-Jun-2024 03:28:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 03:28:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 03:28:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[20-Jun-2024 08:57:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 08:57:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 08:57:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[20-Jun-2024 12:32:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 12:32:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 12:32:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[25-Jun-2024 06:04:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 06:04:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 06:04:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[25-Jun-2024 06:04:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 06:04:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 06:04:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[26-Jun-2024 07:04:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 07:04:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 07:04:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[26-Jun-2024 16:08:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 16:08:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 16:08:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[30-Jun-2024 07:25:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 07:25:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 07:25:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[30-Jun-2024 07:26:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 07:26:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 07:26:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[02-Jul-2024 08:20:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:20:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:20:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[02-Jul-2024 08:20:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:20:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:20:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[04-Jul-2024 01:00:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 01:00:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 01:00:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[08-Jul-2024 12:02:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 12:02:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 12:02:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[09-Jul-2024 16:18:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 16:18:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 16:18:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[10-Jul-2024 19:42:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:42:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:42:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[10-Jul-2024 19:42:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:42:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:42:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[12-Jul-2024 03:18:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:18:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:18:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[12-Jul-2024 03:19:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 03:19:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 03:19:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10

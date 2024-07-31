@@ -1,0 +1,156 @@
+[11-May-2024 09:14:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:14:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:14:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:14:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:14:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[11-May-2024 09:14:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:14:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:14:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[19-May-2024 17:23:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:23:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:23:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[19-May-2024 17:23:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:23:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:23:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[19-May-2024 17:23:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:23:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:18:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:18:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:18:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:18:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:18:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[27-May-2024 08:18:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:18:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:18:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[28-May-2024 01:04:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 01:04:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 01:04:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[28-May-2024 01:09:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 01:09:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 01:09:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[28-May-2024 04:29:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 04:29:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[04-Jun-2024 04:08:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[04-Jun-2024 04:08:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:08:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:01:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:01:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:01:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:01:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:01:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[04-Jun-2024 15:02:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:02:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:02:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[10-Jun-2024 20:47:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:47:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:47:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[10-Jun-2024 20:53:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:53:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:59:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:59:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:59:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[14-Jun-2024 17:25:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 17:25:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 17:25:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 17:25:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 17:25:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[14-Jun-2024 17:25:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 17:25:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 17:25:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[23-Jun-2024 17:29:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 17:29:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 17:29:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[24-Jun-2024 02:04:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 02:04:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 02:04:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[24-Jun-2024 05:50:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 05:50:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 00:43:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 00:43:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 00:43:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 00:43:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 00:43:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[03-Jul-2024 04:48:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 04:48:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 04:48:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[05-Jul-2024 07:40:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 07:40:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:43:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:43:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:43:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/Psr6CacheClearer.php on line 19
+[10-Jul-2024 15:43:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:43:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:43:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\CacheClearer\CacheClearerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/CacheClearer/ChainCacheClearer.php on line 21
+[10-Jul-2024 15:43:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:43:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

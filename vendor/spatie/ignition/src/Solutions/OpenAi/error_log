@@ -1,0 +1,240 @@
+[13-May-2024 01:39:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 01:39:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 01:39:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php on line 7
+[13-May-2024 01:39:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 01:39:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 01:39:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 01:39:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 01:39:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[13-May-2024 01:39:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 01:39:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 01:39:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\HasSolutionsForThrowable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[13-May-2024 01:39:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 01:39:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 15:17:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 15:17:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 15:17:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php on line 7
+[15-May-2024 15:17:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 15:17:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 15:17:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 15:17:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 15:17:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[15-May-2024 15:17:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 15:17:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 15:17:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\HasSolutionsForThrowable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[15-May-2024 15:17:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 15:17:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 11:25:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 11:25:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 11:25:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php on line 7
+[02-Jun-2024 11:27:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 11:27:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 11:30:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 11:30:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 11:30:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[02-Jun-2024 11:32:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 11:32:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 11:32:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\HasSolutionsForThrowable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[02-Jun-2024 11:36:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 11:36:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 15:58:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 15:58:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 17:48:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 17:48:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 20:01:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 20:01:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 20:01:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\HasSolutionsForThrowable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[03-Jun-2024 22:26:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 22:26:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 22:26:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[04-Jun-2024 00:08:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 00:08:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 00:08:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php on line 7
+[04-Jun-2024 05:22:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:22:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:22:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:22:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:22:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\HasSolutionsForThrowable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[04-Jun-2024 05:22:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:22:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:22:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[04-Jun-2024 05:22:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:22:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:23:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:23:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:23:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php on line 7
+[10-Jun-2024 23:18:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:18:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:18:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:18:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:18:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php on line 7
+[10-Jun-2024 23:22:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:22:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:22:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[10-Jun-2024 23:29:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:29:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:29:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\HasSolutionsForThrowable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[10-Jun-2024 23:38:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:38:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 21:24:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 21:24:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 21:24:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php on line 7
+[22-Jun-2024 21:25:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 21:25:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 21:27:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 21:27:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 21:27:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[22-Jun-2024 21:28:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 21:28:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 21:28:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\HasSolutionsForThrowable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[22-Jun-2024 21:31:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 21:31:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:09:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:09:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 04:34:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 04:34:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 04:34:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[30-Jun-2024 07:33:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 07:33:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 07:33:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php on line 7
+[30-Jun-2024 08:48:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:48:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:54:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:54:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:54:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\HasSolutionsForThrowable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[04-Jul-2024 21:46:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 21:46:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 21:46:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 21:46:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 21:46:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php on line 7
+[05-Jul-2024 00:08:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 00:08:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 00:08:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\HasSolutionsForThrowable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[05-Jul-2024 05:18:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 05:18:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:40:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:40:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:40:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[08-Jul-2024 07:12:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 07:12:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 07:12:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 07:12:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 07:12:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[08-Jul-2024 07:12:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 07:12:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 07:12:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\HasSolutionsForThrowable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[08-Jul-2024 07:12:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 07:12:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:31:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:31:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:58:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:58:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:58:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:58:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:58:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\HasSolutionsForThrowable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolutionProvider.php on line 9
+[10-Jul-2024 16:58:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:58:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:58:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Ignition\Contracts\Solution" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/OpenAiSolution.php on line 14
+[10-Jul-2024 16:58:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:58:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:58:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:58:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:58:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\SimpleCache\CacheInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/ignition/src/Solutions/OpenAi/DummyCache.php on line 7
+[10-Jul-2024 18:16:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:16:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

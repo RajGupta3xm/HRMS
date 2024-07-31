@@ -1,0 +1,360 @@
+[12-May-2024 13:09:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:09:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:09:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[12-May-2024 13:09:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:09:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:09:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[12-May-2024 13:10:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:10:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:10:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[12-May-2024 13:10:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:10:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:10:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[12-May-2024 13:11:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:11:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:11:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[12-May-2024 13:11:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:11:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:11:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[12-May-2024 13:11:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:11:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:11:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[20-May-2024 16:48:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 16:48:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 16:48:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[20-May-2024 16:48:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 16:48:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 16:48:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[20-May-2024 16:48:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 16:48:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 16:48:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[20-May-2024 16:48:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 16:48:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 16:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[20-May-2024 16:48:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 16:48:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 16:48:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[20-May-2024 16:49:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 16:49:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 16:49:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[20-May-2024 16:49:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 16:49:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 16:49:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[25-May-2024 21:42:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 21:42:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 21:42:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[25-May-2024 21:47:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 21:47:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 21:47:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[25-May-2024 21:52:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 21:52:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 21:52:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[25-May-2024 21:58:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 21:58:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 21:58:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[25-May-2024 22:01:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 22:01:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 22:01:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[25-May-2024 22:03:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 22:03:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 22:03:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[25-May-2024 22:05:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 22:05:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 22:05:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[04-Jun-2024 16:46:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:46:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:46:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[04-Jun-2024 16:46:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:46:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:46:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[04-Jun-2024 16:46:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:46:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:46:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[04-Jun-2024 16:46:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:46:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:46:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[04-Jun-2024 16:46:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:46:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:46:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[04-Jun-2024 16:46:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:46:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:46:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[04-Jun-2024 16:46:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:46:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:46:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[07-Jun-2024 04:24:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:24:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:24:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[07-Jun-2024 04:24:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:24:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:24:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[07-Jun-2024 04:25:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:25:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:25:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[07-Jun-2024 04:25:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:25:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:25:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[07-Jun-2024 04:25:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:25:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:25:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[07-Jun-2024 04:25:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:25:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:25:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[07-Jun-2024 04:25:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:25:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:25:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[16-Jun-2024 09:58:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 09:58:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 09:58:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[16-Jun-2024 09:59:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 09:59:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 09:59:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[16-Jun-2024 10:00:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 10:00:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 10:00:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[16-Jun-2024 10:00:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 10:00:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 10:00:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[16-Jun-2024 10:02:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 10:02:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 10:02:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[16-Jun-2024 10:03:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 10:03:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 10:03:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[16-Jun-2024 12:03:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 12:03:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 12:03:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[05-Jul-2024 08:01:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:01:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:01:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[05-Jul-2024 15:51:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 15:51:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 15:51:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[05-Jul-2024 16:45:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 16:45:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 16:45:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[06-Jul-2024 08:59:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 08:59:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 08:59:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[07-Jul-2024 15:30:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 15:30:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 15:30:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[07-Jul-2024 15:31:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 15:31:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 15:31:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[07-Jul-2024 15:32:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 15:32:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 15:32:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[07-Jul-2024 15:33:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 15:33:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 15:33:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[07-Jul-2024 15:34:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 15:34:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 15:34:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[07-Jul-2024 15:35:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 15:35:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 15:35:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[07-Jul-2024 17:39:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 17:39:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:39:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18
+[11-Jul-2024 04:35:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:35:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:35:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/UnaryOperator.php on line 17
+[11-Jul-2024 04:35:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:35:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:35:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/Operator.php on line 15
+[11-Jul-2024 04:35:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:35:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:35:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalXor.php on line 19
+[11-Jul-2024 04:35:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:35:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:35:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalOr.php on line 15
+[11-Jul-2024 04:35:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:35:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:35:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\UnaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalNot.php on line 22
+[11-Jul-2024 04:35:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:35:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:35:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\BinaryOperator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/LogicalAnd.php on line 15
+[11-Jul-2024 04:35:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:35:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:35:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Operator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Framework/Constraint/Operator/BinaryOperator.php on line 18

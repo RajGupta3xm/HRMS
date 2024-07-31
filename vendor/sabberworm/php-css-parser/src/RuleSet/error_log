@@ -1,0 +1,252 @@
+[15-May-2024 09:54:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:54:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:54:21 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php on line 14
+[15-May-2024 09:54:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:54:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:54:22 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php on line 29
+[15-May-2024 09:54:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:54:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:54:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php on line 23
+[15-May-2024 19:16:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:16:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:16:06 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php on line 14
+[15-May-2024 19:16:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:16:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:16:09 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php on line 29
+[15-May-2024 19:16:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:16:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:16:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php on line 23
+[20-May-2024 06:15:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:15:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:15:52 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php on line 14
+[20-May-2024 06:16:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:16:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:16:03 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php on line 29
+[20-May-2024 06:16:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:16:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:16:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php on line 23
+[31-May-2024 04:22:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 04:22:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:22:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php on line 23
+[31-May-2024 05:58:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 05:58:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:58:16 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php on line 29
+[31-May-2024 14:11:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:11:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:11:53 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php on line 14
+[01-Jun-2024 03:45:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 03:45:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 03:45:28 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php on line 14
+[01-Jun-2024 03:56:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 03:56:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 03:56:17 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php on line 29
+[01-Jun-2024 04:03:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 04:03:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 04:03:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php on line 23
+[03-Jun-2024 18:32:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 18:32:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 18:32:39 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php on line 14
+[03-Jun-2024 18:34:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 18:34:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 18:34:49 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php on line 29
+[03-Jun-2024 18:37:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 18:37:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 18:37:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php on line 23
+[04-Jun-2024 02:15:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:15:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:15:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php on line 23
+[04-Jun-2024 02:16:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:03 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php on line 29
+[04-Jun-2024 02:16:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:07 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php on line 14
+[10-Jun-2024 08:24:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 08:24:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 08:24:10 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php on line 14
+[10-Jun-2024 08:24:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 08:24:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 08:24:12 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php on line 29
+[10-Jun-2024 08:24:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 08:24:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 08:24:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php on line 23
+[22-Jun-2024 09:36:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 09:36:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 09:36:23 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php on line 14
+[22-Jun-2024 09:41:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 09:41:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 09:41:22 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php on line 29
+[22-Jun-2024 09:44:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 09:44:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 09:44:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php on line 23
+[26-Jun-2024 20:06:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 20:06:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 20:06:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php on line 23
+[27-Jun-2024 12:24:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 12:24:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 12:24:17 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php on line 14
+[27-Jun-2024 13:28:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 13:28:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 13:28:06 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php on line 29
+[01-Jul-2024 07:18:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:18:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:18:22 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php on line 29
+[02-Jul-2024 15:16:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:16:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:16:03 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php on line 14
+[02-Jul-2024 17:12:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 17:12:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 17:12:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php on line 23
+[05-Jul-2024 11:27:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:27:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:27:48 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php on line 14
+[05-Jul-2024 11:27:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:27:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:27:51 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php on line 29
+[05-Jul-2024 11:27:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:27:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:27:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php on line 23
+[10-Jul-2024 13:49:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:49:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:49:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php on line 23
+[10-Jul-2024 13:49:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:49:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:49:43 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php on line 29
+[10-Jul-2024 13:49:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:49:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:49:47 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php on line 14
+[11-Jul-2024 03:31:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:31:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:31:35 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/AtRuleSet.php on line 14
+[11-Jul-2024 03:33:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:33:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:33:10 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\RuleSet\RuleSet" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/DeclarationBlock.php on line 29
+[11-Jul-2024 03:35:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 03:35:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/RuleSet/RuleSet.php on line 23

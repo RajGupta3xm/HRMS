@@ -1,0 +1,156 @@
+[12-May-2024 09:51:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:51:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:51:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[12-May-2024 09:51:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:51:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:51:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:51:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:51:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[19-May-2024 20:53:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 20:53:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 20:53:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[19-May-2024 20:53:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 20:53:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 03:24:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 03:24:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 03:24:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[22-May-2024 19:34:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 19:34:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 19:34:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[22-May-2024 19:34:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 19:34:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 19:34:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[22-May-2024 23:16:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:16:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 16:09:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 16:09:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 16:09:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[04-Jun-2024 00:21:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 00:21:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:07:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:07:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:07:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[04-Jun-2024 08:22:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:22:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:22:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[04-Jun-2024 08:22:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:22:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:22:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:22:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:22:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[12-Jun-2024 01:01:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 01:01:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 01:01:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[12-Jun-2024 01:02:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 01:02:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 01:02:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[12-Jun-2024 04:22:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:22:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:42:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:42:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:42:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[30-Jun-2024 02:00:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 02:00:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 02:00:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[30-Jun-2024 06:58:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 06:58:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:54:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:54:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:54:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[01-Jul-2024 07:57:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:57:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:57:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[01-Jul-2024 10:17:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 10:17:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 07:04:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 07:04:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 07:04:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[04-Jul-2024 17:00:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 17:00:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 17:00:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[05-Jul-2024 06:01:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 06:01:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:13:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:13:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:13:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[07-Jul-2024 18:13:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:13:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:13:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:13:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:13:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[10-Jul-2024 15:46:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:46:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:04:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:04:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:04:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[10-Jul-2024 20:04:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:04:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:04:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:04:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:04:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21

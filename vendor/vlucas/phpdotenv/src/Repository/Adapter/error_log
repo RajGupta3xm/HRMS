@@ -1,0 +1,634 @@
+[13-May-2024 11:05:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 11:05:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 11:05:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[22-May-2024 02:43:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 02:43:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 02:43:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[22-May-2024 02:43:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 02:43:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 02:43:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[22-May-2024 02:43:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 02:43:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 02:43:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[22-May-2024 08:27:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:27:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:27:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[22-May-2024 08:27:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:27:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:27:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[22-May-2024 08:27:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:27:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:27:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[22-May-2024 08:27:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:27:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:27:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[22-May-2024 08:27:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:27:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:27:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[22-May-2024 08:27:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:27:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:28:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:28:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:28:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[22-May-2024 08:28:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:28:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 08:28:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[22-May-2024 08:28:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 08:28:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 14:30:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 14:30:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 14:30:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[03-Jun-2024 16:56:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 16:56:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 16:56:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[03-Jun-2024 19:25:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 19:25:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 19:25:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[03-Jun-2024 19:42:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 19:42:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 20:52:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 20:52:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 20:52:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[04-Jun-2024 02:10:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:10:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:10:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[04-Jun-2024 03:07:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:07:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:07:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[04-Jun-2024 03:38:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:38:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:38:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:38:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:38:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[04-Jun-2024 03:38:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:38:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:38:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[04-Jun-2024 03:38:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:38:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:38:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:38:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:38:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[04-Jun-2024 03:39:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[04-Jun-2024 03:39:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[04-Jun-2024 03:39:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[04-Jun-2024 03:39:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[04-Jun-2024 03:39:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[04-Jun-2024 03:39:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[04-Jun-2024 03:39:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[04-Jun-2024 03:39:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:39:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[04-Jun-2024 04:03:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:03:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:03:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[04-Jun-2024 06:36:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[04-Jun-2024 08:04:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:04:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:04:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[04-Jun-2024 09:24:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:24:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[04-Jun-2024 09:52:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:52:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 10:57:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 10:57:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 10:57:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[06-Jun-2024 22:10:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 22:10:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 22:10:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[10-Jun-2024 22:59:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 22:59:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 22:59:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[10-Jun-2024 23:19:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:19:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:21:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:21:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:21:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[10-Jun-2024 23:25:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:25:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:25:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[10-Jun-2024 23:25:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:25:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:25:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[10-Jun-2024 23:28:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:28:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:28:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[10-Jun-2024 23:28:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:28:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:28:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[10-Jun-2024 23:31:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:31:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:31:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[10-Jun-2024 23:32:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:32:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:32:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[10-Jun-2024 23:34:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:34:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:34:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[10-Jun-2024 23:35:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:35:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:35:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[10-Jun-2024 23:37:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:37:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:37:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[10-Jun-2024 23:40:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:40:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 18:55:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 18:55:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 18:55:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[13-Jun-2024 18:55:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 18:55:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 18:55:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[13-Jun-2024 18:56:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[13-Jun-2024 18:56:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[13-Jun-2024 18:56:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[13-Jun-2024 18:56:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[13-Jun-2024 18:56:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[13-Jun-2024 18:56:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[13-Jun-2024 18:56:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[13-Jun-2024 18:56:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[13-Jun-2024 18:56:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 18:56:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:04:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:04:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:53:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:53:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:53:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[29-Jun-2024 15:09:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 15:09:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 15:09:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[29-Jun-2024 16:23:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:23:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:23:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[29-Jun-2024 16:28:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:28:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:28:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[29-Jun-2024 18:30:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:30:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:30:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[29-Jun-2024 19:36:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:36:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:36:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[29-Jun-2024 20:10:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:10:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:10:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[29-Jun-2024 21:41:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 21:41:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 21:41:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[29-Jun-2024 21:53:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 21:53:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 21:53:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[29-Jun-2024 21:54:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 21:54:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 21:54:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[29-Jun-2024 22:47:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 22:47:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 06:56:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 06:56:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 06:56:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[30-Jun-2024 07:03:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 07:03:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 07:03:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[01-Jul-2024 05:18:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:18:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:18:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[01-Jul-2024 05:34:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:34:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:34:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[01-Jul-2024 05:42:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:42:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:42:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[01-Jul-2024 07:01:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:01:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:44:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:44:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:50:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:50:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:50:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[02-Jul-2024 08:01:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:01:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:01:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[02-Jul-2024 08:02:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:02:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:02:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[02-Jul-2024 08:41:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:41:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:41:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[02-Jul-2024 10:30:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 10:30:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 10:30:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[02-Jul-2024 11:11:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 11:11:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 11:11:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[02-Jul-2024 13:18:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 13:18:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 13:18:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[02-Jul-2024 16:20:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 16:20:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 16:20:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[05-Jul-2024 20:58:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 20:58:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 20:58:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[05-Jul-2024 20:59:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 20:59:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 20:59:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[05-Jul-2024 20:59:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 20:59:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 20:59:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[05-Jul-2024 21:00:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 21:00:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 21:00:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[05-Jul-2024 21:00:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 21:00:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 21:00:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[05-Jul-2024 21:00:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 21:00:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 21:00:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[05-Jul-2024 21:01:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 21:01:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 21:01:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[05-Jul-2024 21:01:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 21:01:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 21:01:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[05-Jul-2024 21:02:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 21:02:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 21:02:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 21:02:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 21:02:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[05-Jul-2024 21:02:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 21:02:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 21:02:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[05-Jul-2024 21:03:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 21:03:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 08:37:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 08:37:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[10-Jul-2024 15:07:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[10-Jul-2024 15:07:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[10-Jul-2024 15:07:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[10-Jul-2024 15:07:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[10-Jul-2024 15:07:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[10-Jul-2024 15:07:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[10-Jul-2024 15:07:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[10-Jul-2024 15:07:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[10-Jul-2024 15:07:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[10-Jul-2024 15:07:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:07:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[10-Jul-2024 20:10:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:10:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

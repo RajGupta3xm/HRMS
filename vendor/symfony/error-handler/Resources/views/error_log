@@ -1,0 +1,768 @@
+[15-May-2024 10:44:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:44:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:44:34 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[15-May-2024 10:44:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:44:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:44:36 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[15-May-2024 10:44:36 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[15-May-2024 10:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[15-May-2024 10:44:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:44:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:44:37 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[15-May-2024 10:44:37 UTC] PHP Warning:  Undefined variable $statusCode in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[15-May-2024 10:44:37 UTC] PHP Warning:  Undefined variable $statusText in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[15-May-2024 10:44:37 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[15-May-2024 10:44:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:44:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:44:39 UTC] PHP Warning:  Undefined variable $logs in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[15-May-2024 10:44:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[15-May-2024 10:44:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:44:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:44:41 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-May-2024 10:44:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-May-2024 10:44:41 UTC] PHP Warning:  Undefined variable $prefix in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-May-2024 10:44:41 UTC] PHP Warning:  Undefined variable $i in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-May-2024 10:44:41 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[15-May-2024 10:44:41 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[15-May-2024 10:44:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[15-May-2024 10:44:41 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[15-May-2024 10:44:41 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[15-May-2024 10:44:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[15-May-2024 10:44:41 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[15-May-2024 10:44:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[15-May-2024 10:44:41 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[15-May-2024 10:44:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[15-May-2024 10:44:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:44:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:44:43 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[15-May-2024 10:44:43 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[15-May-2024 10:44:43 UTC] PHP Warning:  Undefined variable $expand in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[15-May-2024 10:44:43 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[15-May-2024 10:44:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:44:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:44:45 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[15-May-2024 10:44:45 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[15-May-2024 10:44:45 UTC] PHP Warning:  Undefined variable $numExceptions in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[15-May-2024 10:44:45 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[15-May-2024 10:44:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[15-May-2024 10:44:45 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[15-May-2024 10:44:45 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[19-May-2024 23:46:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 23:46:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 23:46:39 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[19-May-2024 23:46:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 23:46:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 23:46:55 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[19-May-2024 23:46:55 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[19-May-2024 23:46:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[19-May-2024 23:47:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 23:47:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 23:47:06 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[19-May-2024 23:47:06 UTC] PHP Warning:  Undefined variable $statusCode in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[19-May-2024 23:47:06 UTC] PHP Warning:  Undefined variable $statusText in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[19-May-2024 23:47:06 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[19-May-2024 23:47:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 23:47:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 23:47:17 UTC] PHP Warning:  Undefined variable $logs in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[19-May-2024 23:47:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[19-May-2024 23:47:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 23:47:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 23:47:28 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[19-May-2024 23:47:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[19-May-2024 23:47:28 UTC] PHP Warning:  Undefined variable $prefix in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[19-May-2024 23:47:28 UTC] PHP Warning:  Undefined variable $i in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[19-May-2024 23:47:28 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[19-May-2024 23:47:28 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[19-May-2024 23:47:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[19-May-2024 23:47:28 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[19-May-2024 23:47:28 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[19-May-2024 23:47:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[19-May-2024 23:47:28 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[19-May-2024 23:47:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[19-May-2024 23:47:28 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[19-May-2024 23:47:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[19-May-2024 23:47:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 23:47:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 23:47:39 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[19-May-2024 23:47:39 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[19-May-2024 23:47:39 UTC] PHP Warning:  Undefined variable $expand in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[19-May-2024 23:47:39 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[19-May-2024 23:47:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 23:47:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 23:47:51 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[19-May-2024 23:47:51 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[19-May-2024 23:47:51 UTC] PHP Warning:  Undefined variable $numExceptions in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[19-May-2024 23:47:51 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[19-May-2024 23:47:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[19-May-2024 23:47:51 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[19-May-2024 23:47:51 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[21-May-2024 07:36:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 07:36:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 07:36:01 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[21-May-2024 07:36:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 07:36:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 07:36:33 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[21-May-2024 07:36:33 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[21-May-2024 07:36:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[21-May-2024 07:37:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 07:37:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 07:37:14 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[21-May-2024 07:37:14 UTC] PHP Warning:  Undefined variable $statusCode in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[21-May-2024 07:37:14 UTC] PHP Warning:  Undefined variable $statusText in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[21-May-2024 07:37:14 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[21-May-2024 07:37:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 07:37:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 07:37:43 UTC] PHP Warning:  Undefined variable $logs in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[21-May-2024 07:37:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[21-May-2024 07:38:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 07:38:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 07:38:17 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[21-May-2024 07:38:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[21-May-2024 07:38:17 UTC] PHP Warning:  Undefined variable $prefix in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[21-May-2024 07:38:17 UTC] PHP Warning:  Undefined variable $i in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[21-May-2024 07:38:17 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[21-May-2024 07:38:17 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[21-May-2024 07:38:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[21-May-2024 07:38:17 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[21-May-2024 07:38:17 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[21-May-2024 07:38:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[21-May-2024 07:38:17 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[21-May-2024 07:38:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[21-May-2024 07:38:17 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[21-May-2024 07:38:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[21-May-2024 07:38:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 07:38:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 07:38:48 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[21-May-2024 07:38:48 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[21-May-2024 07:38:48 UTC] PHP Warning:  Undefined variable $expand in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[21-May-2024 07:38:48 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[21-May-2024 07:39:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 07:39:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 07:39:24 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[21-May-2024 07:39:24 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[21-May-2024 07:39:24 UTC] PHP Warning:  Undefined variable $numExceptions in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[21-May-2024 07:39:24 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[21-May-2024 07:39:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[21-May-2024 07:39:24 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[21-May-2024 07:39:24 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[30-May-2024 23:27:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:27:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:27:44 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[30-May-2024 23:27:44 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[30-May-2024 23:27:44 UTC] PHP Warning:  Undefined variable $expand in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[30-May-2024 23:27:44 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[30-May-2024 23:36:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:36:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:36:35 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[30-May-2024 23:36:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[30-May-2024 23:36:35 UTC] PHP Warning:  Undefined variable $prefix in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[30-May-2024 23:36:35 UTC] PHP Warning:  Undefined variable $i in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[30-May-2024 23:36:35 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[30-May-2024 23:36:35 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[30-May-2024 23:36:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[30-May-2024 23:36:35 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[30-May-2024 23:36:35 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[30-May-2024 23:36:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[30-May-2024 23:36:35 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[30-May-2024 23:36:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[30-May-2024 23:36:35 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[30-May-2024 23:36:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[31-May-2024 02:51:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 02:51:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 02:51:04 UTC] PHP Warning:  Undefined variable $logs in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[31-May-2024 02:51:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[31-May-2024 03:56:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 03:56:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 03:56:36 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[31-May-2024 03:56:36 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[31-May-2024 03:56:36 UTC] PHP Warning:  Undefined variable $numExceptions in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[31-May-2024 03:56:36 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[31-May-2024 03:56:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[31-May-2024 03:56:36 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[31-May-2024 03:56:36 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[31-May-2024 10:30:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 10:30:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 10:30:03 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[31-May-2024 10:30:03 UTC] PHP Warning:  Undefined variable $statusCode in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[31-May-2024 10:30:03 UTC] PHP Warning:  Undefined variable $statusText in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[31-May-2024 10:30:03 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[31-May-2024 15:43:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:43:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:43:12 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[31-May-2024 16:05:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 16:05:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 16:05:52 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[31-May-2024 16:05:52 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[31-May-2024 16:05:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[04-Jun-2024 04:30:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:30:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:30:15 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[04-Jun-2024 04:30:15 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[04-Jun-2024 04:30:15 UTC] PHP Warning:  Undefined variable $numExceptions in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[04-Jun-2024 04:30:15 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[04-Jun-2024 04:30:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[04-Jun-2024 04:30:15 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[04-Jun-2024 04:30:15 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[04-Jun-2024 04:30:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:30:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:30:19 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[04-Jun-2024 04:30:19 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[04-Jun-2024 04:30:19 UTC] PHP Warning:  Undefined variable $expand in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[04-Jun-2024 04:30:19 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Undefined variable $prefix in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Undefined variable $i in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[04-Jun-2024 04:30:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[04-Jun-2024 04:30:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:30:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:30:27 UTC] PHP Warning:  Undefined variable $logs in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[04-Jun-2024 04:30:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[04-Jun-2024 04:30:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:30:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:30:31 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[04-Jun-2024 04:30:31 UTC] PHP Warning:  Undefined variable $statusCode in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[04-Jun-2024 04:30:31 UTC] PHP Warning:  Undefined variable $statusText in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[04-Jun-2024 04:30:31 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[04-Jun-2024 04:30:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:30:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:30:35 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[04-Jun-2024 04:30:35 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[04-Jun-2024 04:30:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[04-Jun-2024 04:30:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:30:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:30:39 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[05-Jun-2024 03:46:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 03:46:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 03:46:20 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[05-Jun-2024 03:46:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 03:46:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 03:46:22 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[05-Jun-2024 03:46:22 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[05-Jun-2024 03:46:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[05-Jun-2024 03:46:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 03:46:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 03:46:23 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[05-Jun-2024 03:46:23 UTC] PHP Warning:  Undefined variable $statusCode in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[05-Jun-2024 03:46:23 UTC] PHP Warning:  Undefined variable $statusText in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[05-Jun-2024 03:46:23 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[05-Jun-2024 03:46:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 03:46:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 03:46:26 UTC] PHP Warning:  Undefined variable $logs in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[05-Jun-2024 03:46:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Undefined variable $prefix in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Undefined variable $i in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[05-Jun-2024 03:46:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[05-Jun-2024 03:46:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 03:46:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 03:46:30 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[05-Jun-2024 03:46:30 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[05-Jun-2024 03:46:30 UTC] PHP Warning:  Undefined variable $expand in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[05-Jun-2024 03:46:30 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[05-Jun-2024 03:46:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 03:46:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 03:46:32 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[05-Jun-2024 03:46:32 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[05-Jun-2024 03:46:32 UTC] PHP Warning:  Undefined variable $numExceptions in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[05-Jun-2024 03:46:32 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[05-Jun-2024 03:46:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[05-Jun-2024 03:46:32 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[05-Jun-2024 03:46:32 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[10-Jun-2024 10:58:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 10:58:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 10:58:24 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[10-Jun-2024 10:59:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 10:59:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 10:59:30 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[10-Jun-2024 10:59:30 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[10-Jun-2024 10:59:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[10-Jun-2024 11:01:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 11:01:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 11:01:05 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[10-Jun-2024 11:01:05 UTC] PHP Warning:  Undefined variable $statusCode in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[10-Jun-2024 11:01:05 UTC] PHP Warning:  Undefined variable $statusText in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[10-Jun-2024 11:01:05 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[10-Jun-2024 11:02:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 11:02:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 11:02:15 UTC] PHP Warning:  Undefined variable $logs in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[10-Jun-2024 11:02:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Undefined variable $prefix in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Undefined variable $i in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[10-Jun-2024 11:03:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[10-Jun-2024 11:04:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 11:04:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 11:04:25 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[10-Jun-2024 11:04:25 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[10-Jun-2024 11:04:25 UTC] PHP Warning:  Undefined variable $expand in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[10-Jun-2024 11:04:25 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[10-Jun-2024 11:05:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 11:05:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 11:05:40 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[10-Jun-2024 11:05:40 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[10-Jun-2024 11:05:40 UTC] PHP Warning:  Undefined variable $numExceptions in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[10-Jun-2024 11:05:40 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[10-Jun-2024 11:05:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[10-Jun-2024 11:05:40 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[10-Jun-2024 11:05:40 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[12-Jun-2024 01:36:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 01:36:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 01:36:14 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[12-Jun-2024 01:36:14 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[12-Jun-2024 01:36:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Undefined variable $prefix in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Undefined variable $i in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[12-Jun-2024 01:38:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[12-Jun-2024 01:39:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 01:39:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 01:39:30 UTC] PHP Warning:  Undefined variable $logs in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[12-Jun-2024 01:39:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[12-Jun-2024 01:40:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 01:40:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 01:40:51 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[12-Jun-2024 01:40:51 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[12-Jun-2024 01:40:51 UTC] PHP Warning:  Undefined variable $numExceptions in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[12-Jun-2024 01:40:51 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[12-Jun-2024 01:40:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[12-Jun-2024 01:40:51 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[12-Jun-2024 01:40:51 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[12-Jun-2024 01:41:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 01:41:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 01:41:30 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[12-Jun-2024 01:41:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 01:41:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 01:41:55 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[12-Jun-2024 01:41:55 UTC] PHP Warning:  Undefined variable $statusCode in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[12-Jun-2024 01:41:55 UTC] PHP Warning:  Undefined variable $statusText in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[12-Jun-2024 01:41:55 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[12-Jun-2024 01:42:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 01:42:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 01:42:22 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[12-Jun-2024 01:42:22 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[12-Jun-2024 01:42:22 UTC] PHP Warning:  Undefined variable $expand in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[12-Jun-2024 01:42:22 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[26-Jun-2024 19:03:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 19:03:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 19:03:16 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[26-Jun-2024 19:03:16 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[26-Jun-2024 19:03:16 UTC] PHP Warning:  Undefined variable $expand in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[26-Jun-2024 19:03:16 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[26-Jun-2024 20:04:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 20:04:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 20:04:12 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[26-Jun-2024 20:04:12 UTC] PHP Warning:  Undefined variable $statusCode in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[26-Jun-2024 20:04:12 UTC] PHP Warning:  Undefined variable $statusText in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[26-Jun-2024 20:04:12 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[27-Jun-2024 02:50:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 02:50:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 02:50:36 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[27-Jun-2024 02:50:36 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[27-Jun-2024 02:50:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[27-Jun-2024 04:23:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 04:23:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 04:23:44 UTC] PHP Warning:  Undefined variable $logs in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[27-Jun-2024 04:23:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[27-Jun-2024 07:20:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 07:20:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 07:20:56 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[27-Jun-2024 09:40:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 09:40:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 09:40:42 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[27-Jun-2024 09:40:42 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[27-Jun-2024 09:40:42 UTC] PHP Warning:  Undefined variable $numExceptions in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[27-Jun-2024 09:40:42 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[27-Jun-2024 09:40:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[27-Jun-2024 09:40:42 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[27-Jun-2024 09:40:42 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Undefined variable $prefix in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Undefined variable $i in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[27-Jun-2024 16:48:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[30-Jun-2024 03:11:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 03:11:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 03:11:47 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[30-Jun-2024 03:12:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 03:12:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 03:12:36 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[30-Jun-2024 03:12:36 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[30-Jun-2024 03:12:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[30-Jun-2024 03:13:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 03:13:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 03:13:30 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[30-Jun-2024 03:13:30 UTC] PHP Warning:  Undefined variable $statusCode in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[30-Jun-2024 03:13:30 UTC] PHP Warning:  Undefined variable $statusText in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[30-Jun-2024 03:13:30 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[30-Jun-2024 03:14:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 03:14:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 03:14:18 UTC] PHP Warning:  Undefined variable $logs in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[30-Jun-2024 03:14:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Undefined variable $prefix in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Undefined variable $i in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[30-Jun-2024 03:15:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[30-Jun-2024 03:15:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 03:15:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 03:15:58 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[30-Jun-2024 03:15:58 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[30-Jun-2024 03:15:58 UTC] PHP Warning:  Undefined variable $expand in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[30-Jun-2024 03:15:58 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[30-Jun-2024 03:16:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 03:16:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 03:16:46 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[30-Jun-2024 03:16:46 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[30-Jun-2024 03:16:46 UTC] PHP Warning:  Undefined variable $numExceptions in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[30-Jun-2024 03:16:46 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[30-Jun-2024 03:16:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[30-Jun-2024 03:16:46 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[30-Jun-2024 03:16:46 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[02-Jul-2024 12:13:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:13:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 12:13:43 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[02-Jul-2024 12:13:43 UTC] PHP Warning:  Undefined variable $statusCode in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[02-Jul-2024 12:13:43 UTC] PHP Warning:  Undefined variable $statusText in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[02-Jul-2024 12:13:43 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[02-Jul-2024 17:08:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 17:08:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 17:08:07 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php on line 4
+[02-Jul-2024 19:31:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 19:31:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 19:31:21 UTC] PHP Warning:  Undefined variable $logs in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[02-Jul-2024 19:31:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Undefined variable $prefix in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Undefined variable $i in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[02-Jul-2024 21:53:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[03-Jul-2024 06:38:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 06:38:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 06:38:30 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[03-Jul-2024 06:38:30 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[03-Jul-2024 06:38:30 UTC] PHP Warning:  Undefined variable $numExceptions in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[03-Jul-2024 06:38:30 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[03-Jul-2024 06:38:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[03-Jul-2024 06:38:30 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[03-Jul-2024 06:38:30 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[03-Jul-2024 07:17:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 07:17:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 07:17:03 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[03-Jul-2024 07:17:03 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[03-Jul-2024 07:17:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[03-Jul-2024 09:03:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 09:03:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 09:03:07 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[03-Jul-2024 09:03:07 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[03-Jul-2024 09:03:07 UTC] PHP Warning:  Undefined variable $expand in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[03-Jul-2024 09:03:07 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[10-Jul-2024 16:05:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:05:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:05:19 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[10-Jul-2024 16:05:19 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 4
+[10-Jul-2024 16:05:19 UTC] PHP Warning:  Undefined variable $numExceptions in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 6
+[10-Jul-2024 16:05:19 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[10-Jul-2024 16:05:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[10-Jul-2024 16:05:19 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 9
+[10-Jul-2024 16:05:19 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces_text.html.php on line 10
+[10-Jul-2024 16:05:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:05:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:05:23 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 1
+[10-Jul-2024 16:05:23 UTC] PHP Warning:  Undefined variable $index in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[10-Jul-2024 16:05:23 UTC] PHP Warning:  Undefined variable $expand in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 4
+[10-Jul-2024 16:05:23 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/traces.html.php on line 5
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Undefined variable $prefix in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Undefined variable $i in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 1
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 2
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Undefined variable $style in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 7
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 11
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Undefined variable $trace in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[10-Jul-2024 16:05:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/trace.html.php on line 34
+[10-Jul-2024 16:05:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:05:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:05:31 UTC] PHP Warning:  Undefined variable $logs in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[10-Jul-2024 16:05:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/logs.html.php on line 13
+[10-Jul-2024 16:05:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:05:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:05:35 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[10-Jul-2024 16:05:35 UTC] PHP Warning:  Undefined variable $statusCode in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[10-Jul-2024 16:05:35 UTC] PHP Warning:  Undefined variable $statusText in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 1
+[10-Jul-2024 16:05:35 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception_full.html.php on line 5
+[10-Jul-2024 16:05:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:05:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:05:39 UTC] PHP Warning:  Undefined variable $exceptionMessage in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 1
+[10-Jul-2024 16:05:39 UTC] PHP Warning:  Undefined variable $exception in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[10-Jul-2024 16:05:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getAllPrevious() on null in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/exception.html.php on line 5
+[10-Jul-2024 16:05:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:05:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:05:43 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/error-handler/Resources/views/error.html.php on line 4

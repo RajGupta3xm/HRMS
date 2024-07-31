@@ -1,0 +1,273 @@
+[15-May-2024 09:51:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:51:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:51:07 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Fields\SerializableFieldsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Fields.php on line 45
+[15-May-2024 09:51:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:51:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:51:08 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php on line 27
+[15-May-2024 09:51:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:51:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:51:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php on line 30
+[15-May-2024 09:51:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:51:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:51:13 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php on line 39
+[20-May-2024 06:08:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:08:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:08:27 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Fields\SerializableFieldsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Fields.php on line 45
+[20-May-2024 06:08:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:08:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:08:39 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php on line 27
+[20-May-2024 06:08:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:08:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:08:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php on line 30
+[20-May-2024 06:09:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:09:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:09:00 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php on line 39
+[23-May-2024 03:48:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:48:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:48:47 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Fields\SerializableFieldsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Fields.php on line 45
+[23-May-2024 03:48:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:48:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php on line 27
+[23-May-2024 03:48:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:48:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:48:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php on line 30
+[23-May-2024 03:48:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 03:48:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 03:48:49 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php on line 39
+[30-May-2024 23:51:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:51:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:51:40 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php on line 39
+[31-May-2024 02:10:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 02:10:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 02:10:59 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php on line 27
+[31-May-2024 15:41:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:41:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:41:42 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Fields\SerializableFieldsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Fields.php on line 45
+[31-May-2024 16:06:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 16:06:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 16:06:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php on line 30
+[01-Jun-2024 11:31:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 11:31:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 11:31:31 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Fields\SerializableFieldsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Fields.php on line 45
+[01-Jun-2024 11:36:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 11:36:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 11:36:44 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php on line 27
+[01-Jun-2024 11:48:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 11:48:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 11:48:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php on line 30
+[01-Jun-2024 12:04:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 12:04:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 12:04:10 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php on line 39
+[04-Jun-2024 05:34:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:27 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php on line 39
+[04-Jun-2024 05:34:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php on line 30
+[04-Jun-2024 05:34:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:35 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php on line 27
+[04-Jun-2024 05:34:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:39 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Fields\SerializableFieldsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Fields.php on line 45
+[07-Jun-2024 18:06:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:06:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:06:31 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Fields\SerializableFieldsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Fields.php on line 45
+[07-Jun-2024 18:06:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:06:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:06:33 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php on line 27
+[07-Jun-2024 18:06:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:06:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:06:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php on line 30
+[07-Jun-2024 18:06:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:06:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:06:37 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php on line 39
+[12-Jun-2024 01:13:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 01:13:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 01:13:05 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Fields\SerializableFieldsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Fields.php on line 45
+[12-Jun-2024 01:14:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 01:14:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 01:14:07 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php on line 27
+[12-Jun-2024 01:15:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 01:15:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 01:15:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php on line 30
+[12-Jun-2024 01:16:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 01:16:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 01:16:33 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php on line 39
+[26-Jun-2024 20:18:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 20:18:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 20:18:55 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Fields\SerializableFieldsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Fields.php on line 45
+[26-Jun-2024 21:39:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:39:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:39:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php on line 30
+[26-Jun-2024 23:59:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 23:59:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 23:59:13 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php on line 27
+[27-Jun-2024 06:10:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 06:10:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 06:10:42 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php on line 39
+[01-Jul-2024 01:04:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 01:04:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 01:04:01 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Fields\SerializableFieldsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Fields.php on line 45
+[01-Jul-2024 01:05:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 01:05:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 01:05:37 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php on line 27
+[01-Jul-2024 01:06:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 01:06:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 01:06:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php on line 30
+[01-Jul-2024 01:07:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 01:07:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 01:07:56 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php on line 39
+[02-Jul-2024 06:20:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:20:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:20:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php on line 30
+[02-Jul-2024 11:48:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 11:48:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 11:48:42 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php on line 27
+[02-Jul-2024 15:40:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:40:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:40:04 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Fields\SerializableFieldsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Fields.php on line 45
+[02-Jul-2024 16:34:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 16:34:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 16:34:57 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php on line 39
+[05-Jul-2024 11:15:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:15:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:15:18 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Fields\SerializableFieldsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Fields.php on line 45
+[05-Jul-2024 11:15:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:15:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:15:26 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php on line 27
+[05-Jul-2024 11:15:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:15:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:15:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php on line 30
+[05-Jul-2024 11:15:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:15:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:15:38 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php on line 39
+[10-Jul-2024 17:16:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:03 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php on line 39
+[10-Jul-2024 17:16:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/UuidBuilder.php on line 30
+[10-Jul-2024 17:16:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:11 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Uuid.php on line 27
+[10-Jul-2024 17:16:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:16:15 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\Fields\SerializableFieldsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Nonstandard/Fields.php on line 45

@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id();
             $table->integer('project_id');
             $table->integer('userDepartment');
-
+            $table->tinyInteger('status');
             $table->string('userDesignation');
             $table->integer('userId');
             $table->integer('allocationpercentage');

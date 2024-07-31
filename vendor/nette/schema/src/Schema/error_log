@@ -1,0 +1,294 @@
+[11-May-2024 14:19:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 14:19:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 14:19:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 14:19:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 14:19:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 14:19:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 14:19:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 14:19:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 14:19:51 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[11-May-2024 14:19:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 14:19:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 14:19:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 14:19:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 14:19:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 14:19:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 14:20:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 14:20:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 14:20:00 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[14-May-2024 22:05:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 22:05:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 00:19:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 00:19:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 00:19:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 00:19:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 00:19:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 00:19:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 00:19:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 00:19:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 00:19:27 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[15-May-2024 05:32:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 05:32:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 05:32:03 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[15-May-2024 05:32:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 05:32:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 05:32:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 05:32:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 13:42:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 13:42:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:19:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:19:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:19:49 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[19-May-2024 21:20:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:20:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:20:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:20:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:20:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:20:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 03:55:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 03:55:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 03:55:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 03:55:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 03:55:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 03:55:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 03:55:38 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[30-May-2024 23:16:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:16:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 03:03:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 03:03:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:51:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 04:51:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:51:09 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[31-May-2024 06:45:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 06:45:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 07:16:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 07:16:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 11:49:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 11:49:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 16:51:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 16:51:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 17:50:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 17:50:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 17:50:07 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[01-Jun-2024 06:23:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:23:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:33:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:33:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:33:32 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[01-Jun-2024 06:36:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:36:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:36:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:36:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:56:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:56:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 07:00:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 07:00:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:00 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[04-Jun-2024 06:36:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:15 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[04-Jun-2024 06:36:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:36:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:56:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:56:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:58:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:58:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:59:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:59:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:00:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:00:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:02:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:02:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:02:50 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[04-Jun-2024 08:25:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:25:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:25:05 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[04-Jun-2024 08:26:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:26:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:27:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:27:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:17 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[10-Jun-2024 07:37:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 07:37:25 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[10-Jun-2024 10:13:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 10:13:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 10:13:20 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[10-Jun-2024 10:16:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 10:16:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 11:14:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 11:14:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 12:28:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 12:28:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 12:30:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 12:30:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 12:32:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 12:32:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 12:34:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 12:34:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 12:34:02 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[24-Jun-2024 12:36:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 12:36:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 12:36:08 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[24-Jun-2024 12:38:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 12:38:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 12:40:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 12:40:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 20:23:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 20:23:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 00:28:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 00:28:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:17:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:17:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:17:26 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[27-Jun-2024 01:37:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:37:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:27:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 10:27:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 11:11:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 11:11:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 11:31:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 11:31:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 13:17:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 13:17:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 13:17:28 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[29-Jun-2024 14:22:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:22:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:28:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:28:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:36:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:36:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 21:14:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 21:14:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 22:07:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 22:07:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 22:07:38 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[30-Jun-2024 06:48:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 06:48:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 06:48:18 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[30-Jun-2024 07:22:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 07:22:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:46:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:46:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 03:28:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 03:28:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 04:51:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 04:51:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:16:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:16:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:13:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:13:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:14:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:14:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:14:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:14:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:14:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:14:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:14:44 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[05-Jul-2024 09:15:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:15:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:15:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:15:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:15:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:15:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:15:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:15:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:15:33 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[05-Jul-2024 10:28:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:28:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:52:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:52:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 15:13:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 15:13:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 01:53:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 01:53:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 11:49:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 11:49:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 11:49:13 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[10-Jul-2024 18:17:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:17:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:17:59 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[10-Jul-2024 18:18:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:18:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:18:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:18:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:18:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:18:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:18:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:18:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:18:15 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[10-Jul-2024 18:18:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:18:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:18:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:18:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:18:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:18:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 06:38:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 06:38:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 17:11:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 17:11:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

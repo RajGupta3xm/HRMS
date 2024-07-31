@@ -39,7 +39,7 @@ class EmployeeWorkedHours extends Controller
     {
         $modules = Session::get('user_modules_' . auth()->id());
         $projectId = $id;
-        $timeEntries = TimeEntry::where('project_id', $projectId)->with('employee', 'addworkesEmployees')->get()->toArray();
+        $timeEntries = TimeEntry::where('project_id', $projectId)->where('status',1)->with('employee', 'addworkesEmployees')->get()->toArray();
         $employeeTotalHours = [];
         foreach ($timeEntries as $timeEntry) {
             $employeeId = $timeEntry['employee']['id'];
@@ -64,24 +64,35 @@ class EmployeeWorkedHours extends Controller
                 ];
             }
         }
-        // dd($employeeTotalHours);
         return view('employee_submited_hours', compact('modules', 'employeeTotalHours'));
     }
+
 
     public function AllProjectedFetch()
     {
         $modules = Session::get('user_modules_' . auth()->id());
         $allProjects = AddProjects::paginate(10);
         $projectIds = $allProjects->pluck('id')->toArray();
-        $timeEntries = TimeEntry::whereIn('project_id', $projectIds)->with('employee')->get()->toArray();
+        $timeEntries = TimeEntry::whereIn('project_id', $projectIds)->where('status' , 1)->with('employee', 'addworkesEmployees')->get()->toArray();
         $projectHours = [];
+
         foreach ($timeEntries as $timeEntry) {
             $projectId = $timeEntry['project_id'];
             $projectName = AddProjects::find($projectId)->projectname;
             $projectStartDate = AddProjects::find($projectId)->projectstartdate;
             $projectEndDate = AddProjects::find($projectId)->projectenddate;
-
             $totalHours = $timeEntry['total_hours'];
+
+            $projectManagers = AddworkesEmployee::where('project_id', $projectId)
+                ->where('userDesignation', 'Project Manager')
+                ->get();
+
+            if ($projectManagers->isNotEmpty()) {
+                $projectManagerIds = $projectManagers->pluck('employee_Id')->implode(', ');
+                $projectsManagerName = employees::find($projectManagerIds)->name;
+            } else {
+                $projectsManagerName = 'Not Assigned';
+            }
 
             if (isset($projectHours[$projectId])) {
                 $projectHours[$projectId]['total_hours'] += $totalHours;
@@ -92,6 +103,7 @@ class EmployeeWorkedHours extends Controller
                     'endDate' => $projectEndDate,
                     'total_hours' => $totalHours,
                     'projectId' => $projectId,
+                    'project_manager' => $projectsManagerName,
                 ];
             }
         }

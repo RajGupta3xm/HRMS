@@ -24,11 +24,11 @@
                                 @endif
                             </div>
                             <div class="btn-group" role="group" aria-label="User Actions">
-                                <a href="{{ route('projectallocations') }}" class="btn btn-success text-white">User's
-                                    Allocation</a>
+                                {{-- <a href="{{ route('projectallocations') }}" class="btn btn-success text-white">User's
+                                    Allocation</a> --}}
                                 <a href="{{ route('addUsers') }}" class="btn btn-primary text-white">Add Users</a>
-                                <a href="{{ route('userAllocationList') }}" class="btn btn-warning text-white">All Users
-                                    Allocation</a>
+                                {{-- <a href="{{ route('userAllocationList') }}" class="btn btn-warning text-white">All Users
+                                    Allocation</a> --}}
                             </div>
                         </div>
 

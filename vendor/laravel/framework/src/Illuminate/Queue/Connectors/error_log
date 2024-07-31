@@ -1,0 +1,330 @@
+[12-May-2024 10:05:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:05:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:05:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php on line 9
+[12-May-2024 10:05:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:05:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:05:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:05:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:05:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php on line 8
+[12-May-2024 10:05:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:05:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:05:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php on line 7
+[12-May-2024 10:05:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:05:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:05:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php on line 8
+[12-May-2024 10:06:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:06:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:06:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php on line 9
+[12-May-2024 10:06:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:06:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:06:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php on line 7
+[04-Jun-2024 12:50:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:50:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:50:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php on line 7
+[04-Jun-2024 12:50:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:50:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:50:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php on line 9
+[04-Jun-2024 12:50:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:50:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:50:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php on line 8
+[04-Jun-2024 12:50:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:50:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:50:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php on line 7
+[04-Jun-2024 12:50:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:50:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:50:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php on line 8
+[04-Jun-2024 12:50:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:50:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:50:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:50:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:50:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php on line 9
+[06-Jun-2024 15:21:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 15:21:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 15:21:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php on line 7
+[06-Jun-2024 16:18:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 16:18:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 16:18:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php on line 7
+[06-Jun-2024 18:30:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 18:30:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 18:48:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 18:48:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 18:48:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php on line 8
+[06-Jun-2024 21:24:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 21:24:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 21:24:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php on line 9
+[07-Jun-2024 00:44:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 00:44:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 00:44:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php on line 8
+[07-Jun-2024 08:15:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 08:15:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 08:15:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php on line 9
+[09-Jun-2024 04:05:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:05:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:05:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php on line 9
+[09-Jun-2024 04:05:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:05:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:05:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:05:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:05:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php on line 8
+[09-Jun-2024 04:05:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:05:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:05:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php on line 7
+[09-Jun-2024 04:05:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:05:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:05:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php on line 8
+[09-Jun-2024 04:05:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:05:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:05:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php on line 9
+[09-Jun-2024 04:05:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:05:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:05:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php on line 7
+[13-Jun-2024 13:20:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 13:20:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 13:20:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 13:20:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 13:20:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php on line 8
+[13-Jun-2024 13:20:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 13:20:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 13:20:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php on line 9
+[13-Jun-2024 13:20:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 13:20:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 13:20:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php on line 8
+[13-Jun-2024 13:20:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 13:20:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 13:20:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php on line 7
+[13-Jun-2024 13:20:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 13:20:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 13:20:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php on line 9
+[13-Jun-2024 13:20:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 13:20:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 13:20:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php on line 7
+[02-Jul-2024 06:58:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:58:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:58:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php on line 7
+[02-Jul-2024 11:22:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 11:22:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 11:22:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php on line 9
+[02-Jul-2024 11:31:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 11:31:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 11:31:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php on line 8
+[02-Jul-2024 12:36:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:36:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 12:36:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php on line 9
+[02-Jul-2024 16:04:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 16:04:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 16:09:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 16:09:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 16:09:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php on line 8
+[02-Jul-2024 20:49:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 20:49:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 20:49:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php on line 7
+[03-Jul-2024 23:45:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 23:45:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 23:45:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php on line 9
+[03-Jul-2024 23:46:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 23:46:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 23:47:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 23:47:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 23:47:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php on line 8
+[03-Jul-2024 23:48:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 23:48:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 23:48:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php on line 7
+[03-Jul-2024 23:49:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 23:49:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 23:49:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php on line 8
+[03-Jul-2024 23:50:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 23:50:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 23:50:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php on line 9
+[03-Jul-2024 23:50:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 23:50:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 23:50:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php on line 7
+[05-Jul-2024 02:30:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 02:30:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 02:30:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php on line 8
+[05-Jul-2024 17:44:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 17:44:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 19:15:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 19:15:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 19:15:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php on line 7
+[05-Jul-2024 19:40:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 19:40:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 19:40:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php on line 9
+[06-Jul-2024 08:19:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 08:19:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 08:19:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php on line 9
+[11-Jul-2024 00:38:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:38:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:38:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SyncConnector.php on line 7
+[11-Jul-2024 00:38:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:38:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:38:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php on line 9
+[11-Jul-2024 00:39:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:39:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:39:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/RedisConnector.php on line 8
+[11-Jul-2024 00:39:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:39:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:39:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/NullConnector.php on line 7
+[11-Jul-2024 00:39:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:39:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:39:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/DatabaseConnector.php on line 8
+[11-Jul-2024 00:39:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:39:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:39:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:39:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:39:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Queue\Connectors\ConnectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Queue/Connectors/BeanstalkdConnector.php on line 9

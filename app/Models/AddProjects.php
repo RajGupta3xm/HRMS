@@ -9,7 +9,7 @@ class AddProjects extends Model
 {
     use HasFactory;
     protected $fillable = [
-        'userId', 'projectcompany', 'projectname', 'currency', 'projectbudget', 'projecttype',
+        'userId', 'projectcompany', 'projectname','pmemployeeId','pmallocation', 'currency', 'projectbudget', 'projecttype',
         'csm', 'tags', 'sc', 'status',
         'cilentname', 'cilentemail', 'companyname', 'cilentphone', 'country', 'city',
         'projectstartdate', 'projectenddate',

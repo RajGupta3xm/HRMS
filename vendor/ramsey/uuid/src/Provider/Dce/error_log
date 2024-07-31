@@ -1,0 +1,78 @@
+[15-May-2024 23:42:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:42:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:42:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[20-May-2024 14:27:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:27:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:27:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[23-May-2024 11:46:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:46:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:46:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[04-Jun-2024 05:34:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:34:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[04-Jun-2024 06:47:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:47:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:47:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[10-Jun-2024 12:47:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 12:47:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 12:47:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[10-Jun-2024 20:37:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:37:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:37:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[11-Jun-2024 22:37:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 22:37:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 22:37:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[29-Jun-2024 22:07:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 22:07:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 22:07:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[30-Jun-2024 12:06:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 12:06:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 12:06:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[02-Jul-2024 21:15:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 21:15:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 21:15:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[08-Jul-2024 06:32:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:32:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:32:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[10-Jul-2024 17:15:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:15:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:15:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35

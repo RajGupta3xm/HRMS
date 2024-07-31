@@ -17,7 +17,10 @@ return new class extends Migration
             $table->unsignedBigInteger('employee_id');
             $table->date('date');
             $table->string('day');
-            $table->tinyInteger('status')->default(0)->comment('0: Not submit, 1: Submit Data');
+            $table->integer('approvedby_employee_id')->NULL();
+            $table->tinyInteger('status')->default(0)->comment('0: Unapproved, 1: approved, 2:reject');
+            $table->string('rejectionReason')->nullable();
+
             $table->decimal('monday_hours', 8, 2)->default(0.00);
             $table->decimal('tuesday_hours', 8, 2)->default(0.00);
             $table->decimal('wednesday_hours', 8, 2)->default(0.00);

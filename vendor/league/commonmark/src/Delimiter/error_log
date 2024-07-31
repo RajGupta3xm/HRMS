@@ -1,0 +1,212 @@
+[11-May-2024 15:09:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:09:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:09:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\DelimiterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php on line 21
+[11-May-2024 15:09:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:09:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:09:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:09:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:09:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php on line 20
+[11-May-2024 15:09:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:09:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 01:42:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 01:42:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 01:42:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\DelimiterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php on line 21
+[14-May-2024 01:42:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 01:42:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 01:42:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 01:42:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 01:42:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php on line 20
+[14-May-2024 01:42:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 01:42:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 13:03:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 13:03:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 13:03:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\DelimiterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php on line 21
+[19-May-2024 13:03:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 13:03:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 13:03:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 13:03:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 13:03:25 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php on line 20
+[19-May-2024 13:03:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 13:03:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:24:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:24:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:24:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php on line 20
+[31-May-2024 02:42:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 02:42:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 02:42:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\DelimiterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php on line 21
+[31-May-2024 12:03:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 12:03:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:44:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:44:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 17:06:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 17:06:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 17:06:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\DelimiterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php on line 21
+[02-Jun-2024 17:26:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 17:26:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 17:45:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 17:45:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 17:45:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php on line 20
+[02-Jun-2024 18:05:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 18:05:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php on line 20
+[04-Jun-2024 08:05:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:05:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\DelimiterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php on line 21
+[10-Jun-2024 20:58:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:58:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:59:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:59:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:59:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\DelimiterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php on line 21
+[10-Jun-2024 20:59:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:59:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:04:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:04:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:04:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php on line 20
+[22-Jun-2024 04:28:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 04:28:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 04:28:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\DelimiterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php on line 21
+[22-Jun-2024 04:48:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 04:48:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 05:12:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 05:12:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 05:12:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php on line 20
+[22-Jun-2024 05:13:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 05:13:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 23:17:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 23:17:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 23:17:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php on line 20
+[27-Jun-2024 01:51:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:51:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 02:05:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 02:05:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 02:05:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\DelimiterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php on line 21
+[27-Jun-2024 07:02:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 07:02:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:16:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:16:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:16:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php on line 20
+[01-Jul-2024 06:33:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:33:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:33:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\DelimiterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php on line 21
+[02-Jul-2024 07:56:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:56:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:54:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:54:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 22:46:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 22:46:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:51:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:51:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:51:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\DelimiterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php on line 21
+[05-Jul-2024 08:51:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:51:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:52:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:52:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:52:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php on line 20
+[05-Jul-2024 08:52:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:52:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:27:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:27:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php on line 20
+[10-Jul-2024 19:47:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:47:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\DelimiterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php on line 21
+[10-Jul-2024 22:32:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:32:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 22:32:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\DelimiterInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/Delimiter.php on line 21
+[10-Jul-2024 22:37:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:37:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 22:42:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:42:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 22:42:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Delimiter/DelimiterParser.php on line 20
+[10-Jul-2024 22:43:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:43:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

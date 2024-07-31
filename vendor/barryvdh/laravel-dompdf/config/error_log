@@ -1,0 +1,90 @@
+[11-May-2024 02:27:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:27:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:27:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 48
+[11-May-2024 15:00:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:00:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:00:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 48
+[28-May-2024 04:51:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 04:51:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 04:51:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 48
+[29-May-2024 08:41:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-May-2024 08:41:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-May-2024 08:41:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 48
+[01-Jun-2024 01:30:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:30:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 01:30:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 48
+[04-Jun-2024 02:43:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:43:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:43:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 48
+[07-Jun-2024 18:07:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:07:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:07:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 48
+[15-Jun-2024 22:56:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 22:56:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 22:56:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 48
+[24-Jun-2024 07:25:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 07:25:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 07:25:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 48
+[25-Jun-2024 13:05:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 13:05:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 13:05:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 48
+[29-Jun-2024 18:08:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:08:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:08:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 48
+[03-Jul-2024 07:35:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 07:35:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 07:35:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 48
+[04-Jul-2024 00:16:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 00:16:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 00:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 48
+[10-Jul-2024 04:58:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 04:58:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 04:58:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 48
+[10-Jul-2024 14:16:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:16:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:16:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/barryvdh/laravel-dompdf/config/dompdf.php on line 48

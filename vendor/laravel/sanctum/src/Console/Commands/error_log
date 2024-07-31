@@ -1,0 +1,78 @@
+[11-May-2024 21:45:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:45:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:45:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php on line 8
+[16-May-2024 00:57:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 00:57:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 00:57:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php on line 8
+[03-Jun-2024 07:01:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 07:01:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 07:01:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php on line 8
+[04-Jun-2024 02:47:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:47:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:47:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php on line 8
+[04-Jun-2024 08:35:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:35:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:35:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php on line 8
+[10-Jun-2024 09:37:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:37:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:37:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php on line 8
+[10-Jun-2024 20:42:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:42:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:42:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php on line 8
+[21-Jun-2024 11:59:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-Jun-2024 11:59:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-Jun-2024 11:59:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php on line 8
+[29-Jun-2024 14:17:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:17:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:17:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php on line 8
+[30-Jun-2024 10:23:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 10:23:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 10:23:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php on line 8
+[03-Jul-2024 12:17:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 12:17:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 12:17:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php on line 8
+[09-Jul-2024 11:36:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 11:36:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 11:36:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php on line 8
+[10-Jul-2024 20:17:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:17:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:17:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/Console/Commands/PruneExpired.php on line 8

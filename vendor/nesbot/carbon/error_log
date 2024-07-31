@@ -1,0 +1,119 @@
+[10-May-2024 18:19:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 18:19:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 18:19:54 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[10-May-2024 18:19:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[11-May-2024 18:38:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 18:38:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 18:38:02 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[11-May-2024 18:38:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[18-May-2024 03:17:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 03:17:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-May-2024 03:17:35 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[18-May-2024 03:17:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[25-May-2024 12:05:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 12:05:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 12:05:02 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[25-May-2024 12:05:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[31-May-2024 02:43:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 02:43:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 02:43:44 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[31-May-2024 02:43:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[31-May-2024 14:00:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:00:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:00:02 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[31-May-2024 14:00:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[31-May-2024 21:08:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 21:08:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 21:08:01 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[31-May-2024 21:08:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[04-Jun-2024 06:37:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:37:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:37:03 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[04-Jun-2024 06:37:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[04-Jun-2024 21:30:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 21:30:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 21:30:10 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[04-Jun-2024 21:30:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[18-Jun-2024 07:49:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 07:49:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 07:49:54 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[18-Jun-2024 07:49:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[20-Jun-2024 09:26:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 09:26:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 09:26:55 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[20-Jun-2024 09:26:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[24-Jun-2024 10:03:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 10:03:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 10:03:56 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[24-Jun-2024 10:03:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[25-Jun-2024 06:13:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 06:13:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 06:13:23 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[25-Jun-2024 06:13:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[06-Jul-2024 17:01:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 17:01:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 17:01:34 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[06-Jul-2024 17:01:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[07-Jul-2024 06:16:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 06:16:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 06:16:06 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[07-Jul-2024 06:16:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[10-Jul-2024 18:19:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 18:19:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 18:19:03 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[10-Jul-2024 18:19:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[11-Jul-2024 21:48:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 21:48:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 21:48:00 UTC] PHP Warning:  require_once(/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php): Failed to open stream: No such file or directory in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14
+[11-Jul-2024 21:48:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nesbot/carbon/sponsors.php on line 14

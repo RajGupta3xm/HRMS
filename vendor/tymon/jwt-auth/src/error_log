@@ -1,0 +1,282 @@
+[19-May-2024 15:21:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 15:21:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 15:22:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 15:22:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 15:22:03 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Factory.php on line 21
+[19-May-2024 15:22:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 15:22:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 15:22:05 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWT.php on line 21
+[19-May-2024 15:22:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 15:22:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 15:22:05 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\JWT" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php on line 18
+[19-May-2024 15:22:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 15:22:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 15:22:06 UTC] PHP Fatal error:  Trait "Illuminate\Auth\GuardHelpers" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTGuard.php on line 24
+[19-May-2024 15:22:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 15:22:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 15:22:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php on line 27
+[19-May-2024 17:01:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:01:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:01:27 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Manager.php on line 20
+[19-May-2024 18:56:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:56:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:57:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:57:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:57:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php on line 27
+[19-May-2024 18:57:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:57:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:57:25 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Manager.php on line 20
+[19-May-2024 18:57:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:57:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:57:36 UTC] PHP Fatal error:  Trait "Illuminate\Auth\GuardHelpers" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTGuard.php on line 24
+[19-May-2024 18:57:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:57:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:57:51 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\JWT" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php on line 18
+[19-May-2024 18:57:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:57:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:57:58 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWT.php on line 21
+[19-May-2024 18:58:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:58:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:58:20 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Factory.php on line 21
+[19-May-2024 21:14:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:14:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 01:27:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 01:27:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 01:27:42 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\JWT" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php on line 18
+[28-May-2024 07:18:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:18:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 08:23:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 08:23:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 08:23:05 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Manager.php on line 20
+[28-May-2024 10:12:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 10:12:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 10:12:27 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Factory.php on line 21
+[28-May-2024 11:57:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 11:57:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 11:57:07 UTC] PHP Fatal error:  Trait "Illuminate\Auth\GuardHelpers" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTGuard.php on line 24
+[28-May-2024 12:17:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 12:17:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 13:09:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 13:09:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 13:09:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php on line 27
+[28-May-2024 17:40:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 17:40:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 17:40:09 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWT.php on line 21
+[01-Jun-2024 03:41:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 03:41:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 03:41:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php on line 27
+[01-Jun-2024 03:48:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 03:48:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 03:48:30 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Manager.php on line 20
+[01-Jun-2024 03:50:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 03:50:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 03:55:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 03:55:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 03:56:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 03:56:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 03:56:44 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Factory.php on line 21
+[01-Jun-2024 03:59:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 03:59:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 03:59:10 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\JWT" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php on line 18
+[01-Jun-2024 04:00:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 04:00:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 04:00:35 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWT.php on line 21
+[01-Jun-2024 04:03:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 04:03:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 04:03:49 UTC] PHP Fatal error:  Trait "Illuminate\Auth\GuardHelpers" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTGuard.php on line 24
+[04-Jun-2024 03:33:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php on line 27
+[04-Jun-2024 03:33:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:27 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Manager.php on line 20
+[04-Jun-2024 03:33:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:31 UTC] PHP Fatal error:  Trait "Illuminate\Auth\GuardHelpers" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTGuard.php on line 24
+[04-Jun-2024 03:33:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:35 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\JWT" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php on line 18
+[04-Jun-2024 03:33:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:39 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Factory.php on line 21
+[04-Jun-2024 03:33:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:47 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWT.php on line 21
+[09-Jun-2024 18:11:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 18:11:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 18:14:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 18:14:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 18:14:21 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Factory.php on line 21
+[09-Jun-2024 18:15:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 18:15:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 18:15:48 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWT.php on line 21
+[09-Jun-2024 18:17:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 18:17:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 18:17:00 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\JWT" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php on line 18
+[09-Jun-2024 18:18:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 18:18:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 18:18:13 UTC] PHP Fatal error:  Trait "Illuminate\Auth\GuardHelpers" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTGuard.php on line 24
+[09-Jun-2024 18:19:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 18:19:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 18:19:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php on line 27
+[09-Jun-2024 19:19:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 19:19:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 19:19:49 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Manager.php on line 20
+[10-Jun-2024 02:41:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 02:41:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 13:56:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 13:56:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 13:56:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php on line 27
+[23-Jun-2024 14:26:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 14:26:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 23:31:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 23:31:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 23:31:21 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWT.php on line 21
+[24-Jun-2024 02:14:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 02:14:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 02:14:14 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Factory.php on line 21
+[24-Jun-2024 02:17:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 02:17:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 02:36:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 02:36:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 02:36:17 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\JWT" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php on line 18
+[24-Jun-2024 03:32:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 03:32:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 03:32:33 UTC] PHP Fatal error:  Trait "Illuminate\Auth\GuardHelpers" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTGuard.php on line 24
+[24-Jun-2024 07:14:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 07:14:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 07:14:52 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Manager.php on line 20
+[29-Jun-2024 11:41:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 11:41:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 11:41:44 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWT.php on line 21
+[29-Jun-2024 14:42:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:42:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:42:37 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Manager.php on line 20
+[29-Jun-2024 16:24:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:24:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:23:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:23:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:23:20 UTC] PHP Fatal error:  Trait "Illuminate\Auth\GuardHelpers" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTGuard.php on line 24
+[29-Jun-2024 17:33:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:33:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:43:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:43:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:43:33 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Factory.php on line 21
+[29-Jun-2024 20:34:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:34:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:34:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php on line 27
+[30-Jun-2024 05:45:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 05:45:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 05:46:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 05:46:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 05:46:51 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Factory.php on line 21
+[30-Jun-2024 05:47:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 05:47:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 05:47:26 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWT.php on line 21
+[30-Jun-2024 05:48:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 05:48:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 05:48:03 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\JWT" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php on line 18
+[30-Jun-2024 05:48:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 05:48:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 05:48:35 UTC] PHP Fatal error:  Trait "Illuminate\Auth\GuardHelpers" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTGuard.php on line 24
+[30-Jun-2024 05:49:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 05:49:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 05:49:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php on line 27
+[30-Jun-2024 06:03:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 06:03:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 06:03:01 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Manager.php on line 20
+[30-Jun-2024 08:49:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:49:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:49:56 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\JWT" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php on line 18
+[30-Jun-2024 20:44:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 20:44:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 04:13:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 04:13:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 16:16:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 16:16:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:09:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:09:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:09:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:09:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:09:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Payload.php on line 27
+[10-Jul-2024 15:10:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:03 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Manager.php on line 20
+[10-Jul-2024 15:10:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:07 UTC] PHP Fatal error:  Trait "Illuminate\Auth\GuardHelpers" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTGuard.php on line 24
+[10-Jul-2024 15:10:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\JWT" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWTAuth.php on line 18
+[10-Jul-2024 15:10:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:15 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Factory.php on line 21
+[10-Jul-2024 15:10:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:23 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\CustomClaims" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/JWT.php on line 21

@@ -1,0 +1,240 @@
+[19-May-2024 11:12:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 11:12:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 11:12:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php on line 26
+[19-May-2024 18:42:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:42:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:42:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php on line 28
+[19-May-2024 18:42:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:42:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:42:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php on line 25
+[19-May-2024 18:42:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:42:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:42:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php on line 27
+[20-May-2024 23:09:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 23:09:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 23:09:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php on line 26
+[20-May-2024 23:09:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 23:09:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 23:09:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php on line 27
+[20-May-2024 23:09:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 23:09:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 23:09:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php on line 25
+[20-May-2024 23:09:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 23:09:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 23:09:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php on line 28
+[28-May-2024 02:59:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:59:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:59:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php on line 27
+[28-May-2024 08:45:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 08:45:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 08:45:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php on line 28
+[28-May-2024 12:17:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 12:17:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 12:17:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php on line 26
+[28-May-2024 14:27:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 14:27:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 14:27:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php on line 25
+[01-Jun-2024 14:42:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:42:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:42:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php on line 26
+[01-Jun-2024 14:56:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:56:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:56:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php on line 28
+[01-Jun-2024 15:08:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 15:08:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 15:08:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php on line 27
+[01-Jun-2024 15:08:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 15:08:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 15:08:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php on line 25
+[04-Jun-2024 05:05:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:05:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:05:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php on line 28
+[04-Jun-2024 05:05:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:05:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:05:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php on line 25
+[04-Jun-2024 05:05:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:05:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:05:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php on line 27
+[04-Jun-2024 05:05:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:05:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:05:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php on line 26
+[08-Jun-2024 17:35:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 17:35:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 17:35:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php on line 26
+[08-Jun-2024 17:36:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 17:36:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 17:36:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php on line 27
+[08-Jun-2024 17:37:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 17:37:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 17:37:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php on line 25
+[08-Jun-2024 17:38:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 17:38:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 17:38:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php on line 28
+[23-Jun-2024 21:23:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 21:23:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 21:23:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php on line 28
+[23-Jun-2024 22:56:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 22:56:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 22:56:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php on line 25
+[24-Jun-2024 05:25:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 05:25:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 05:25:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php on line 27
+[24-Jun-2024 06:30:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 06:30:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 06:30:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php on line 26
+[27-Jun-2024 01:16:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:16:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:16:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php on line 26
+[27-Jun-2024 01:17:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:17:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:17:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php on line 27
+[27-Jun-2024 01:17:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:17:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:17:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php on line 25
+[27-Jun-2024 01:18:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:18:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:18:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php on line 28
+[29-Jun-2024 12:07:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 12:07:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 12:07:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php on line 26
+[29-Jun-2024 13:04:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:04:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:04:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php on line 28
+[29-Jun-2024 17:06:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:06:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:06:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php on line 27
+[29-Jun-2024 19:53:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:53:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:53:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php on line 25
+[10-Jul-2024 16:40:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:40:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:40:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUuidCommand.php on line 28
+[10-Jul-2024 16:40:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:40:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:40:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/InspectUlidCommand.php on line 25
+[10-Jul-2024 16:40:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:40:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:40:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUuidCommand.php on line 27
+[10-Jul-2024 16:40:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:40:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:40:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/uid/Command/GenerateUlidCommand.php on line 26

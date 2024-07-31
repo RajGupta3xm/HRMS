@@ -1,0 +1,99 @@
+[19-May-2024 10:50:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 10:50:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 10:50:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php on line 23
+[19-May-2024 10:50:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 10:50:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 10:50:19 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php on line 24
+[20-May-2024 23:04:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 23:04:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 23:04:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php on line 23
+[20-May-2024 23:04:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 23:04:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 23:04:14 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php on line 24
+[28-May-2024 13:02:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 13:02:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 13:02:05 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php on line 24
+[28-May-2024 13:26:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 13:26:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 13:26:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php on line 23
+[01-Jun-2024 11:57:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 11:57:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 11:57:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php on line 23
+[01-Jun-2024 12:08:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 12:08:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 12:08:11 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php on line 24
+[04-Jun-2024 04:34:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:34:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:34:23 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php on line 24
+[04-Jun-2024 04:34:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:34:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:34:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php on line 23
+[08-Jun-2024 02:31:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:31:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:31:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php on line 23
+[08-Jun-2024 02:32:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 02:32:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 02:32:46 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php on line 24
+[09-Jun-2024 10:55:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 10:55:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 10:55:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php on line 23
+[09-Jun-2024 10:55:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 10:55:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 10:55:57 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php on line 24
+[24-Jun-2024 04:30:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 04:30:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 04:30:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php on line 23
+[24-Jun-2024 05:34:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 05:34:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 05:34:33 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php on line 24
+[25-Jun-2024 19:55:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 19:55:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 19:55:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php on line 23
+[25-Jun-2024 19:56:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 19:56:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 19:56:01 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php on line 24
+[29-Jun-2024 13:04:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:04:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:04:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php on line 23
+[29-Jun-2024 18:54:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:54:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:54:49 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php on line 24
+[10-Jul-2024 16:09:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:09:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:09:27 UTC] PHP Fatal error:  Trait "Symfony\Component\DependencyInjection\Compiler\PriorityTaggedServiceTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/RoutingResolverPass.php on line 24
+[10-Jul-2024 16:09:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:09:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:09:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/DependencyInjection/AddExpressionLanguageProvidersPass.php on line 23

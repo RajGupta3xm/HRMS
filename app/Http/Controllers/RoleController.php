@@ -92,4 +92,58 @@ class RoleController extends Controller
         Role::insert($rolePermissions);
         return redirect()->route('allRolesView')->with('status', 'Role Created Successfully');
     }
+    public function editRoles($userName)
+    {
+        $modules = Session::get('user_modules_' . auth()->id());
+
+        $role = Role::where('name', $userName)->first();
+
+        if (!$role) {
+            abort(404);
+        }
+
+        $permissions = Role::where('name', $userName)->pluck('description')->toArray();
+
+        return view('editroles', compact('role', 'modules', 'permissions'));
+    }
+
+    public function updateRoles(Request $request, $userName)
+    {
+        $validator = Validator::make($request->all(), [
+            'name' => 'required|string|max:255',
+        ], [
+            'name.required' => 'Name is required.',
+            'name.string' => 'Name must be a string.',
+            'name.max' => 'Name cannot exceed 255 characters.',
+        ]);
+
+        if ($validator->fails()) {
+            return redirect()->back()->withErrors($validator)->withInput();
+        }
+
+        $name = $request->input('name');
+        $roleNames = $request->input('groupname');
+        $permissions = $request->input('permissions');
+
+        $rolePermissions = [];
+
+        if (!is_null($permissions)) {
+            foreach ($permissions as $permission) {
+                foreach ($roleNames as $role) {
+                    if (strpos($permission, $role) !== false) {
+                        $rolePermissions[] = [
+                            'name' => $name,
+                            'role' => $role,
+                            'description' => $permission,
+                        ];
+                    }
+                }
+            }
+        }
+
+        Role::where('name', $userName)->delete();
+        Role::insert($rolePermissions);
+
+        return redirect()->route('allRolesView')->with('status', 'Role Updated Successfully');
+    }
 }

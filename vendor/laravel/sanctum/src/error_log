@@ -1,0 +1,418 @@
+[10-May-2024 23:28:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 23:28:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 23:28:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 23:28:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 23:28:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 23:28:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 23:28:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php on line 8
+[10-May-2024 23:28:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 23:28:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 23:28:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php on line 8
+[10-May-2024 23:29:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 23:29:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 23:29:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 23:29:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 23:29:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php on line 14
+[10-May-2024 23:29:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 23:29:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 23:29:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Sanctum\Contracts\HasAbilities" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php on line 7
+[15-May-2024 10:18:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:18:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:18:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:18:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:18:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:18:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:18:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php on line 8
+[15-May-2024 10:18:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:18:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:18:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php on line 8
+[15-May-2024 10:19:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:19:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:19:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:19:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:19:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php on line 14
+[15-May-2024 10:19:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:19:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:19:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Sanctum\Contracts\HasAbilities" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php on line 7
+[27-May-2024 23:40:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 23:40:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 23:45:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 23:45:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 23:45:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php on line 8
+[28-May-2024 02:54:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:54:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 05:34:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 05:34:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 12:23:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 12:23:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 12:23:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Sanctum\Contracts\HasAbilities" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php on line 7
+[28-May-2024 16:12:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 16:12:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 16:12:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php on line 8
+[28-May-2024 17:40:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 17:40:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 17:40:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php on line 14
+[01-Jun-2024 09:04:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:04:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:04:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Sanctum\Contracts\HasAbilities" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php on line 7
+[01-Jun-2024 09:23:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:23:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:23:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php on line 8
+[01-Jun-2024 09:27:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:27:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:28:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:28:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:28:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php on line 14
+[01-Jun-2024 09:40:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:40:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 12:17:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 12:17:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:33:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:33:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:33:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:33:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:33:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Sanctum\Contracts\HasAbilities" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php on line 7
+[04-Jun-2024 08:33:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:33:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:33:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php on line 14
+[04-Jun-2024 08:33:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:33:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:33:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:33:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:33:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php on line 8
+[04-Jun-2024 08:33:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:33:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:33:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php on line 8
+[04-Jun-2024 08:33:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:33:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 02:07:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 02:07:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 02:11:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 02:11:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 02:12:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 02:12:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 02:12:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php on line 8
+[05-Jun-2024 02:14:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 02:14:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 02:14:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php on line 8
+[05-Jun-2024 02:15:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 02:15:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 02:16:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 02:16:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 02:16:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php on line 14
+[05-Jun-2024 02:18:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 02:18:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 02:18:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Sanctum\Contracts\HasAbilities" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php on line 7
+[09-Jun-2024 18:18:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 18:18:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 18:19:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 18:19:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 18:19:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 18:19:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 18:19:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php on line 8
+[09-Jun-2024 18:19:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 18:19:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 18:19:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php on line 8
+[09-Jun-2024 18:19:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 18:19:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 18:19:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 18:19:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 18:19:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php on line 14
+[09-Jun-2024 18:19:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 18:19:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 18:19:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Sanctum\Contracts\HasAbilities" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php on line 7
+[10-Jun-2024 13:02:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 13:02:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 13:02:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php on line 8
+[23-Jun-2024 14:43:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 14:43:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 14:43:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php on line 8
+[23-Jun-2024 15:43:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 15:43:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 16:46:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 16:46:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 22:14:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 22:14:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 00:23:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 00:23:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 00:23:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php on line 14
+[24-Jun-2024 01:22:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 01:22:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 01:22:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Sanctum\Contracts\HasAbilities" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php on line 7
+[24-Jun-2024 01:45:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 01:45:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 01:45:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php on line 8
+[25-Jun-2024 08:14:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 08:14:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 08:15:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 08:15:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 08:16:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 08:16:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 08:16:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php on line 8
+[25-Jun-2024 08:17:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 08:17:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 08:17:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php on line 8
+[25-Jun-2024 08:18:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 08:18:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 08:20:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 08:20:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 08:20:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php on line 14
+[25-Jun-2024 08:21:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 08:21:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 08:21:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Sanctum\Contracts\HasAbilities" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php on line 7
+[26-Jun-2024 18:42:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:42:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:42:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:42:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:43:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:43:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:43:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php on line 8
+[26-Jun-2024 18:43:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:43:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:43:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php on line 8
+[26-Jun-2024 18:43:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:43:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:43:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:43:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:43:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php on line 14
+[26-Jun-2024 18:43:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:43:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:43:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Sanctum\Contracts\HasAbilities" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php on line 7
+[29-Jun-2024 12:53:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 12:53:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:15:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:15:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:33:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:33:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:33:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Sanctum\Contracts\HasAbilities" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php on line 7
+[29-Jun-2024 16:09:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:09:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:09:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php on line 14
+[29-Jun-2024 16:41:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:41:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:41:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php on line 8
+[29-Jun-2024 19:43:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:43:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:43:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php on line 8
+[29-Jun-2024 20:02:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:02:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:21:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:21:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:21:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php on line 8
+[30-Jun-2024 08:21:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:21:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:21:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php on line 14
+[30-Jun-2024 08:21:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:21:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:21:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:21:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:21:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:21:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:25:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:25:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:25:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Sanctum\Contracts\HasAbilities" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php on line 7
+[30-Jun-2024 08:29:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:29:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:29:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php on line 8
+[05-Jul-2024 00:53:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 00:53:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 02:10:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 02:10:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 09:54:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 09:54:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 10:58:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 10:58:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:15:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:15:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:15:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:15:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:15:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Sanctum\Contracts\HasAbilities" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php on line 7
+[10-Jul-2024 20:15:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:15:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:15:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/SanctumServiceProvider.php on line 14
+[10-Jul-2024 20:15:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:15:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:15:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:15:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:15:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php on line 8
+[10-Jul-2024 20:15:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:15:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:15:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php on line 8
+[10-Jul-2024 20:15:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:15:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 09:01:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 09:01:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 09:01:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/PersonalAccessToken.php on line 8
+[11-Jul-2024 12:39:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 12:39:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 12:39:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/NewAccessToken.php on line 8
+[11-Jul-2024 23:49:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 23:49:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 23:49:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Sanctum\Contracts\HasAbilities" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/sanctum/src/TransientToken.php on line 7
+[12-Jul-2024 09:01:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 09:01:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

@@ -1,0 +1,312 @@
+[11-May-2024 02:52:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:52:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:52:12 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\Lexer\AbstractLexer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php on line 9
+[11-May-2024 02:52:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:52:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:52:24 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php on line 13
+[11-May-2024 02:52:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:52:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:52:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:52:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:52:38 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php on line 13
+[11-May-2024 02:52:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:52:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 01:40:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 01:40:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 01:40:06 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\Lexer\AbstractLexer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php on line 9
+[13-May-2024 01:40:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 01:40:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 01:40:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 01:40:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 03:36:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 03:36:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 03:36:59 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php on line 13
+[13-May-2024 03:37:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 03:37:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 03:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php on line 13
+[19-May-2024 02:00:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 02:00:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 02:00:45 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\Lexer\AbstractLexer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php on line 9
+[19-May-2024 02:01:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 02:01:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 02:01:20 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php on line 13
+[19-May-2024 02:01:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 02:01:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 02:01:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 02:01:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 02:01:58 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php on line 13
+[19-May-2024 02:02:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 02:02:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 01:08:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 01:08:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 01:08:07 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php on line 13
+[28-May-2024 01:57:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 01:57:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 03:03:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 03:03:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 03:03:47 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\Lexer\AbstractLexer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php on line 9
+[28-May-2024 03:13:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 03:13:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 10:08:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 10:08:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 10:08:48 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php on line 13
+[01-Jun-2024 01:03:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:03:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 01:03:42 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\Lexer\AbstractLexer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php on line 9
+[01-Jun-2024 01:04:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:04:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 01:25:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:25:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 01:25:01 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php on line 13
+[01-Jun-2024 01:36:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:36:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 04:16:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 04:16:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 04:16:27 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php on line 13
+[02-Jun-2024 00:36:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 00:36:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 00:36:26 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\Lexer\AbstractLexer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php on line 9
+[02-Jun-2024 00:41:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 00:41:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 00:43:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 00:43:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 02:30:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 02:30:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 02:30:32 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php on line 13
+[02-Jun-2024 02:33:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 02:33:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 02:33:18 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php on line 13
+[04-Jun-2024 09:16:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:16:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:16:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:16:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:16:04 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php on line 13
+[04-Jun-2024 09:16:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:16:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:16:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:16:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:16:12 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php on line 13
+[04-Jun-2024 09:16:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:16:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:16:16 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\Lexer\AbstractLexer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php on line 9
+[07-Jun-2024 18:11:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:14 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\Lexer\AbstractLexer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php on line 9
+[07-Jun-2024 18:11:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:16 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php on line 13
+[07-Jun-2024 18:11:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:20 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php on line 13
+[07-Jun-2024 18:11:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:11:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-Jun-2024 06:54:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-Jun-2024 06:54:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-Jun-2024 06:54:47 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\Lexer\AbstractLexer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php on line 9
+[21-Jun-2024 06:56:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-Jun-2024 06:56:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-Jun-2024 07:00:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-Jun-2024 07:00:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-Jun-2024 08:36:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-Jun-2024 08:36:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-Jun-2024 08:36:02 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php on line 13
+[21-Jun-2024 08:37:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-Jun-2024 08:37:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-Jun-2024 08:37:43 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php on line 13
+[23-Jun-2024 20:22:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 20:22:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 20:36:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 20:36:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 20:36:35 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php on line 13
+[24-Jun-2024 04:46:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 04:46:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 04:46:58 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\Lexer\AbstractLexer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php on line 9
+[24-Jun-2024 05:20:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 05:20:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 05:20:06 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php on line 13
+[24-Jun-2024 06:59:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 06:59:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 12:03:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 12:03:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 12:03:26 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\Lexer\AbstractLexer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php on line 9
+[25-Jun-2024 12:03:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 12:03:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 12:03:28 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php on line 13
+[25-Jun-2024 12:03:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 12:03:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 12:03:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 12:03:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 12:03:32 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php on line 13
+[25-Jun-2024 12:03:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 12:03:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 11:39:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 11:39:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 11:39:31 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php on line 13
+[29-Jun-2024 12:58:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 12:58:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:06:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:06:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:06:52 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php on line 13
+[29-Jun-2024 21:00:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 21:00:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 06:56:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 06:56:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 06:56:05 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\Lexer\AbstractLexer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php on line 9
+[05-Jul-2024 01:14:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 01:14:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 01:36:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 01:36:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 06:22:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 06:22:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 06:24:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 06:24:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 07:42:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:42:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 07:42:22 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php on line 13
+[10-Jul-2024 07:43:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:43:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 07:43:52 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php on line 13
+[10-Jul-2024 12:46:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 12:46:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 12:46:32 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\Lexer\AbstractLexer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php on line 9
+[10-Jul-2024 20:57:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:57:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:57:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:57:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:57:55 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/MessageIDParser.php on line 13
+[10-Jul-2024 20:57:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:57:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:58:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:58:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:58:03 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailParser.php on line 13
+[10-Jul-2024 20:58:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:58:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 20:58:07 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Common\Lexer\AbstractLexer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/egulias/email-validator/src/EmailLexer.php on line 9

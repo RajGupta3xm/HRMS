@@ -1,0 +1,648 @@
+[12-May-2024 13:24:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:24:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:24:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[12-May-2024 13:24:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:24:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:24:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[12-May-2024 13:24:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:24:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:24:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php on line 21
+[12-May-2024 13:25:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:25:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:25:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php on line 17
+[12-May-2024 13:25:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:25:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:25:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[12-May-2024 13:25:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:25:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:25:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php on line 17
+[12-May-2024 13:25:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:25:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:25:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[12-May-2024 13:25:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:25:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:25:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php on line 17
+[12-May-2024 13:25:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:25:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:25:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[12-May-2024 13:26:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:26:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:26:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php on line 17
+[12-May-2024 13:26:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:26:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:26:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[12-May-2024 13:26:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:26:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:26:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[20-May-2024 05:06:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:06:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:06:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[20-May-2024 05:06:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:06:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:06:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[20-May-2024 05:06:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:06:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:06:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php on line 21
+[20-May-2024 05:06:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:06:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:06:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php on line 17
+[20-May-2024 05:06:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:06:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:06:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[20-May-2024 05:07:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:07:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:07:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php on line 17
+[20-May-2024 05:07:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:07:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:07:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[20-May-2024 05:07:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:07:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:07:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php on line 17
+[20-May-2024 05:07:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:07:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:07:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[20-May-2024 05:07:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:07:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:07:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php on line 17
+[20-May-2024 05:08:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:08:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:08:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[20-May-2024 05:08:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:08:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:08:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[23-May-2024 21:26:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 21:26:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 21:26:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[24-May-2024 00:49:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 00:49:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 00:49:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php on line 17
+[24-May-2024 00:49:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 00:49:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 00:49:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[24-May-2024 00:49:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 00:49:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 00:49:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php on line 17
+[24-May-2024 00:49:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 00:49:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 00:49:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[24-May-2024 00:49:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 00:49:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 00:49:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[24-May-2024 04:11:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:11:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:11:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[24-May-2024 04:11:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:11:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:11:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php on line 21
+[24-May-2024 04:11:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 04:11:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 04:11:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php on line 17
+[24-May-2024 08:18:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 08:18:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 08:18:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[24-May-2024 08:19:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 08:19:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 08:19:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php on line 17
+[24-May-2024 08:20:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 08:20:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 08:20:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[04-Jun-2024 16:18:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:18:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:18:51 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[04-Jun-2024 16:18:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:18:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:18:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[04-Jun-2024 16:18:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:18:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:18:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php on line 17
+[04-Jun-2024 16:19:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[04-Jun-2024 16:19:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php on line 17
+[04-Jun-2024 16:19:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[04-Jun-2024 16:19:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php on line 17
+[04-Jun-2024 16:19:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[04-Jun-2024 16:19:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php on line 17
+[04-Jun-2024 16:19:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php on line 21
+[04-Jun-2024 16:19:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[04-Jun-2024 16:19:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:19:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[07-Jun-2024 04:05:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:05:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:05:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[07-Jun-2024 04:05:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:05:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:05:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[07-Jun-2024 04:05:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:05:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:05:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php on line 21
+[07-Jun-2024 04:05:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:05:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:05:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php on line 17
+[07-Jun-2024 04:06:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:06:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:06:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[07-Jun-2024 04:06:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:06:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:06:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php on line 17
+[07-Jun-2024 04:06:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:06:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:06:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[07-Jun-2024 04:06:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:06:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:06:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php on line 17
+[07-Jun-2024 04:06:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:06:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:06:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[07-Jun-2024 04:06:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:06:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:06:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php on line 17
+[07-Jun-2024 04:07:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:07:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:07:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[07-Jun-2024 04:07:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:07:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:07:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[16-Jun-2024 12:03:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 12:03:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 12:03:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[16-Jun-2024 15:18:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:18:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:18:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php on line 17
+[16-Jun-2024 15:19:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:19:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:19:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[16-Jun-2024 15:19:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:19:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:19:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php on line 17
+[16-Jun-2024 15:19:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:19:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:19:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[16-Jun-2024 15:20:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:20:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:20:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[16-Jun-2024 19:45:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 19:45:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 19:45:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[16-Jun-2024 19:46:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 19:46:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 19:46:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php on line 21
+[16-Jun-2024 19:46:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 19:46:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 19:46:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php on line 17
+[16-Jun-2024 19:53:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 19:53:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 19:53:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[16-Jun-2024 19:53:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 19:53:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 19:53:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php on line 17
+[16-Jun-2024 19:54:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 19:54:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 19:54:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[02-Jul-2024 12:50:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:50:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 12:50:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[02-Jul-2024 13:53:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 13:53:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 13:53:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[02-Jul-2024 14:06:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:06:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:06:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[02-Jul-2024 14:39:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:39:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:39:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[02-Jul-2024 16:56:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 16:56:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 16:56:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php on line 17
+[02-Jul-2024 17:26:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 17:26:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 17:26:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[02-Jul-2024 17:26:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 17:26:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 17:26:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php on line 17
+[02-Jul-2024 19:59:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 19:59:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 19:59:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[02-Jul-2024 20:34:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 20:34:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 20:34:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php on line 17
+[02-Jul-2024 22:12:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 22:12:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 22:12:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php on line 21
+[03-Jul-2024 09:34:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 09:34:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 09:34:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[03-Jul-2024 10:58:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 10:58:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 10:58:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php on line 17
+[09-Jul-2024 08:57:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 08:57:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 08:57:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[09-Jul-2024 10:12:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 10:12:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 10:12:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php on line 17
+[09-Jul-2024 10:13:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 10:13:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 10:13:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[09-Jul-2024 10:14:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 10:14:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 10:14:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php on line 17
+[09-Jul-2024 10:16:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 10:16:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 10:16:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[09-Jul-2024 16:07:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 16:07:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 16:07:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[09-Jul-2024 17:04:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 17:04:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 17:04:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21
+[09-Jul-2024 17:05:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 17:05:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 17:05:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php on line 21
+[09-Jul-2024 17:06:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 17:06:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 17:06:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php on line 17
+[09-Jul-2024 17:08:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 17:08:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 17:08:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[09-Jul-2024 17:09:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 17:09:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 17:09:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php on line 17
+[09-Jul-2024 17:10:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 17:10:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 17:10:26 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[11-Jul-2024 04:08:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/StartedSubscriber.php on line 17
+[11-Jul-2024 04:08:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Started.php on line 21
+[11-Jul-2024 04:08:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SortedSubscriber.php on line 17
+[11-Jul-2024 04:08:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Sorted.php on line 20
+[11-Jul-2024 04:08:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/SkippedSubscriber.php on line 17
+[11-Jul-2024 04:08:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Skipped.php on line 21
+[11-Jul-2024 04:08:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/LoadedSubscriber.php on line 17
+[11-Jul-2024 04:08:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Loaded.php on line 21
+[11-Jul-2024 04:08:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:51 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FinishedSubscriber.php on line 17
+[11-Jul-2024 04:08:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Finished.php on line 21
+[11-Jul-2024 04:08:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:08:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Subscriber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/FilteredSubscriber.php on line 17
+[11-Jul-2024 04:09:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:09:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:09:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Event" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Events/TestSuite/Filtered.php on line 21

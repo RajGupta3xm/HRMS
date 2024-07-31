@@ -1,0 +1,112 @@
+[12-May-2024 10:02:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:02:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:02:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php on line 17
+[12-May-2024 10:03:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:03:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:03:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:03:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:03:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php on line 28
+[20-May-2024 08:17:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 08:17:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 08:17:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php on line 17
+[20-May-2024 08:17:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 08:17:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 08:17:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 08:17:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 08:17:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php on line 28
+[04-Jun-2024 07:57:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:57:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:57:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php on line 28
+[04-Jun-2024 07:57:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:57:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:57:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:57:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:57:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php on line 17
+[10-Jun-2024 09:46:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:46:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:46:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php on line 17
+[10-Jun-2024 09:46:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:46:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:46:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:46:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:46:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php on line 28
+[11-Jun-2024 12:36:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 12:36:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 12:36:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php on line 28
+[11-Jun-2024 12:37:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 12:37:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 12:37:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php on line 17
+[11-Jun-2024 12:43:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 12:43:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 09:13:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 09:13:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:14:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:14:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:14:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php on line 17
+[04-Jul-2024 18:06:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 18:06:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 18:06:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php on line 28
+[07-Jul-2024 18:22:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:22:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:22:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php on line 17
+[07-Jul-2024 18:22:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:22:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:23:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:23:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:23:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php on line 28
+[10-Jul-2024 19:39:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:39:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:39:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/RequireLoader.php on line 28
+[10-Jul-2024 19:39:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:39:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:39:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:39:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 19:39:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Loader\Loader" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Loader/EvalLoader.php on line 17

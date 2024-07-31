@@ -1,0 +1,282 @@
+[13-May-2024 23:46:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 23:46:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 23:46:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 23:46:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 23:46:52 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[14-May-2024 01:41:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 01:41:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 01:41:11 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[14-May-2024 05:36:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 05:36:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 05:36:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[15-May-2024 09:57:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:57:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:57:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:57:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:57:11 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[15-May-2024 09:57:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:57:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:57:13 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[15-May-2024 09:57:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:57:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:57:15 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[19-May-2024 16:00:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 16:00:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 16:00:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 16:00:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 16:00:29 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[19-May-2024 16:00:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 16:00:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 16:00:40 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[19-May-2024 16:00:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 16:00:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 16:00:50 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[31-May-2024 04:06:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 04:06:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:06:06 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[31-May-2024 04:28:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 04:28:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:28:01 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[31-May-2024 05:26:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 05:26:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:26:27 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[31-May-2024 16:04:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 16:04:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:29:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:29:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:29:54 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[01-Jun-2024 14:36:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:36:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:36:13 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[01-Jun-2024 14:41:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:41:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 14:41:14 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[01-Jun-2024 14:41:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 14:41:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 02:17:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 02:17:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 02:20:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 02:20:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 02:20:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[02-Jun-2024 03:52:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 03:52:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 03:52:45 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[02-Jun-2024 05:47:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 05:47:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 05:47:04 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[04-Jun-2024 02:28:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:28:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:28:35 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[04-Jun-2024 02:28:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:28:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:28:39 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[04-Jun-2024 02:28:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:28:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:28:43 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[04-Jun-2024 02:28:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:28:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 00:16:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 00:16:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 00:16:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 00:16:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 00:16:28 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[10-Jun-2024 00:16:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 00:16:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 00:16:30 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[10-Jun-2024 00:16:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 00:16:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 00:16:32 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[20-Jun-2024 20:49:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 20:49:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 20:50:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 20:50:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 20:50:10 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[20-Jun-2024 21:11:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 21:11:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 21:11:31 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[21-Jun-2024 01:16:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-Jun-2024 01:16:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-Jun-2024 01:16:27 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[26-Jun-2024 20:55:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 20:55:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 22:34:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 22:34:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 22:34:43 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[27-Jun-2024 05:08:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 05:08:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 05:08:53 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[27-Jun-2024 15:10:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 15:10:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 15:10:12 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[29-Jun-2024 14:15:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:15:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:15:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[29-Jun-2024 16:05:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:05:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:05:53 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[29-Jun-2024 16:59:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:59:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:12:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:12:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:12:52 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[05-Jul-2024 11:48:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:48:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:48:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:48:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:48:29 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[05-Jul-2024 11:48:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:48:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:48:47 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[05-Jul-2024 11:48:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:48:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:48:52 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[09-Jul-2024 04:18:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 04:18:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 04:18:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 04:18:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 04:18:35 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[09-Jul-2024 08:50:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 08:50:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 08:50:03 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[09-Jul-2024 11:12:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 11:12:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 11:12:52 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[10-Jul-2024 07:09:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:09:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:02:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:02:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:02:15 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[10-Jul-2024 14:02:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:02:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:02:19 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/NegativeValueException.php on line 14
+[10-Jul-2024 14:02:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:02:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:02:24 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[10-Jul-2024 14:02:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:02:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

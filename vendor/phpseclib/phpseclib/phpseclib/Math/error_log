@@ -1,0 +1,92 @@
+[11-May-2024 05:46:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:46:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:46:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:46:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:46:50 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\Common\FiniteField" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/BinaryField.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/BinaryField.php on line 26
+[11-May-2024 05:46:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:46:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:46:55 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\Common\FiniteField" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/PrimeField.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/PrimeField.php on line 26
+[20-May-2024 04:34:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:34:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:35:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:35:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:35:20 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\Common\FiniteField" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/BinaryField.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/BinaryField.php on line 26
+[01-Jun-2024 06:29:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:29:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:29:58 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\Common\FiniteField" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/BinaryField.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/BinaryField.php on line 26
+[01-Jun-2024 09:11:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:11:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:11:54 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\Common\FiniteField" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/PrimeField.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/PrimeField.php on line 26
+[01-Jun-2024 09:38:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:38:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:30:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:30:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:30:35 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\Common\FiniteField" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/PrimeField.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/PrimeField.php on line 26
+[04-Jun-2024 02:30:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:30:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:30:39 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\Common\FiniteField" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/BinaryField.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/BinaryField.php on line 26
+[04-Jun-2024 02:30:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:30:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:33:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:33:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:33:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:33:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:33:32 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\Common\FiniteField" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/BinaryField.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/BinaryField.php on line 26
+[08-Jun-2024 01:34:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:34:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:34:02 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\Common\FiniteField" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/PrimeField.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/PrimeField.php on line 26
+[02-Jul-2024 06:35:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:35:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:35:44 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\Common\FiniteField" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/BinaryField.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/BinaryField.php on line 26
+[02-Jul-2024 07:40:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:40:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:40:34 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\Common\FiniteField" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/PrimeField.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/PrimeField.php on line 26
+[02-Jul-2024 14:41:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:41:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:04:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:04:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:04:15 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\Common\FiniteField" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/PrimeField.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/PrimeField.php on line 26
+[10-Jul-2024 14:04:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:04:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:04:20 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Math\Common\FiniteField" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/BinaryField.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Math/BinaryField.php on line 26
+[10-Jul-2024 14:04:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:04:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

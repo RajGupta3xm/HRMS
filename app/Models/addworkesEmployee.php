@@ -2,6 +2,7 @@
 
 namespace App\Models;
 
+
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
@@ -15,6 +16,7 @@ class AddworkesEmployee extends Model
         'userDesignation',
         'employee_Id',
         'allocationpercentage',
+        'status',
         'startdate',
         'enddate',
     ];
@@ -30,10 +32,10 @@ class AddworkesEmployee extends Model
     {
         return $this->belongsTo(User::class, 'employee_Id');
     }
-    public function addworkesEmployees()
-    {
-        return $this->hasMany(AddworkesEmployee::class, 'project_id', 'project_id');
-    }
 
-   
+    public function employee()
+    {
+        return $this->belongsTo(employees::class, 'employee_Id');
+    }
+    
 }

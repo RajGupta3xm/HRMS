@@ -1,0 +1,144 @@
+[11-May-2024 22:10:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 22:10:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 22:10:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 26
+[11-May-2024 22:11:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 22:11:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 22:11:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php on line 17
+[13-May-2024 06:06:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 06:06:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 06:06:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 26
+[13-May-2024 06:06:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 06:06:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 06:06:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php on line 17
+[20-May-2024 05:29:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:29:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:29:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 26
+[20-May-2024 05:29:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 05:29:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 05:29:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php on line 17
+[01-Jun-2024 12:29:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 12:29:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 12:29:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 26
+[01-Jun-2024 12:31:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 12:31:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 12:31:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php on line 17
+[04-Jun-2024 06:00:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:00:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:00:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php on line 17
+[04-Jun-2024 06:00:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:00:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:00:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 26
+[06-Jun-2024 10:23:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 10:23:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 10:23:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 26
+[06-Jun-2024 10:23:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 10:23:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 10:23:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php on line 17
+[10-Jun-2024 20:44:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:44:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:44:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 26
+[10-Jun-2024 20:54:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:54:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:54:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php on line 17
+[20-Jun-2024 08:28:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 08:28:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 08:28:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 26
+[20-Jun-2024 08:30:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 08:30:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 08:30:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php on line 17
+[29-Jun-2024 14:09:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:09:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:09:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php on line 17
+[30-Jun-2024 07:11:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 07:11:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 07:11:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 26
+[05-Jul-2024 10:24:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:24:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:24:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 26
+[05-Jul-2024 10:24:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:24:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:24:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php on line 17
+[09-Jul-2024 04:08:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 04:08:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 04:08:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 26
+[09-Jul-2024 04:09:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 04:09:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 04:09:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php on line 17
+[10-Jul-2024 17:42:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:42:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:42:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/Exception.php on line 17
+[10-Jul-2024 17:42:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:42:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:42:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Event\Tracer\Tracer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Logging/EventLogger.php on line 26

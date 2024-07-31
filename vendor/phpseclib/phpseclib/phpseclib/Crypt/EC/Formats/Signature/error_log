@@ -1,0 +1,72 @@
+[12-May-2024 12:56:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 12:56:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 12:56:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 12:56:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 12:56:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 12:56:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 12:56:56 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Signature\Raw" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats/Signature/Raw.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats/Signature/Raw.php on line 23
+[12-May-2024 12:57:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 12:57:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 15:49:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 15:49:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 15:49:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 15:49:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 15:49:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 15:49:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 15:49:25 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Signature\Raw" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats/Signature/Raw.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats/Signature/Raw.php on line 23
+[20-May-2024 15:49:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 15:49:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 22:08:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 22:08:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 22:08:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 22:08:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 22:08:08 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Signature\Raw" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats/Signature/Raw.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats/Signature/Raw.php on line 23
+[04-Jun-2024 22:08:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 22:08:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 22:08:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 22:08:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 14:33:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 14:33:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 14:33:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 14:33:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 14:33:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 14:33:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 14:33:07 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Signature\Raw" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats/Signature/Raw.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats/Signature/Raw.php on line 23
+[09-Jun-2024 14:33:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 14:33:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 05:06:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 05:06:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 16:18:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 16:18:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 07:35:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 07:35:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 07:35:27 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Signature\Raw" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats/Signature/Raw.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats/Signature/Raw.php on line 23
+[08-Jul-2024 07:55:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 07:55:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 10:00:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 10:00:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 10:00:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 10:00:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 10:00:15 UTC] PHP Fatal error:  Uncaught Error: Class "phpseclib3\Crypt\Common\Formats\Signature\Raw" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats/Signature/Raw.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpseclib/phpseclib/phpseclib/Crypt/EC/Formats/Signature/Raw.php on line 23
+[11-Jul-2024 10:00:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 10:00:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 10:00:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 10:00:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

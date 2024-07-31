@@ -1,0 +1,292 @@
+[10-May-2024 09:48:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 09:48:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 09:48:35 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php on line 17
+[10-May-2024 09:48:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 09:48:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 09:48:36 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php on line 22
+[10-May-2024 09:48:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 09:48:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 09:48:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 09:48:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 09:48:37 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php on line 19
+[10-May-2024 09:48:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 09:48:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:33:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:33:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:33:20 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php on line 17
+[11-May-2024 02:33:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:33:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:33:32 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php on line 22
+[11-May-2024 02:33:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:33:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:33:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:33:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 02:33:59 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php on line 19
+[11-May-2024 02:34:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 02:34:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:17:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:17:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:17:00 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php on line 17
+[28-May-2024 03:48:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 03:48:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 03:48:07 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php on line 22
+[28-May-2024 05:26:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 05:26:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 05:26:02 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php on line 19
+[28-May-2024 07:34:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:34:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 09:56:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 09:56:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:23:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:23:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:23:16 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php on line 17
+[30-May-2024 23:25:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:25:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:25:49 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php on line 22
+[30-May-2024 23:28:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:28:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:30:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:30:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:30:56 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php on line 19
+[30-May-2024 23:33:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:33:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:32:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:32:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:33:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:33:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:33:00 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php on line 19
+[04-Jun-2024 09:33:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:33:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:33:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:33:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:33:07 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php on line 22
+[04-Jun-2024 09:33:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:33:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:33:12 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php on line 17
+[07-Jun-2024 18:08:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:08:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:08:13 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php on line 17
+[07-Jun-2024 18:08:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:08:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:08:15 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php on line 22
+[07-Jun-2024 18:08:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:08:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:08:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:08:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:08:20 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php on line 19
+[07-Jun-2024 18:08:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:08:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 20:05:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 20:05:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 20:08:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 20:08:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 20:08:48 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php on line 17
+[09-Jun-2024 20:10:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 20:10:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 20:10:56 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php on line 19
+[09-Jun-2024 20:11:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 20:11:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 20:11:41 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php on line 22
+[09-Jun-2024 20:12:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 20:12:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 06:43:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 06:43:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 06:43:48 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php on line 17
+[19-Jun-2024 06:45:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 06:45:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 06:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php on line 22
+[19-Jun-2024 06:48:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 06:48:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 06:50:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 06:50:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-Jun-2024 06:50:06 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php on line 19
+[19-Jun-2024 06:51:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-Jun-2024 06:51:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 15:45:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 15:45:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 17:54:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 17:54:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 19:56:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 19:56:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 19:56:43 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php on line 22
+[24-Jun-2024 04:18:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 04:18:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 04:18:28 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php on line 19
+[24-Jun-2024 06:04:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 06:04:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 06:04:51 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php on line 17
+[29-Jun-2024 13:12:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:12:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:52:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:52:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:52:50 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php on line 22
+[29-Jun-2024 15:31:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 15:31:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 15:31:24 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php on line 19
+[29-Jun-2024 16:36:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:36:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:36:51 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php on line 17
+[29-Jun-2024 21:46:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 21:46:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 13:55:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 13:55:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 14:15:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 14:15:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 14:05:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 14:05:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 04:30:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 04:30:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 04:30:24 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php on line 17
+[08-Jul-2024 04:35:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 04:35:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 04:35:18 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php on line 22
+[08-Jul-2024 04:41:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 04:41:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 04:46:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 04:46:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 04:46:48 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php on line 19
+[08-Jul-2024 04:50:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 04:50:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 10:15:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 10:15:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 14:20:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 14:20:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 14:20:44 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php on line 19
+[09-Jul-2024 00:52:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 00:52:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 00:52:26 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php on line 17
+[09-Jul-2024 09:11:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 09:11:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 22:36:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 22:36:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 22:36:07 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php on line 22
+[10-Jul-2024 21:14:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:14:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:14:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:14:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:14:51 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigRational.php on line 19
+[10-Jul-2024 21:14:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:14:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:14:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:14:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:14:59 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigInteger.php on line 22
+[10-Jul-2024 21:15:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:15:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:15:03 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\BigNumber" not found in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/brick/math/src/BigDecimal.php on line 17

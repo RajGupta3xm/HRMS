@@ -1,0 +1,866 @@
+[11-May-2024 09:15:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:15:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:15:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[11-May-2024 09:15:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:15:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:15:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[11-May-2024 09:15:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:15:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:15:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[11-May-2024 09:15:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 09:15:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 09:15:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[11-May-2024 15:36:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:36:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:36:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[11-May-2024 15:36:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:36:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:36:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[11-May-2024 15:36:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:36:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:36:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[11-May-2024 15:36:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:36:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:36:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:36:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:36:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[11-May-2024 15:36:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:36:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:36:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[11-May-2024 15:36:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:36:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:36:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[11-May-2024 15:36:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:36:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:36:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[11-May-2024 15:36:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:36:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:36:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[11-May-2024 16:10:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:10:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:10:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[11-May-2024 16:10:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:10:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:10:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[11-May-2024 16:10:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:10:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:10:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[11-May-2024 16:10:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:10:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:10:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:10:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:10:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[11-May-2024 16:10:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:10:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:10:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[11-May-2024 16:10:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:10:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:10:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[11-May-2024 16:10:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:10:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:10:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[11-May-2024 16:10:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:10:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:10:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[19-May-2024 17:32:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:32:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:32:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[19-May-2024 17:32:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:32:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:32:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[19-May-2024 17:32:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:32:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:32:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[19-May-2024 17:32:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:32:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:32:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[19-May-2024 17:32:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:32:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:32:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[19-May-2024 17:32:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:32:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:33:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:33:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:33:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[19-May-2024 17:33:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:33:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:33:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[19-May-2024 17:33:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:33:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:33:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[19-May-2024 17:33:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:33:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:33:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[19-May-2024 17:33:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:33:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:33:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[19-May-2024 17:34:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:34:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:34:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[19-May-2024 17:34:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 17:34:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 17:34:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[28-May-2024 00:06:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 00:06:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 00:06:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[28-May-2024 00:29:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 00:29:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 00:29:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[28-May-2024 02:31:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 02:31:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 02:31:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[28-May-2024 04:01:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 04:01:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 04:01:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[28-May-2024 05:31:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 05:31:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 05:31:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[28-May-2024 06:47:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 06:47:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 06:47:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[28-May-2024 07:05:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:05:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:05:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[28-May-2024 09:31:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 09:31:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 09:31:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[28-May-2024 10:37:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 10:37:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 10:37:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[28-May-2024 11:33:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 11:33:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 11:33:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[28-May-2024 14:29:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 14:29:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 14:29:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[28-May-2024 19:07:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 19:07:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 19:18:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 19:18:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 19:18:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[28-May-2024 19:18:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 19:18:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 19:18:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[28-May-2024 19:18:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 19:18:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 19:18:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[28-May-2024 19:18:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 19:18:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 19:18:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[28-May-2024 19:18:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 19:18:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 19:18:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[28-May-2024 19:18:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 19:18:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 19:18:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[28-May-2024 19:18:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 19:18:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 19:18:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[28-May-2024 19:18:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 19:18:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 19:18:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 19:18:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 19:18:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[28-May-2024 19:18:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 19:18:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 19:18:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[28-May-2024 23:45:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 23:45:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 23:45:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[28-May-2024 23:45:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 23:45:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 23:45:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[28-May-2024 23:45:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 23:45:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 23:45:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[29-May-2024 06:26:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-May-2024 06:26:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-May-2024 06:26:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[04-Jun-2024 04:06:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[04-Jun-2024 04:06:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[04-Jun-2024 04:06:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[04-Jun-2024 04:06:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[04-Jun-2024 04:06:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[04-Jun-2024 04:06:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[04-Jun-2024 04:06:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[04-Jun-2024 04:06:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:06:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[04-Jun-2024 04:07:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[04-Jun-2024 04:07:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[04-Jun-2024 04:07:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[04-Jun-2024 04:07:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:07:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[04-Jun-2024 15:27:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:27:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:27:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[04-Jun-2024 15:28:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:28:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:28:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[04-Jun-2024 15:29:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:29:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:29:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[04-Jun-2024 15:29:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:29:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:29:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[04-Jun-2024 15:30:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:30:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:30:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[04-Jun-2024 15:30:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:30:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:30:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[04-Jun-2024 15:31:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:31:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:31:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[04-Jun-2024 15:32:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:32:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:34:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:34:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:34:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[04-Jun-2024 15:36:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:36:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:36:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[04-Jun-2024 15:37:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:37:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:37:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[04-Jun-2024 15:43:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:43:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:43:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[04-Jun-2024 15:43:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 15:43:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 15:43:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[11-Jun-2024 22:55:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 22:55:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 22:55:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[11-Jun-2024 23:04:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:04:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:04:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[11-Jun-2024 23:04:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:04:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:04:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[11-Jun-2024 23:04:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:04:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:04:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[11-Jun-2024 23:05:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:05:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:05:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:05:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:05:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[11-Jun-2024 23:06:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:06:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:06:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[11-Jun-2024 23:10:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:10:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:10:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[11-Jun-2024 23:11:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:11:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:11:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[11-Jun-2024 23:12:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:12:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:12:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[11-Jun-2024 23:12:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:12:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:12:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[11-Jun-2024 23:14:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:14:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:14:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[11-Jun-2024 23:14:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:14:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:14:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[18-Jun-2024 17:22:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:22:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:22:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[18-Jun-2024 17:22:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:22:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:22:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[18-Jun-2024 17:23:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:23:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:23:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[18-Jun-2024 17:24:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:24:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:24:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[18-Jun-2024 17:24:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:24:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:24:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[18-Jun-2024 17:25:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:25:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:25:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[18-Jun-2024 17:26:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:26:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:26:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[18-Jun-2024 17:26:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:26:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:27:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:27:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:27:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[18-Jun-2024 17:28:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:28:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:28:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[18-Jun-2024 23:58:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 23:58:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 23:58:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[18-Jun-2024 23:59:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 23:59:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 23:59:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[18-Jun-2024 23:59:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 23:59:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 23:59:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[23-Jun-2024 16:46:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 16:46:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 16:46:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[23-Jun-2024 17:52:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 17:52:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 17:52:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[23-Jun-2024 18:22:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 18:22:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 18:22:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[23-Jun-2024 20:02:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 20:02:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 20:02:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[23-Jun-2024 21:31:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 21:31:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 21:31:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[23-Jun-2024 22:38:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 22:38:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 01:19:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 01:19:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 01:19:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[24-Jun-2024 01:41:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 01:41:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 01:41:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[24-Jun-2024 02:01:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 02:01:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 02:01:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[24-Jun-2024 03:50:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 03:50:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 03:50:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[24-Jun-2024 05:17:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 05:17:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 05:17:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[24-Jun-2024 08:29:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 08:29:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 08:29:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[24-Jun-2024 08:40:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 08:40:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 08:40:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[05-Jul-2024 02:46:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 02:46:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 09:50:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 09:50:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 09:50:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22
+[09-Jul-2024 09:51:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 09:51:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 09:51:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[09-Jul-2024 09:52:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 09:52:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 09:52:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[09-Jul-2024 09:53:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 09:53:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 09:53:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[09-Jul-2024 09:54:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 09:54:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 09:54:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[09-Jul-2024 09:55:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 09:55:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 09:55:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[09-Jul-2024 09:56:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 09:56:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 09:56:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[09-Jul-2024 09:57:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 09:57:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 09:58:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 09:58:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 09:58:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[09-Jul-2024 09:59:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 09:59:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 09:59:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[09-Jul-2024 17:18:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 17:18:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 17:18:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[09-Jul-2024 17:19:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 17:19:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 17:19:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[09-Jul-2024 17:21:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 17:21:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 17:21:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[10-Jul-2024 15:40:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:40:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:40:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/TimeDataCollector.php on line 25
+[10-Jul-2024 15:40:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:40:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:40:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RouterDataCollector.php on line 22
+[10-Jul-2024 15:40:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:40:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:40:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/RequestDataCollector.php on line 32
+[10-Jul-2024 15:41:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/MemoryDataCollector.php on line 22
+[10-Jul-2024 15:41:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/LoggerDataCollector.php on line 27
+[10-Jul-2024 15:41:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ExceptionDataCollector.php on line 23
+[10-Jul-2024 15:41:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/EventDataCollector.php on line 29
+[10-Jul-2024 15:41:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DumpDataCollector.php on line 32
+[10-Jul-2024 15:41:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollectorInterface.php on line 23
+[10-Jul-2024 15:41:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\DataCollector\DataCollectorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/DataCollector.php on line 29
+[10-Jul-2024 15:41:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/ConfigDataCollector.php on line 26
+[10-Jul-2024 15:41:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:41:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\DataCollector\DataCollector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/DataCollector/AjaxDataCollector.php on line 22

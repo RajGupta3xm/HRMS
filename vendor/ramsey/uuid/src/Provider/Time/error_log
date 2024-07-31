@@ -1,0 +1,156 @@
+[15-May-2024 23:43:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:43:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:43:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27
+[15-May-2024 23:43:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 23:43:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 23:43:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25
+[20-May-2024 14:29:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:29:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:29:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27
+[20-May-2024 14:30:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:30:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:30:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25
+[23-May-2024 11:46:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:46:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:46:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27
+[23-May-2024 11:46:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 11:46:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 11:46:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25
+[03-Jun-2024 20:12:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 20:12:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 20:12:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27
+[04-Jun-2024 05:33:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:33:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:33:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25
+[04-Jun-2024 05:33:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:33:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:33:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27
+[04-Jun-2024 08:44:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:44:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:44:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25
+[10-Jun-2024 12:47:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 12:47:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 12:47:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27
+[10-Jun-2024 12:47:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 12:47:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 12:47:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25
+[11-Jun-2024 01:57:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 01:57:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 01:57:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27
+[11-Jun-2024 02:10:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 02:10:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 02:10:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25
+[12-Jun-2024 04:20:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:20:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:20:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27
+[12-Jun-2024 04:21:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:21:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:21:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25
+[29-Jun-2024 16:57:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:57:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:57:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25
+[30-Jun-2024 03:05:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 03:05:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 03:05:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27
+[01-Jul-2024 00:32:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 00:32:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 00:32:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27
+[01-Jul-2024 00:33:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 00:33:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 00:33:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25
+[02-Jul-2024 15:24:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:24:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:24:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25
+[03-Jul-2024 07:03:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 07:03:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 07:03:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27
+[08-Jul-2024 06:34:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:34:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:34:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27
+[08-Jul-2024 06:34:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:34:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:34:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25
+[10-Jul-2024 17:15:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:15:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:15:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25
+[10-Jul-2024 17:15:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:15:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:15:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27

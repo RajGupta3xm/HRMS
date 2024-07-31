@@ -1,0 +1,340 @@
+[11-May-2024 05:49:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:49:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:49:56 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[11-May-2024 05:49:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:49:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:49:57 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[11-May-2024 05:49:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:49:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:49:59 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[11-May-2024 05:50:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:50:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:50:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:50:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:50:02 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[14-May-2024 01:42:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 01:42:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 01:42:54 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[14-May-2024 01:42:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 01:42:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 01:42:55 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[14-May-2024 05:36:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 05:36:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 05:36:14 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[14-May-2024 05:36:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 05:36:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 05:36:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 05:36:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 05:36:20 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[31-May-2024 04:08:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 04:08:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:34:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 05:34:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:34:55 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[31-May-2024 07:11:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 07:11:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 07:11:50 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[31-May-2024 08:07:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 08:07:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 08:07:01 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[31-May-2024 16:09:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 16:09:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 16:09:20 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[02-Jun-2024 16:28:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 16:28:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 16:28:57 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[02-Jun-2024 16:47:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 16:47:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 16:47:35 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[02-Jun-2024 19:31:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 19:31:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 19:31:18 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[02-Jun-2024 19:33:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 19:33:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 19:36:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 19:36:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 19:36:04 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[04-Jun-2024 05:42:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:42:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:42:35 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[04-Jun-2024 05:42:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:42:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:42:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:42:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:42:43 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[04-Jun-2024 05:42:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:42:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[04-Jun-2024 05:42:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:42:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:42:51 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[08-Jun-2024 01:50:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:50:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:50:53 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[08-Jun-2024 01:50:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:50:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:50:56 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[08-Jun-2024 01:51:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:51:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:51:04 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[08-Jun-2024 01:51:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:51:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:51:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:51:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:51:22 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[10-Jun-2024 20:46:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:46:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:46:52 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[10-Jun-2024 20:51:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:51:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:51:03 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[10-Jun-2024 20:53:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:53:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:55:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:55:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[10-Jun-2024 21:00:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:00:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:00:45 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[22-Jun-2024 04:17:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 04:17:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 04:17:17 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[22-Jun-2024 04:21:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 04:21:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 04:21:08 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[22-Jun-2024 06:05:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 06:05:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 06:05:34 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[22-Jun-2024 06:07:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 06:07:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 06:09:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 06:09:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 06:09:57 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[26-Jun-2024 22:02:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 22:02:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 02:23:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 02:23:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 02:23:39 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[27-Jun-2024 05:49:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 05:49:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 05:49:59 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[27-Jun-2024 08:23:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:23:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:23:25 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[27-Jun-2024 10:13:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 10:13:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 10:13:05 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[29-Jun-2024 15:38:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 15:38:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 15:38:17 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[29-Jun-2024 20:00:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:00:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:00:58 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[29-Jun-2024 20:12:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:12:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:12:38 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[29-Jun-2024 20:53:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:53:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:53:18 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[30-Jun-2024 06:19:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 06:19:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:12:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:12:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:12:24 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[05-Jul-2024 10:12:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:12:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:12:32 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[05-Jul-2024 10:12:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:12:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:12:38 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[05-Jul-2024 10:12:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:12:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:13:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:13:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:13:04 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[10-Jul-2024 08:56:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 08:56:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:24:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:24:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:24:11 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[10-Jul-2024 17:24:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:24:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:24:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:24:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:24:19 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[10-Jul-2024 17:24:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:24:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:24:23 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[10-Jul-2024 17:24:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:24:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:24:27 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[11-Jul-2024 07:32:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 07:32:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 07:32:20 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[11-Jul-2024 07:33:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 07:33:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 07:33:02 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[11-Jul-2024 10:19:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 10:19:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 10:19:13 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[11-Jul-2024 10:21:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 10:21:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 10:23:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 10:23:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 10:23:02 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15

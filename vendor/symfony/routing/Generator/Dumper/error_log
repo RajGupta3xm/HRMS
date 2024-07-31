@@ -1,0 +1,156 @@
+[20-May-2024 00:47:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:47:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:47:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\Dumper\GeneratorDumper" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php on line 25
+[20-May-2024 00:47:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:47:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:47:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21
+[20-May-2024 00:47:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:47:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 19:07:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 19:07:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 19:07:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\Dumper\GeneratorDumper" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php on line 25
+[21-May-2024 19:07:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 19:07:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 19:07:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21
+[21-May-2024 19:07:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 19:07:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 00:41:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 00:41:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:54:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 05:54:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:54:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21
+[31-May-2024 11:32:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 11:32:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 11:32:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\Dumper\GeneratorDumper" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php on line 25
+[04-Jun-2024 04:36:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:36:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:36:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:36:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:36:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21
+[04-Jun-2024 04:36:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:36:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:36:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\Dumper\GeneratorDumper" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php on line 25
+[09-Jun-2024 14:09:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 14:09:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 14:09:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\Dumper\GeneratorDumper" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php on line 25
+[09-Jun-2024 14:11:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 14:11:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 14:11:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21
+[09-Jun-2024 14:12:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 14:12:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 15:48:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 15:48:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 15:48:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\Dumper\GeneratorDumper" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php on line 25
+[09-Jun-2024 15:48:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 15:48:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 15:48:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21
+[09-Jun-2024 15:48:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 15:48:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:14:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:14:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:14:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21
+[12-Jun-2024 04:16:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:16:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:24:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 04:24:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 04:24:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\Dumper\GeneratorDumper" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php on line 25
+[27-Jun-2024 04:27:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 04:27:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 04:27:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21
+[27-Jun-2024 08:29:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:29:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:29:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\Dumper\GeneratorDumper" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php on line 25
+[27-Jun-2024 10:08:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 10:08:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 05:53:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-Jun-2024 05:53:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 05:53:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\Dumper\GeneratorDumper" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php on line 25
+[28-Jun-2024 05:54:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-Jun-2024 05:54:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 05:54:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21
+[28-Jun-2024 05:55:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-Jun-2024 05:55:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:56:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:56:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 09:50:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:50:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 09:50:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\Dumper\GeneratorDumper" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php on line 25
+[02-Jul-2024 14:15:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:15:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:15:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21
+[10-Jul-2024 09:41:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 09:41:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:11:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:11:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:11:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:11:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:11:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\Dumper\GeneratorDumperInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/GeneratorDumper.php on line 21
+[10-Jul-2024 16:11:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:11:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:11:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\Dumper\GeneratorDumper" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/routing/Generator/Dumper/CompiledUrlGeneratorDumper.php on line 25

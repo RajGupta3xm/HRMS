@@ -1,0 +1,132 @@
+[15-May-2024 10:01:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:01:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:01:10 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[15-May-2024 10:01:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:01:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:01:13 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[16-May-2024 00:58:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 00:58:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 00:58:39 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[17-May-2024 11:19:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-May-2024 11:19:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-May-2024 11:19:06 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[20-May-2024 12:14:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 12:14:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 12:14:32 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[20-May-2024 12:14:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 12:14:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 12:14:59 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[04-Jun-2024 20:53:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 20:53:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 20:53:01 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[04-Jun-2024 21:29:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 21:29:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 21:29:21 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[04-Jun-2024 21:29:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 21:29:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 21:29:24 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[06-Jun-2024 07:36:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 07:36:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 07:36:25 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[07-Jun-2024 04:03:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:03:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:03:02 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[07-Jun-2024 05:48:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 05:48:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 05:48:18 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[10-Jun-2024 21:37:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:37:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:37:22 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[10-Jun-2024 21:37:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:37:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:37:26 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[11-Jun-2024 12:31:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 12:31:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 12:31:56 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[11-Jun-2024 12:39:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 12:39:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 12:39:57 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[24-Jun-2024 14:03:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 14:03:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 14:03:10 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[25-Jun-2024 16:34:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 16:34:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 16:34:19 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[02-Jul-2024 16:48:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 16:48:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 16:48:14 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14
+[02-Jul-2024 21:59:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 21:59:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 21:59:37 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[11-Jul-2024 09:19:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 09:19:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 09:19:07 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/RequirementsException.php on line 14
+[11-Jul-2024 09:19:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 09:19:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 09:19:11 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessEditor" not found in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/nunomaduro/collision/src/Adapters/Laravel/Exceptions/NotSupportedYetException.php on line 14

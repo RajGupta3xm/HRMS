@@ -1,0 +1,280 @@
+[20-May-2024 18:00:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:00:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:00:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/AvoidMethodClashPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/AvoidMethodClashPass.php on line 21
+[20-May-2024 18:00:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:00:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:00:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/CallTypeHintPass.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/CallTypeHintPass.php on line 17
+[20-May-2024 18:00:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:00:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:00:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassAttributesPass.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassAttributesPass.php on line 18
+[20-May-2024 18:01:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:01:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:01:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassNamePass.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassNamePass.php on line 18
+[20-May-2024 18:01:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:01:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:01:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassPass.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassPass.php on line 20
+[20-May-2024 18:01:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:01:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:01:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ConstantsPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ConstantsPass.php on line 23
+[20-May-2024 18:01:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:01:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:01:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:01:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:01:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/InterfacePass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/InterfacePass.php on line 21
+[20-May-2024 18:02:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:02:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:02:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MagicMethodTypeHintsPass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MagicMethodTypeHintsPass.php on line 29
+[20-May-2024 18:02:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:02:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:02:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MethodDefinitionPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MethodDefinitionPass.php on line 34
+[20-May-2024 18:02:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:02:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:02:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:02:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:02:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:02:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:02:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:02:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:03:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 18:03:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 18:03:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/TraitPass.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/TraitPass.php on line 20
+[04-Jun-2024 14:53:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/TraitPass.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/TraitPass.php on line 20
+[04-Jun-2024 14:53:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MethodDefinitionPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MethodDefinitionPass.php on line 34
+[04-Jun-2024 14:53:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MagicMethodTypeHintsPass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MagicMethodTypeHintsPass.php on line 29
+[04-Jun-2024 14:53:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/InterfacePass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/InterfacePass.php on line 21
+[04-Jun-2024 14:53:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ConstantsPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ConstantsPass.php on line 23
+[04-Jun-2024 14:53:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassPass.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassPass.php on line 20
+[04-Jun-2024 14:53:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassNamePass.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassNamePass.php on line 18
+[04-Jun-2024 14:53:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:53:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:54:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassAttributesPass.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassAttributesPass.php on line 18
+[04-Jun-2024 14:54:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:54:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:54:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/CallTypeHintPass.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/CallTypeHintPass.php on line 17
+[04-Jun-2024 14:54:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:54:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:54:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/AvoidMethodClashPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/AvoidMethodClashPass.php on line 21
+[10-Jun-2024 21:24:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/AvoidMethodClashPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/AvoidMethodClashPass.php on line 21
+[10-Jun-2024 21:24:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/CallTypeHintPass.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/CallTypeHintPass.php on line 17
+[10-Jun-2024 21:24:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassAttributesPass.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassAttributesPass.php on line 18
+[10-Jun-2024 21:24:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassNamePass.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassNamePass.php on line 18
+[10-Jun-2024 21:24:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassPass.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassPass.php on line 20
+[10-Jun-2024 21:24:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ConstantsPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ConstantsPass.php on line 23
+[10-Jun-2024 21:24:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/InterfacePass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/InterfacePass.php on line 21
+[10-Jun-2024 21:24:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MagicMethodTypeHintsPass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MagicMethodTypeHintsPass.php on line 29
+[10-Jun-2024 21:24:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:24:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MethodDefinitionPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MethodDefinitionPass.php on line 34
+[10-Jun-2024 21:25:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:25:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:25:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:25:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:25:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:25:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:25:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:25:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:25:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:25:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:25:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/TraitPass.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/TraitPass.php on line 20
+[11-Jul-2024 02:42:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/TraitPass.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/TraitPass.php on line 20
+[11-Jul-2024 02:42:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MethodDefinitionPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MethodDefinitionPass.php on line 34
+[11-Jul-2024 02:42:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MagicMethodTypeHintsPass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/MagicMethodTypeHintsPass.php on line 29
+[11-Jul-2024 02:42:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:42:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/InterfacePass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/InterfacePass.php on line 21
+[11-Jul-2024 02:43:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:43:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:43:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:43:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:43:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ConstantsPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ConstantsPass.php on line 23
+[11-Jul-2024 02:43:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:43:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:43:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassPass.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassPass.php on line 20
+[11-Jul-2024 02:43:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:43:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:43:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassNamePass.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassNamePass.php on line 18
+[11-Jul-2024 02:43:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:43:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:43:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassAttributesPass.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/ClassAttributesPass.php on line 18
+[11-Jul-2024 02:43:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:43:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:43:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/CallTypeHintPass.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/CallTypeHintPass.php on line 17
+[11-Jul-2024 02:43:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:43:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:43:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\Generator\StringManipulation\Pass\Pass" not found in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/AvoidMethodClashPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/mockery/mockery/library/Mockery/Generator/StringManipulation/Pass/AvoidMethodClashPass.php on line 21

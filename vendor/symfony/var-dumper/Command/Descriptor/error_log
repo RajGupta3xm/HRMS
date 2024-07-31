@@ -1,0 +1,142 @@
+[17-May-2024 21:36:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-May-2024 21:36:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-May-2024 21:36:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[17-May-2024 21:36:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-May-2024 21:36:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-May-2024 21:36:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[18-May-2024 03:10:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-May-2024 03:10:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:07:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:07:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:07:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[20-May-2024 07:07:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:07:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:07:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:07:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:07:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[31-May-2024 08:36:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 08:36:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 09:30:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 09:30:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 09:30:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[31-May-2024 14:25:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:25:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:25:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[04-Jun-2024 04:20:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:20:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:20:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[04-Jun-2024 04:20:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:20:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:20:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:20:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:20:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[05-Jun-2024 23:36:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 23:36:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 23:36:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[05-Jun-2024 23:37:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 23:37:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 23:37:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[06-Jun-2024 07:49:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 07:49:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:41:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:41:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:43:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:43:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:43:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[10-Jun-2024 21:03:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:03:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:03:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[24-Jun-2024 18:08:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 18:08:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 18:08:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[24-Jun-2024 18:09:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 18:09:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 18:09:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[24-Jun-2024 21:41:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 21:41:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:14:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:14:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:14:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[26-Jun-2024 22:44:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 22:44:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 13:16:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 13:16:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 13:16:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[02-Jul-2024 08:46:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 08:46:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 08:46:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[02-Jul-2024 10:58:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 10:58:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 10:58:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[02-Jul-2024 15:54:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:54:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:54:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:54:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:54:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/HtmlDescriptor.php on line 25
+[10-Jul-2024 15:54:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:54:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:54:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:54:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:54:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Command\Descriptor\DumpDescriptorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/Descriptor/CliDescriptor.php on line 27
+[10-Jul-2024 19:05:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 19:05:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

@@ -1,0 +1,226 @@
+[11-May-2024 22:04:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 22:04:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 22:04:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 22:04:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 22:04:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 14
+[11-May-2024 22:04:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 22:04:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 22:04:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 22:04:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 22:04:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 14
+[13-May-2024 09:45:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 09:45:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 09:45:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 09:45:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 09:45:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 14
+[13-May-2024 09:45:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 09:45:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 09:46:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 09:46:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 09:46:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 14
+[19-May-2024 21:47:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:47:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:48:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:48:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:48:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 14
+[19-May-2024 21:48:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:48:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:48:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:48:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:48:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 14
+[02-Jun-2024 10:12:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 10:12:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 10:17:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 10:17:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 10:17:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 14
+[02-Jun-2024 10:22:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 10:22:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 10:28:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 10:28:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 10:28:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 14
+[03-Jun-2024 18:31:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 18:31:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 21:56:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 21:56:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:13:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:13:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:13:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 14
+[04-Jun-2024 06:17:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:17:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:17:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 14
+[04-Jun-2024 06:17:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:17:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:17:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:17:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:17:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 14
+[04-Jun-2024 06:17:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:17:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:19:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:19:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:19:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 14
+[10-Jun-2024 09:50:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:50:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:50:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:50:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:50:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 14
+[10-Jun-2024 09:50:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:50:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:50:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:50:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:50:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 14
+[10-Jun-2024 09:51:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:51:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:51:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 14
+[10-Jun-2024 10:03:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 10:03:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 10:07:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 10:07:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 10:07:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 14
+[10-Jun-2024 10:17:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 10:17:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 10:04:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 10:04:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 10:05:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 10:05:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 10:05:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 14
+[22-Jun-2024 10:06:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 10:06:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 10:09:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 10:09:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 10:09:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 14
+[29-Jun-2024 18:07:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:07:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:40:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:40:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:40:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 14
+[29-Jun-2024 23:21:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 23:21:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 00:10:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 00:10:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 00:10:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 14
+[01-Jul-2024 06:25:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:25:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:25:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 14
+[01-Jul-2024 06:45:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:45:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 11:36:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 11:36:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:33:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:33:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:33:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 14
+[07-Jul-2024 21:04:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 21:04:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 21:04:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 21:04:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 21:04:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 14
+[07-Jul-2024 21:04:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 21:04:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 21:04:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 21:04:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 21:04:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 14
+[10-Jul-2024 17:59:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:59:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:59:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 14
+[10-Jul-2024 17:59:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:59:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:59:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:59:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:59:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 14
+[10-Jul-2024 17:59:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:59:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 21:07:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:07:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:47:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:47:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 04:22:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 04:22:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 04:23:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 04:23:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 04:23:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfaceCpdf.php on line 14
+[12-Jul-2024 04:26:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 04:26:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 04:26:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Svg\Surface\SurfaceInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phenx/php-svg-lib/src/Svg/Surface/SurfacePDFLib.php on line 14

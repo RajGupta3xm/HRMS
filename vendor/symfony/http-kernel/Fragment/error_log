@@ -1,0 +1,534 @@
+[11-May-2024 16:13:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:13:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:13:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php on line 25
+[11-May-2024 16:13:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:13:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php on line 19
+[11-May-2024 16:13:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:13:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:13:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:13:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:13:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:13:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:13:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentUriGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php on line 25
+[11-May-2024 16:13:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:13:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:13:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:13:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:13:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php on line 25
+[11-May-2024 16:13:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:13:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:13:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php on line 28
+[11-May-2024 16:13:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:13:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:13:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php on line 23
+[11-May-2024 16:13:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 16:13:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 16:13:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php on line 19
+[20-May-2024 00:10:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:10:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:10:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php on line 25
+[20-May-2024 00:10:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:10:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:10:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php on line 19
+[20-May-2024 00:10:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:10:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:10:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:10:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:11:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:11:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:11:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentUriGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php on line 25
+[20-May-2024 00:11:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:11:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:11:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:11:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:11:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php on line 25
+[20-May-2024 00:11:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:11:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:11:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php on line 28
+[20-May-2024 00:11:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:11:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:11:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php on line 23
+[20-May-2024 00:12:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 00:12:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 00:12:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php on line 19
+[28-May-2024 00:01:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 00:01:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 00:16:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 00:16:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 00:16:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php on line 19
+[28-May-2024 01:38:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 01:38:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 01:38:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php on line 19
+[28-May-2024 01:49:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 01:49:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 01:49:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php on line 25
+[28-May-2024 01:57:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 01:57:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 01:57:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php on line 28
+[28-May-2024 04:21:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 04:21:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 04:21:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentUriGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php on line 25
+[28-May-2024 07:26:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:26:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:26:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php on line 25
+[28-May-2024 07:30:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:30:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:30:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php on line 19
+[28-May-2024 07:33:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:33:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:36:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:36:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:40:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:40:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:40:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentUriGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php on line 25
+[28-May-2024 07:41:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:41:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:42:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:42:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:42:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php on line 25
+[28-May-2024 07:43:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:43:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:43:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php on line 28
+[28-May-2024 07:44:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:44:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:44:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php on line 23
+[28-May-2024 07:44:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 07:44:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 07:44:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php on line 19
+[28-May-2024 13:06:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 13:06:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 13:06:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php on line 23
+[28-May-2024 15:41:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 15:41:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 18:28:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 18:28:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 18:45:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 18:45:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 18:45:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php on line 25
+[04-Jun-2024 04:02:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php on line 19
+[04-Jun-2024 04:02:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php on line 23
+[04-Jun-2024 04:02:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php on line 28
+[04-Jun-2024 04:02:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php on line 25
+[04-Jun-2024 04:02:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentUriGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php on line 25
+[04-Jun-2024 04:02:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php on line 19
+[04-Jun-2024 04:02:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:02:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php on line 25
+[04-Jun-2024 13:09:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:09:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:09:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php on line 25
+[04-Jun-2024 13:09:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:09:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:09:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php on line 19
+[04-Jun-2024 13:09:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:09:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:09:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:09:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:09:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:09:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:09:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentUriGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php on line 25
+[04-Jun-2024 13:10:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php on line 25
+[04-Jun-2024 13:10:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php on line 28
+[04-Jun-2024 13:10:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php on line 23
+[04-Jun-2024 13:10:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:10:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php on line 19
+[11-Jun-2024 17:52:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 17:52:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 17:52:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php on line 19
+[11-Jun-2024 17:53:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 17:53:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 17:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php on line 28
+[11-Jun-2024 17:59:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 17:59:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 18:01:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 18:01:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 18:01:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php on line 25
+[11-Jun-2024 18:02:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 18:02:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 18:02:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php on line 23
+[11-Jun-2024 18:03:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 18:03:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 18:03:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php on line 19
+[11-Jun-2024 18:04:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 18:04:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 18:05:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 18:05:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 18:05:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 18:05:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 18:05:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentUriGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php on line 25
+[11-Jun-2024 18:06:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 18:06:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 18:06:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php on line 25
+[17-Jun-2024 16:07:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 16:07:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 16:07:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php on line 25
+[17-Jun-2024 16:07:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 16:07:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 16:07:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php on line 19
+[17-Jun-2024 16:08:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 16:08:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 16:08:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 16:08:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 16:09:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 16:09:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 16:09:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentUriGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php on line 25
+[17-Jun-2024 16:09:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 16:09:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 16:09:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 16:09:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 16:09:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php on line 25
+[17-Jun-2024 16:10:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 16:10:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 16:10:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php on line 28
+[17-Jun-2024 16:10:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 16:10:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 16:10:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php on line 23
+[17-Jun-2024 16:10:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 16:10:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 16:10:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php on line 19
+[23-Jun-2024 14:28:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 14:28:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 14:28:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentUriGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php on line 25
+[23-Jun-2024 14:37:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 14:37:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 14:39:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 14:39:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 14:39:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php on line 23
+[23-Jun-2024 18:03:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 18:03:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 18:03:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php on line 25
+[23-Jun-2024 18:49:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 18:49:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 20:13:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 20:13:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 20:13:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php on line 19
+[24-Jun-2024 04:18:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 04:18:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 04:18:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php on line 25
+[24-Jun-2024 05:00:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 05:00:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 05:47:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 05:47:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 05:47:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php on line 28
+[24-Jun-2024 08:08:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 08:08:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 08:08:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php on line 19
+[05-Jul-2024 02:32:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 02:32:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 05:11:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 05:11:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 06:54:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 06:54:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:40:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 17:40:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:40:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php on line 25
+[07-Jul-2024 17:40:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 17:40:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:40:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php on line 19
+[07-Jul-2024 17:40:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 17:40:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:41:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 17:41:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:41:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 17:41:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:41:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentUriGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php on line 25
+[07-Jul-2024 17:42:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 17:42:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:42:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 17:42:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php on line 25
+[07-Jul-2024 17:43:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 17:43:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:43:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php on line 28
+[07-Jul-2024 17:43:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 17:43:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:43:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php on line 23
+[07-Jul-2024 17:44:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 17:44:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 17:44:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php on line 19
+[10-Jul-2024 15:36:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:36:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:36:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/SsiFragmentRenderer.php on line 19
+[10-Jul-2024 15:36:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:36:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:36:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentRendererInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/RoutableFragmentRenderer.php on line 23
+[10-Jul-2024 15:36:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:36:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:36:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/InlineFragmentRenderer.php on line 28
+[10-Jul-2024 15:36:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:36:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:36:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/HIncludeFragmentRenderer.php on line 25
+[10-Jul-2024 15:36:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:36:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:36:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:36:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:36:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Fragment\FragmentUriGeneratorInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/FragmentUriGenerator.php on line 25
+[10-Jul-2024 15:36:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:36:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:36:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:36:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:37:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:37:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:37:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\AbstractSurrogateFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/EsiFragmentRenderer.php on line 19
+[10-Jul-2024 15:37:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:37:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:37:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Fragment\RoutableFragmentRenderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-kernel/Fragment/AbstractSurrogateFragmentRenderer.php on line 25

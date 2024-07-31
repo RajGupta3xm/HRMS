@@ -1,0 +1,114 @@
+[12-May-2024 10:19:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:19:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:19:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[12-May-2024 10:19:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 10:19:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 10:19:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 11
+[26-May-2024 01:09:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 01:09:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 01:09:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[26-May-2024 07:34:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 07:34:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 07:34:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 11
+[04-Jun-2024 12:54:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:54:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:54:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 11
+[04-Jun-2024 12:54:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:54:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:54:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[06-Jun-2024 18:26:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 18:26:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 18:26:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 11
+[07-Jun-2024 08:17:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 08:17:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 08:17:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[09-Jun-2024 04:09:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:09:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:09:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[09-Jun-2024 04:09:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 04:09:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 04:09:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 11
+[14-Jun-2024 17:06:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 17:06:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 17:06:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[15-Jun-2024 00:38:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 00:38:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 00:38:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 11
+[02-Jul-2024 18:10:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 18:10:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 18:10:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[02-Jul-2024 19:49:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 19:49:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 19:49:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 11
+[04-Jul-2024 01:38:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 01:38:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 01:38:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15
+[04-Jul-2024 07:55:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 07:55:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 07:55:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 11
+[08-Jul-2024 03:23:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 03:23:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 03:23:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 11
+[11-Jul-2024 00:43:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:43:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:43:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PredisConnector.php on line 11
+[11-Jul-2024 00:43:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:43:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 00:43:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Connector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/Redis/Connectors/PhpRedisConnector.php on line 15

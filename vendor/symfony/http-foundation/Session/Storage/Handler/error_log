@@ -1,0 +1,472 @@
+[15-May-2024 19:23:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[15-May-2024 19:23:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[15-May-2024 19:23:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[15-May-2024 19:23:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[15-May-2024 19:23:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[15-May-2024 19:23:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[15-May-2024 19:23:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[20-May-2024 06:32:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:32:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:32:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:32:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:32:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[20-May-2024 06:32:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:32:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:32:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:32:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:32:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[20-May-2024 06:32:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:32:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:33:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:33:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:33:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[20-May-2024 06:33:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:33:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:33:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:33:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:33:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[20-May-2024 06:34:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:34:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:34:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[20-May-2024 06:34:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:34:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:34:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:34:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:34:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[03-Jun-2024 18:26:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 18:26:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 18:26:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[03-Jun-2024 18:56:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 18:56:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 19:01:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 19:01:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 19:01:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[03-Jun-2024 21:35:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 21:35:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 21:35:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[04-Jun-2024 01:57:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 01:57:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 01:57:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[04-Jun-2024 04:59:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[04-Jun-2024 04:59:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[04-Jun-2024 04:59:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[04-Jun-2024 04:59:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[04-Jun-2024 04:59:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[04-Jun-2024 04:59:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[04-Jun-2024 04:59:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[04-Jun-2024 04:59:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:59:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:13:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:13:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:28:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:28:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:28:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[04-Jun-2024 07:00:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:00:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 07:49:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 08:48:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 08:48:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 10:10:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 10:10:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 10:10:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[04-Jun-2024 12:42:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 12:42:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 12:42:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[05-Jun-2024 09:01:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 09:01:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 09:06:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 09:06:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 09:06:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[05-Jun-2024 09:11:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 09:11:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 09:16:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 09:16:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 09:16:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[05-Jun-2024 10:48:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 10:48:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 10:53:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 10:53:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 10:55:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 10:55:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 10:55:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[05-Jun-2024 10:58:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 10:58:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 10:58:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[05-Jun-2024 11:00:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 11:00:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 11:00:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[05-Jun-2024 11:03:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 11:03:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 11:05:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 11:05:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 11:05:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[05-Jun-2024 16:00:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[05-Jun-2024 16:00:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[05-Jun-2024 16:00:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[05-Jun-2024 16:00:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[05-Jun-2024 16:00:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[05-Jun-2024 16:00:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 16:00:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[05-Jun-2024 16:01:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 16:01:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 16:01:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 16:01:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 16:01:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[05-Jun-2024 22:04:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 22:04:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 22:04:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[27-Jun-2024 06:28:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 06:28:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 06:32:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 06:32:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 06:32:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[27-Jun-2024 06:49:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 06:49:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 06:49:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[27-Jun-2024 08:15:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:15:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:25:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:25:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:28:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:28:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:29:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:29:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:29:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[27-Jun-2024 08:30:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:30:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:30:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[27-Jun-2024 08:33:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:33:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:33:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[27-Jun-2024 08:36:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:36:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:37:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:37:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:37:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[27-Jun-2024 20:37:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 20:37:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 20:37:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[29-Jun-2024 13:12:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:12:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:56:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:56:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:56:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[29-Jun-2024 14:55:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:55:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:20:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:20:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:20:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[29-Jun-2024 17:37:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:37:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 00:06:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 00:06:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 00:06:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[30-Jun-2024 01:28:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 01:28:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 01:28:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[30-Jun-2024 01:41:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 01:41:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 01:41:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[30-Jun-2024 02:18:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 02:18:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 03:16:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 03:16:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 03:16:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[30-Jun-2024 04:40:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 04:40:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 04:40:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[30-Jun-2024 07:04:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 07:04:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 07:41:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:41:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 08:27:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 08:27:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:21:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:21:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:31:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/StrictSessionHandler.php on line 19
+[10-Jul-2024 16:34:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/RedisSessionHandler.php on line 23
+[10-Jul-2024 16:34:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php on line 44
+[10-Jul-2024 16:34:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/NullSessionHandler.php on line 19
+[10-Jul-2024 16:34:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MongoDbSessionHandler.php on line 29
+[10-Jul-2024 16:34:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Session\Storage\Handler\AbstractSessionHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/MemcachedSessionHandler.php on line 22
+[10-Jul-2024 16:34:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Cache\Marshaller\MarshallerInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/http-foundation/Session/Storage/Handler/IdentityMarshaller.php on line 19
+[10-Jul-2024 16:34:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:38:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:38:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

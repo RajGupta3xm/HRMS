@@ -1,0 +1,418 @@
+[15-May-2024 09:53:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:53:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:53:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php on line 8
+[15-May-2024 09:53:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:53:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:53:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php on line 11
+[15-May-2024 09:53:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:53:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:53:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php on line 17
+[15-May-2024 09:53:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:53:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:53:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php on line 12
+[15-May-2024 09:53:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:53:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 09:53:59 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\Property\Selector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php on line 5
+[15-May-2024 09:54:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 09:54:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php on line 8
+[15-May-2024 19:23:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php on line 11
+[15-May-2024 19:23:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php on line 17
+[15-May-2024 19:23:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php on line 12
+[15-May-2024 19:23:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 19:23:24 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\Property\Selector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php on line 5
+[15-May-2024 19:23:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 19:23:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:13:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:13:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:13:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php on line 8
+[20-May-2024 06:13:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:13:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:13:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php on line 11
+[20-May-2024 06:13:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:13:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:13:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php on line 17
+[20-May-2024 06:13:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:13:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:13:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php on line 12
+[20-May-2024 06:14:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:14:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 06:14:01 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\Property\Selector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php on line 5
+[20-May-2024 06:14:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 06:14:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 21:34:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 21:34:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 21:34:36 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\Property\Selector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php on line 5
+[30-May-2024 22:48:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 22:48:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 22:48:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php on line 11
+[30-May-2024 23:30:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:30:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:30:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php on line 8
+[31-May-2024 05:45:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 05:45:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:45:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php on line 12
+[31-May-2024 10:45:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 10:45:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 10:45:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php on line 17
+[31-May-2024 13:59:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 13:59:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:31:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:31:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:34:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:34:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:34:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php on line 11
+[01-Jun-2024 06:44:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:44:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:44:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php on line 8
+[01-Jun-2024 06:48:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:48:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:48:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php on line 17
+[01-Jun-2024 06:56:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:56:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:56:18 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\Property\Selector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php on line 5
+[01-Jun-2024 06:56:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:56:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:56:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php on line 12
+[04-Jun-2024 02:16:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:27 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\Property\Selector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php on line 5
+[04-Jun-2024 02:16:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php on line 12
+[04-Jun-2024 02:16:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php on line 17
+[04-Jun-2024 02:16:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php on line 11
+[04-Jun-2024 02:16:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:16:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php on line 8
+[05-Jun-2024 00:17:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 00:17:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 00:17:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php on line 8
+[05-Jun-2024 00:17:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 00:17:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 00:17:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php on line 11
+[05-Jun-2024 00:19:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 00:19:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 00:19:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php on line 17
+[05-Jun-2024 00:20:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 00:20:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 00:20:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php on line 12
+[05-Jun-2024 00:21:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 00:21:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 00:21:15 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\Property\Selector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php on line 5
+[05-Jun-2024 00:22:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 00:22:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php on line 8
+[07-Jun-2024 18:09:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php on line 11
+[07-Jun-2024 18:09:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php on line 17
+[07-Jun-2024 18:09:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php on line 12
+[07-Jun-2024 18:09:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:07 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\Property\Selector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php on line 5
+[07-Jun-2024 18:09:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:09:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 18:02:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 18:02:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 18:02:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php on line 8
+[24-Jun-2024 18:03:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 18:03:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 18:03:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php on line 11
+[24-Jun-2024 18:04:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 18:04:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 18:04:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php on line 17
+[24-Jun-2024 18:05:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 18:05:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 18:05:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php on line 12
+[24-Jun-2024 18:06:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 18:06:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 18:06:03 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\Property\Selector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php on line 5
+[24-Jun-2024 18:07:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 18:07:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:35:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:35:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:35:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php on line 12
+[26-Jun-2024 22:42:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 22:42:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 22:42:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php on line 11
+[27-Jun-2024 01:21:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:21:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:21:23 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\Property\Selector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php on line 5
+[27-Jun-2024 07:51:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 07:51:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 07:51:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php on line 17
+[27-Jun-2024 10:43:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 10:43:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 12:32:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 12:32:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 12:32:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php on line 8
+[01-Jul-2024 06:26:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:26:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:26:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php on line 12
+[01-Jul-2024 07:18:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:18:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:18:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php on line 11
+[01-Jul-2024 07:29:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 07:29:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 07:29:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php on line 8
+[02-Jul-2024 09:01:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:01:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 09:01:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php on line 17
+[02-Jul-2024 13:31:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 13:31:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 13:31:00 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\Property\Selector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php on line 5
+[02-Jul-2024 15:21:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:21:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:25:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:25:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:25:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php on line 8
+[05-Jul-2024 11:25:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:25:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:25:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php on line 11
+[05-Jul-2024 11:25:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:25:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:25:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php on line 17
+[05-Jul-2024 11:26:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:26:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:26:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php on line 12
+[05-Jul-2024 11:26:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:26:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:26:39 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\Property\Selector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php on line 5
+[05-Jul-2024 11:26:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:26:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:50:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:50:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:50:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:50:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:50:07 UTC] PHP Fatal error:  Uncaught Error: Class "Sabberworm\CSS\Property\Selector" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/KeyframeSelector.php on line 5
+[10-Jul-2024 13:50:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:50:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:50:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Charset.php on line 17
+[10-Jul-2024 13:50:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:50:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:50:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/Import.php on line 12
+[10-Jul-2024 13:50:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:50:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:50:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Property\AtRule" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/CSSNamespace.php on line 11
+[10-Jul-2024 13:50:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:50:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:50:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Sabberworm\CSS\Renderable" not found in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/sabberworm/php-css-parser/src/Property/AtRule.php on line 8
+[11-Jul-2024 00:35:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 00:35:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0

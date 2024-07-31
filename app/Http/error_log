@@ -1,0 +1,126 @@
+[09-May-2024 04:28:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-May-2024 04:28:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-May-2024 04:28:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[10-May-2024 04:00:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 04:00:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 04:00:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[10-May-2024 06:46:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-May-2024 06:46:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-May-2024 06:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[14-May-2024 05:47:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 05:47:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 05:47:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[16-May-2024 23:45:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-May-2024 23:45:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-May-2024 23:45:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[23-May-2024 12:03:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 12:03:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 12:03:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[25-May-2024 08:00:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 08:00:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 08:00:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[30-May-2024 17:38:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 17:38:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 17:38:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[31-May-2024 18:50:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 18:50:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 18:50:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[03-Jun-2024 22:55:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 22:55:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 22:55:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[05-Jun-2024 02:05:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 02:05:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 02:05:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[10-Jun-2024 08:59:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 08:59:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 08:59:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[17-Jun-2024 21:02:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 21:02:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 21:02:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[18-Jun-2024 12:34:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 12:34:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 12:34:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[25-Jun-2024 16:26:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 16:26:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 16:26:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[02-Jul-2024 09:12:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:12:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 09:12:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[04-Jul-2024 00:43:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 00:43:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 00:43:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[06-Jul-2024 01:23:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 01:23:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 01:23:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[09-Jul-2024 13:55:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 13:55:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 13:55:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[10-Jul-2024 23:19:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:19:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:19:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7
+[11-Jul-2024 13:56:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 13:56:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 13:56:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/app/Http/Kernel.php on line 7

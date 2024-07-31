@@ -32,7 +32,7 @@ class User extends Authenticatable
     protected function userDepartment(): Attribute
     {
         return new Attribute(
-            get: fn ($value) =>  ["Delivery", "Marketing", "Admin", "HR", "Business"][$value],
+            get: fn ($value) =>  ["Delivery", "Marketing", "Admin", "HR", "Business","Business Admin"][$value],
         );
     }
 
@@ -60,4 +60,14 @@ class User extends Authenticatable
     {
         return $this->belongsTo(AddProjects::class, 'project_id');
     }
+    public function user()
+    {
+        return $this->belongsTo(User::class, 'project_id', 'project_id');
+    }
+    public function isProjectManager()
+    {
+        return $this->userDesignation === 'Project Manager'; // Adjust this condition based on your implementation
+    }
+
+
 }

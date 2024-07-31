@@ -1,0 +1,114 @@
+[13-May-2024 02:41:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 02:41:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 02:41:25 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Block\ListBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[13-May-2024 02:41:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 02:41:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 02:41:27 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18
+[20-May-2024 08:04:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 08:04:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 08:04:42 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Block\ListBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[20-May-2024 08:04:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 08:04:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 08:04:53 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18
+[26-May-2024 12:30:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 12:30:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 12:30:24 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Block\ListBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[26-May-2024 12:34:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 12:34:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 12:34:11 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18
+[04-Jun-2024 14:35:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:35:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:35:27 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18
+[04-Jun-2024 14:35:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:35:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:35:31 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Block\ListBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[06-Jun-2024 15:50:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 15:50:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 15:50:45 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18
+[06-Jun-2024 19:56:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 19:56:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 19:56:13 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Block\ListBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[15-Jun-2024 04:04:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 04:04:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 04:04:23 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Block\ListBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[15-Jun-2024 04:05:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 04:05:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 04:05:35 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18
+[02-Jul-2024 15:26:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:26:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:26:04 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18
+[02-Jul-2024 18:27:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 18:27:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 18:27:43 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Block\ListBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[04-Jul-2024 12:46:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 12:46:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 12:46:49 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18
+[04-Jul-2024 16:45:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 16:45:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 16:45:21 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Block\ListBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[07-Jul-2024 22:56:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 22:56:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 22:56:45 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Block\ListBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[11-Jul-2024 02:24:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:24:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:24:11 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18
+[11-Jul-2024 02:24:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:24:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:24:15 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Block\ListBlock" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18

@@ -1,0 +1,442 @@
+[12-May-2024 09:56:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:56:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:56:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:56:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:56:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\EventHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[12-May-2024 09:56:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:56:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:56:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:56:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:56:32 UTC] PHP Fatal error:  Uncaught Error: Class "Masterminds\HTML5\Parser\StringInputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[12-May-2024 09:56:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:56:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:56:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:56:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:56:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:56:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:57:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:57:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:57:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\InputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[12-May-2024 09:57:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:57:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:57:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:57:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 09:57:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 09:57:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:21:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:21:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:09:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:09:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:09:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:09:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:09:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\EventHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[19-May-2024 18:09:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:09:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:10:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:10:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:10:01 UTC] PHP Fatal error:  Uncaught Error: Class "Masterminds\HTML5\Parser\StringInputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[19-May-2024 18:10:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:10:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:10:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:10:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:10:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:10:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:10:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:10:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:10:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\InputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[19-May-2024 18:10:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:10:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 18:10:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 18:10:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:07:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:07:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:07:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:07:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:07:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\EventHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[19-May-2024 21:07:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:07:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:07:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:07:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "Masterminds\HTML5\Parser\StringInputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[19-May-2024 21:08:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:08:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:08:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:08:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:08:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:08:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:08:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:08:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:08:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\InputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[19-May-2024 21:08:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:08:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:09:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:09:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:09:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:09:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\InputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[04-Jun-2024 03:21:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:55 UTC] PHP Fatal error:  Uncaught Error: Class "Masterminds\HTML5\Parser\StringInputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[04-Jun-2024 03:21:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:21:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:22:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:22:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:22:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\EventHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[04-Jun-2024 03:22:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:22:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 18:02:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 18:02:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\EventHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[10-Jun-2024 09:43:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:44 UTC] PHP Fatal error:  Uncaught Error: Class "Masterminds\HTML5\Parser\StringInputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[10-Jun-2024 09:43:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\InputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[10-Jun-2024 09:43:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:43:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:44:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:44:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 09:44:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 09:44:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:38:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:38:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:38:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\InputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[10-Jun-2024 20:50:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:50:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:51:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:51:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:52:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:52:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:52:06 UTC] PHP Fatal error:  Uncaught Error: Class "Masterminds\HTML5\Parser\StringInputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[10-Jun-2024 20:56:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:56:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:57:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:57:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:58:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:58:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:59:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:59:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 20:59:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 20:59:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:00:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:00:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:00:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 21:00:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 21:00:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\EventHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[11-Jun-2024 21:44:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 21:44:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 21:46:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 21:46:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 21:46:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\EventHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[11-Jun-2024 21:47:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 21:47:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 21:48:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 21:48:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 21:48:28 UTC] PHP Fatal error:  Uncaught Error: Class "Masterminds\HTML5\Parser\StringInputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[11-Jun-2024 21:49:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 21:49:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 21:50:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 21:50:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 21:51:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 21:51:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 21:53:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 21:53:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 21:53:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\InputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[11-Jun-2024 21:54:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 21:54:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 21:55:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 21:55:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:58:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:58:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:58:37 UTC] PHP Fatal error:  Uncaught Error: Class "Masterminds\HTML5\Parser\StringInputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[29-Jun-2024 15:22:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 15:22:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:06:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:06:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:06:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\InputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[29-Jun-2024 17:42:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:42:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 21:01:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 21:01:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 21:28:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 21:28:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 22:11:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 22:11:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 22:11:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\EventHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[29-Jun-2024 22:35:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 22:35:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 23:26:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 23:26:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 01:03:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 01:03:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 05:41:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 05:41:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 07:56:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 07:56:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 19:15:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 19:15:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 19:15:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 19:15:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 19:15:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\EventHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[03-Jul-2024 19:15:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 19:15:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 19:16:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 19:16:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 19:16:19 UTC] PHP Fatal error:  Uncaught Error: Class "Masterminds\HTML5\Parser\StringInputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[03-Jul-2024 19:16:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 19:16:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 19:17:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 19:17:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 19:17:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 19:17:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 19:17:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 19:17:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 19:17:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\InputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[03-Jul-2024 19:18:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 19:18:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 19:18:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 19:18:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 08:51:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 08:51:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 08:53:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 08:53:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 14:56:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 14:56:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 14:56:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\EventHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[04-Jul-2024 15:01:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:01:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:57:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:57:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 16:19:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 16:19:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 18:19:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 18:19:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 18:42:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 18:42:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 20:59:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 20:59:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 20:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "Masterminds\HTML5\Parser\StringInputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[04-Jul-2024 22:49:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 22:49:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:24:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:24:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:24:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\InputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[07-Jul-2024 18:30:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:30:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:30:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:30:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:30:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\EventHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[07-Jul-2024 18:31:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:05 UTC] PHP Fatal error:  Uncaught Error: Class "Masterminds\HTML5\Parser\StringInputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[07-Jul-2024 18:31:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\InputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[07-Jul-2024 18:31:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 18:31:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 08:45:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 08:45:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 11:31:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 11:31:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 12:06:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 12:06:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 12:15:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 12:15:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:33:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:33:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:33:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\EventHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[10-Jul-2024 14:55:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:55:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:55:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:55:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:55:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:55:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:55:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:55:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:55:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\InputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[10-Jul-2024 14:55:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:55:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:55:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:55:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:55:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:55:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:56:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:56:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:56:03 UTC] PHP Fatal error:  Uncaught Error: Class "Masterminds\HTML5\Parser\StringInputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17
+[10-Jul-2024 14:56:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:56:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:56:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:56:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:56:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\EventHandler" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/DOMTreeBuilder.php on line 26
+[10-Jul-2024 14:56:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:56:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:02:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:02:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Masterminds\HTML5\Parser\InputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/StringInputStream.php on line 46
+[10-Jul-2024 16:34:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:34:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 22:09:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 22:09:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 23:04:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 23:04:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:41:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:41:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:41:17 UTC] PHP Fatal error:  Uncaught Error: Class "Masterminds\HTML5\Parser\StringInputStream" not found in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/masterminds/html5/src/HTML5/Parser/FileInputStream.php on line 17

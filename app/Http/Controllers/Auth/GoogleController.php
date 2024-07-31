@@ -13,6 +13,7 @@ class GoogleController extends Controller
 {
     public function redirectToGoogle()
     {
+        // dd('inside');
         return Socialite::driver('google')->redirect();
     }
 
@@ -23,21 +24,27 @@ class GoogleController extends Controller
      */
     public function handleGoogleCallback()
     {
-        try {
+        
             $user = Socialite::driver('google')->user();
             
             $existingUser = User::where('email', $user->email)->first();
-
+    
             if ($existingUser) {
-                auth()->login($existingUser);
-                return redirect()->route('user/dashboard');
+                $userDepartment = $existingUser->userDepartment;
+    
+                if ($userDepartment === 'Admin') {
+                    return redirect('/dashboard');
+                } elseif ($userDepartment === 'Delivery' || $userDepartment === 'Marketing' || $userDepartment === 'Business') {
+                    auth()->login($existingUser);
+                    return redirect('/user/dashboard');
+                } else {
+                    return redirect()->route('/login');
+                }
             } else {
-               
                 return redirect()->route('unauthorized');
             }
-        } catch (Exception $e) {
-            // Handle exception
-            dd($e->getMessage());
-        }
+         
     }
+    
+
 }

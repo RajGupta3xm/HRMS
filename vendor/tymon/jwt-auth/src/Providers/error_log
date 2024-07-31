@@ -1,0 +1,180 @@
+[19-May-2024 21:14:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:14:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:14:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php on line 39
+[19-May-2024 21:14:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:14:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:14:53 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php on line 17
+[19-May-2024 21:14:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:14:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:14:54 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php on line 16
+[20-May-2024 01:35:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:35:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 01:35:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php on line 39
+[20-May-2024 01:36:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:36:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 01:36:15 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php on line 17
+[20-May-2024 01:36:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:36:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 01:36:27 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php on line 16
+[31-May-2024 02:28:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 02:28:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 02:28:30 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php on line 17
+[31-May-2024 12:51:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 12:51:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 12:51:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php on line 39
+[31-May-2024 16:37:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 16:37:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 16:37:47 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php on line 16
+[01-Jun-2024 09:04:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:04:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:04:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php on line 39
+[01-Jun-2024 09:16:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:16:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:16:06 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php on line 16
+[01-Jun-2024 12:15:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 12:15:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 12:15:30 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php on line 17
+[04-Jun-2024 03:34:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:34:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:34:27 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php on line 16
+[04-Jun-2024 03:34:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:34:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:34:31 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php on line 17
+[04-Jun-2024 03:34:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:34:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:34:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php on line 39
+[08-Jun-2024 16:18:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 16:18:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 16:18:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php on line 39
+[08-Jun-2024 16:19:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 16:19:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 16:19:15 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php on line 17
+[08-Jun-2024 16:20:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 16:20:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 16:20:14 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php on line 16
+[26-Jun-2024 21:15:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:15:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:15:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php on line 39
+[26-Jun-2024 21:29:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 21:29:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 21:29:53 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php on line 16
+[27-Jun-2024 04:24:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 04:24:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 04:24:32 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php on line 17
+[27-Jun-2024 15:52:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 15:52:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 15:52:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php on line 39
+[27-Jun-2024 15:53:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 15:53:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 15:53:55 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php on line 17
+[27-Jun-2024 15:55:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 15:55:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 15:55:54 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php on line 16
+[01-Jul-2024 05:25:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:25:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 05:25:15 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php on line 17
+[01-Jul-2024 06:56:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:56:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:56:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php on line 39
+[02-Jul-2024 16:46:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 16:46:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 16:46:10 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php on line 16
+[10-Jul-2024 15:11:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:11:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:11:03 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LumenServiceProvider.php on line 16
+[10-Jul-2024 15:11:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:11:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:11:07 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Providers\AbstractServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/LaravelServiceProvider.php on line 17
+[10-Jul-2024 15:11:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:11:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:11:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Providers/AbstractServiceProvider.php on line 39

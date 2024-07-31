@@ -31,9 +31,31 @@ class employees extends Model
         'contactdetails',
         'aadharnumber',
     ];
-    public static function getDepartmentName($index)
+    public function getDepartmentName()
     {
-        $departments = ["Delivery", "Marketing", "Admin", "HR", "Business"];
-        return isset($departments[$index - 1]) ? $departments[$index - 1] : null;
+        
+        $departments = [
+            0 => 'Delivery',
+            1 => 'Marketing',
+            2 => 'Admin',
+            3 => 'HR',
+            4 => 'Business',
+            5 =>'Business Admin'
+        ];
+
+        
+        if (array_key_exists($this->department, $departments)) {
+          
+            return $departments[$this->department];
+        } else {
+            
+            return 'Unknown Department';
+        }
     }
+    public function employeeImage()
+    {
+        return $this->hasOne(EmployeeImage::class, 'employee_Id', 'id');
+    }
+
+
 }

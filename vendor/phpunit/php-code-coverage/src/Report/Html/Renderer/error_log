@@ -1,0 +1,192 @@
+[12-May-2024 08:05:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 08:05:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 08:05:40 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[12-May-2024 08:05:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 08:05:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 08:05:41 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[12-May-2024 08:05:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 08:05:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 08:05:43 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[15-May-2024 05:34:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 05:34:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 05:34:22 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[15-May-2024 05:34:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 05:34:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 05:34:22 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[15-May-2024 08:30:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 08:30:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 08:30:34 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[20-May-2024 16:26:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 16:26:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 16:26:49 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[20-May-2024 16:26:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 16:26:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 16:26:59 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[04-Jun-2024 16:15:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:15:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:15:55 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[04-Jun-2024 16:15:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:15:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:15:59 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[04-Jun-2024 16:16:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:16:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:16:03 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[04-Jun-2024 22:57:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 22:57:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 22:57:35 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[04-Jun-2024 22:58:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 22:58:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 22:58:41 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[04-Jun-2024 23:07:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 23:07:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 23:07:59 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[06-Jun-2024 17:15:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 17:15:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 17:15:59 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[07-Jun-2024 03:13:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:13:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:13:17 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[07-Jun-2024 06:24:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 06:24:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 06:24:17 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[08-Jun-2024 18:35:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 18:35:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 18:35:44 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[08-Jun-2024 18:35:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 18:35:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 18:35:46 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[08-Jun-2024 18:35:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 18:35:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 18:35:48 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[25-Jun-2024 08:01:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 08:01:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 08:01:52 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[25-Jun-2024 08:03:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 08:03:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 08:03:25 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[25-Jun-2024 08:06:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-Jun-2024 08:06:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-Jun-2024 08:06:35 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[02-Jul-2024 06:56:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:56:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:56:51 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[02-Jul-2024 15:35:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:35:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:35:37 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[02-Jul-2024 18:23:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 18:23:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 18:23:38 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[04-Jul-2024 15:07:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:07:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:07:42 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[04-Jul-2024 20:24:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 20:24:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 20:24:32 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[04-Jul-2024 23:25:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 23:25:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 23:25:21 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30
+[11-Jul-2024 04:05:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:05:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:05:22 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:109
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 109
+[11-Jul-2024 04:05:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:05:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:05:27 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[11-Jul-2024 04:05:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:05:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:05:31 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 30

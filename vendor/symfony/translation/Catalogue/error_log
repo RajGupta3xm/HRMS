@@ -1,0 +1,202 @@
+[19-May-2024 11:04:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 11:04:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 11:04:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[19-May-2024 11:04:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 11:04:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 11:04:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[19-May-2024 11:04:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 11:04:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 11:04:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 11:04:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 11:04:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[27-May-2024 08:20:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:20:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:20:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[27-May-2024 08:20:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:20:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:20:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[27-May-2024 08:20:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:20:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:20:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-May-2024 08:20:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-May-2024 08:20:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[28-May-2024 01:10:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 01:10:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 01:10:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[28-May-2024 03:10:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 03:10:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 03:10:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[28-May-2024 04:58:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 04:58:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 04:58:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[28-May-2024 13:08:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 13:08:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:59:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:59:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:59:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[04-Jun-2024 03:59:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:59:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:59:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:59:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:59:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[04-Jun-2024 03:59:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:59:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:59:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[10-Jun-2024 23:27:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:27:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:27:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[10-Jun-2024 23:28:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:28:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:28:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[10-Jun-2024 23:43:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:43:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:43:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[10-Jun-2024 23:43:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:43:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 00:34:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 00:34:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 00:34:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[15-Jun-2024 00:35:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 00:35:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 00:35:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[15-Jun-2024 00:36:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 00:36:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 00:36:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 00:36:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 00:36:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[23-Jun-2024 17:30:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 17:30:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 17:30:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[23-Jun-2024 22:47:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 22:47:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 00:02:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 00:02:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 00:02:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[24-Jun-2024 03:13:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 03:13:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 03:13:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[29-Jun-2024 13:48:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:48:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:48:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[29-Jun-2024 14:00:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:00:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:00:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[29-Jun-2024 14:15:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:15:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:30:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:30:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:30:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[03-Jul-2024 08:31:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 08:31:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 08:31:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[03-Jul-2024 08:31:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 08:31:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 08:31:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[03-Jul-2024 08:32:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 08:32:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 08:32:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 08:32:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 08:32:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[05-Jul-2024 04:27:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 04:27:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[10-Jul-2024 15:34:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[10-Jul-2024 15:34:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:34:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27

@@ -1,0 +1,720 @@
+[12-May-2024 00:21:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:21:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:21:12 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php on line 4
+[12-May-2024 00:21:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:21:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:21:14 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php on line 4
+[12-May-2024 00:21:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:21:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:21:17 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php on line 4
+[12-May-2024 00:21:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:21:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:21:20 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php on line 4
+[12-May-2024 00:21:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:21:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:21:22 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php on line 4
+[12-May-2024 00:21:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:21:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:21:24 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php on line 4
+[12-May-2024 00:21:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:21:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:21:26 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php on line 4
+[12-May-2024 00:21:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:21:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:21:29 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php on line 4
+[12-May-2024 00:21:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:21:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:21:32 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php on line 4
+[12-May-2024 00:21:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 00:21:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 00:21:35 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php on line 4
+[20-May-2024 02:35:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 02:35:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 02:35:34 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php on line 4
+[20-May-2024 02:35:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 02:35:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 02:35:49 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php on line 4
+[20-May-2024 02:35:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 02:35:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 02:35:59 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php on line 4
+[20-May-2024 02:36:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 02:36:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 02:36:10 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php on line 4
+[20-May-2024 02:36:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 02:36:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 02:36:20 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php on line 4
+[20-May-2024 02:36:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 02:36:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 02:36:30 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php on line 4
+[20-May-2024 02:36:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 02:36:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 02:36:41 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php on line 4
+[20-May-2024 02:36:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 02:36:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 02:36:53 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php on line 4
+[20-May-2024 02:37:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 02:37:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 02:37:06 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php on line 4
+[20-May-2024 02:37:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 02:37:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 02:37:16 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php on line 4
+[20-May-2024 14:45:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:45:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:45:17 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php on line 4
+[20-May-2024 14:45:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:45:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:45:27 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php on line 4
+[20-May-2024 14:45:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:45:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:45:34 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php on line 4
+[20-May-2024 14:45:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:45:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:45:41 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php on line 4
+[20-May-2024 14:45:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:45:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:45:48 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php on line 4
+[20-May-2024 14:45:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:45:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:45:56 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php on line 4
+[20-May-2024 14:46:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:46:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:46:05 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php on line 4
+[20-May-2024 14:46:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:46:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:46:15 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php on line 4
+[20-May-2024 14:46:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:46:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php on line 4
+[20-May-2024 14:46:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 14:46:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 14:46:34 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php on line 4
+[03-Jun-2024 18:40:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 18:40:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 18:40:03 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php on line 4
+[03-Jun-2024 22:16:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 22:16:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 22:16:09 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php on line 4
+[03-Jun-2024 22:32:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 22:32:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 22:32:13 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php on line 4
+[04-Jun-2024 00:41:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 00:41:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 00:41:51 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php on line 4
+[04-Jun-2024 02:13:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:13:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:13:12 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php on line 4
+[04-Jun-2024 02:54:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:31 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php on line 4
+[04-Jun-2024 02:54:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:35 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php on line 4
+[04-Jun-2024 02:54:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:39 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php on line 4
+[04-Jun-2024 02:54:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:43 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php on line 4
+[04-Jun-2024 02:54:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:47 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php on line 4
+[04-Jun-2024 02:54:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:51 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php on line 4
+[04-Jun-2024 02:54:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:55 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php on line 4
+[04-Jun-2024 02:54:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:54:59 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php on line 4
+[04-Jun-2024 02:55:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:55:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:55:04 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php on line 4
+[04-Jun-2024 02:55:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 02:55:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 02:55:07 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php on line 4
+[04-Jun-2024 05:26:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:26:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:26:09 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php on line 4
+[04-Jun-2024 05:53:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:53:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:53:06 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php on line 4
+[04-Jun-2024 09:10:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:10:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:10:29 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php on line 4
+[04-Jun-2024 10:01:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 10:01:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 10:01:20 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php on line 4
+[04-Jun-2024 10:04:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 10:04:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 10:04:51 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php on line 4
+[08-Jun-2024 14:22:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:43 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php on line 4
+[08-Jun-2024 14:22:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:45 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php on line 4
+[08-Jun-2024 14:22:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:48 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php on line 4
+[08-Jun-2024 14:22:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:50 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php on line 4
+[08-Jun-2024 14:22:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:52 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php on line 4
+[08-Jun-2024 14:22:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:54 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php on line 4
+[08-Jun-2024 14:22:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:56 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php on line 4
+[08-Jun-2024 14:22:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 14:22:58 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php on line 4
+[08-Jun-2024 14:23:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 14:23:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 14:23:00 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php on line 4
+[08-Jun-2024 14:23:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 14:23:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 14:23:02 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php on line 4
+[11-Jun-2024 12:24:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 12:24:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 12:24:35 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php on line 4
+[11-Jun-2024 12:31:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 12:31:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 12:31:06 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php on line 4
+[11-Jun-2024 12:31:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 12:31:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 12:31:29 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php on line 4
+[11-Jun-2024 12:33:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 12:33:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 12:33:30 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php on line 4
+[11-Jun-2024 12:33:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 12:33:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 12:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php on line 4
+[11-Jun-2024 12:35:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 12:35:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 12:35:24 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php on line 4
+[11-Jun-2024 12:39:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 12:39:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 12:39:04 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php on line 4
+[11-Jun-2024 12:39:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 12:39:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 12:39:44 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php on line 4
+[11-Jun-2024 12:40:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 12:40:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 12:40:51 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php on line 4
+[11-Jun-2024 12:42:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 12:42:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 12:42:28 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php on line 4
+[12-Jun-2024 03:28:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 03:28:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 03:28:33 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php on line 4
+[12-Jun-2024 03:29:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 03:29:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 03:29:40 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php on line 4
+[12-Jun-2024 03:30:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 03:30:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 03:30:34 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php on line 4
+[12-Jun-2024 03:31:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 03:31:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 03:31:55 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php on line 4
+[12-Jun-2024 03:32:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 03:32:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 03:32:50 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php on line 4
+[12-Jun-2024 03:33:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 03:33:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 03:33:47 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php on line 4
+[12-Jun-2024 03:34:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 03:34:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 03:34:54 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php on line 4
+[12-Jun-2024 03:37:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 03:37:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 03:37:11 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php on line 4
+[12-Jun-2024 03:38:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 03:38:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 03:38:17 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php on line 4
+[12-Jun-2024 12:47:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jun-2024 12:47:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jun-2024 12:47:16 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php on line 4
+[29-Jun-2024 13:32:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:32:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:32:10 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php on line 4
+[29-Jun-2024 14:00:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:00:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:00:37 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php on line 4
+[29-Jun-2024 15:53:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 15:53:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 15:53:05 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php on line 4
+[29-Jun-2024 18:20:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:20:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:20:57 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php on line 4
+[29-Jun-2024 19:47:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:47:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:47:18 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php on line 4
+[29-Jun-2024 19:55:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:55:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:55:19 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php on line 4
+[29-Jun-2024 21:34:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 21:34:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 21:34:15 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php on line 4
+[30-Jun-2024 04:55:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 04:55:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 04:55:13 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php on line 4
+[30-Jun-2024 06:33:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 06:33:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 06:33:31 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php on line 4
+[30-Jun-2024 08:58:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:58:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:58:46 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php on line 4
+[02-Jul-2024 14:27:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:27:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:27:30 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php on line 4
+[02-Jul-2024 15:05:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:05:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:05:55 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php on line 4
+[02-Jul-2024 17:06:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 17:06:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 17:06:53 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php on line 4
+[02-Jul-2024 17:13:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 17:13:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 17:13:01 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php on line 4
+[02-Jul-2024 17:37:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 17:37:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 17:37:48 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php on line 4
+[02-Jul-2024 20:56:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 20:56:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 20:56:21 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php on line 4
+[03-Jul-2024 05:53:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 05:53:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 05:53:15 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php on line 4
+[03-Jul-2024 07:48:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 07:48:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 07:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php on line 4
+[03-Jul-2024 09:20:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 09:20:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 09:20:47 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php on line 4
+[03-Jul-2024 09:38:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 09:38:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 09:38:04 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php on line 4
+[03-Jul-2024 13:48:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:48:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:48:39 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php on line 4
+[03-Jul-2024 13:49:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:49:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:49:48 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php on line 4
+[03-Jul-2024 13:50:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:50:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:50:35 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php on line 4
+[03-Jul-2024 13:51:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:51:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:51:18 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php on line 4
+[03-Jul-2024 13:52:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:52:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:52:04 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php on line 4
+[03-Jul-2024 13:52:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:52:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:52:50 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php on line 4
+[03-Jul-2024 13:53:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:53:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:53:15 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php on line 4
+[03-Jul-2024 13:53:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 13:53:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 13:53:35 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php on line 4
+[03-Jul-2024 16:45:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 16:45:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 16:45:57 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php on line 4
+[04-Jul-2024 00:17:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 00:17:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 00:17:22 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php on line 4
+[10-Jul-2024 14:28:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:11 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsStringTest.php on line 4
+[10-Jul-2024 14:28:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:15 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsScalarTest.php on line 4
+[10-Jul-2024 14:28:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:19 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsResourceTest.php on line 4
+[10-Jul-2024 14:28:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:23 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsObjectTest.php on line 4
+[10-Jul-2024 14:28:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:27 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsNumericTest.php on line 4
+[10-Jul-2024 14:28:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:31 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsIntegerTest.php on line 4
+[10-Jul-2024 14:28:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:35 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsDoubleTest.php on line 4
+[10-Jul-2024 14:28:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:39 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsCallableTest.php on line 4
+[10-Jul-2024 14:28:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:43 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsBooleanTest.php on line 4
+[10-Jul-2024 14:28:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:28:47 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Type/IsArrayTest.php on line 4

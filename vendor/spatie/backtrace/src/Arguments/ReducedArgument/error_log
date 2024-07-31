@@ -1,0 +1,366 @@
+[13-May-2024 01:39:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 01:39:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 01:39:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php on line 5
+[13-May-2024 01:39:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 01:39:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 01:39:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 01:39:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 01:39:37 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php on line 5
+[13-May-2024 01:39:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 01:39:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 01:39:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php on line 5
+[13-May-2024 01:39:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 01:39:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 01:39:42 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php on line 7
+[15-May-2024 15:03:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 15:03:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 15:03:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php on line 5
+[15-May-2024 15:03:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 15:03:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 15:04:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 15:04:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 15:04:10 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php on line 5
+[15-May-2024 15:04:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 15:04:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 15:04:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php on line 5
+[15-May-2024 15:04:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 15:04:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 15:04:29 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php on line 7
+[19-May-2024 23:15:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 23:15:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 23:15:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php on line 5
+[19-May-2024 23:15:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 23:15:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 23:16:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 23:16:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 23:16:04 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php on line 5
+[19-May-2024 23:16:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 23:16:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 23:16:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php on line 5
+[19-May-2024 23:16:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 23:16:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 23:16:20 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php on line 7
+[02-Jun-2024 11:13:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 11:13:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 11:13:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php on line 5
+[02-Jun-2024 11:15:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 11:15:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 11:17:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 11:17:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 11:17:48 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php on line 5
+[02-Jun-2024 11:20:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 11:20:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 11:20:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php on line 5
+[02-Jun-2024 11:22:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jun-2024 11:22:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jun-2024 11:22:51 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php on line 7
+[04-Jun-2024 05:21:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:21:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:21:39 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php on line 7
+[04-Jun-2024 05:21:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:21:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:21:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php on line 5
+[04-Jun-2024 05:21:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:21:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:21:47 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php on line 5
+[04-Jun-2024 05:21:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:21:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:21:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:21:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:21:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php on line 5
+[04-Jun-2024 06:01:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:01:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:01:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php on line 5
+[04-Jun-2024 06:48:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:48:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:48:12 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php on line 5
+[04-Jun-2024 10:14:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 10:14:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 10:25:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 10:25:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 10:25:14 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php on line 7
+[04-Jun-2024 11:42:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 11:42:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 11:42:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php on line 5
+[05-Jun-2024 19:50:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 19:50:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 19:50:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php on line 5
+[05-Jun-2024 19:50:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 19:50:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 19:51:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 19:51:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 19:51:23 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php on line 5
+[05-Jun-2024 19:52:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 19:52:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 19:52:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php on line 5
+[05-Jun-2024 19:52:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jun-2024 19:52:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jun-2024 19:52:49 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php on line 7
+[10-Jun-2024 23:16:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:16:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:16:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php on line 5
+[10-Jun-2024 23:18:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:18:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:18:28 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php on line 7
+[10-Jun-2024 23:22:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:22:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:22:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php on line 5
+[10-Jun-2024 23:31:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:31:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:43:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 23:43:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 23:43:20 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php on line 5
+[22-Jun-2024 13:08:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 13:08:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 13:08:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php on line 5
+[22-Jun-2024 13:10:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 13:10:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 13:12:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 13:12:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 13:12:15 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php on line 5
+[22-Jun-2024 13:13:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 13:13:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 13:13:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php on line 5
+[22-Jun-2024 13:15:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 13:15:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 13:15:11 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php on line 7
+[29-Jun-2024 13:49:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:49:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:27:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:27:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:27:05 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php on line 5
+[29-Jun-2024 16:04:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:04:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:04:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php on line 5
+[29-Jun-2024 17:00:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:00:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:00:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php on line 5
+[29-Jun-2024 22:24:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 22:24:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 22:24:55 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php on line 7
+[04-Jul-2024 09:02:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 09:02:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 09:02:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php on line 5
+[04-Jul-2024 09:06:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 09:06:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:19:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:19:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:19:57 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php on line 5
+[05-Jul-2024 01:40:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 01:40:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 01:40:53 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php on line 7
+[05-Jul-2024 14:05:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 14:05:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 14:05:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php on line 5
+[08-Jul-2024 06:54:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:54:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:54:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php on line 5
+[08-Jul-2024 06:54:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:54:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:54:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:54:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:54:49 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php on line 5
+[08-Jul-2024 06:55:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:55:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:55:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php on line 5
+[08-Jul-2024 06:55:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 06:55:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 06:55:11 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php on line 7
+[10-Jul-2024 16:57:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:15 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php on line 7
+[10-Jul-2024 16:57:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php on line 5
+[10-Jul-2024 16:57:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:23 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php on line 5
+[10-Jul-2024 16:57:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 16:57:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php on line 5
+[10-Jul-2024 21:03:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 21:03:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 22:38:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 22:38:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 22:38:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/ReducedArgument.php on line 5
+[11-Jul-2024 22:39:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 22:39:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 22:40:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 22:40:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 22:40:53 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/TruncatedReducedArgument.php on line 5
+[11-Jul-2024 22:42:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 22:42:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 22:42:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgumentContract" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/UnReducedArgument.php on line 5
+[11-Jul-2024 22:43:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 22:43:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 22:43:52 UTC] PHP Fatal error:  Uncaught Error: Class "Spatie\Backtrace\Arguments\ReducedArgument\ReducedArgument" not found in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/spatie/backtrace/src/Arguments/ReducedArgument/VariadicReducedArgument.php on line 7

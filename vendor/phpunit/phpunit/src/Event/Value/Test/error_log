@@ -1,0 +1,223 @@
+[12-May-2024 13:32:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:32:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:32:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php on line 17
+[12-May-2024 13:32:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:32:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:32:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:32:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:32:33 UTC] PHP Fatal error:  Could not check compatibility between PHPUnit\Event\Code\TestCollection::getIterator(): PHPUnit\Event\Code\TestCollectionIterator and IteratorAggregate::getIterator(): Traversable, because class PHPUnit\Event\Code\TestCollectionIterator is not available in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestCollection.php on line 56
+[12-May-2024 13:32:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:32:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:32:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:32:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:33:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:33:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:33:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:33:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 13:33:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php on line 23
+[12-May-2024 13:33:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 13:33:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:32:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:32:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:32:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php on line 17
+[20-May-2024 13:32:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:32:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:32:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:32:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:32:44 UTC] PHP Fatal error:  Could not check compatibility between PHPUnit\Event\Code\TestCollection::getIterator(): PHPUnit\Event\Code\TestCollectionIterator and IteratorAggregate::getIterator(): Traversable, because class PHPUnit\Event\Code\TestCollectionIterator is not available in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestCollection.php on line 56
+[20-May-2024 13:32:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:32:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:33:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:33:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:33:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:33:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:33:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:33:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 13:33:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php on line 23
+[20-May-2024 13:33:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 13:33:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 22:44:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 22:44:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 22:44:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php on line 17
+[21-May-2024 22:44:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 22:44:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 22:44:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 22:44:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 22:44:20 UTC] PHP Fatal error:  Could not check compatibility between PHPUnit\Event\Code\TestCollection::getIterator(): PHPUnit\Event\Code\TestCollectionIterator and IteratorAggregate::getIterator(): Traversable, because class PHPUnit\Event\Code\TestCollectionIterator is not available in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestCollection.php on line 56
+[21-May-2024 22:44:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 22:44:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 22:44:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 22:44:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 22:44:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 22:44:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 22:44:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 22:44:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[21-May-2024 22:44:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php on line 23
+[21-May-2024 22:44:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[21-May-2024 22:44:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:36:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:36:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:36:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:36:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:36:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php on line 23
+[04-Jun-2024 16:37:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:37:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:37:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:37:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:38:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:38:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:38:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:38:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:38:09 UTC] PHP Fatal error:  Could not check compatibility between PHPUnit\Event\Code\TestCollection::getIterator(): PHPUnit\Event\Code\TestCollectionIterator and IteratorAggregate::getIterator(): Traversable, because class PHPUnit\Event\Code\TestCollectionIterator is not available in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestCollection.php on line 56
+[04-Jun-2024 16:38:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:38:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:38:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 16:38:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 16:38:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php on line 17
+[07-Jun-2024 04:13:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:13:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:13:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php on line 17
+[07-Jun-2024 04:13:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:13:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:13:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:13:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:13:25 UTC] PHP Fatal error:  Could not check compatibility between PHPUnit\Event\Code\TestCollection::getIterator(): PHPUnit\Event\Code\TestCollectionIterator and IteratorAggregate::getIterator(): Traversable, because class PHPUnit\Event\Code\TestCollectionIterator is not available in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestCollection.php on line 56
+[07-Jun-2024 04:13:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:13:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:13:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:13:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:13:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:13:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:14:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:14:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 04:14:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php on line 23
+[07-Jun-2024 04:14:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 04:14:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 03:35:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 03:35:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 03:35:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 03:35:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 03:35:32 UTC] PHP Fatal error:  Could not check compatibility between PHPUnit\Event\Code\TestCollection::getIterator(): PHPUnit\Event\Code\TestCollectionIterator and IteratorAggregate::getIterator(): Traversable, because class PHPUnit\Event\Code\TestCollectionIterator is not available in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestCollection.php on line 56
+[13-Jun-2024 03:35:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 03:35:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 03:36:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 03:36:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 03:36:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 03:36:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 03:37:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 03:37:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 03:37:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php on line 23
+[13-Jun-2024 03:37:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 03:37:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:46:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 05:46:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 05:46:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php on line 17
+[04-Jul-2024 07:37:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 07:37:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 07:37:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php on line 17
+[04-Jul-2024 15:10:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:10:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:10:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:10:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:10:51 UTC] PHP Fatal error:  Could not check compatibility between PHPUnit\Event\Code\TestCollection::getIterator(): PHPUnit\Event\Code\TestCollectionIterator and IteratorAggregate::getIterator(): Traversable, because class PHPUnit\Event\Code\TestCollectionIterator is not available in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestCollection.php on line 56
+[04-Jul-2024 15:11:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:11:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:11:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:11:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:11:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:11:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:12:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:12:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:12:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php on line 23
+[04-Jul-2024 15:12:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:12:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 15:38:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 15:38:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 17:13:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 17:13:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 17:13:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php on line 17
+[04-Jul-2024 20:18:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 20:18:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 00:25:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 00:25:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 00:47:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 00:47:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 00:47:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php on line 23
+[05-Jul-2024 01:25:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 01:25:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 01:25:26 UTC] PHP Fatal error:  Could not check compatibility between PHPUnit\Event\Code\TestCollection::getIterator(): PHPUnit\Event\Code\TestCollectionIterator and IteratorAggregate::getIterator(): Traversable, because class PHPUnit\Event\Code\TestCollectionIterator is not available in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestCollection.php on line 56
+[05-Jul-2024 11:16:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:16:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 11:46:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 11:46:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:25:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:25:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:25:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestMethod.php on line 23
+[11-Jul-2024 04:25:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:25:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:25:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:25:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:27:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:27:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:27:03 UTC] PHP Fatal error:  Could not check compatibility between PHPUnit\Event\Code\TestCollection::getIterator(): PHPUnit\Event\Code\TestCollectionIterator and IteratorAggregate::getIterator(): Traversable, because class PHPUnit\Event\Code\TestCollectionIterator is not available in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/TestCollection.php on line 56
+[11-Jul-2024 04:27:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:27:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:27:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:27:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:27:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 04:27:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 04:27:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Event\Code\Test" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Event/Value/Test/Phpt.php on line 17

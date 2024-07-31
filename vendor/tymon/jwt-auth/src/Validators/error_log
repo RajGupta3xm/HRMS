@@ -1,0 +1,165 @@
+[13-May-2024 19:42:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 19:42:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 19:42:20 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php on line 17
+[13-May-2024 19:42:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 19:42:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 19:42:20 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php on line 16
+[13-May-2024 19:42:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-May-2024 19:42:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-May-2024 19:42:21 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\RefreshFlow" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/Validator.php on line 18
+[20-May-2024 01:32:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:32:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 01:32:33 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php on line 17
+[20-May-2024 01:32:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:32:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 01:32:44 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php on line 16
+[20-May-2024 01:32:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:32:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 01:32:54 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\RefreshFlow" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/Validator.php on line 18
+[31-May-2024 04:09:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 04:09:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:09:34 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php on line 17
+[31-May-2024 08:04:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 08:04:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 08:04:25 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php on line 16
+[31-May-2024 08:47:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 08:47:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 08:47:16 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\RefreshFlow" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/Validator.php on line 18
+[01-Jun-2024 06:23:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:23:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:23:38 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\RefreshFlow" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/Validator.php on line 18
+[01-Jun-2024 06:44:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:44:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:44:41 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php on line 17
+[01-Jun-2024 06:46:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:46:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php on line 16
+[01-Jun-2024 17:45:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 17:45:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 17:45:24 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php on line 17
+[01-Jun-2024 17:47:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 17:47:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 17:47:30 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php on line 16
+[01-Jun-2024 20:16:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 20:16:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 20:16:12 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\RefreshFlow" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/Validator.php on line 18
+[04-Jun-2024 03:33:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:55 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\RefreshFlow" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/Validator.php on line 18
+[04-Jun-2024 03:33:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:33:59 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php on line 16
+[04-Jun-2024 03:34:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:34:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:34:03 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php on line 17
+[20-Jun-2024 08:56:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 08:56:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 08:56:19 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php on line 17
+[20-Jun-2024 08:57:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 08:57:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 08:57:49 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php on line 16
+[20-Jun-2024 12:19:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-Jun-2024 12:19:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-Jun-2024 12:19:38 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\RefreshFlow" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/Validator.php on line 18
+[26-Jun-2024 22:19:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 22:19:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 22:19:15 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php on line 16
+[27-Jun-2024 02:34:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 02:34:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 02:34:43 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\RefreshFlow" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/Validator.php on line 18
+[27-Jun-2024 12:42:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 12:42:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 12:42:43 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php on line 17
+[01-Jul-2024 06:43:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:43:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:43:48 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php on line 17
+[02-Jul-2024 07:50:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:50:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:50:42 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\RefreshFlow" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/Validator.php on line 18
+[02-Jul-2024 15:04:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:04:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:04:36 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php on line 16
+[09-Jul-2024 02:06:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 02:06:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 02:06:04 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php on line 17
+[09-Jul-2024 02:07:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 02:07:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 02:07:38 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php on line 16
+[09-Jul-2024 03:31:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 03:31:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 03:31:27 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\RefreshFlow" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/Validator.php on line 18
+[10-Jul-2024 15:10:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:31 UTC] PHP Fatal error:  Trait "Tymon\JWTAuth\Support\RefreshFlow" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/Validator.php on line 18
+[10-Jul-2024 15:10:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:35 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/TokenValidator.php on line 16
+[10-Jul-2024 15:10:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:10:39 UTC] PHP Fatal error:  Uncaught Error: Class "Tymon\JWTAuth\Validators\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Validators/PayloadValidator.php on line 17

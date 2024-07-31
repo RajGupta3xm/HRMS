@@ -1,0 +1,468 @@
+[11-May-2024 21:01:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:01:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:01:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:01:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:01:53 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php on line 23
+[11-May-2024 21:01:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:01:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:01:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:01:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:02:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:02:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:02:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:02:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:02:03 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\DeprecatedUuidMethodsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Uuid.php on line 46
+[11-May-2024 21:02:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:02:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:02:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php on line 47
+[11-May-2024 21:02:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:02:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:02:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:02:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 21:02:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\DeprecatedUuidInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php on line 30
+[11-May-2024 21:02:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 21:02:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:21:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 10:21:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 10:21:29 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php on line 23
+[19-May-2024 07:00:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 07:00:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 07:01:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 07:01:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 07:01:04 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php on line 23
+[19-May-2024 07:01:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 07:01:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 07:01:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 07:01:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 07:01:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 07:01:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 07:03:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 07:03:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 07:03:52 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\DeprecatedUuidMethodsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Uuid.php on line 46
+[19-May-2024 07:04:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 07:04:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 07:04:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php on line 47
+[19-May-2024 07:04:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 07:04:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 07:04:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 07:04:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 07:04:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\DeprecatedUuidInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php on line 30
+[19-May-2024 07:05:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 07:05:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:21:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:21:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:21:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:21:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:21:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:21:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:21:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:21:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:21:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:21:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:21:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php on line 47
+[22-May-2024 23:21:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:21:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:21:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:21:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-May-2024 23:21:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\DeprecatedUuidInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php on line 30
+[22-May-2024 23:21:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-May-2024 23:21:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 08:17:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-May-2024 08:17:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-May-2024 08:17:59 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\DeprecatedUuidMethodsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Uuid.php on line 46
+[28-May-2024 01:52:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 01:52:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 03:00:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 03:00:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 04:35:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 04:35:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 06:54:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 06:54:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 06:54:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\DeprecatedUuidInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php on line 30
+[28-May-2024 10:10:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 10:10:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 10:10:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php on line 47
+[28-May-2024 10:12:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 10:12:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 12:52:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 12:52:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 13:12:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 13:12:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 17:19:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 17:19:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 17:19:57 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php on line 23
+[28-May-2024 18:46:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 18:46:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 18:46:46 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\DeprecatedUuidMethodsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Uuid.php on line 46
+[01-Jun-2024 01:00:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:00:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 01:04:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:04:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 01:04:30 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\DeprecatedUuidMethodsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Uuid.php on line 46
+[01-Jun-2024 01:11:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:11:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 01:11:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php on line 47
+[01-Jun-2024 01:22:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:22:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 01:22:04 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php on line 23
+[01-Jun-2024 01:23:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:23:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 01:24:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:24:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 01:26:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:26:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 01:33:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 01:33:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\DeprecatedUuidInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php on line 30
+[04-Jun-2024 05:31:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php on line 47
+[04-Jun-2024 05:31:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:37 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php on line 23
+[04-Jun-2024 05:31:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:31:43 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\DeprecatedUuidMethodsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Uuid.php on line 46
+[07-Jun-2024 12:52:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:52:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:52:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:52:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:52:42 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php on line 23
+[07-Jun-2024 12:52:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:52:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:52:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:52:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:52:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:52:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:53:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:53:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:53:04 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\DeprecatedUuidMethodsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Uuid.php on line 46
+[07-Jun-2024 12:53:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:53:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:53:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php on line 47
+[07-Jun-2024 12:53:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:53:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:53:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:53:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 12:53:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\DeprecatedUuidInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php on line 30
+[07-Jun-2024 12:53:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 12:53:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 19:17:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 19:17:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 19:17:27 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php on line 23
+[10-Jun-2024 07:44:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 07:44:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 07:45:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jun-2024 07:45:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jun-2024 07:45:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\DeprecatedUuidInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php on line 30
+[14-Jun-2024 08:44:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 08:44:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 08:45:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 08:45:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 08:45:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 08:45:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 08:46:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 08:46:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 08:46:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 08:46:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 08:46:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php on line 47
+[14-Jun-2024 08:47:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 08:47:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 08:47:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 08:47:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 08:47:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\DeprecatedUuidInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php on line 30
+[14-Jun-2024 08:47:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 08:47:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 17:06:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-Jun-2024 17:06:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Jun-2024 17:06:26 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\DeprecatedUuidMethodsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Uuid.php on line 46
+[23-Jun-2024 13:47:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 13:47:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 13:47:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\DeprecatedUuidInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php on line 30
+[23-Jun-2024 16:00:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 16:00:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 18:59:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 18:59:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 18:59:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php on line 47
+[23-Jun-2024 20:13:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 20:13:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 22:22:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 22:22:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 22:22:36 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\DeprecatedUuidMethodsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Uuid.php on line 46
+[24-Jun-2024 02:07:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 02:07:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 02:34:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 02:34:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 02:34:19 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php on line 23
+[24-Jun-2024 04:06:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 04:06:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 05:40:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 05:40:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-Jun-2024 07:07:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-Jun-2024 07:07:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:39:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:39:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:39:58 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php on line 23
+[29-Jun-2024 18:04:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:04:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:05:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:05:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:02:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:02:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:02:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php on line 47
+[29-Jun-2024 19:40:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:40:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 20:38:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 20:38:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 22:35:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 22:35:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 07:07:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 07:07:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 07:29:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 07:29:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 07:29:39 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\DeprecatedUuidMethodsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Uuid.php on line 46
+[30-Jun-2024 08:43:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:43:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:43:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\DeprecatedUuidInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php on line 30
+[01-Jul-2024 03:03:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 03:03:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 03:03:41 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php on line 23
+[02-Jul-2024 14:16:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:16:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:17:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:17:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:17:08 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php on line 23
+[02-Jul-2024 14:17:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:17:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:17:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:17:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:18:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:18:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:19:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:19:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:19:37 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\DeprecatedUuidMethodsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Uuid.php on line 46
+[02-Jul-2024 14:19:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:19:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:19:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php on line 47
+[02-Jul-2024 14:20:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:20:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:20:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:20:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:20:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\DeprecatedUuidInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php on line 30
+[02-Jul-2024 14:20:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:20:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 00:09:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 00:09:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 04:08:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 04:08:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 04:47:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 04:47:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 07:52:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 07:52:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:07:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:07:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 18:47:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 18:47:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 01:03:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 01:03:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 01:04:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 01:04:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 01:05:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 01:05:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 01:07:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 01:07:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 01:07:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 01:07:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 01:07:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php on line 47
+[06-Jul-2024 01:08:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 01:08:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 01:09:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 01:09:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 01:09:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\DeprecatedUuidInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php on line 30
+[06-Jul-2024 01:10:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 01:10:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 08:57:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jul-2024 08:57:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jul-2024 08:57:26 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\DeprecatedUuidMethodsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Uuid.php on line 46
+[10-Jul-2024 03:27:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 03:27:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 06:33:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 06:33:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:12:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:12:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:12:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:12:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:12:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\DeprecatedUuidInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php on line 30
+[10-Jul-2024 17:12:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:12:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:12:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:12:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:12:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php on line 47
+[10-Jul-2024 17:12:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:12:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:13:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:13:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:13:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:13:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:13:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:13:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:13:11 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Uuid" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/DegradedUuid.php on line 23
+[10-Jul-2024 17:13:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:13:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:13:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:13:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:13:19 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\DeprecatedUuidMethodsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Uuid.php on line 46
+[10-Jul-2024 20:47:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 20:47:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 09:52:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 09:52:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 23:49:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 23:49:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 23:49:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\DeprecatedUuidInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidInterface.php on line 30
+[12-Jul-2024 00:38:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 00:38:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 01:04:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 01:04:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 05:31:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 05:31:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 05:31:38 UTC] PHP Fatal error:  Trait "Ramsey\Uuid\DeprecatedUuidMethodsTrait" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/Uuid.php on line 46
+[12-Jul-2024 06:22:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-Jul-2024 06:22:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-Jul-2024 06:22:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidFactoryInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/ramsey/uuid/src/UuidFactory.php on line 47

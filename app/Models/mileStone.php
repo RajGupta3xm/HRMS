@@ -17,6 +17,6 @@ class mileStone extends Model
         'hours',
         'description'
     ];
-    protected $table = 'mileStone';
+    protected $table = 'milestone';
     protected $guarded = [];
 }

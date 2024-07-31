@@ -17,6 +17,9 @@ return new class extends Migration
             $table->integer('userId');
             $table->string('projectcompany');
             $table->string('projectname');
+            $table->integer('pmemployeeId')->notNull();
+            $table->integer('pmallocation')->notNull();
+
             $table->string('currency')->notNull();
 
             $table->decimal('projectbudget', 10, 2)->notNull();

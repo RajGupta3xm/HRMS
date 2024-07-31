@@ -1,0 +1,280 @@
+[15-May-2024 13:33:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:33:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:33:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php on line 37
+[15-May-2024 13:33:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:33:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:33:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php on line 78
+[15-May-2024 13:33:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:33:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:33:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php on line 17
+[15-May-2024 13:33:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:33:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:33:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:33:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-May-2024 13:33:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php on line 17
+[15-May-2024 13:33:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-May-2024 13:33:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:21:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:21:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:21:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php on line 37
+[20-May-2024 17:21:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:21:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:21:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php on line 78
+[20-May-2024 17:21:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:21:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:21:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php on line 17
+[20-May-2024 17:21:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:21:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:21:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:21:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 17:21:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php on line 17
+[20-May-2024 17:22:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 17:22:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-May-2024 08:41:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-May-2024 08:41:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-May-2024 08:41:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php on line 37
+[29-May-2024 08:41:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-May-2024 08:41:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-May-2024 08:41:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php on line 78
+[29-May-2024 08:41:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-May-2024 08:41:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-May-2024 08:41:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php on line 17
+[29-May-2024 08:41:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-May-2024 08:41:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-May-2024 08:41:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-May-2024 08:41:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-May-2024 08:41:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php on line 17
+[29-May-2024 08:41:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-May-2024 08:41:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:58:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:58:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:58:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:58:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:58:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php on line 17
+[04-Jun-2024 05:58:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:58:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:58:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:58:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:58:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php on line 17
+[04-Jun-2024 05:58:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:58:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:58:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php on line 78
+[04-Jun-2024 05:59:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:59:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:59:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php on line 37
+[06-Jun-2024 11:08:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:08:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 11:08:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php on line 37
+[06-Jun-2024 11:09:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:09:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 11:09:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php on line 78
+[06-Jun-2024 11:09:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:09:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 11:09:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php on line 17
+[06-Jun-2024 11:09:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:09:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 11:09:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:09:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 11:09:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php on line 17
+[06-Jun-2024 11:09:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 11:09:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:06:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:06:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:06:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php on line 37
+[18-Jun-2024 17:07:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:07:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:07:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php on line 78
+[18-Jun-2024 17:07:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:07:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:07:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php on line 17
+[18-Jun-2024 17:08:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:08:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:09:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:09:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[18-Jun-2024 17:09:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php on line 17
+[18-Jun-2024 17:09:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[18-Jun-2024 17:09:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 13:16:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 13:16:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 13:16:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php on line 17
+[02-Jul-2024 14:01:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:01:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:01:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php on line 78
+[02-Jul-2024 19:58:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 19:58:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 19:58:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php on line 37
+[02-Jul-2024 21:04:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 21:04:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 06:24:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 06:24:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 06:24:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php on line 17
+[03-Jul-2024 10:57:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 10:57:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:23:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:23:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:23:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php on line 37
+[08-Jul-2024 05:24:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:24:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:24:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php on line 78
+[08-Jul-2024 05:24:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:24:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:24:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php on line 17
+[08-Jul-2024 05:24:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:24:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:24:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:24:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:24:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php on line 17
+[08-Jul-2024 05:24:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:24:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 20:19:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 20:19:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 20:19:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php on line 37
+[08-Jul-2024 20:20:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 20:20:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 20:20:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php on line 78
+[08-Jul-2024 20:20:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 20:20:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 20:20:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php on line 17
+[08-Jul-2024 20:20:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 20:20:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 20:21:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 20:21:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 20:21:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php on line 17
+[08-Jul-2024 20:21:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 20:21:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:40:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:40:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:40:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:40:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:40:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/ParserChain.php on line 17
+[10-Jul-2024 17:40:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:40:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:40:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:40:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:40:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/CachingParser.php on line 17
+[10-Jul-2024 17:40:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:40:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:40:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AttributeParser.php on line 78
+[10-Jul-2024 17:41:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:41:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:41:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Metadata\Parser\Parser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/phpunit/src/Metadata/Parser/AnnotationParser.php on line 37

@@ -1,0 +1,1510 @@
+[11-May-2024 05:48:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:05 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[11-May-2024 05:48:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php on line 14
+[11-May-2024 05:48:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[11-May-2024 05:48:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:12 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[11-May-2024 05:48:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:14 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[11-May-2024 05:48:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:15 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[11-May-2024 05:48:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:17 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[11-May-2024 05:48:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:19 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php on line 14
+[11-May-2024 05:48:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:20 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php on line 16
+[11-May-2024 05:48:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:22 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[11-May-2024 05:48:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:24 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php on line 14
+[11-May-2024 05:48:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:25 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[11-May-2024 05:48:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:27 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[11-May-2024 05:48:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:28 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[11-May-2024 05:48:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:30 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 14
+[11-May-2024 05:48:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:32 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 16
+[11-May-2024 05:48:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:33 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[11-May-2024 05:48:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:35 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[11-May-2024 05:48:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 05:48:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 05:48:37 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php on line 14
+[20-May-2024 04:40:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:40:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:40:02 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[20-May-2024 04:40:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:40:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:40:18 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php on line 14
+[20-May-2024 04:40:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:40:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:40:28 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[20-May-2024 04:40:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:40:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:40:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:40:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:40:51 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[20-May-2024 04:41:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:41:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:41:03 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[20-May-2024 04:41:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:41:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:41:14 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[20-May-2024 04:41:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:41:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:41:25 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[20-May-2024 04:41:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:41:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:41:37 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php on line 14
+[20-May-2024 04:41:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:41:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:41:48 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php on line 16
+[20-May-2024 04:41:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:41:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:41:59 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[20-May-2024 04:42:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:42:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:42:10 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php on line 14
+[20-May-2024 04:42:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:42:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:42:21 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[20-May-2024 04:42:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:42:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:42:36 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[20-May-2024 04:42:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:42:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:42:42 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[20-May-2024 04:42:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:42:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:42:52 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 14
+[20-May-2024 04:43:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:43:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:43:04 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 16
+[20-May-2024 04:43:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:43:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:43:16 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[20-May-2024 04:43:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:43:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:43:26 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[20-May-2024 04:43:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 04:43:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 04:43:37 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php on line 14
+[24-May-2024 07:16:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 07:16:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 07:16:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 07:16:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 07:16:04 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[24-May-2024 07:16:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 07:16:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 07:16:04 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[24-May-2024 07:16:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 07:16:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 07:16:04 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 14
+[24-May-2024 07:16:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[24-May-2024 07:16:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[24-May-2024 07:16:05 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 16
+[25-May-2024 05:14:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 05:14:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 05:14:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[25-May-2024 05:14:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 05:14:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 05:14:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php on line 16
+[25-May-2024 05:14:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 05:14:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 05:14:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[25-May-2024 05:14:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 05:14:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 05:14:09 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[25-May-2024 05:14:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 05:14:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 05:14:10 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php on line 14
+[25-May-2024 08:44:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 08:44:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 08:44:47 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[25-May-2024 08:49:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 08:49:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 08:49:09 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php on line 14
+[25-May-2024 08:53:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 08:53:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 08:53:03 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[25-May-2024 08:57:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 08:57:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 08:57:21 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[25-May-2024 09:01:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 09:01:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 09:01:42 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php on line 14
+[25-May-2024 09:05:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 09:05:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 09:05:43 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[25-May-2024 09:10:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 09:10:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 09:10:02 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php on line 14
+[25-May-2024 09:11:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 09:11:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 09:11:59 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[25-May-2024 09:13:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 09:13:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 09:13:01 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[25-May-2024 09:13:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[25-May-2024 09:13:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[25-May-2024 09:13:40 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[30-May-2024 23:40:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:40:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:40:24 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php on line 16
+[30-May-2024 23:43:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:43:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:43:44 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[31-May-2024 00:40:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 00:40:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 00:40:04 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[31-May-2024 02:05:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 02:05:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 02:05:06 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 14
+[31-May-2024 02:57:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 02:57:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 02:57:05 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[31-May-2024 04:39:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 04:39:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 04:39:20 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[31-May-2024 06:40:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 06:40:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 06:40:42 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 16
+[31-May-2024 06:48:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 06:48:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 06:48:31 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[31-May-2024 08:49:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 08:49:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 08:49:05 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php on line 14
+[31-May-2024 10:15:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 10:15:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 10:15:24 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php on line 14
+[31-May-2024 11:44:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 11:44:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 11:44:48 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[31-May-2024 12:11:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 12:11:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 12:11:24 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php on line 14
+[31-May-2024 12:31:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 12:31:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 12:31:38 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[31-May-2024 13:01:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 13:01:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 13:01:12 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php on line 14
+[31-May-2024 13:20:40 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 13:20:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 13:20:40 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[31-May-2024 14:41:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:41:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:41:49 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[31-May-2024 14:48:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 14:48:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 14:48:53 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[31-May-2024 16:43:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 16:43:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 17:12:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 17:12:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 17:12:29 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[31-May-2024 17:17:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 17:17:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 17:17:00 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[04-Jun-2024 05:44:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:44:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:44:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php on line 14
+[04-Jun-2024 05:44:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:44:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:44:59 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[04-Jun-2024 05:45:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:03 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[04-Jun-2024 05:45:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 16
+[04-Jun-2024 05:45:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:12 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 14
+[04-Jun-2024 05:45:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:16 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[04-Jun-2024 05:45:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:19 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[04-Jun-2024 05:45:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:23 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php on line 14
+[04-Jun-2024 05:45:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:27 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[04-Jun-2024 05:45:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:31 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php on line 16
+[04-Jun-2024 05:45:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:35 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php on line 14
+[04-Jun-2024 05:45:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:39 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[04-Jun-2024 05:45:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:43 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[04-Jun-2024 05:45:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:47 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[04-Jun-2024 05:45:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[04-Jun-2024 05:45:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 05:45:59 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php on line 14
+[04-Jun-2024 06:11:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:11:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:11:11 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[04-Jun-2024 06:11:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:11:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:11:15 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[04-Jun-2024 06:11:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 06:11:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 06:11:19 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[08-Jun-2024 01:40:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:40:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:40:48 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[08-Jun-2024 01:40:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:40:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:40:59 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php on line 14
+[08-Jun-2024 01:41:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:41:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:41:06 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[08-Jun-2024 01:41:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:41:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:41:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:41:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:41:20 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[08-Jun-2024 01:41:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:41:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:41:33 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[08-Jun-2024 01:41:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:41:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:41:41 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[08-Jun-2024 01:41:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:41:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:41:49 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[08-Jun-2024 01:42:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:42:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:42:01 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php on line 14
+[08-Jun-2024 01:42:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:42:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:42:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php on line 16
+[08-Jun-2024 01:42:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:42:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:42:21 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[08-Jun-2024 01:42:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:42:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:42:30 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php on line 14
+[08-Jun-2024 01:42:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:42:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:42:42 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[08-Jun-2024 01:42:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:42:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:42:51 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[08-Jun-2024 01:43:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:43:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:43:02 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[08-Jun-2024 01:43:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:43:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:43:10 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 14
+[08-Jun-2024 01:43:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:43:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:43:17 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 16
+[08-Jun-2024 01:43:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:43:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:43:25 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[08-Jun-2024 01:43:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:43:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:43:32 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[08-Jun-2024 01:43:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 01:43:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 01:43:43 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php on line 14
+[11-Jun-2024 22:59:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 22:59:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 22:59:05 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[11-Jun-2024 23:01:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:01:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:01:26 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 14
+[11-Jun-2024 23:01:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:01:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:01:54 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[11-Jun-2024 23:03:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:03:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:03:12 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[11-Jun-2024 23:05:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:05:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:05:45 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[11-Jun-2024 23:06:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:06:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:06:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:06:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:06:36 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php on line 14
+[11-Jun-2024 23:07:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:07:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:07:14 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[11-Jun-2024 23:07:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:07:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:07:20 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 16
+[11-Jun-2024 23:07:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:07:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:07:26 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[11-Jun-2024 23:07:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:07:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:07:33 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[11-Jun-2024 23:07:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:07:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:07:39 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[11-Jun-2024 23:07:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:07:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:07:46 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[11-Jun-2024 23:09:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:09:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:09:46 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[11-Jun-2024 23:11:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:11:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:11:04 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php on line 14
+[11-Jun-2024 23:12:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:12:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:12:39 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[11-Jun-2024 23:12:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:12:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:12:52 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[11-Jun-2024 23:13:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:13:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:13:30 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php on line 14
+[11-Jun-2024 23:13:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:13:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:13:57 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php on line 14
+[11-Jun-2024 23:14:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jun-2024 23:14:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jun-2024 23:14:28 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php on line 16
+[16-Jun-2024 15:22:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:22:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:22:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:22:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:22:59 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[16-Jun-2024 15:23:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:23:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:23:23 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[16-Jun-2024 15:23:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:23:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:23:42 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 14
+[16-Jun-2024 15:24:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[16-Jun-2024 15:24:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[16-Jun-2024 15:24:05 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 16
+[17-Jun-2024 12:49:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 12:49:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 12:49:06 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[17-Jun-2024 12:49:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 12:49:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 12:49:51 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php on line 16
+[17-Jun-2024 12:50:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 12:50:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 12:50:27 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[17-Jun-2024 12:51:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 12:51:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 12:51:19 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[17-Jun-2024 12:51:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 12:51:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 12:51:57 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php on line 14
+[17-Jun-2024 18:57:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 18:57:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 18:57:28 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[17-Jun-2024 18:59:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 18:59:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 18:59:10 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php on line 14
+[17-Jun-2024 18:59:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 18:59:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 18:59:44 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[17-Jun-2024 19:00:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 19:00:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 19:00:18 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[17-Jun-2024 19:02:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 19:02:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 19:02:10 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[17-Jun-2024 19:02:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 19:02:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 19:02:48 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php on line 14
+[17-Jun-2024 19:03:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 19:03:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 19:03:53 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[17-Jun-2024 19:04:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 19:04:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 19:04:29 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[17-Jun-2024 19:05:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 19:05:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 19:05:04 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[17-Jun-2024 21:11:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-Jun-2024 21:11:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-Jun-2024 21:11:42 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php on line 14
+[26-Jun-2024 18:09:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:09:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:09:25 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 14
+[26-Jun-2024 18:50:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:50:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:50:52 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[26-Jun-2024 22:22:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 22:22:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 22:22:37 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php on line 14
+[26-Jun-2024 22:35:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 22:35:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 22:35:50 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[26-Jun-2024 23:39:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 23:39:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 23:39:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[27-Jun-2024 00:18:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 00:18:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 00:18:56 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[27-Jun-2024 00:35:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 00:35:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 00:35:20 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[27-Jun-2024 01:06:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:06:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:06:49 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php on line 14
+[27-Jun-2024 01:48:20 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:48:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:48:20 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[27-Jun-2024 02:18:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 02:18:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 02:18:51 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[27-Jun-2024 03:14:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 03:14:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 03:14:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[27-Jun-2024 03:40:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 03:40:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 03:40:38 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php on line 14
+[27-Jun-2024 04:52:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 04:52:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 04:52:29 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[27-Jun-2024 06:00:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 06:00:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 06:00:59 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[27-Jun-2024 06:28:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 06:28:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 06:28:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[27-Jun-2024 06:48:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 06:48:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 06:48:56 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[27-Jun-2024 08:13:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:13:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:43:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 08:43:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 08:43:06 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php on line 14
+[27-Jun-2024 12:26:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 12:26:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 12:26:45 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php on line 16
+[27-Jun-2024 13:11:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 13:11:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 13:11:58 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 16
+[29-Jun-2024 11:48:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 11:48:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 11:48:30 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php on line 14
+[29-Jun-2024 12:26:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 12:26:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 12:26:56 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[29-Jun-2024 13:58:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 13:58:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 13:58:34 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php on line 14
+[29-Jun-2024 14:02:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:02:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:02:03 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 14
+[29-Jun-2024 14:03:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:03:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:03:45 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[29-Jun-2024 14:07:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:07:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:07:01 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[29-Jun-2024 14:56:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 14:56:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 14:56:11 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php on line 14
+[29-Jun-2024 15:01:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 15:01:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 15:01:11 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[29-Jun-2024 15:29:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 15:29:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 15:29:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[29-Jun-2024 16:10:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 16:10:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:10:42 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php on line 14
+[29-Jun-2024 17:41:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:41:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:59:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 17:59:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:59:59 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[29-Jun-2024 18:08:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:08:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:08:27 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[29-Jun-2024 18:28:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:28:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:28:25 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[29-Jun-2024 18:47:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:47:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:47:47 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[29-Jun-2024 18:53:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 18:53:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 18:53:14 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php on line 16
+[29-Jun-2024 19:14:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:14:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:14:19 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[29-Jun-2024 19:38:22 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 19:38:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 19:38:22 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[29-Jun-2024 22:14:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 22:14:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 22:14:19 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 16
+[30-Jun-2024 08:40:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-Jun-2024 08:40:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-Jun-2024 08:40:29 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[05-Jul-2024 10:03:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:03:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:03:50 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[05-Jul-2024 10:04:05 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:05 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php on line 14
+[05-Jul-2024 10:04:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:11 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[05-Jul-2024 10:04:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:36 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[05-Jul-2024 10:04:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:38 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[05-Jul-2024 10:04:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:45 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[05-Jul-2024 10:04:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:47 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[05-Jul-2024 10:04:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:04:54 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php on line 14
+[05-Jul-2024 10:05:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:00 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php on line 16
+[05-Jul-2024 10:05:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:02 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[05-Jul-2024 10:05:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:09 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php on line 14
+[05-Jul-2024 10:05:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:13 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[05-Jul-2024 10:05:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:17 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[05-Jul-2024 10:05:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:21 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[05-Jul-2024 10:05:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:26 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 14
+[05-Jul-2024 10:05:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:28 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 16
+[05-Jul-2024 10:05:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:37 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[05-Jul-2024 10:05:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:48 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[05-Jul-2024 10:05:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 10:05:52 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php on line 14
+[09-Jul-2024 10:03:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 10:03:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 10:04:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 10:04:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 10:04:10 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[09-Jul-2024 10:06:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 10:06:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 10:06:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[09-Jul-2024 10:07:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 10:07:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 10:07:04 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 14
+[09-Jul-2024 10:08:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 10:08:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 10:08:02 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 16
+[10-Jul-2024 07:18:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:18:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 07:18:06 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[10-Jul-2024 07:18:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:18:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 07:18:50 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php on line 16
+[10-Jul-2024 07:19:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:19:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 07:19:36 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[10-Jul-2024 07:20:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:20:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 07:20:19 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[10-Jul-2024 07:21:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 07:21:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 07:21:52 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php on line 14
+[10-Jul-2024 12:59:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 12:59:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:51:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:51:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:51:47 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[10-Jul-2024 13:52:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:52:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:52:48 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php on line 14
+[10-Jul-2024 13:53:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:53:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:53:47 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[10-Jul-2024 13:54:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 13:54:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 13:54:41 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[10-Jul-2024 14:00:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:00:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:00:34 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[10-Jul-2024 14:03:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:03:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:03:29 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php on line 14
+[10-Jul-2024 14:06:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:06:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:06:13 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[10-Jul-2024 14:07:33 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:07:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:07:33 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[10-Jul-2024 14:08:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:08:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:08:56 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[10-Jul-2024 15:15:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:15:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:15:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php on line 14
+[10-Jul-2024 17:26:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:31 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php on line 14
+[10-Jul-2024 17:26:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:35 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[10-Jul-2024 17:26:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:39 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[10-Jul-2024 17:26:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:43 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 16
+[10-Jul-2024 17:26:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:47 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 14
+[10-Jul-2024 17:26:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:51 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[10-Jul-2024 17:26:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:56 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[10-Jul-2024 17:26:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:26:59 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php on line 14
+[10-Jul-2024 17:27:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:03 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[10-Jul-2024 17:27:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php on line 16
+[10-Jul-2024 17:27:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:11 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php on line 14
+[10-Jul-2024 17:27:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:15 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[10-Jul-2024 17:27:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:19 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[10-Jul-2024 17:27:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:24 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[10-Jul-2024 17:27:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:31 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[10-Jul-2024 17:27:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:27:35 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/DeadCodeDetectionNotSupportedException.php on line 14
+[10-Jul-2024 17:53:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:53:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:53:11 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[10-Jul-2024 17:53:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:53:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:53:15 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[10-Jul-2024 17:53:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 17:53:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 17:53:21 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14

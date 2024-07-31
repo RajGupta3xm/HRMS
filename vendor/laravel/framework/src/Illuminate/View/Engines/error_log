@@ -1,0 +1,184 @@
+[12-May-2024 11:41:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:41:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:41:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Engines\PhpEngine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php on line 12
+[12-May-2024 11:41:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:41:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:41:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:41:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:41:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:41:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:41:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php on line 8
+[12-May-2024 11:41:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 11:41:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 11:41:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 9
+[04-Jun-2024 13:24:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:24:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:24:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 9
+[04-Jun-2024 13:24:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:24:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:24:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php on line 8
+[04-Jun-2024 13:24:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:24:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:25:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:25:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:25:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 13:25:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 13:25:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Engines\PhpEngine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php on line 12
+[06-Jun-2024 18:33:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 18:33:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 18:33:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 9
+[06-Jun-2024 18:37:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 18:37:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 18:37:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Engines\PhpEngine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php on line 12
+[06-Jun-2024 21:34:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 21:34:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:27:13 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 03:27:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 03:27:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php on line 8
+[07-Jun-2024 06:11:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 06:11:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 03:25:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 03:25:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 03:25:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Engines\PhpEngine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php on line 12
+[09-Jun-2024 03:25:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 03:25:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 03:25:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 03:25:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 03:25:34 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 03:25:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 03:25:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php on line 8
+[09-Jun-2024 03:25:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jun-2024 03:25:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jun-2024 03:25:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 9
+[13-Jun-2024 19:01:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 19:01:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 19:01:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Engines\PhpEngine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php on line 12
+[13-Jun-2024 19:01:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 19:01:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 19:01:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 19:01:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 19:01:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 19:01:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 19:01:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php on line 8
+[13-Jun-2024 21:16:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[13-Jun-2024 21:16:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Jun-2024 21:16:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 9
+[02-Jul-2024 09:20:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 09:20:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 09:20:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 9
+[02-Jul-2024 11:49:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 11:49:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 11:49:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php on line 8
+[02-Jul-2024 12:13:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 12:13:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 16:53:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 16:53:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 00:02:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jul-2024 00:02:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jul-2024 00:02:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Engines\PhpEngine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php on line 12
+[04-Jul-2024 06:49:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 06:49:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 06:49:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Engines\PhpEngine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php on line 12
+[04-Jul-2024 06:50:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 06:50:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 06:51:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 06:51:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 06:51:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 06:51:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 06:51:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php on line 8
+[04-Jul-2024 07:28:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jul-2024 07:28:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jul-2024 07:28:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 9
+[07-Jul-2024 01:26:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 01:26:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:06:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jul-2024 05:06:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jul-2024 05:06:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php on line 8
+[11-Jul-2024 01:13:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 01:13:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 01:13:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 9
+[11-Jul-2024 01:13:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 01:13:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 01:13:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\View\Engine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/FileEngine.php on line 8
+[11-Jul-2024 01:13:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 01:13:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 01:13:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 01:13:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 01:13:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 01:13:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 01:13:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\View\Engines\PhpEngine" not found in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php on line 12

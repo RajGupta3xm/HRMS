@@ -1,0 +1,228 @@
+[12-May-2024 21:14:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:14:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:14:41 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php on line 23
+[12-May-2024 21:14:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:14:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:14:43 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php on line 25
+[12-May-2024 21:14:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:14:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:14:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockStartParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php on line 23
+[12-May-2024 21:14:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[12-May-2024 21:14:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[12-May-2024 21:14:47 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php on line 24
+[20-May-2024 07:45:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:45:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:45:45 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php on line 23
+[20-May-2024 07:45:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:45:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:45:55 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php on line 25
+[20-May-2024 07:46:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:46:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:46:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockStartParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php on line 23
+[20-May-2024 07:46:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 07:46:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 07:46:18 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php on line 24
+[26-May-2024 05:14:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 05:14:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 05:14:54 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php on line 23
+[26-May-2024 05:14:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 05:14:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 05:14:59 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php on line 25
+[26-May-2024 05:15:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 05:15:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 05:15:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockStartParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php on line 23
+[26-May-2024 05:15:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-May-2024 05:15:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-May-2024 05:15:03 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php on line 24
+[04-Jun-2024 14:17:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:17:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:17:23 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php on line 24
+[04-Jun-2024 14:17:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:17:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:17:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockStartParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php on line 23
+[04-Jun-2024 14:17:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:17:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:17:32 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php on line 25
+[04-Jun-2024 14:17:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 14:17:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 14:17:35 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php on line 23
+[06-Jun-2024 13:02:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 13:02:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 13:02:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockStartParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php on line 23
+[06-Jun-2024 16:11:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 16:11:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 16:11:54 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php on line 25
+[06-Jun-2024 18:31:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[06-Jun-2024 18:31:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[06-Jun-2024 18:31:01 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php on line 23
+[07-Jun-2024 05:01:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jun-2024 05:01:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jun-2024 05:01:57 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php on line 24
+[15-Jun-2024 14:16:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 14:16:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 14:16:08 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php on line 23
+[15-Jun-2024 14:16:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 14:16:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 14:16:29 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php on line 25
+[15-Jun-2024 14:17:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 14:17:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 14:17:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockStartParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php on line 23
+[15-Jun-2024 14:17:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[15-Jun-2024 14:17:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[15-Jun-2024 14:17:41 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php on line 24
+[02-Jul-2024 10:01:32 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 10:01:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 10:01:32 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php on line 25
+[02-Jul-2024 14:39:24 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 14:39:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 14:39:24 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php on line 23
+[02-Jul-2024 16:06:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 16:06:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 16:06:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockStartParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php on line 23
+[02-Jul-2024 20:53:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 20:53:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 20:53:30 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php on line 24
+[05-Jul-2024 15:52:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 15:52:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 15:52:25 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php on line 23
+[05-Jul-2024 15:53:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 15:53:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 15:53:11 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php on line 25
+[05-Jul-2024 15:53:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 15:53:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 15:53:59 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockStartParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php on line 23
+[05-Jul-2024 15:54:44 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 15:54:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 15:54:44 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php on line 24
+[07-Jul-2024 05:01:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 05:01:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 05:01:49 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php on line 24
+[07-Jul-2024 05:43:52 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[07-Jul-2024 05:43:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[07-Jul-2024 05:43:52 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php on line 23
+[11-Jul-2024 02:06:03 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:06:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:06:03 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionTermContinueParser.php on line 24
+[11-Jul-2024 02:06:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:06:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:06:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockStartParserInterface" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionStartParser.php on line 23
+[11-Jul-2024 02:06:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:06:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:06:11 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionListContinueParser.php on line 25
+[11-Jul-2024 02:06:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 02:06:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 02:06:15 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/league/commonmark/src/Extension/DescriptionList/Parser/DescriptionContinueParser.php on line 23

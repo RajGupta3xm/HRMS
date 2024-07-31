@@ -1,0 +1,66 @@
+[17-May-2024 11:17:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[17-May-2024 11:17:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[17-May-2024 11:17:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[20-May-2024 01:20:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:20:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 01:20:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[28-May-2024 13:41:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[28-May-2024 13:41:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-May-2024 13:41:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[01-Jun-2024 09:21:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:21:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:21:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[04-Jun-2024 04:16:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 04:16:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 04:16:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[04-Jun-2024 09:54:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 09:54:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 09:54:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[22-Jun-2024 06:44:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 06:44:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 06:44:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[23-Jun-2024 23:58:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[23-Jun-2024 23:58:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[23-Jun-2024 23:58:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[29-Jun-2024 12:09:37 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[29-Jun-2024 12:09:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 12:09:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[09-Jul-2024 11:22:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[09-Jul-2024 11:22:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[09-Jul-2024 11:22:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[10-Jul-2024 15:51:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:51:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39

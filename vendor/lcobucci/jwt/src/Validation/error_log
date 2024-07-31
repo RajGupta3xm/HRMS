@@ -1,0 +1,340 @@
+[11-May-2024 15:08:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:08:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:08:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:08:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:08:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php on line 9
+[11-May-2024 15:08:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:08:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:08:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php on line 9
+[11-May-2024 15:08:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:08:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:08:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php on line 12
+[11-May-2024 15:08:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-May-2024 15:08:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-May-2024 15:08:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php on line 8
+[14-May-2024 11:12:49 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 11:12:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 11:12:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 11:12:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 11:12:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php on line 9
+[14-May-2024 11:12:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 11:12:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 11:12:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php on line 9
+[14-May-2024 11:12:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 11:12:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 11:12:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php on line 12
+[14-May-2024 11:12:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[14-May-2024 11:12:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-May-2024 11:12:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php on line 8
+[19-May-2024 12:56:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:56:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:56:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:56:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:56:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php on line 9
+[19-May-2024 12:56:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:56:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:56:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php on line 9
+[19-May-2024 12:57:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:57:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:57:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php on line 12
+[19-May-2024 12:57:18 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 12:57:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 12:57:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php on line 8
+[30-May-2024 23:59:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[30-May-2024 23:59:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[30-May-2024 23:59:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php on line 9
+[31-May-2024 05:23:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 05:23:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:23:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php on line 12
+[31-May-2024 05:27:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 05:27:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:41:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 05:41:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 05:41:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php on line 9
+[31-May-2024 07:25:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 07:25:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 07:25:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php on line 8
+[01-Jun-2024 09:00:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:00:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:00:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php on line 12
+[01-Jun-2024 09:02:07 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:02:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:02:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php on line 9
+[01-Jun-2024 09:10:11 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:10:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:37:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:37:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:37:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php on line 9
+[01-Jun-2024 09:38:36 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 09:38:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 09:38:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php on line 8
+[03-Jun-2024 05:35:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 05:35:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 05:37:02 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 05:37:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 05:37:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php on line 9
+[03-Jun-2024 05:39:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 05:39:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 05:39:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php on line 9
+[03-Jun-2024 05:41:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 05:41:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 05:41:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php on line 12
+[03-Jun-2024 05:43:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[03-Jun-2024 05:43:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[03-Jun-2024 05:43:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php on line 8
+[04-Jun-2024 03:03:27 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:03:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:03:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php on line 8
+[04-Jun-2024 03:03:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:03:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:03:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php on line 12
+[04-Jun-2024 03:03:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:03:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:03:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php on line 9
+[04-Jun-2024 03:03:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:03:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:03:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php on line 9
+[04-Jun-2024 03:03:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:03:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 19:34:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 19:34:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 19:37:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 19:37:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 19:37:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php on line 9
+[22-Jun-2024 19:40:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 19:40:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 19:40:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php on line 9
+[22-Jun-2024 19:42:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 19:42:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 19:42:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php on line 12
+[22-Jun-2024 19:44:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[22-Jun-2024 19:44:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[22-Jun-2024 19:44:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php on line 8
+[26-Jun-2024 22:28:30 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 22:28:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 22:28:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php on line 8
+[27-Jun-2024 01:18:29 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 01:18:29 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 01:18:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php on line 12
+[27-Jun-2024 02:25:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 02:25:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 02:25:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php on line 9
+[27-Jun-2024 06:52:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 06:52:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 12:57:04 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 12:57:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 12:57:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php on line 9
+[01-Jul-2024 05:14:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 05:14:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 10:08:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 10:08:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 10:08:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php on line 8
+[02-Jul-2024 10:18:10 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 10:18:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 10:18:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php on line 9
+[02-Jul-2024 13:41:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 13:41:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 13:41:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php on line 9
+[02-Jul-2024 15:41:54 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 15:41:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 15:41:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php on line 12
+[05-Jul-2024 04:10:58 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 04:10:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:49:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:49:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:50:14 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:50:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:50:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php on line 9
+[05-Jul-2024 08:50:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:50:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:50:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php on line 9
+[05-Jul-2024 08:50:25 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:50:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:50:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php on line 12
+[05-Jul-2024 08:50:31 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[05-Jul-2024 08:50:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Jul-2024 08:50:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php on line 8
+[10-Jul-2024 14:37:35 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:37:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:37:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php on line 8
+[10-Jul-2024 14:37:39 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:37:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:37:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php on line 12
+[10-Jul-2024 14:37:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:37:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:37:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php on line 9
+[10-Jul-2024 14:37:47 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:37:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 14:37:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php on line 9
+[10-Jul-2024 14:37:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 14:37:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 20:14:01 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 20:14:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 20:14:08 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 20:14:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 20:14:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/ConstraintViolation.php on line 9
+[11-Jul-2024 20:14:12 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 20:14:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 20:14:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/NoConstraintsGiven.php on line 9
+[11-Jul-2024 20:14:16 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 20:14:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 20:14:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Exception" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/RequiredConstraintsViolated.php on line 12
+[11-Jul-2024 20:14:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[11-Jul-2024 20:14:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[11-Jul-2024 20:14:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Lcobucci\JWT\Validator" not found in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/lcobucci/jwt/src/Validation/Validator.php on line 8

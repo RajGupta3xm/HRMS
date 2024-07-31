@@ -1,0 +1,180 @@
+[19-May-2024 21:13:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:13:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:13:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php on line 16
+[19-May-2024 21:13:56 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:13:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:13:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php on line 16
+[19-May-2024 21:13:57 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[19-May-2024 21:13:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[19-May-2024 21:13:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php on line 16
+[20-May-2024 01:38:38 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:38:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 01:38:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php on line 16
+[20-May-2024 01:38:50 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:38:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 01:38:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php on line 16
+[20-May-2024 01:39:00 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[20-May-2024 01:39:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[20-May-2024 01:39:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php on line 16
+[31-May-2024 07:18:42 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 07:18:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 07:18:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php on line 16
+[31-May-2024 09:47:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 09:47:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 09:47:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php on line 16
+[31-May-2024 15:06:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[31-May-2024 15:06:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[31-May-2024 15:06:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php on line 16
+[01-Jun-2024 06:25:41 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:25:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:25:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php on line 16
+[01-Jun-2024 06:28:43 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:28:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:28:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php on line 16
+[01-Jun-2024 06:59:45 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jun-2024 06:59:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jun-2024 06:59:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php on line 16
+[04-Jun-2024 03:36:15 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:36:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:36:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php on line 16
+[04-Jun-2024 03:36:19 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:36:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:36:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php on line 16
+[04-Jun-2024 03:36:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[04-Jun-2024 03:36:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[04-Jun-2024 03:36:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php on line 16
+[08-Jun-2024 00:33:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 00:33:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 00:33:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php on line 16
+[08-Jun-2024 00:35:09 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 00:35:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 00:35:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php on line 16
+[08-Jun-2024 00:36:28 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[08-Jun-2024 00:36:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[08-Jun-2024 00:36:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php on line 16
+[26-Jun-2024 18:17:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:17:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:17:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php on line 16
+[26-Jun-2024 18:18:23 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:18:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php on line 16
+[26-Jun-2024 18:18:46 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 18:18:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 18:18:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php on line 16
+[26-Jun-2024 23:31:21 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[26-Jun-2024 23:31:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[26-Jun-2024 23:31:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php on line 16
+[27-Jun-2024 02:19:17 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 02:19:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 02:19:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php on line 16
+[27-Jun-2024 11:52:06 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[27-Jun-2024 11:52:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[27-Jun-2024 11:52:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php on line 16
+[01-Jul-2024 06:56:48 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[01-Jul-2024 06:56:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[01-Jul-2024 06:56:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php on line 16
+[02-Jul-2024 06:08:53 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 06:08:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 06:08:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php on line 16
+[02-Jul-2024 07:42:26 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[02-Jul-2024 07:42:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[02-Jul-2024 07:42:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php on line 16
+[10-Jul-2024 15:12:51 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTProvider.php on line 16
+[10-Jul-2024 15:12:55 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTFactory.php on line 16
+[10-Jul-2024 15:12:59 UTC] PHP Warning:  Module "PDO" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[10-Jul-2024 15:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/appdailyhunt/public_html/HRMS2/vendor/tymon/jwt-auth/src/Facades/JWTAuth.php on line 16
